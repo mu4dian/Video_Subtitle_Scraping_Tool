@@ -1,0 +1,1868 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 1.7,
+      "to": 4.25,
+      "sid": 1,
+      "location": 2,
+      "content": "嗯下面接着来讲蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 4.25,
+      "to": 6.98,
+      "sid": 2,
+      "location": 2,
+      "content": "蜂鸣器也是比较常见的一种电子元器",
+      "music": 0.0
+    },
+    {
+      "from": 6.98,
+      "to": 9.68,
+      "sid": 3,
+      "location": 2,
+      "content": "gm在后面我们的硬件设计当中",
+      "music": 0.0
+    },
+    {
+      "from": 9.68,
+      "to": 11.94,
+      "sid": 4,
+      "location": 2,
+      "content": "也会经常用到这种蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 12.879,
+      "to": 17.639,
+      "sid": 5,
+      "location": 2,
+      "content": "来作为我们调试电路当中的一个呃小器件",
+      "music": 0.0
+    },
+    {
+      "from": 17.639,
+      "to": 21.179,
+      "sid": 6,
+      "location": 2,
+      "content": "其实分鸣器大家应该很很常见啊",
+      "music": 0.0
+    },
+    {
+      "from": 21.179,
+      "to": 24.71,
+      "sid": 7,
+      "location": 2,
+      "content": "就是比如说我们一些报警系统当中",
+      "music": 0.0
+    },
+    {
+      "from": 24.71,
+      "to": 26.229,
+      "sid": 8,
+      "location": 2,
+      "content": "通常会有蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 26.229,
+      "to": 28.209,
+      "sid": 9,
+      "location": 2,
+      "content": "先给大家看一些简单的图片",
+      "music": 0.0
+    },
+    {
+      "from": 28.209,
+      "to": 29.949,
+      "sid": 10,
+      "location": 2,
+      "content": "让大家有一个初步的了解",
+      "music": 0.0
+    },
+    {
+      "from": 29.949,
+      "to": 32.759,
+      "sid": 11,
+      "location": 2,
+      "content": "这就是一些常见的分明器的样子",
+      "music": 0.0
+    },
+    {
+      "from": 32.759,
+      "to": 34.84,
+      "sid": 12,
+      "location": 2,
+      "content": "大家可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 34.84,
+      "to": 37.36,
+      "sid": 13,
+      "location": 2,
+      "content": "嗯我们看一下什么是蜂鸣器呢",
+      "music": 0.0
+    },
+    {
+      "from": 37.36,
+      "to": 38.08,
+      "sid": 14,
+      "location": 2,
+      "content": "简单来讲",
+      "music": 0.0
+    },
+    {
+      "from": 38.08,
+      "to": 43.75,
+      "sid": 15,
+      "location": 2,
+      "content": "蜂鸣器就是把音频转成音频的一种发音器件啊",
+      "music": 0.0
+    },
+    {
+      "from": 43.75,
+      "to": 49.8,
+      "sid": 16,
+      "location": 2,
+      "content": "这种分屏器一般都是采用直流直流供电的嗯",
+      "music": 0.0
+    },
+    {
+      "from": 49.8,
+      "to": 51.6,
+      "sid": 17,
+      "location": 2,
+      "content": "那么它的应用就很广泛了",
+      "music": 0.0
+    },
+    {
+      "from": 51.6,
+      "to": 52.98,
+      "sid": 18,
+      "location": 2,
+      "content": "刚才我们已经说过了",
+      "music": 0.0
+    },
+    {
+      "from": 52.98,
+      "to": 54.36,
+      "sid": 19,
+      "location": 2,
+      "content": "在一些报警器当中",
+      "music": 0.0
+    },
+    {
+      "from": 54.36,
+      "to": 56.959,
+      "sid": 20,
+      "location": 2,
+      "content": "实际上在一些我们的电子玩具当中",
+      "music": 0.0
+    },
+    {
+      "from": 56.959,
+      "to": 61.09,
+      "sid": 21,
+      "location": 2,
+      "content": "还有我们的定时器当中都会有这种声凤鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 61.09,
+      "to": 65.96,
+      "sid": 22,
+      "location": 2,
+      "content": "蜂鸣器呢在电路当中通常用h或者是ha来表示",
+      "music": 0.0
+    },
+    {
+      "from": 67.3,
+      "to": 68.28,
+      "sid": 23,
+      "location": 2,
+      "content": "这是分屏器",
+      "music": 0.0
+    },
+    {
+      "from": 68.28,
+      "to": 69.54,
+      "sid": 24,
+      "location": 2,
+      "content": "有一个简单介绍",
+      "music": 0.0
+    },
+    {
+      "from": 69.54,
+      "to": 71.72,
+      "sid": 25,
+      "location": 2,
+      "content": "那么分明器也有一些分类",
+      "music": 0.0
+    },
+    {
+      "from": 71.72,
+      "to": 74.06,
+      "sid": 26,
+      "location": 2,
+      "content": "根据它的发声原理不同啊",
+      "music": 0.0
+    },
+    {
+      "from": 74.06,
+      "to": 75.83,
+      "sid": 27,
+      "location": 2,
+      "content": "我们可以把它分成",
+      "music": 0.0
+    },
+    {
+      "from": 75.83,
+      "to": 79.48,
+      "sid": 28,
+      "location": 2,
+      "content": "压电式蜂鸣器和电磁式蜂鸣器两种",
+      "music": 0.0
+    },
+    {
+      "from": 79.48,
+      "to": 81.64,
+      "sid": 29,
+      "location": 2,
+      "content": "那么按照它有没有震荡圆呢",
+      "music": 0.0
+    },
+    {
+      "from": 81.64,
+      "to": 84.91,
+      "sid": 30,
+      "location": 2,
+      "content": "我们可以分为有源蜂鸣器和无源蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 84.91,
+      "to": 86.02,
+      "sid": 31,
+      "location": 2,
+      "content": "大家要注意",
+      "music": 0.0
+    },
+    {
+      "from": 86.02,
+      "to": 87.58,
+      "sid": 32,
+      "location": 2,
+      "content": "这里的圆是震荡源",
+      "music": 0.0
+    },
+    {
+      "from": 87.58,
+      "to": 88.72,
+      "sid": 33,
+      "location": 2,
+      "content": "而不是电源",
+      "music": 0.0
+    },
+    {
+      "from": 88.72,
+      "to": 91.72,
+      "sid": 34,
+      "location": 2,
+      "content": "那么我们下面来了解一下这几种蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 92.74,
+      "to": 94.68,
+      "sid": 35,
+      "location": 2,
+      "content": "什么是压电式蜂鸣器呢",
+      "music": 0.0
+    },
+    {
+      "from": 94.68,
+      "to": 96.12,
+      "sid": 36,
+      "location": 2,
+      "content": "压电式蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 96.12,
+      "to": 98.31,
+      "sid": 37,
+      "location": 2,
+      "content": "那么它就是利用压电效应",
+      "music": 0.0
+    },
+    {
+      "from": 98.31,
+      "to": 100.96,
+      "sid": 38,
+      "location": 2,
+      "content": "就是我蜂鸣片会产生机械变形",
+      "music": 0.0
+    },
+    {
+      "from": 100.96,
+      "to": 102.7,
+      "sid": 39,
+      "location": 2,
+      "content": "然后一有机机械变形",
+      "music": 0.0
+    },
+    {
+      "from": 102.7,
+      "to": 104.23,
+      "sid": 40,
+      "location": 2,
+      "content": "我们就会发出声响",
+      "music": 0.0
+    },
+    {
+      "from": 104.23,
+      "to": 106.55,
+      "sid": 41,
+      "location": 2,
+      "content": "这就是压电式蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 106.55,
+      "to": 109.49,
+      "sid": 42,
+      "location": 2,
+      "content": "当然他这个压电材料是比较特殊的一种",
+      "music": 0.0
+    },
+    {
+      "from": 109.49,
+      "to": 110.94,
+      "sid": 43,
+      "location": 2,
+      "content": "压电材料嗯",
+      "music": 0.0
+    },
+    {
+      "from": 110.94,
+      "to": 114.6,
+      "sid": 44,
+      "location": 2,
+      "content": "压电式蜂鸣器它的组成呢是多些振荡器啊",
+      "music": 0.0
+    },
+    {
+      "from": 114.6,
+      "to": 115.95,
+      "sid": 45,
+      "location": 2,
+      "content": "压电蜂鸣片啊",
+      "music": 0.0
+    },
+    {
+      "from": 115.95,
+      "to": 117.89,
+      "sid": 46,
+      "location": 2,
+      "content": "阻抗匹匹配器啊",
+      "music": 0.0
+    },
+    {
+      "from": 117.89,
+      "to": 120.66,
+      "sid": 47,
+      "location": 2,
+      "content": "以及共鸣箱外壳等等",
+      "music": 0.0
+    },
+    {
+      "from": 120.74,
+      "to": 123.83,
+      "sid": 48,
+      "location": 2,
+      "content": "这个压电式蜂鸣器啊",
+      "music": 0.0
+    },
+    {
+      "from": 123.83,
+      "to": 125.54,
+      "sid": 49,
+      "location": 2,
+      "content": "它的优点很多啊",
+      "music": 0.0
+    },
+    {
+      "from": 125.54,
+      "to": 126.83,
+      "sid": 50,
+      "location": 2,
+      "content": "比如说它体积小",
+      "music": 0.0
+    },
+    {
+      "from": 126.83,
+      "to": 128.519,
+      "sid": 51,
+      "location": 2,
+      "content": "灵敏度高呃",
+      "music": 0.0
+    },
+    {
+      "from": 128.519,
+      "to": 129.539,
+      "sid": 52,
+      "location": 2,
+      "content": "可靠性好",
+      "music": 0.0
+    },
+    {
+      "from": 129.539,
+      "to": 130.68,
+      "sid": 53,
+      "location": 2,
+      "content": "价格低廉",
+      "music": 0.0
+    },
+    {
+      "from": 130.979,
+      "to": 133.709,
+      "sid": 54,
+      "location": 2,
+      "content": "小的时候经常玩那种音乐贺卡",
+      "music": 0.0
+    },
+    {
+      "from": 133.709,
+      "to": 136.76,
+      "sid": 55,
+      "location": 2,
+      "content": "实际上它里边就是一个压电式蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 138.32,
+      "to": 142.12,
+      "sid": 56,
+      "location": 2,
+      "content": "嗯还有我们小的时候用的那些小的计算器",
+      "music": 0.0
+    },
+    {
+      "from": 142.12,
+      "to": 144.52,
+      "sid": 57,
+      "location": 2,
+      "content": "里边也会有一些蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 145.279,
+      "to": 149.439,
+      "sid": 58,
+      "location": 2,
+      "content": "这个实际上大家只是没有看到过里边的电路",
+      "music": 0.0
+    },
+    {
+      "from": 149.439,
+      "to": 154.84,
+      "sid": 59,
+      "location": 2,
+      "content": "实际上啊应该我一说大家就就会深有体会啊",
+      "music": 0.0
+    },
+    {
+      "from": 154.899,
+      "to": 158.709,
+      "sid": 60,
+      "location": 2,
+      "content": "啊体会到这个蜂鸣器在我们现实生活中的存在",
+      "music": 0.0
+    },
+    {
+      "from": 158.709,
+      "to": 160.899,
+      "sid": 61,
+      "location": 2,
+      "content": "另外一种呢就是电磁式蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 160.899,
+      "to": 164.6,
+      "sid": 62,
+      "location": 2,
+      "content": "电磁式蜂鸣器就是用电磁线圈来对",
+      "music": 0.0
+    },
+    {
+      "from": 164.6,
+      "to": 167.3,
+      "sid": 63,
+      "location": 2,
+      "content": "蜂鸣片儿来发生的一种器件",
+      "music": 0.0
+    },
+    {
+      "from": 167.3,
+      "to": 169.34,
+      "sid": 64,
+      "location": 2,
+      "content": "那么二者有什么区别",
+      "music": 0.0
+    },
+    {
+      "from": 169.34,
+      "to": 171.62,
+      "sid": 65,
+      "location": 2,
+      "content": "实际上我们刚才在讲解的过程当中",
+      "music": 0.0
+    },
+    {
+      "from": 171.62,
+      "to": 174.14,
+      "sid": 66,
+      "location": 2,
+      "content": "已经把它的一个主要的发声原理",
+      "music": 0.0
+    },
+    {
+      "from": 174.14,
+      "to": 176.82,
+      "sid": 67,
+      "location": 2,
+      "content": "不同的这样一个区别讲解出来了",
+      "music": 0.0
+    },
+    {
+      "from": 177.119,
+      "to": 182.64,
+      "sid": 68,
+      "location": 2,
+      "content": "那么压电效应呢是压电式蜂鸣器用的一个原理",
+      "music": 0.0
+    },
+    {
+      "from": 182.64,
+      "to": 185.52,
+      "sid": 69,
+      "location": 2,
+      "content": "那么它主要是压电陶瓷来做的",
+      "music": 0.0
+    },
+    {
+      "from": 185.52,
+      "to": 187.32,
+      "sid": 70,
+      "location": 2,
+      "content": "带动金属片振动",
+      "music": 0.0
+    },
+    {
+      "from": 188.279,
+      "to": 191.479,
+      "sid": 71,
+      "location": 2,
+      "content": "而那个电磁蜂鸣器呢",
+      "music": 0.0
+    },
+    {
+      "from": 191.479,
+      "to": 195.18,
+      "sid": 72,
+      "location": 2,
+      "content": "它是用那个电磁原理来发生的",
+      "music": 0.0
+    },
+    {
+      "from": 195.18,
+      "to": 198.06,
+      "sid": 73,
+      "location": 2,
+      "content": "那么由于它们它们的不同",
+      "music": 0.0
+    },
+    {
+      "from": 198.06,
+      "to": 200.76,
+      "sid": 74,
+      "location": 2,
+      "content": "造就了就是我们这两种蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 200.76,
+      "to": 203.859,
+      "sid": 75,
+      "location": 2,
+      "content": "它的驱动方式也不一驱",
+      "music": 0.0
+    },
+    {
+      "from": 203.859,
+      "to": 206.109,
+      "sid": 76,
+      "location": 2,
+      "content": "那驱动的那个波形也不一样",
+      "music": 0.0
+    },
+    {
+      "from": 206.109,
+      "to": 207.999,
+      "sid": 77,
+      "location": 2,
+      "content": "它们都是以方波来驱动的",
+      "music": 0.0
+    },
+    {
+      "from": 207.999,
+      "to": 210.89,
+      "sid": 78,
+      "location": 2,
+      "content": "但是压电式蜂鸣器是方波来驱动",
+      "music": 0.0
+    },
+    {
+      "from": 210.89,
+      "to": 214.519,
+      "sid": 79,
+      "location": 2,
+      "content": "而电磁式发明器是1/2个方波来驱动",
+      "music": 0.0
+    },
+    {
+      "from": 214.519,
+      "to": 216.019,
+      "sid": 80,
+      "location": 2,
+      "content": "另外呢还有一点不同",
+      "music": 0.0
+    },
+    {
+      "from": 216.019,
+      "to": 220.039,
+      "sid": 81,
+      "location": 2,
+      "content": "就是它们在相同电压之相同电压的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 220.039,
+      "to": 224.559,
+      "sid": 82,
+      "location": 2,
+      "content": "他们的那个音那个发出的音量也不同",
+      "music": 0.0
+    },
+    {
+      "from": 224.559,
+      "to": 225.939,
+      "sid": 83,
+      "location": 2,
+      "content": "一般的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 225.939,
+      "to": 228.159,
+      "sid": 84,
+      "location": 2,
+      "content": "压电式分明器需要比较高的电压",
+      "music": 0.0
+    },
+    {
+      "from": 228.159,
+      "to": 229.779,
+      "sid": 85,
+      "location": 2,
+      "content": "才能有足够的音压",
+      "music": 0.0
+    },
+    {
+      "from": 229.779,
+      "to": 231.98,
+      "sid": 86,
+      "location": 2,
+      "content": "这是他们的一个不同之处",
+      "music": 0.0
+    },
+    {
+      "from": 232.76,
+      "to": 237.43,
+      "sid": 87,
+      "location": 2,
+      "content": "另外呢还可以分为啊有源蜂鸣器和无源蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 237.43,
+      "to": 240.34,
+      "sid": 88,
+      "location": 2,
+      "content": "我们经常用到的是有源蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 240.34,
+      "to": 242.53,
+      "sid": 89,
+      "location": 2,
+      "content": "有源蜂鸣器它里边带震荡源",
+      "music": 0.0
+    },
+    {
+      "from": 242.53,
+      "to": 245.05,
+      "sid": 90,
+      "location": 2,
+      "content": "我一通电这个蜂鸣器就会响",
+      "music": 0.0
+    },
+    {
+      "from": 245.05,
+      "to": 248.16,
+      "sid": 91,
+      "location": 2,
+      "content": "而无源蜂鸣器呢它里边没有震荡圆",
+      "music": 0.0
+    },
+    {
+      "from": 248.16,
+      "to": 252.12,
+      "sid": 92,
+      "location": 2,
+      "content": "所以呢我们要用啊一些方波去驱动它",
+      "music": 0.0
+    },
+    {
+      "from": 252.12,
+      "to": 252.9,
+      "sid": 93,
+      "location": 2,
+      "content": "这样来看",
+      "music": 0.0
+    },
+    {
+      "from": 252.9,
+      "to": 254.7,
+      "sid": 94,
+      "location": 2,
+      "content": "实际上我们在电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 254.7,
+      "to": 259.2,
+      "sid": 95,
+      "location": 2,
+      "content": "最最简单能应用到的就是有源蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 259.2,
+      "to": 261.3,
+      "sid": 96,
+      "location": 2,
+      "content": "我们可以给它加一个电",
+      "music": 0.0
+    },
+    {
+      "from": 261.3,
+      "to": 263.55,
+      "sid": 97,
+      "location": 2,
+      "content": "然后加一个开关",
+      "music": 0.0
+    },
+    {
+      "from": 263.55,
+      "to": 266.1,
+      "sid": 98,
+      "location": 2,
+      "content": "或者是啊加一个开关吧",
+      "music": 0.0
+    },
+    {
+      "from": 266.1,
+      "to": 268.52,
+      "sid": 99,
+      "location": 2,
+      "content": "来控制这个蜂鸣器的",
+      "music": 0.0
+    },
+    {
+      "from": 268.52,
+      "to": 270.41,
+      "sid": 100,
+      "location": 2,
+      "content": "想或者是不想",
+      "music": 0.0
+    },
+    {
+      "from": 270.41,
+      "to": 273.35,
+      "sid": 101,
+      "location": 2,
+      "content": "这就是有源蜂鸣器的一个",
+      "music": 0.0
+    },
+    {
+      "from": 273.35,
+      "to": 277.01,
+      "sid": 102,
+      "location": 2,
+      "content": "有源蜂鸣器和无源蜂鸣器的一个呃区别",
+      "music": 0.0
+    },
+    {
+      "from": 277.01,
+      "to": 281.69,
+      "sid": 103,
+      "location": 2,
+      "content": "那么我们经常情况下啊会有许多的蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 281.69,
+      "to": 284.72,
+      "sid": 104,
+      "location": 2,
+      "content": "我们如何来确定它是有源的和无源的",
+      "music": 0.0
+    },
+    {
+      "from": 284.72,
+      "to": 286.4,
+      "sid": 105,
+      "location": 2,
+      "content": "其实最简单的方法啊",
+      "music": 0.0
+    },
+    {
+      "from": 286.4,
+      "to": 289.389,
+      "sid": 106,
+      "location": 2,
+      "content": "这个这个是网上说的一个例子",
+      "music": 0.0
+    },
+    {
+      "from": 289.389,
+      "to": 292.449,
+      "sid": 107,
+      "location": 2,
+      "content": "它是以一个特殊型号来作为比较的",
+      "music": 0.0
+    },
+    {
+      "from": 292.449,
+      "to": 294.069,
+      "sid": 108,
+      "location": 2,
+      "content": "当然是不同的型号",
+      "music": 0.0
+    },
+    {
+      "from": 294.069,
+      "to": 296.64,
+      "sid": 109,
+      "location": 2,
+      "content": "那么呃它的表示方法",
+      "music": 0.0
+    },
+    {
+      "from": 296.64,
+      "to": 299.34,
+      "sid": 110,
+      "location": 2,
+      "content": "表示呃表示的方法也不一样",
+      "music": 0.0
+    },
+    {
+      "from": 299.34,
+      "to": 302.04,
+      "sid": 111,
+      "location": 2,
+      "content": "所以它这个命名上的表示方法不一样",
+      "music": 0.0
+    },
+    {
+      "from": 302.04,
+      "to": 304.13,
+      "sid": 112,
+      "location": 2,
+      "content": "所以我们这个不能啊",
+      "music": 0.0
+    },
+    {
+      "from": 304.13,
+      "to": 306.74,
+      "sid": 113,
+      "location": 2,
+      "content": "千篇一律的按照这个去区分",
+      "music": 0.0
+    },
+    {
+      "from": 306.74,
+      "to": 308.78,
+      "sid": 114,
+      "location": 2,
+      "content": "那么非常简单的一个方法",
+      "music": 0.0
+    },
+    {
+      "from": 308.78,
+      "to": 311.48,
+      "sid": 115,
+      "location": 2,
+      "content": "就是我们拿到了一个带有型号的蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 311.48,
+      "to": 316.8,
+      "sid": 116,
+      "location": 2,
+      "content": "我们可以去百度上搜索它的那个啊文档说明书",
+      "music": 0.0
+    },
+    {
+      "from": 316.8,
+      "to": 320.64,
+      "sid": 117,
+      "location": 2,
+      "content": "然后来查看一下它是哪一种蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 321.06,
+      "to": 323.34,
+      "sid": 118,
+      "location": 2,
+      "content": "然后它是怎么使用的",
+      "music": 0.0
+    },
+    {
+      "from": 323.34,
+      "to": 324.9,
+      "sid": 119,
+      "location": 2,
+      "content": "电路是如何设计的",
+      "music": 0.0
+    },
+    {
+      "from": 324.9,
+      "to": 326.85,
+      "sid": 120,
+      "location": 2,
+      "content": "这是一种方法",
+      "music": 0.0
+    },
+    {
+      "from": 326.85,
+      "to": 330.42,
+      "sid": 121,
+      "location": 2,
+      "content": "这是我们知道它型号的情况下来啊",
+      "music": 0.0
+    },
+    {
+      "from": 330.42,
+      "to": 331.38,
+      "sid": 122,
+      "location": 2,
+      "content": "测试这个分辨器",
+      "music": 0.0
+    },
+    {
+      "from": 331.38,
+      "to": 333.72,
+      "sid": 123,
+      "location": 2,
+      "content": "另外一种呢就是我们不知道它的型号",
+      "music": 0.0
+    },
+    {
+      "from": 333.72,
+      "to": 336.12,
+      "sid": 124,
+      "location": 2,
+      "content": "我们如何测试它是有源还是无源的",
+      "music": 0.0
+    },
+    {
+      "from": 336.12,
+      "to": 339.16,
+      "sid": 125,
+      "location": 2,
+      "content": "这个就用我们经常用的万用表",
+      "music": 0.0
+    },
+    {
+      "from": 340.0,
+      "to": 342.9,
+      "sid": 126,
+      "location": 2,
+      "content": "万用表加到这个蜂鸣器的那个异端",
+      "music": 0.0
+    },
+    {
+      "from": 342.9,
+      "to": 345.06,
+      "sid": 127,
+      "location": 2,
+      "content": "然后另外一端来回碰它",
+      "music": 0.0
+    },
+    {
+      "from": 345.06,
+      "to": 347.71,
+      "sid": 128,
+      "location": 2,
+      "content": "那个有那个咔咔的声音",
+      "music": 0.0
+    },
+    {
+      "from": 347.71,
+      "to": 349.12,
+      "sid": 129,
+      "location": 2,
+      "content": "如果电阻比较小的",
+      "music": 0.0
+    },
+    {
+      "from": 349.12,
+      "to": 349.96,
+      "sid": 130,
+      "location": 2,
+      "content": "是无缘的",
+      "music": 0.0
+    },
+    {
+      "from": 349.96,
+      "to": 351.88,
+      "sid": 131,
+      "location": 2,
+      "content": "如果能发出持续声响的",
+      "music": 0.0
+    },
+    {
+      "from": 351.88,
+      "to": 353.44,
+      "sid": 132,
+      "location": 2,
+      "content": "并且电阻稍微大点",
+      "music": 0.0
+    },
+    {
+      "from": 353.44,
+      "to": 354.9,
+      "sid": 133,
+      "location": 2,
+      "content": "那就是有缘的",
+      "music": 0.0
+    },
+    {
+      "from": 356.1,
+      "to": 359.96,
+      "sid": 134,
+      "location": 2,
+      "content": "还有一种就是因为它这个有源和无源",
+      "music": 0.0
+    },
+    {
+      "from": 359.96,
+      "to": 362.06,
+      "sid": 135,
+      "location": 2,
+      "content": "就看它的驱动方式不一样嘛",
+      "music": 0.0
+    },
+    {
+      "from": 362.06,
+      "to": 365.3,
+      "sid": 136,
+      "location": 2,
+      "content": "所以我们也可以给它加驱动电压来试一下",
+      "music": 0.0
+    },
+    {
+      "from": 365.42,
+      "to": 368.96,
+      "sid": 137,
+      "location": 2,
+      "content": "但是我觉得最常见的应该是第二种方法",
+      "music": 0.0
+    },
+    {
+      "from": 368.96,
+      "to": 371.03,
+      "sid": 138,
+      "location": 2,
+      "content": "就是我们来看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 371.03,
+      "to": 374.89,
+      "sid": 139,
+      "location": 2,
+      "content": "它是不是加上这个万用表之后",
+      "music": 0.0
+    },
+    {
+      "from": 374.89,
+      "to": 376.66,
+      "sid": 140,
+      "location": 2,
+      "content": "能不能发出声响",
+      "music": 0.0
+    },
+    {
+      "from": 376.66,
+      "to": 379.13,
+      "sid": 141,
+      "location": 2,
+      "content": "这是我们经常用到的一种方法",
+      "music": 0.0
+    },
+    {
+      "from": 379.13,
+      "to": 381.23,
+      "sid": 142,
+      "location": 2,
+      "content": "在我们的后续电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 381.23,
+      "to": 384.59,
+      "sid": 143,
+      "location": 2,
+      "content": "我们可能最经常用到的就是有源蜂鸣器了",
+      "music": 0.0
+    },
+    {
+      "from": 384.59,
+      "to": 387.9,
+      "sid": 144,
+      "location": 2,
+      "content": "那么我们来看一下有源蜂鸣器的一个实际电路",
+      "music": 0.0
+    },
+    {
+      "from": 387.9,
+      "to": 390.48,
+      "sid": 145,
+      "location": 2,
+      "content": "这是s t m32 单片机当中的",
+      "music": 0.0
+    },
+    {
+      "from": 390.48,
+      "to": 392.03,
+      "sid": 146,
+      "location": 2,
+      "content": "蜂鸣器的硬件电路",
+      "music": 0.0
+    },
+    {
+      "from": 392.03,
+      "to": 393.89,
+      "sid": 147,
+      "location": 2,
+      "content": "实际上这个电路很简单",
+      "music": 0.0
+    },
+    {
+      "from": 393.89,
+      "to": 397.42,
+      "sid": 148,
+      "location": 2,
+      "content": "因为蜂鸣器本身它就是一个很简单的元器件",
+      "music": 0.0
+    },
+    {
+      "from": 397.42,
+      "to": 399.94,
+      "sid": 149,
+      "location": 2,
+      "content": "这里只是所以这里讲的比较简单",
+      "music": 0.0
+    },
+    {
+      "from": 399.94,
+      "to": 401.72,
+      "sid": 150,
+      "location": 2,
+      "content": "只是给大家一带而过啊",
+      "music": 0.0
+    },
+    {
+      "from": 402.66,
+      "to": 405.92,
+      "sid": 151,
+      "location": 2,
+      "content": "大家可以看这是给了一个3.3伏的电压",
+      "music": 0.0
+    },
+    {
+      "from": 405.92,
+      "to": 406.88,
+      "sid": 152,
+      "location": 2,
+      "content": "接了个蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 406.88,
+      "to": 409.28,
+      "sid": 153,
+      "location": 2,
+      "content": "然后下面接了一个三极管",
+      "music": 0.0
+    },
+    {
+      "from": 410.62,
+      "to": 414.06,
+      "sid": 154,
+      "location": 2,
+      "content": "可能有同学会问我为什么要接一个三极管",
+      "music": 0.0
+    },
+    {
+      "from": 414.06,
+      "to": 416.04,
+      "sid": 155,
+      "location": 2,
+      "content": "既然它是一个有源蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 416.04,
+      "to": 418.43,
+      "sid": 156,
+      "location": 2,
+      "content": "接上接上电压就可以想",
+      "music": 0.0
+    },
+    {
+      "from": 418.43,
+      "to": 420.34,
+      "sid": 157,
+      "location": 2,
+      "content": "为什么要加一个三极管呢",
+      "music": 0.0
+    },
+    {
+      "from": 420.34,
+      "to": 422.56,
+      "sid": 158,
+      "location": 2,
+      "content": "这是因为我们的单片",
+      "music": 0.0
+    },
+    {
+      "from": 422.56,
+      "to": 425.95,
+      "sid": 159,
+      "location": 2,
+      "content": "因为这个是接在s t m32 单片机当中的",
+      "music": 0.0
+    },
+    {
+      "from": 425.95,
+      "to": 427.0,
+      "sid": 160,
+      "location": 2,
+      "content": "我的目的是什么",
+      "music": 0.0
+    },
+    {
+      "from": 427.0,
+      "to": 431.95,
+      "sid": 161,
+      "location": 2,
+      "content": "是目的是为了用单片机的一个输入输出接口",
+      "music": 0.0
+    },
+    {
+      "from": 431.95,
+      "to": 435.27,
+      "sid": 162,
+      "location": 2,
+      "content": "来控制这个蜂鸣器的通断",
+      "music": 0.0
+    },
+    {
+      "from": 435.27,
+      "to": 438.3,
+      "sid": 163,
+      "location": 2,
+      "content": "也就是说我通过单片机里边的控制信号",
+      "music": 0.0
+    },
+    {
+      "from": 438.3,
+      "to": 442.58,
+      "sid": 164,
+      "location": 2,
+      "content": "来控制这个单控制这个蜂鸣器的那个工作状态",
+      "music": 0.0
+    },
+    {
+      "from": 442.8,
+      "to": 445.4,
+      "sid": 165,
+      "location": 2,
+      "content": "那么如果是这样子的话",
+      "music": 0.0
+    },
+    {
+      "from": 446.6,
+      "to": 448.84,
+      "sid": 166,
+      "location": 2,
+      "content": "我如果直接把这个l口",
+      "music": 0.0
+    },
+    {
+      "from": 448.84,
+      "to": 451.66,
+      "sid": 167,
+      "location": 2,
+      "content": "加到这个蜂鸣器的这个接地端的话",
+      "music": 0.0
+    },
+    {
+      "from": 451.66,
+      "to": 453.52,
+      "sid": 168,
+      "location": 2,
+      "content": "而不用这个三极管",
+      "music": 0.0
+    },
+    {
+      "from": 453.52,
+      "to": 457.92,
+      "sid": 169,
+      "location": 2,
+      "content": "那么通过这个这个蜂鸣器的那个电流",
+      "music": 0.0
+    },
+    {
+      "from": 457.92,
+      "to": 461.5,
+      "sid": 170,
+      "location": 2,
+      "content": "很可能就远远的大于我这个i o口",
+      "music": 0.0
+    },
+    {
+      "from": 461.5,
+      "to": 462.64,
+      "sid": 171,
+      "location": 2,
+      "content": "能承受的电流",
+      "music": 0.0
+    },
+    {
+      "from": 462.64,
+      "to": 466.42,
+      "sid": 172,
+      "location": 2,
+      "content": "因为这个单片机的io口的电流可能很小",
+      "music": 0.0
+    },
+    {
+      "from": 466.42,
+      "to": 471.379,
+      "sid": 173,
+      "location": 2,
+      "content": "也就是不会到特别不会超过几十毫安",
+      "music": 0.0
+    },
+    {
+      "from": 471.379,
+      "to": 473.659,
+      "sid": 174,
+      "location": 2,
+      "content": "就是它特别小一个电流",
+      "music": 0.0
+    },
+    {
+      "from": 473.659,
+      "to": 475.939,
+      "sid": 175,
+      "location": 2,
+      "content": "如果说我们直接把这个l口",
+      "music": 0.0
+    },
+    {
+      "from": 475.939,
+      "to": 479.02,
+      "sid": 176,
+      "location": 2,
+      "content": "跟这个凤鸣器串在一起的话啊",
+      "music": 0.0
+    },
+    {
+      "from": 479.02,
+      "to": 481.12,
+      "sid": 177,
+      "location": 2,
+      "content": "很容易就把我的单片机烧毁了",
+      "music": 0.0
+    },
+    {
+      "from": 481.12,
+      "to": 484.42,
+      "sid": 178,
+      "location": 2,
+      "content": "所以说它不能像那个我们前面讲的那个led灯一",
+      "music": 0.0
+    },
+    {
+      "from": 484.42,
+      "to": 484.99,
+      "sid": 179,
+      "location": 2,
+      "content": "样",
+      "music": 0.0
+    },
+    {
+      "from": 484.99,
+      "to": 489.47,
+      "sid": 180,
+      "location": 2,
+      "content": "就是直接给他接在这个电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 489.47,
+      "to": 493.31,
+      "sid": 181,
+      "location": 2,
+      "content": "而三极管呢正好就是我们前面讲到了三极管",
+      "music": 0.0
+    },
+    {
+      "from": 493.31,
+      "to": 495.83,
+      "sid": 182,
+      "location": 2,
+      "content": "它有一个电流放大的作用",
+      "music": 0.0
+    },
+    {
+      "from": 495.83,
+      "to": 500.86,
+      "sid": 183,
+      "location": 2,
+      "content": "它可以用一个微小的信号来控制我整个回路",
+      "music": 0.0
+    },
+    {
+      "from": 500.86,
+      "to": 503.55,
+      "sid": 184,
+      "location": 2,
+      "content": "这个大电流的这个回路",
+      "music": 0.0
+    },
+    {
+      "from": 503.55,
+      "to": 506.31,
+      "sid": 185,
+      "location": 2,
+      "content": "所以说呢正好满足了这个条件",
+      "music": 0.0
+    },
+    {
+      "from": 506.31,
+      "to": 508.05,
+      "sid": 186,
+      "location": 2,
+      "content": "我们用一个三极管",
+      "music": 0.0
+    },
+    {
+      "from": 508.05,
+      "to": 509.37,
+      "sid": 187,
+      "location": 2,
+      "content": "我们来看一下这个电路",
+      "music": 0.0
+    },
+    {
+      "from": 509.37,
+      "to": 512.83,
+      "sid": 188,
+      "location": 2,
+      "content": "如果说我这一块这一块接的是一个l口嘛",
+      "music": 0.0
+    },
+    {
+      "from": 512.83,
+      "to": 515.11,
+      "sid": 189,
+      "location": 2,
+      "content": "我这一块如果给他一个高电平的话",
+      "music": 0.0
+    },
+    {
+      "from": 515.11,
+      "to": 518.55,
+      "sid": 190,
+      "location": 2,
+      "content": "那么高电平我这边就会导通导通",
+      "music": 0.0
+    },
+    {
+      "from": 518.55,
+      "to": 520.8,
+      "sid": 191,
+      "location": 2,
+      "content": "然后这个电路导通了",
+      "music": 0.0
+    },
+    {
+      "from": 520.8,
+      "to": 523.5,
+      "sid": 192,
+      "location": 2,
+      "content": "我的这个蜂鸣器就会发发出声响",
+      "music": 0.0
+    },
+    {
+      "from": 523.5,
+      "to": 529.04,
+      "sid": 193,
+      "location": 2,
+      "content": "如果说我现在想把这个蜂鸣器的声响就是关断",
+      "music": 0.0
+    },
+    {
+      "from": 529.04,
+      "to": 531.86,
+      "sid": 194,
+      "location": 2,
+      "content": "我这边把这个高电平变成低电平",
+      "music": 0.0
+    },
+    {
+      "from": 531.86,
+      "to": 532.64,
+      "sid": 195,
+      "location": 2,
+      "content": "低电平的话",
+      "music": 0.0
+    },
+    {
+      "from": 532.64,
+      "to": 535.76,
+      "sid": 196,
+      "location": 2,
+      "content": "我这个就是截止不导通了",
+      "music": 0.0
+    },
+    {
+      "from": 535.76,
+      "to": 540.15,
+      "sid": 197,
+      "location": 2,
+      "content": "那么我这个蜂鸣器就啊就不会想了",
+      "music": 0.0
+    },
+    {
+      "from": 540.15,
+      "to": 544.28,
+      "sid": 198,
+      "location": 2,
+      "content": "这就是这个电路的一个简单的讲解",
+      "music": 0.0
+    },
+    {
+      "from": 544.4,
+      "to": 546.98,
+      "sid": 199,
+      "location": 2,
+      "content": "那么通常这个r61 呢",
+      "music": 0.0
+    },
+    {
+      "from": 546.98,
+      "to": 552.08,
+      "sid": 200,
+      "location": 2,
+      "content": "它是防止这在这个alco就是悬空的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 552.08,
+      "to": 554.84,
+      "sid": 201,
+      "location": 2,
+      "content": "这个蜂鸣器乱叫悬空悬空",
+      "music": 0.0
+    },
+    {
+      "from": 554.84,
+      "to": 558.81,
+      "sid": 202,
+      "location": 2,
+      "content": "有的一般情况下会把它啊认为城市高电平",
+      "music": 0.0
+    },
+    {
+      "from": 558.81,
+      "to": 560.91,
+      "sid": 203,
+      "location": 2,
+      "content": "所以说那个时候很有可能",
+      "music": 0.0
+    },
+    {
+      "from": 560.91,
+      "to": 564.04,
+      "sid": 204,
+      "location": 2,
+      "content": "他这块就是啊会发出声响",
+      "music": 0.0
+    },
+    {
+      "from": 564.04,
+      "to": 568.78,
+      "sid": 205,
+      "location": 2,
+      "content": "所以说加一个r61 在这来给他",
+      "music": 0.0
+    },
+    {
+      "from": 568.78,
+      "to": 569.599,
+      "sid": 206,
+      "location": 2,
+      "content": "就是",
+      "music": 0.0
+    },
+    {
+      "from": 571.26,
+      "to": 573.08,
+      "sid": 207,
+      "location": 2,
+      "content": "防止它风鸣气乱叫",
+      "music": 0.0
+    },
+    {
+      "from": 573.08,
+      "to": 574.28,
+      "sid": 208,
+      "location": 2,
+      "content": "就是这样一个作用",
+      "music": 0.0
+    },
+    {
+      "from": 574.28,
+      "to": 577.06,
+      "sid": 209,
+      "location": 2,
+      "content": "这个r59 实际上就是一个限流的作用啊",
+      "music": 0.0
+    },
+    {
+      "from": 578.6,
+      "to": 581.439,
+      "sid": 210,
+      "location": 2,
+      "content": "减小这个errole的一个输出电流",
+      "music": 0.0
+    },
+    {
+      "from": 585.76,
+      "to": 589.29,
+      "sid": 211,
+      "location": 2,
+      "content": "嗯这就是这个电路的一个简单的叙述",
+      "music": 0.0
+    },
+    {
+      "from": 589.29,
+      "to": 591.33,
+      "sid": 212,
+      "location": 2,
+      "content": "然后下面呢通过一个电路",
+      "music": 0.0
+    },
+    {
+      "from": 591.33,
+      "to": 593.28,
+      "sid": 213,
+      "location": 2,
+      "content": "咱们来结束这一部分的讲解",
+      "music": 0.0
+    },
+    {
+      "from": 593.28,
+      "to": 598.13,
+      "sid": 214,
+      "location": 2,
+      "content": "这就是一个简单的一个简单的一个电路图",
+      "music": 0.0
+    },
+    {
+      "from": 598.13,
+      "to": 600.08,
+      "sid": 215,
+      "location": 2,
+      "content": "大家可以把它看成是一个导线啊",
+      "music": 0.0
+    },
+    {
+      "from": 600.08,
+      "to": 601.01,
+      "sid": 216,
+      "location": 2,
+      "content": "这是一个段子",
+      "music": 0.0
+    },
+    {
+      "from": 601.01,
+      "to": 603.65,
+      "sid": 217,
+      "location": 2,
+      "content": "可以把它看成一个简单的一个导线",
+      "music": 0.0
+    },
+    {
+      "from": 603.65,
+      "to": 604.61,
+      "sid": 218,
+      "location": 2,
+      "content": "把这一块",
+      "music": 0.0
+    },
+    {
+      "from": 604.61,
+      "to": 606.89,
+      "sid": 219,
+      "location": 2,
+      "content": "然后呢给大家留的思考",
+      "music": 0.0
+    },
+    {
+      "from": 606.89,
+      "to": 610.15,
+      "sid": 220,
+      "location": 2,
+      "content": "就是大家看一下我这个p34 ",
+      "music": 0.0
+    },
+    {
+      "from": 610.15,
+      "to": 613.54,
+      "sid": 221,
+      "location": 2,
+      "content": "这一端是接的一个l口",
+      "music": 0.0
+    },
+    {
+      "from": 613.54,
+      "to": 616.77,
+      "sid": 222,
+      "location": 2,
+      "content": "l口有高低电平两种",
+      "music": 0.0
+    },
+    {
+      "from": 616.77,
+      "to": 619.96,
+      "sid": 223,
+      "location": 2,
+      "content": "那么那么我就想问一下大家",
+      "music": 0.0
+    },
+    {
+      "from": 619.96,
+      "to": 625.38,
+      "sid": 224,
+      "location": 2,
+      "content": "我这个l考试加哪一种电瓶的时候",
+      "music": 0.0
+    },
+    {
+      "from": 625.38,
+      "to": 626.7,
+      "sid": 225,
+      "location": 2,
+      "content": "我的蜂鸣器是响的",
+      "music": 0.0
+    },
+    {
+      "from": 626.7,
+      "to": 628.23,
+      "sid": 226,
+      "location": 2,
+      "content": "加哪种电瓶的时候",
+      "music": 0.0
+    },
+    {
+      "from": 628.23,
+      "to": 629.82,
+      "sid": 227,
+      "location": 2,
+      "content": "蜂鸣器是不响的",
+      "music": 0.0
+    },
+    {
+      "from": 629.82,
+      "to": 635.04,
+      "sid": 228,
+      "location": 2,
+      "content": "其实这跟刚才的那个电路图很相似啊",
+      "music": 0.0
+    },
+    {
+      "from": 635.04,
+      "to": 638.79,
+      "sid": 229,
+      "location": 2,
+      "content": "所以说大家如果把这个想明白了",
+      "music": 0.0
+    },
+    {
+      "from": 638.79,
+      "to": 642.35,
+      "sid": 230,
+      "location": 2,
+      "content": "那就说明我们刚才那个电路就听明白了啊",
+      "music": 0.0
+    },
+    {
+      "from": 642.35,
+      "to": 644.39,
+      "sid": 231,
+      "location": 2,
+      "content": "对于这个蜂鸣器",
+      "music": 0.0
+    },
+    {
+      "from": 644.39,
+      "to": 645.68,
+      "sid": 232,
+      "location": 2,
+      "content": "我们就先讲到这",
+      "music": 0.0
+    }
+  ]
+}

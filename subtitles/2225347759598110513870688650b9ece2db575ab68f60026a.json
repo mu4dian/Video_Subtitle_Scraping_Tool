@@ -1,0 +1,2268 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 7.52,
+      "to": 10.22,
+      "sid": 1,
+      "location": 2,
+      "content": "今天再给大家讲一下保险丝啊",
+      "music": 0.0
+    },
+    {
+      "from": 10.22,
+      "to": 12.47,
+      "sid": 2,
+      "location": 2,
+      "content": "也就是经常说的熔断器",
+      "music": 0.0
+    },
+    {
+      "from": 12.47,
+      "to": 15.99,
+      "sid": 3,
+      "location": 2,
+      "content": "在国标里边把保险丝通常叫做熔断器",
+      "music": 0.0
+    },
+    {
+      "from": 15.99,
+      "to": 18.82,
+      "sid": 4,
+      "location": 2,
+      "content": "还是给大家看一些图片",
+      "music": 0.0
+    },
+    {
+      "from": 21.439,
+      "to": 24.669,
+      "sid": 5,
+      "location": 2,
+      "content": "这是一些贴片的保险",
+      "music": 0.0
+    },
+    {
+      "from": 24.669,
+      "to": 25.779,
+      "sid": 6,
+      "location": 2,
+      "content": "贴片保险",
+      "music": 0.0
+    },
+    {
+      "from": 25.779,
+      "to": 27.34,
+      "sid": 7,
+      "location": 2,
+      "content": "这也是贴片保险",
+      "music": 0.0
+    },
+    {
+      "from": 29.44,
+      "to": 31.26,
+      "sid": 8,
+      "location": 2,
+      "content": "这是一个贴片式保险",
+      "music": 0.0
+    },
+    {
+      "from": 31.26,
+      "to": 32.779,
+      "sid": 9,
+      "location": 2,
+      "content": "它的体积比较小",
+      "music": 0.0
+    },
+    {
+      "from": 34.52,
+      "to": 36.28,
+      "sid": 10,
+      "location": 2,
+      "content": "这是一些汽车保险",
+      "music": 0.0
+    },
+    {
+      "from": 38.56,
+      "to": 40.26,
+      "sid": 11,
+      "location": 2,
+      "content": "这是一些插件儿",
+      "music": 0.0
+    },
+    {
+      "from": 41.08,
+      "to": 44.32,
+      "sid": 12,
+      "location": 2,
+      "content": "这是插件的切片的",
+      "music": 0.0
+    },
+    {
+      "from": 46.1,
+      "to": 48.01,
+      "sid": 13,
+      "location": 2,
+      "content": "这是一些保险的图片",
+      "music": 0.0
+    },
+    {
+      "from": 48.01,
+      "to": 49.57,
+      "sid": 14,
+      "location": 2,
+      "content": "认识到保险呢",
+      "music": 0.0
+    },
+    {
+      "from": 49.57,
+      "to": 53.8,
+      "sid": 15,
+      "location": 2,
+      "content": "我不知道大家是听到这个名字应该比较熟悉啊",
+      "music": 0.0
+    },
+    {
+      "from": 53.8,
+      "to": 55.6,
+      "sid": 16,
+      "location": 2,
+      "content": "因为呃大家都知道",
+      "music": 0.0
+    },
+    {
+      "from": 55.6,
+      "to": 58.48,
+      "sid": 17,
+      "location": 2,
+      "content": "原来像咱们家庭用的都没有用",
+      "music": 0.0
+    },
+    {
+      "from": 58.48,
+      "to": 61.78,
+      "sid": 18,
+      "location": 2,
+      "content": "现在的像像咱们现在都是用漏电保护器",
+      "music": 0.0
+    },
+    {
+      "from": 61.78,
+      "to": 63.49,
+      "sid": 19,
+      "location": 2,
+      "content": "加上断路器来",
+      "music": 0.0
+    },
+    {
+      "from": 63.49,
+      "to": 67.66,
+      "sid": 20,
+      "location": 2,
+      "content": "就是保护咱们家家庭用电的这个安全",
+      "music": 0.0
+    },
+    {
+      "from": 67.66,
+      "to": 68.86,
+      "sid": 21,
+      "location": 2,
+      "content": "原来都是用刀闸",
+      "music": 0.0
+    },
+    {
+      "from": 68.86,
+      "to": 72.16,
+      "sid": 22,
+      "location": 2,
+      "content": "刀闸里边都是用一些保险丝或者是保险片",
+      "music": 0.0
+    },
+    {
+      "from": 72.16,
+      "to": 75.82,
+      "sid": 23,
+      "location": 2,
+      "content": "那么我认识保险的就是从内里开始认识的",
+      "music": 0.0
+    },
+    {
+      "from": 75.82,
+      "to": 77.26,
+      "sid": 24,
+      "location": 2,
+      "content": "保险丝就是这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 77.26,
+      "to": 80.91,
+      "sid": 25,
+      "location": 2,
+      "content": "可能小的时候不知道大家有没有呃经历",
+      "music": 0.0
+    },
+    {
+      "from": 80.91,
+      "to": 82.23,
+      "sid": 26,
+      "location": 2,
+      "content": "就是家里如果停电了",
+      "music": 0.0
+    },
+    {
+      "from": 82.23,
+      "to": 83.4,
+      "sid": 27,
+      "location": 2,
+      "content": "要换一下保险",
+      "music": 0.0
+    },
+    {
+      "from": 83.4,
+      "to": 84.15,
+      "sid": 28,
+      "location": 2,
+      "content": "保险丝",
+      "music": 0.0
+    },
+    {
+      "from": 84.15,
+      "to": 87.7,
+      "sid": 29,
+      "location": 2,
+      "content": "就是这种根据家里的用电量来选一个合适的",
+      "music": 0.0
+    },
+    {
+      "from": 87.7,
+      "to": 89.02,
+      "sid": 30,
+      "location": 2,
+      "content": "保险丝的型号",
+      "music": 0.0
+    },
+    {
+      "from": 89.02,
+      "to": 90.28,
+      "sid": 31,
+      "location": 2,
+      "content": "换到那个刀闸上面",
+      "music": 0.0
+    },
+    {
+      "from": 90.28,
+      "to": 91.82,
+      "sid": 32,
+      "location": 2,
+      "content": "这就是那个保险丝",
+      "music": 0.0
+    },
+    {
+      "from": 96.18,
+      "to": 97.76,
+      "sid": 33,
+      "location": 2,
+      "content": "下面呢咱们来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 97.76,
+      "to": 100.73,
+      "sid": 34,
+      "location": 2,
+      "content": "到底保险的作用和工作原理是什么",
+      "music": 0.0
+    },
+    {
+      "from": 100.73,
+      "to": 104.22,
+      "sid": 35,
+      "location": 2,
+      "content": "其实大家从刚才讲述的这些内容当中",
+      "music": 0.0
+    },
+    {
+      "from": 104.22,
+      "to": 107.15,
+      "sid": 36,
+      "location": 2,
+      "content": "已经可以呃十有八九的猜出来",
+      "music": 0.0
+    },
+    {
+      "from": 107.15,
+      "to": 108.44,
+      "sid": 37,
+      "location": 2,
+      "content": "保险的作用是什么",
+      "music": 0.0
+    },
+    {
+      "from": 108.44,
+      "to": 111.65,
+      "sid": 38,
+      "location": 2,
+      "content": "保险就是对电路的一个短路保护",
+      "music": 0.0
+    },
+    {
+      "from": 111.65,
+      "to": 115.02,
+      "sid": 39,
+      "location": 2,
+      "content": "或者是过载保护的一个元器件",
+      "music": 0.0
+    },
+    {
+      "from": 115.24,
+      "to": 119.2,
+      "sid": 40,
+      "location": 2,
+      "content": "那么他是用什么样的工作原理来进行保护的呢",
+      "music": 0.0
+    },
+    {
+      "from": 119.2,
+      "to": 121.27,
+      "sid": 41,
+      "location": 2,
+      "content": "啊传统意义上的保险",
+      "music": 0.0
+    },
+    {
+      "from": 121.27,
+      "to": 123.94,
+      "sid": 42,
+      "location": 2,
+      "content": "就像咱们刚才看到的那种保险丝",
+      "music": 0.0
+    },
+    {
+      "from": 124.94,
+      "to": 128.62,
+      "sid": 43,
+      "location": 2,
+      "content": "它实际上就是呃根据这个导体导体",
+      "music": 0.0
+    },
+    {
+      "from": 128.62,
+      "to": 131.1,
+      "sid": 44,
+      "location": 2,
+      "content": "如果导体中流过很大的电流",
+      "music": 0.0
+    },
+    {
+      "from": 131.1,
+      "to": 132.63,
+      "sid": 45,
+      "location": 2,
+      "content": "那么导体就会发热",
+      "music": 0.0
+    },
+    {
+      "from": 132.63,
+      "to": 134.22,
+      "sid": 46,
+      "location": 2,
+      "content": "当它发出的这个热",
+      "music": 0.0
+    },
+    {
+      "from": 134.22,
+      "to": 138.6,
+      "sid": 47,
+      "location": 2,
+      "content": "温度达到一定的啊温度值的时候",
+      "music": 0.0
+    },
+    {
+      "from": 138.6,
+      "to": 145.18,
+      "sid": 48,
+      "location": 2,
+      "content": "那么保险中用于连接的那个器件就会熔断断开",
+      "music": 0.0
+    },
+    {
+      "from": 145.18,
+      "to": 146.92,
+      "sid": 49,
+      "location": 2,
+      "content": "从而起到一个保护作用",
+      "music": 0.0
+    },
+    {
+      "from": 146.92,
+      "to": 149.83,
+      "sid": 50,
+      "location": 2,
+      "content": "那么保险里边的这个材质非常特殊",
+      "music": 0.0
+    },
+    {
+      "from": 149.83,
+      "to": 152.64,
+      "sid": 51,
+      "location": 2,
+      "content": "当温度达到一定一定值的时候",
+      "music": 0.0
+    },
+    {
+      "from": 152.64,
+      "to": 154.14,
+      "sid": 52,
+      "location": 2,
+      "content": "它会自己的就会熔断",
+      "music": 0.0
+    },
+    {
+      "from": 154.14,
+      "to": 155.46,
+      "sid": 53,
+      "location": 2,
+      "content": "它的熔点比较低",
+      "music": 0.0
+    },
+    {
+      "from": 155.46,
+      "to": 157.7,
+      "sid": 54,
+      "location": 2,
+      "content": "熔断从而起到保护的作用",
+      "music": 0.0
+    },
+    {
+      "from": 157.7,
+      "to": 161.42,
+      "sid": 55,
+      "location": 2,
+      "content": "这就是传统意义上保险的一个基本的原理",
+      "music": 0.0
+    },
+    {
+      "from": 163.24,
+      "to": 165.51,
+      "sid": 56,
+      "location": 2,
+      "content": "那么保险有哪些分类呢",
+      "music": 0.0
+    },
+    {
+      "from": 165.51,
+      "to": 167.76,
+      "sid": 57,
+      "location": 2,
+      "content": "保险的分类实际上也很多",
+      "music": 0.0
+    },
+    {
+      "from": 167.76,
+      "to": 169.02,
+      "sid": 58,
+      "location": 2,
+      "content": "那么按形式分呢",
+      "music": 0.0
+    },
+    {
+      "from": 169.02,
+      "to": 172.98,
+      "sid": 59,
+      "location": 2,
+      "content": "主要分为过店里有保护和过热保护保险丝",
+      "music": 0.0
+    },
+    {
+      "from": 172.98,
+      "to": 174.54,
+      "sid": 60,
+      "location": 2,
+      "content": "那么这个过热保护呢",
+      "music": 0.0
+    },
+    {
+      "from": 174.54,
+      "to": 178.02,
+      "sid": 61,
+      "location": 2,
+      "content": "咱们可以把它认为是一种衍生出来的保险丝",
+      "music": 0.0
+    },
+    {
+      "from": 178.02,
+      "to": 181.04,
+      "sid": 62,
+      "location": 2,
+      "content": "它实际上就是温度特别热的时候",
+      "music": 0.0
+    },
+    {
+      "from": 182.9,
+      "to": 185.04,
+      "sid": 63,
+      "location": 2,
+      "content": "保险丝熔断来进行保护",
+      "music": 0.0
+    },
+    {
+      "from": 186.32,
+      "to": 188.8,
+      "sid": 64,
+      "location": 2,
+      "content": "那么按照熔断速度来分呢",
+      "music": 0.0
+    },
+    {
+      "from": 188.8,
+      "to": 191.25,
+      "sid": 65,
+      "location": 2,
+      "content": "分为特慢速保险丝",
+      "music": 0.0
+    },
+    {
+      "from": 191.25,
+      "to": 192.51,
+      "sid": 66,
+      "location": 2,
+      "content": "慢速保险丝",
+      "music": 0.0
+    },
+    {
+      "from": 192.51,
+      "to": 195.28,
+      "sid": 67,
+      "location": 2,
+      "content": "中速快速特快速啊",
+      "music": 0.0
+    },
+    {
+      "from": 195.28,
+      "to": 196.33,
+      "sid": 68,
+      "location": 2,
+      "content": "分为这几个",
+      "music": 0.0
+    },
+    {
+      "from": 196.33,
+      "to": 200.41,
+      "sid": 69,
+      "location": 2,
+      "content": "按照这个保险丝熔断之后是否可以再用再恢复",
+      "music": 0.0
+    },
+    {
+      "from": 200.41,
+      "to": 203.1,
+      "sid": 70,
+      "location": 2,
+      "content": "可以分为可恢复性保险丝",
+      "music": 0.0
+    },
+    {
+      "from": 203.1,
+      "to": 206.67,
+      "sid": 71,
+      "location": 2,
+      "content": "也就是说自恢复保险丝和不可恢复性保险丝",
+      "music": 0.0
+    },
+    {
+      "from": 206.67,
+      "to": 209.19,
+      "sid": 72,
+      "location": 2,
+      "content": "那么对于这个不可恢复性保险丝",
+      "music": 0.0
+    },
+    {
+      "from": 209.19,
+      "to": 213.3,
+      "sid": 73,
+      "location": 2,
+      "content": "就像咱们刚才一开始介绍传统意义上保险",
+      "music": 0.0
+    },
+    {
+      "from": 213.3,
+      "to": 214.95,
+      "sid": 74,
+      "location": 2,
+      "content": "它的原理和作用都是",
+      "music": 0.0
+    },
+    {
+      "from": 214.95,
+      "to": 216.27,
+      "sid": 75,
+      "location": 2,
+      "content": "那它的",
+      "music": 0.0
+    },
+    {
+      "from": 216.27,
+      "to": 219.39,
+      "sid": 76,
+      "location": 2,
+      "content": "它的原理实际上就是",
+      "music": 0.0
+    },
+    {
+      "from": 219.39,
+      "to": 222.69,
+      "sid": 77,
+      "location": 2,
+      "content": "我们刚才说的一个不可恢复的保险",
+      "music": 0.0
+    },
+    {
+      "from": 222.69,
+      "to": 224.43,
+      "sid": 78,
+      "location": 2,
+      "content": "就是这个保险熔断了",
+      "music": 0.0
+    },
+    {
+      "from": 224.43,
+      "to": 227.6,
+      "sid": 79,
+      "location": 2,
+      "content": "我们要换取新的再连接这个电路",
+      "music": 0.0
+    },
+    {
+      "from": 228.019,
+      "to": 231.529,
+      "sid": 80,
+      "location": 2,
+      "content": "那么这个自恢复性保险是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 231.529,
+      "to": 235.62,
+      "sid": 81,
+      "location": 2,
+      "content": "自恢复性保险实际上是一种特殊的材质",
+      "music": 0.0
+    },
+    {
+      "from": 235.62,
+      "to": 239.04,
+      "sid": 82,
+      "location": 2,
+      "content": "那么当电路它连接在电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 239.04,
+      "to": 244.32,
+      "sid": 83,
+      "location": 2,
+      "content": "当电路啊发生过流的过流或者短路的时候",
+      "music": 0.0
+    },
+    {
+      "from": 244.78,
+      "to": 246.82,
+      "sid": 84,
+      "location": 2,
+      "content": "过载或短路的时候",
+      "music": 0.0
+    },
+    {
+      "from": 246.82,
+      "to": 250.18,
+      "sid": 85,
+      "location": 2,
+      "content": "那么保险的这种材质啊",
+      "music": 0.0
+    },
+    {
+      "from": 250.18,
+      "to": 253.639,
+      "sid": 86,
+      "location": 2,
+      "content": "它会处于一种高阻态状态",
+      "music": 0.0
+    },
+    {
+      "from": 253.639,
+      "to": 256.18,
+      "sid": 87,
+      "location": 2,
+      "content": "高阻状态就相当于断路",
+      "music": 0.0
+    },
+    {
+      "from": 256.18,
+      "to": 257.2,
+      "sid": 88,
+      "location": 2,
+      "content": "电阻值特别大",
+      "music": 0.0
+    },
+    {
+      "from": 257.2,
+      "to": 258.73,
+      "sid": 89,
+      "location": 2,
+      "content": "就相当于无穷大",
+      "music": 0.0
+    },
+    {
+      "from": 258.73,
+      "to": 260.44,
+      "sid": 90,
+      "location": 2,
+      "content": "相当于断路啊",
+      "music": 0.0
+    },
+    {
+      "from": 260.44,
+      "to": 261.7,
+      "sid": 91,
+      "location": 2,
+      "content": "把电路断开了",
+      "music": 0.0
+    },
+    {
+      "from": 261.7,
+      "to": 265.0,
+      "sid": 92,
+      "location": 2,
+      "content": "从而使这个特别大的电流啊或什么的",
+      "music": 0.0
+    },
+    {
+      "from": 265.0,
+      "to": 267.52,
+      "sid": 93,
+      "location": 2,
+      "content": "对后边的电路没没有影响",
+      "music": 0.0
+    },
+    {
+      "from": 270.86,
+      "to": 272.92,
+      "sid": 94,
+      "location": 2,
+      "content": "而在正常情况下呢",
+      "music": 0.0
+    },
+    {
+      "from": 272.92,
+      "to": 276.64,
+      "sid": 95,
+      "location": 2,
+      "content": "这个自恢复保险呢它是处于一个低阻状态",
+      "music": 0.0
+    },
+    {
+      "from": 276.64,
+      "to": 279.04,
+      "sid": 96,
+      "location": 2,
+      "content": "就是正常的一个导体啊",
+      "music": 0.0
+    },
+    {
+      "from": 279.04,
+      "to": 281.14,
+      "sid": 97,
+      "location": 2,
+      "content": "允许电流是通过的",
+      "music": 0.0
+    },
+    {
+      "from": 281.14,
+      "to": 285.07,
+      "sid": 98,
+      "location": 2,
+      "content": "这就是自恢复保险的一个一个概念",
+      "music": 0.0
+    },
+    {
+      "from": 285.07,
+      "to": 288.82,
+      "sid": 99,
+      "location": 2,
+      "content": "那么下面我们再看一下保险的参数和选择",
+      "music": 0.0
+    },
+    {
+      "from": 288.86,
+      "to": 291.44,
+      "sid": 100,
+      "location": 2,
+      "content": "保险通常用几个参数来衡量呢",
+      "music": 0.0
+    },
+    {
+      "from": 291.44,
+      "to": 293.28,
+      "sid": 101,
+      "location": 2,
+      "content": "首先是电压恒定制",
+      "music": 0.0
+    },
+    {
+      "from": 293.28,
+      "to": 296.16,
+      "sid": 102,
+      "location": 2,
+      "content": "电压恒定值呢电压额定值",
+      "music": 0.0
+    },
+    {
+      "from": 296.16,
+      "to": 297.18,
+      "sid": 103,
+      "location": 2,
+      "content": "电压额定值呢",
+      "music": 0.0
+    },
+    {
+      "from": 297.18,
+      "to": 300.9,
+      "sid": 104,
+      "location": 2,
+      "content": "是断开保险两端能承受的最大电压",
+      "music": 0.0
+    },
+    {
+      "from": 304.06,
+      "to": 306.21,
+      "sid": 105,
+      "location": 2,
+      "content": "其次是电流额定值",
+      "music": 0.0
+    },
+    {
+      "from": 306.21,
+      "to": 307.86,
+      "sid": 106,
+      "location": 2,
+      "content": "这个电流额定值呢",
+      "music": 0.0
+    },
+    {
+      "from": 307.86,
+      "to": 312.45,
+      "sid": 107,
+      "location": 2,
+      "content": "就是保险在电路当中能工作的最大电流",
+      "music": 0.0
+    },
+    {
+      "from": 312.45,
+      "to": 314.94,
+      "sid": 108,
+      "location": 2,
+      "content": "就是我不断看能工作的最大电流",
+      "music": 0.0
+    },
+    {
+      "from": 314.94,
+      "to": 316.57,
+      "sid": 109,
+      "location": 2,
+      "content": "还有一个熔断特性",
+      "music": 0.0
+    },
+    {
+      "from": 316.57,
+      "to": 319.99,
+      "sid": 110,
+      "location": 2,
+      "content": "熔断特性就是保险在定啊",
+      "music": 0.0
+    },
+    {
+      "from": 319.99,
+      "to": 322.75,
+      "sid": 111,
+      "location": 2,
+      "content": "就是保险是在不同过载电流负载下",
+      "music": 0.0
+    },
+    {
+      "from": 322.75,
+      "to": 324.82,
+      "sid": 112,
+      "location": 2,
+      "content": "熔断的时间范围",
+      "music": 0.0
+    },
+    {
+      "from": 328.44,
+      "to": 330.35,
+      "sid": 113,
+      "location": 2,
+      "content": "最后一个是分段能力",
+      "music": 0.0
+    },
+    {
+      "from": 330.35,
+      "to": 332.6,
+      "sid": 114,
+      "location": 2,
+      "content": "分段能力就是在规定的电压下",
+      "music": 0.0
+    },
+    {
+      "from": 332.6,
+      "to": 335.16,
+      "sid": 115,
+      "location": 2,
+      "content": "能够安全切断的最大电流",
+      "music": 0.0
+    },
+    {
+      "from": 336.12,
+      "to": 337.31,
+      "sid": 116,
+      "location": 2,
+      "content": "当然还有一些",
+      "music": 0.0
+    },
+    {
+      "from": 337.31,
+      "to": 338.9,
+      "sid": 117,
+      "location": 2,
+      "content": "比如说环境温度",
+      "music": 0.0
+    },
+    {
+      "from": 338.9,
+      "to": 342.56,
+      "sid": 118,
+      "location": 2,
+      "content": "环境温度其实也是影响保险的一个重要的参数",
+      "music": 0.0
+    },
+    {
+      "from": 342.56,
+      "to": 345.56,
+      "sid": 119,
+      "location": 2,
+      "content": "因为如果你环境温度特别高的时候",
+      "music": 0.0
+    },
+    {
+      "from": 345.56,
+      "to": 349.58,
+      "sid": 120,
+      "location": 2,
+      "content": "对于保险断开的那个肯定是有影响的",
+      "music": 0.0
+    },
+    {
+      "from": 349.58,
+      "to": 352.82,
+      "sid": 121,
+      "location": 2,
+      "content": "因为保险是自身温度达到一定程度",
+      "music": 0.0
+    },
+    {
+      "from": 352.82,
+      "to": 357.28,
+      "sid": 122,
+      "location": 2,
+      "content": "才会使这个啊断开",
+      "music": 0.0
+    },
+    {
+      "from": 357.28,
+      "to": 359.049,
+      "sid": 123,
+      "location": 2,
+      "content": "使电路断开吗",
+      "music": 0.0
+    },
+    {
+      "from": 359.049,
+      "to": 360.729,
+      "sid": 124,
+      "location": 2,
+      "content": "当温度特别高的时候",
+      "music": 0.0
+    },
+    {
+      "from": 360.729,
+      "to": 362.529,
+      "sid": 125,
+      "location": 2,
+      "content": "肯定是对保险会有影响的",
+      "music": 0.0
+    },
+    {
+      "from": 362.529,
+      "to": 365.5,
+      "sid": 126,
+      "location": 2,
+      "content": "但是我们在经常选择的时候呃",
+      "music": 0.0
+    },
+    {
+      "from": 365.5,
+      "to": 368.14,
+      "sid": 127,
+      "location": 2,
+      "content": "这四个因素是比较重要的",
+      "music": 0.0
+    },
+    {
+      "from": 368.14,
+      "to": 369.76,
+      "sid": 128,
+      "location": 2,
+      "content": "这四个参数是比较重要的",
+      "music": 0.0
+    },
+    {
+      "from": 369.76,
+      "to": 373.08,
+      "sid": 129,
+      "location": 2,
+      "content": "所以说我只挑出了四个参数来进行讲解",
+      "music": 0.0
+    },
+    {
+      "from": 374.02,
+      "to": 376.71,
+      "sid": 130,
+      "location": 2,
+      "content": "首先我们来看一下电压额定值",
+      "music": 0.0
+    },
+    {
+      "from": 376.71,
+      "to": 379.78,
+      "sid": 131,
+      "location": 2,
+      "content": "这个电压额定值并不是说呃",
+      "music": 0.0
+    },
+    {
+      "from": 379.78,
+      "to": 382.0,
+      "sid": 132,
+      "location": 2,
+      "content": "保险的电压额定值是多少",
+      "music": 0.0
+    },
+    {
+      "from": 382.0,
+      "to": 383.8,
+      "sid": 133,
+      "location": 2,
+      "content": "我就用在是多少伏",
+      "music": 0.0
+    },
+    {
+      "from": 383.8,
+      "to": 385.75,
+      "sid": 134,
+      "location": 2,
+      "content": "我就用在多少伏的电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 385.75,
+      "to": 390.03,
+      "sid": 135,
+      "location": 2,
+      "content": "通常呢要求这个保险的额定额定电压",
+      "music": 0.0
+    },
+    {
+      "from": 390.03,
+      "to": 393.14,
+      "sid": 136,
+      "location": 2,
+      "content": "要大于等于电路的额定电压",
+      "music": 0.0
+    },
+    {
+      "from": 393.86,
+      "to": 395.68,
+      "sid": 137,
+      "location": 2,
+      "content": "比如我举个例子",
+      "music": 0.0
+    },
+    {
+      "from": 395.68,
+      "to": 397.9,
+      "sid": 138,
+      "location": 2,
+      "content": "我用250伏的保险丝",
+      "music": 0.0
+    },
+    {
+      "from": 397.9,
+      "to": 400.6,
+      "sid": 139,
+      "location": 2,
+      "content": "我可以用在125伏的电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 400.6,
+      "to": 402.28,
+      "sid": 140,
+      "location": 2,
+      "content": "这是比较合理的",
+      "music": 0.0
+    },
+    {
+      "from": 403.66,
+      "to": 406.59,
+      "sid": 141,
+      "location": 2,
+      "content": "第二个呢我们来看一下电流额定值",
+      "music": 0.0
+    },
+    {
+      "from": 406.59,
+      "to": 409.29,
+      "sid": 142,
+      "location": 2,
+      "content": "很多人不太理解这个参数",
+      "music": 0.0
+    },
+    {
+      "from": 409.29,
+      "to": 412.759,
+      "sid": 143,
+      "location": 2,
+      "content": "认为我的保险丝啊",
+      "music": 0.0
+    },
+    {
+      "from": 412.759,
+      "to": 414.799,
+      "sid": 144,
+      "location": 2,
+      "content": "它的额定值是多少啊",
+      "music": 0.0
+    },
+    {
+      "from": 414.799,
+      "to": 416.48,
+      "sid": 145,
+      "location": 2,
+      "content": "我的电电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 416.48,
+      "to": 418.16,
+      "sid": 146,
+      "location": 2,
+      "content": "保险丝连在电路中",
+      "music": 0.0
+    },
+    {
+      "from": 418.16,
+      "to": 420.56,
+      "sid": 147,
+      "location": 2,
+      "content": "电路中的电压电流是多少",
+      "music": 0.0
+    },
+    {
+      "from": 420.56,
+      "to": 422.99,
+      "sid": 148,
+      "location": 2,
+      "content": "那么保险丝的额定电流就是多少",
+      "music": 0.0
+    },
+    {
+      "from": 422.99,
+      "to": 425.06,
+      "sid": 149,
+      "location": 2,
+      "content": "实际上不是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 425.06,
+      "to": 427.67,
+      "sid": 150,
+      "location": 2,
+      "content": "实际上比如说我电路当中的电流",
+      "music": 0.0
+    },
+    {
+      "from": 427.67,
+      "to": 429.409,
+      "sid": 151,
+      "location": 2,
+      "content": "额定电流是1.5安",
+      "music": 0.0
+    },
+    {
+      "from": 429.409,
+      "to": 431.509,
+      "sid": 152,
+      "location": 2,
+      "content": "那么我的保险丝的额定电流",
+      "music": 0.0
+    },
+    {
+      "from": 431.509,
+      "to": 434.749,
+      "sid": 153,
+      "location": 2,
+      "content": "通常按照1.5安除以0.75",
+      "music": 0.0
+    },
+    {
+      "from": 434.749,
+      "to": 437.88,
+      "sid": 154,
+      "location": 2,
+      "content": "的这样一个倍率来进行选型",
+      "music": 0.0
+    },
+    {
+      "from": 437.88,
+      "to": 440.12,
+      "sid": 155,
+      "location": 2,
+      "content": "也就是两安呃",
+      "music": 0.0
+    },
+    {
+      "from": 440.12,
+      "to": 442.58,
+      "sid": 156,
+      "location": 2,
+      "content": "电路当中的额定电流是1.5安的时候",
+      "music": 0.0
+    },
+    {
+      "from": 442.58,
+      "to": 445.04,
+      "sid": 157,
+      "location": 2,
+      "content": "我的保险的额定电流要是两安",
+      "music": 0.0
+    },
+    {
+      "from": 445.04,
+      "to": 447.28,
+      "sid": 158,
+      "location": 2,
+      "content": "通常是这样来进行选择的",
+      "music": 0.0
+    },
+    {
+      "from": 448.0,
+      "to": 450.3,
+      "sid": 159,
+      "location": 2,
+      "content": "再其次呢就是熔断特性",
+      "music": 0.0
+    },
+    {
+      "from": 450.3,
+      "to": 456.44,
+      "sid": 160,
+      "location": 2,
+      "content": "熔断特性实际上是保险的一个很重要的特性",
+      "music": 0.0
+    },
+    {
+      "from": 456.64,
+      "to": 458.74,
+      "sid": 161,
+      "location": 2,
+      "content": "那么简单的理解呢",
+      "music": 0.0
+    },
+    {
+      "from": 458.74,
+      "to": 462.74,
+      "sid": 162,
+      "location": 2,
+      "content": "这个熔断特性呢实际上就是它的一个熔断时间",
+      "music": 0.0
+    },
+    {
+      "from": 462.8,
+      "to": 465.8,
+      "sid": 163,
+      "location": 2,
+      "content": "我不能说我的电流都超过了",
+      "music": 0.0
+    },
+    {
+      "from": 465.8,
+      "to": 469.34,
+      "sid": 164,
+      "location": 2,
+      "content": "我电路当中可以承受的电流范围",
+      "music": 0.0
+    },
+    {
+      "from": 469.34,
+      "to": 473.4,
+      "sid": 165,
+      "location": 2,
+      "content": "但是我这个啊熔断器迟迟没有熔断",
+      "music": 0.0
+    },
+    {
+      "from": 473.4,
+      "to": 474.18,
+      "sid": 166,
+      "location": 2,
+      "content": "它是能熔断的",
+      "music": 0.0
+    },
+    {
+      "from": 474.18,
+      "to": 476.31,
+      "sid": 167,
+      "location": 2,
+      "content": "但是它迟迟没有熔断啊",
+      "music": 0.0
+    },
+    {
+      "from": 476.31,
+      "to": 480.45,
+      "sid": 168,
+      "location": 2,
+      "content": "这样的话对于某些电路它是起到保护作用的",
+      "music": 0.0
+    },
+    {
+      "from": 480.45,
+      "to": 483.659,
+      "sid": 169,
+      "location": 2,
+      "content": "因此这个熔断特性是非常重要的",
+      "music": 0.0
+    },
+    {
+      "from": 483.659,
+      "to": 486.899,
+      "sid": 170,
+      "location": 2,
+      "content": "我们刚才在那个保险的分类当中",
+      "music": 0.0
+    },
+    {
+      "from": 486.899,
+      "to": 490.52,
+      "sid": 171,
+      "location": 2,
+      "content": "也根据熔断时间给保险分了啊",
+      "music": 0.0
+    },
+    {
+      "from": 490.52,
+      "to": 491.77,
+      "sid": 172,
+      "location": 2,
+      "content": "分了一个类别",
+      "music": 0.0
+    },
+    {
+      "from": 491.77,
+      "to": 493.63,
+      "sid": 173,
+      "location": 2,
+      "content": "比如说有快速熔断",
+      "music": 0.0
+    },
+    {
+      "from": 493.63,
+      "to": 497.14,
+      "sid": 174,
+      "location": 2,
+      "content": "超快速中速慢速超慢速",
+      "music": 0.0
+    },
+    {
+      "from": 497.5,
+      "to": 499.4,
+      "sid": 175,
+      "location": 2,
+      "content": "那么我们可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 499.4,
+      "to": 501.68,
+      "sid": 176,
+      "location": 2,
+      "content": "当十倍额定电流通过的时候",
+      "music": 0.0
+    },
+    {
+      "from": 501.68,
+      "to": 505.82,
+      "sid": 177,
+      "location": 2,
+      "content": "熔断时间小于0.0010:00:01",
+      "music": 0.0
+    },
+    {
+      "from": 505.82,
+      "to": 508.8,
+      "sid": 178,
+      "location": 2,
+      "content": "熔断的为超快速熔断器",
+      "music": 0.0
+    },
+    {
+      "from": 509.46,
+      "to": 513.74,
+      "sid": 179,
+      "location": 2,
+      "content": "它这个熔断包括我快速断开并且面糊",
+      "music": 0.0
+    },
+    {
+      "from": 513.74,
+      "to": 518.359,
+      "sid": 180,
+      "location": 2,
+      "content": "这是比较安全的保障电路的一个一个熔断器",
+      "music": 0.0
+    },
+    {
+      "from": 519.72,
+      "to": 523.819,
+      "sid": 181,
+      "location": 2,
+      "content": "对于慢性的保险丝是可以允许暂时的",
+      "music": 0.0
+    },
+    {
+      "from": 524.1,
+      "to": 526.95,
+      "sid": 182,
+      "location": 2,
+      "content": "无害的浪涌电流通过而不熔断",
+      "music": 0.0
+    },
+    {
+      "from": 526.95,
+      "to": 530.34,
+      "sid": 183,
+      "location": 2,
+      "content": "但是对于慢速的持续过载或短路的时候",
+      "music": 0.0
+    },
+    {
+      "from": 530.34,
+      "to": 531.9,
+      "sid": 184,
+      "location": 2,
+      "content": "慢速保险丝是会起作用的",
+      "music": 0.0
+    },
+    {
+      "from": 531.9,
+      "to": 533.579,
+      "sid": 185,
+      "location": 2,
+      "content": "它会立刻断开的",
+      "music": 0.0
+    },
+    {
+      "from": 535.04,
+      "to": 537.64,
+      "sid": 186,
+      "location": 2,
+      "content": "这个分段能力是大家比较好理解的",
+      "music": 0.0
+    },
+    {
+      "from": 537.64,
+      "to": 541.09,
+      "sid": 187,
+      "location": 2,
+      "content": "就是我保险丝到达多大电流能断开",
+      "music": 0.0
+    },
+    {
+      "from": 541.09,
+      "to": 544.939,
+      "sid": 188,
+      "location": 2,
+      "content": "就是能够安全切断的一个最大电流",
+      "music": 0.0
+    },
+    {
+      "from": 545.42,
+      "to": 548.45,
+      "sid": 189,
+      "location": 2,
+      "content": "这就是保险的几个参数",
+      "music": 0.0
+    },
+    {
+      "from": 548.45,
+      "to": 551.57,
+      "sid": 190,
+      "location": 2,
+      "content": "以及保险丝的选择的一个依据",
+      "music": 0.0
+    },
+    {
+      "from": 551.57,
+      "to": 554.59,
+      "sid": 191,
+      "location": 2,
+      "content": "这个选择保险的一个啊依据",
+      "music": 0.0
+    },
+    {
+      "from": 554.59,
+      "to": 557.29,
+      "sid": 192,
+      "location": 2,
+      "content": "就咱们就主要是根据他这几个参数来进行",
+      "music": 0.0
+    },
+    {
+      "from": 557.29,
+      "to": 559.99,
+      "sid": 193,
+      "location": 2,
+      "content": "选择的当然也可以根据电路的需求",
+      "music": 0.0
+    },
+    {
+      "from": 559.99,
+      "to": 566.489,
+      "sid": 194,
+      "location": 2,
+      "content": "我选择贴片的或者是嗯插件的等等",
+      "music": 0.0
+    },
+    {
+      "from": 566.489,
+      "to": 567.749,
+      "sid": 195,
+      "location": 2,
+      "content": "一般的电子产品",
+      "music": 0.0
+    },
+    {
+      "from": 567.749,
+      "to": 571.22,
+      "sid": 196,
+      "location": 2,
+      "content": "或者是你选择可恢复的或者是不可恢复的",
+      "music": 0.0
+    },
+    {
+      "from": 571.22,
+      "to": 573.38,
+      "sid": 197,
+      "location": 2,
+      "content": "自可自己恢复的保险",
+      "music": 0.0
+    },
+    {
+      "from": 573.38,
+      "to": 575.04,
+      "sid": 198,
+      "location": 2,
+      "content": "或者是不可恢复的保险",
+      "music": 0.0
+    },
+    {
+      "from": 575.04,
+      "to": 579.9,
+      "sid": 199,
+      "location": 2,
+      "content": "这也是根据我们电路的一个功能特性来选择的",
+      "music": 0.0
+    },
+    {
+      "from": 580.7,
+      "to": 583.6,
+      "sid": 200,
+      "location": 2,
+      "content": "现在的电子产品当中",
+      "music": 0.0
+    },
+    {
+      "from": 583.6,
+      "to": 588.59,
+      "sid": 201,
+      "location": 2,
+      "content": "一般可能用的嗯自恢复性保险是稍微多一点",
+      "music": 0.0
+    },
+    {
+      "from": 588.59,
+      "to": 591.739,
+      "sid": 202,
+      "location": 2,
+      "content": "因为你不可能这个保险坏了",
+      "music": 0.0
+    },
+    {
+      "from": 591.739,
+      "to": 593.299,
+      "sid": 203,
+      "location": 2,
+      "content": "再把这个电子产品拆开",
+      "music": 0.0
+    },
+    {
+      "from": 593.299,
+      "to": 595.159,
+      "sid": 204,
+      "location": 2,
+      "content": "然后去换一个保险器件",
+      "music": 0.0
+    },
+    {
+      "from": 595.159,
+      "to": 596.77,
+      "sid": 205,
+      "location": 2,
+      "content": "这也不太现实",
+      "music": 0.0
+    },
+    {
+      "from": 596.77,
+      "to": 600.8,
+      "sid": 206,
+      "location": 2,
+      "content": "那么下面看一下保险在原理图当中的表示方法",
+      "music": 0.0
+    },
+    {
+      "from": 602.28,
+      "to": 604.25,
+      "sid": 207,
+      "location": 2,
+      "content": "保险在原理涂装的话",
+      "music": 0.0
+    },
+    {
+      "from": 604.25,
+      "to": 607.25,
+      "sid": 208,
+      "location": 2,
+      "content": "表示方法其实也很简单啊",
+      "music": 0.0
+    },
+    {
+      "from": 607.25,
+      "to": 612.22,
+      "sid": 209,
+      "location": 2,
+      "content": "就简单的几种就是这样子用来表示的",
+      "music": 0.0
+    },
+    {
+      "from": 612.22,
+      "to": 614.719,
+      "sid": 210,
+      "location": 2,
+      "content": "保险通常就是串在电路当中的",
+      "music": 0.0
+    },
+    {
+      "from": 616.24,
+      "to": 619.02,
+      "sid": 211,
+      "location": 2,
+      "content": "最后呢给大家讲几个实例啊",
+      "music": 0.0
+    },
+    {
+      "from": 619.02,
+      "to": 623.34,
+      "sid": 212,
+      "location": 2,
+      "content": "实际上像咱们平平常的一些电子产品当中",
+      "music": 0.0
+    },
+    {
+      "from": 623.34,
+      "to": 624.24,
+      "sid": 213,
+      "location": 2,
+      "content": "都有保险",
+      "music": 0.0
+    },
+    {
+      "from": 624.24,
+      "to": 626.339,
+      "sid": 214,
+      "location": 2,
+      "content": "比如说像咱们那个音响",
+      "music": 0.0
+    },
+    {
+      "from": 626.339,
+      "to": 629.54,
+      "sid": 215,
+      "location": 2,
+      "content": "一箱喇叭系统当中就有保险",
+      "music": 0.0
+    },
+    {
+      "from": 629.54,
+      "to": 633.32,
+      "sid": 216,
+      "location": 2,
+      "content": "像一些咱们的l e d灯当中有保险",
+      "music": 0.0
+    },
+    {
+      "from": 633.32,
+      "to": 636.11,
+      "sid": 217,
+      "location": 2,
+      "content": "他们用的保险都是自恢复性保险",
+      "music": 0.0
+    },
+    {
+      "from": 636.11,
+      "to": 639.13,
+      "sid": 218,
+      "location": 2,
+      "content": "就是当我的嗯",
+      "music": 0.0
+    },
+    {
+      "from": 639.13,
+      "to": 640.48,
+      "sid": 219,
+      "location": 2,
+      "content": "像那种led灯",
+      "music": 0.0
+    },
+    {
+      "from": 640.48,
+      "to": 643.099,
+      "sid": 220,
+      "location": 2,
+      "content": "它启动的时候可能会电流很大",
+      "music": 0.0
+    },
+    {
+      "from": 644.02,
+      "to": 646.62,
+      "sid": 221,
+      "location": 2,
+      "content": "他对电路有损害或之类的",
+      "music": 0.0
+    },
+    {
+      "from": 646.62,
+      "to": 650.87,
+      "sid": 222,
+      "location": 2,
+      "content": "他会就装一个自恢复保险嗯",
+      "music": 0.0
+    },
+    {
+      "from": 650.87,
+      "to": 654.16,
+      "sid": 223,
+      "location": 2,
+      "content": "他会自己断开电路",
+      "music": 0.0
+    },
+    {
+      "from": 654.16,
+      "to": 657.16,
+      "sid": 224,
+      "location": 2,
+      "content": "就是里边的保险成一个高阻状态",
+      "music": 0.0
+    },
+    {
+      "from": 657.16,
+      "to": 661.39,
+      "sid": 225,
+      "location": 2,
+      "content": "就相当于是对电路器断开了啊",
+      "music": 0.0
+    },
+    {
+      "from": 661.39,
+      "to": 663.11,
+      "sid": 226,
+      "location": 2,
+      "content": "起到一个保护作用",
+      "music": 0.0
+    },
+    {
+      "from": 663.11,
+      "to": 664.73,
+      "sid": 227,
+      "location": 2,
+      "content": "还有就是现在有一些",
+      "music": 0.0
+    },
+    {
+      "from": 664.73,
+      "to": 667.49,
+      "sid": 228,
+      "location": 2,
+      "content": "有一些电池或者是电池的管理系统",
+      "music": 0.0
+    },
+    {
+      "from": 667.49,
+      "to": 670.36,
+      "sid": 229,
+      "location": 2,
+      "content": "电池管理板中也会用到保险",
+      "music": 0.0
+    },
+    {
+      "from": 670.36,
+      "to": 673.78,
+      "sid": 230,
+      "location": 2,
+      "content": "我不知道大家对那个特斯拉",
+      "music": 0.0
+    },
+    {
+      "from": 673.8,
+      "to": 677.13,
+      "sid": 231,
+      "location": 2,
+      "content": "特斯拉这个电动车有没有关注过",
+      "music": 0.0
+    },
+    {
+      "from": 677.13,
+      "to": 680.4,
+      "sid": 232,
+      "location": 2,
+      "content": "其实特斯拉电动车",
+      "music": 0.0
+    },
+    {
+      "from": 680.4,
+      "to": 685.34,
+      "sid": 233,
+      "location": 2,
+      "content": "一直是就是在在做这个电动汽车行业",
+      "music": 0.0
+    },
+    {
+      "from": 685.34,
+      "to": 688.13,
+      "sid": 234,
+      "location": 2,
+      "content": "或者是做在在做电池管理系统",
+      "music": 0.0
+    },
+    {
+      "from": 688.13,
+      "to": 689.6,
+      "sid": 235,
+      "location": 2,
+      "content": "这个行业里边",
+      "music": 0.0
+    },
+    {
+      "from": 689.6,
+      "to": 695.28,
+      "sid": 236,
+      "location": 2,
+      "content": "大家都比较那个崇拜的一个一个公司",
+      "music": 0.0
+    },
+    {
+      "from": 695.28,
+      "to": 698.76,
+      "sid": 237,
+      "location": 2,
+      "content": "他们做的那个电池管理系统非常好",
+      "music": 0.0
+    },
+    {
+      "from": 698.76,
+      "to": 704.37,
+      "sid": 238,
+      "location": 2,
+      "content": "有就神人把那个特斯拉电池啊拆解",
+      "music": 0.0
+    },
+    {
+      "from": 704.37,
+      "to": 705.18,
+      "sid": 239,
+      "location": 2,
+      "content": "然后看一下",
+      "music": 0.0
+    },
+    {
+      "from": 705.18,
+      "to": 706.26,
+      "sid": 240,
+      "location": 2,
+      "content": "大家可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 706.26,
+      "to": 711.2,
+      "sid": 241,
+      "location": 2,
+      "content": "这是他拆开的那个电池的一个截图",
+      "music": 0.0
+    },
+    {
+      "from": 711.2,
+      "to": 712.52,
+      "sid": 242,
+      "location": 2,
+      "content": "你可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 712.52,
+      "to": 717.52,
+      "sid": 243,
+      "location": 2,
+      "content": "它每个电池的上面都有一个很细的保险保险丝",
+      "music": 0.0
+    },
+    {
+      "from": 717.52,
+      "to": 718.3,
+      "sid": 244,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 719.12,
+      "to": 723.47,
+      "sid": 245,
+      "location": 2,
+      "content": "也就是说每每当这个电池起有故障的时候",
+      "music": 0.0
+    },
+    {
+      "from": 723.47,
+      "to": 724.01,
+      "sid": 246,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 724.01,
+      "to": 728.339,
+      "sid": 247,
+      "location": 2,
+      "content": "实际上它这个电动车的这个电池有故障的时候",
+      "music": 0.0
+    },
+    {
+      "from": 728.339,
+      "to": 731.879,
+      "sid": 248,
+      "location": 2,
+      "content": "他每每一组电池上面都配有一个电池管理系统",
+      "music": 0.0
+    },
+    {
+      "from": 731.879,
+      "to": 734.0,
+      "sid": 249,
+      "location": 2,
+      "content": "就是有一块b m s板",
+      "music": 0.0
+    },
+    {
+      "from": 734.22,
+      "to": 738.21,
+      "sid": 250,
+      "location": 2,
+      "content": "当电池任何一节电池有故障的时候",
+      "music": 0.0
+    },
+    {
+      "from": 738.21,
+      "to": 742.67,
+      "sid": 251,
+      "location": 2,
+      "content": "他那个b m s版是会及时的反馈这个故障",
+      "music": 0.0
+    },
+    {
+      "from": 742.67,
+      "to": 749.65,
+      "sid": 252,
+      "location": 2,
+      "content": "并且就是会就是防止这些危险发生的",
+      "music": 0.0
+    },
+    {
+      "from": 749.65,
+      "to": 754.75,
+      "sid": 253,
+      "location": 2,
+      "content": "但是他们还是在每节电池上面都放了一个保险",
+      "music": 0.0
+    },
+    {
+      "from": 754.75,
+      "to": 757.69,
+      "sid": 254,
+      "location": 2,
+      "content": "这样也就是说双重是对",
+      "music": 0.0
+    },
+    {
+      "from": 757.69,
+      "to": 761.17,
+      "sid": 255,
+      "location": 2,
+      "content": "这个整个的电动车是一个双重保险啊",
+      "music": 0.0
+    },
+    {
+      "from": 761.17,
+      "to": 763.42,
+      "sid": 256,
+      "location": 2,
+      "content": "我不仅依靠于b m s版",
+      "music": 0.0
+    },
+    {
+      "from": 763.6,
+      "to": 765.7,
+      "sid": 257,
+      "location": 2,
+      "content": "对我这些电池进行管理系统",
+      "music": 0.0
+    },
+    {
+      "from": 765.7,
+      "to": 768.22,
+      "sid": 258,
+      "location": 2,
+      "content": "而且我有单令的这个保险",
+      "music": 0.0
+    },
+    {
+      "from": 768.22,
+      "to": 770.32,
+      "sid": 259,
+      "location": 2,
+      "content": "一旦这个电池出现问题了",
+      "music": 0.0
+    },
+    {
+      "from": 770.32,
+      "to": 772.36,
+      "sid": 260,
+      "location": 2,
+      "content": "我这个保险立马就断开了",
+      "music": 0.0
+    },
+    {
+      "from": 772.36,
+      "to": 776.62,
+      "sid": 261,
+      "location": 2,
+      "content": "从而是从而对整个系统都有一个保险",
+      "music": 0.0
+    },
+    {
+      "from": 776.96,
+      "to": 778.52,
+      "sid": 262,
+      "location": 2,
+      "content": "这就是电",
+      "music": 0.0
+    },
+    {
+      "from": 778.52,
+      "to": 782.56,
+      "sid": 263,
+      "location": 2,
+      "content": "这就是保险在咱们这个电路当中的应用啊",
+      "music": 0.0
+    },
+    {
+      "from": 782.66,
+      "to": 786.95,
+      "sid": 264,
+      "location": 2,
+      "content": "保险其实在咱们生活中无处不在",
+      "music": 0.0
+    },
+    {
+      "from": 786.95,
+      "to": 791.34,
+      "sid": 265,
+      "location": 2,
+      "content": "大家可以就是呃看一下嗯",
+      "music": 0.0
+    },
+    {
+      "from": 791.34,
+      "to": 794.46,
+      "sid": 266,
+      "location": 2,
+      "content": "或者是回想一下在咱们生活当中",
+      "music": 0.0
+    },
+    {
+      "from": 794.46,
+      "to": 797.699,
+      "sid": 267,
+      "location": 2,
+      "content": "哪些地方可能会有保险的使用",
+      "music": 0.0
+    },
+    {
+      "from": 798.46,
+      "to": 801.36,
+      "sid": 268,
+      "location": 2,
+      "content": "而且这种保险器件也非常好买",
+      "music": 0.0
+    },
+    {
+      "from": 801.36,
+      "to": 803.12,
+      "sid": 269,
+      "location": 2,
+      "content": "大家可以用一下",
+      "music": 0.0
+    },
+    {
+      "from": 803.26,
+      "to": 804.58,
+      "sid": 270,
+      "location": 2,
+      "content": "最后补充一下",
+      "music": 0.0
+    },
+    {
+      "from": 804.58,
+      "to": 807.22,
+      "sid": 271,
+      "location": 2,
+      "content": "这个保险实际上是比较好测试的啊",
+      "music": 0.0
+    },
+    {
+      "from": 807.22,
+      "to": 811.64,
+      "sid": 272,
+      "location": 2,
+      "content": "咱们大家在就是电路板调试",
+      "music": 0.0
+    },
+    {
+      "from": 811.64,
+      "to": 814.3,
+      "sid": 273,
+      "location": 2,
+      "content": "或或或者是电路维护当中",
+      "music": 0.0
+    },
+    {
+      "from": 814.3,
+      "to": 817.36,
+      "sid": 274,
+      "location": 2,
+      "content": "想测量一个保险的好坏",
+      "music": 0.0
+    },
+    {
+      "from": 817.36,
+      "to": 819.22,
+      "sid": 275,
+      "location": 2,
+      "content": "直接用万用表就可以测量了",
+      "music": 0.0
+    },
+    {
+      "from": 819.22,
+      "to": 823.78,
+      "sid": 276,
+      "location": 2,
+      "content": "因为嗯用万用表的那个分屏器档",
+      "music": 0.0
+    },
+    {
+      "from": 823.78,
+      "to": 826.06,
+      "sid": 277,
+      "location": 2,
+      "content": "因为保险在正常状态下",
+      "music": 0.0
+    },
+    {
+      "from": 826.06,
+      "to": 827.8,
+      "sid": 278,
+      "location": 2,
+      "content": "他的组织是比较小的",
+      "music": 0.0
+    },
+    {
+      "from": 827.8,
+      "to": 831.89,
+      "sid": 279,
+      "location": 2,
+      "content": "分明气囊一打就就能测试出这个保险的好与坏",
+      "music": 0.0
+    },
+    {
+      "from": 831.89,
+      "to": 834.53,
+      "sid": 280,
+      "location": 2,
+      "content": "那么今天呢对于关于这个保险",
+      "music": 0.0
+    },
+    {
+      "from": 834.53,
+      "to": 836.66,
+      "sid": 281,
+      "location": 2,
+      "content": "我们就讲到这里啊",
+      "music": 0.0
+    },
+    {
+      "from": 836.66,
+      "to": 839.04,
+      "sid": 282,
+      "location": 2,
+      "content": "咱们下节课再接着讲其他内容",
+      "music": 0.0
+    }
+  ]
+}

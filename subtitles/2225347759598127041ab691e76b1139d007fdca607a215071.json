@@ -1,0 +1,3580 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 6.26,
+      "to": 8.06,
+      "sid": 1,
+      "location": 2,
+      "content": "现在咱们来讲一下三极管",
+      "music": 0.0
+    },
+    {
+      "from": 8.06,
+      "to": 10.53,
+      "sid": 2,
+      "location": 2,
+      "content": "首先还是来看一下三极管的图片",
+      "music": 0.0
+    },
+    {
+      "from": 10.53,
+      "to": 13.77,
+      "sid": 3,
+      "location": 2,
+      "content": "三极管也是非常常见的一个电子元器件",
+      "music": 0.0
+    },
+    {
+      "from": 13.77,
+      "to": 18.63,
+      "sid": 4,
+      "location": 2,
+      "content": "半导体三极管经常用于啊咱们的电子产品当中",
+      "music": 0.0
+    },
+    {
+      "from": 18.63,
+      "to": 20.96,
+      "sid": 5,
+      "location": 2,
+      "content": "这是不同封装形式的三极管",
+      "music": 0.0
+    },
+    {
+      "from": 21.919,
+      "to": 22.839,
+      "sid": 6,
+      "location": 2,
+      "content": "有贴片的",
+      "music": 0.0
+    },
+    {
+      "from": 22.839,
+      "to": 23.859,
+      "sid": 7,
+      "location": 2,
+      "content": "也有插件的",
+      "music": 0.0
+    },
+    {
+      "from": 23.859,
+      "to": 27.339,
+      "sid": 8,
+      "location": 2,
+      "content": "下面都是写的他的服装形式啊",
+      "music": 0.0
+    },
+    {
+      "from": 27.339,
+      "to": 28.719,
+      "sid": 9,
+      "location": 2,
+      "content": "这就是一些三极管的",
+      "music": 0.0
+    },
+    {
+      "from": 28.719,
+      "to": 31.1,
+      "sid": 10,
+      "location": 2,
+      "content": "这是它的一个散热片",
+      "music": 0.0
+    },
+    {
+      "from": 32.12,
+      "to": 34.36,
+      "sid": 11,
+      "location": 2,
+      "content": "这就是一些三极管的啊",
+      "music": 0.0
+    },
+    {
+      "from": 34.36,
+      "to": 37.739,
+      "sid": 12,
+      "location": 2,
+      "content": "图片我们来看一下什么是三极管",
+      "music": 0.0
+    },
+    {
+      "from": 38.68,
+      "to": 40.14,
+      "sid": 13,
+      "location": 2,
+      "content": "半导体三极管呢",
+      "music": 0.0
+    },
+    {
+      "from": 40.14,
+      "to": 44.46,
+      "sid": 14,
+      "location": 2,
+      "content": "实际是实际上是一个双极结型的晶体管",
+      "music": 0.0
+    },
+    {
+      "from": 44.46,
+      "to": 46.86,
+      "sid": 15,
+      "location": 2,
+      "content": "也就是说它里边有两个拼音节",
+      "music": 0.0
+    },
+    {
+      "from": 46.86,
+      "to": 52.08,
+      "sid": 16,
+      "location": 2,
+      "content": "这两个拼音节呢背靠背它引出来三个电极啊",
+      "music": 0.0
+    },
+    {
+      "from": 52.08,
+      "to": 54.96,
+      "sid": 17,
+      "location": 2,
+      "content": "他跟咱们上节课讲的二极管很像",
+      "music": 0.0
+    },
+    {
+      "from": 54.96,
+      "to": 56.04,
+      "sid": 18,
+      "location": 2,
+      "content": "但又不同",
+      "music": 0.0
+    },
+    {
+      "from": 57.54,
+      "to": 62.34,
+      "sid": 19,
+      "location": 2,
+      "content": "很多同学在看这个三极管的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 62.34,
+      "to": 65.94,
+      "sid": 20,
+      "location": 2,
+      "content": "一开始也想对比着二极管来学习啊",
+      "music": 0.0
+    },
+    {
+      "from": 65.94,
+      "to": 66.84,
+      "sid": 21,
+      "location": 2,
+      "content": "是可以的",
+      "music": 0.0
+    },
+    {
+      "from": 66.84,
+      "to": 68.7,
+      "sid": 22,
+      "location": 2,
+      "content": "但是完又不完全相同",
+      "music": 0.0
+    },
+    {
+      "from": 68.7,
+      "to": 70.77,
+      "sid": 23,
+      "location": 2,
+      "content": "大家在学习的时候要注意",
+      "music": 0.0
+    },
+    {
+      "from": 70.77,
+      "to": 75.589,
+      "sid": 24,
+      "location": 2,
+      "content": "三极管呢有三三个集电极",
+      "music": 0.0
+    },
+    {
+      "from": 75.589,
+      "to": 79.06,
+      "sid": 25,
+      "location": 2,
+      "content": "是积极发射极和集电极",
+      "music": 0.0
+    },
+    {
+      "from": 82.78,
+      "to": 84.96,
+      "sid": 26,
+      "location": 2,
+      "content": "那么我们来看一下三极管的分类",
+      "music": 0.0
+    },
+    {
+      "from": 84.96,
+      "to": 89.119,
+      "sid": 27,
+      "location": 2,
+      "content": "三极管按照结构可以分为np n型和p np型",
+      "music": 0.0
+    },
+    {
+      "from": 89.44,
+      "to": 92.62,
+      "sid": 28,
+      "location": 2,
+      "content": "按照材质来分分为硅管和锗管",
+      "music": 0.0
+    },
+    {
+      "from": 92.62,
+      "to": 95.71,
+      "sid": 29,
+      "location": 2,
+      "content": "按照频率来分分为低频和高频",
+      "music": 0.0
+    },
+    {
+      "from": 95.71,
+      "to": 97.66,
+      "sid": 30,
+      "location": 2,
+      "content": "按照分功率来分",
+      "music": 0.0
+    },
+    {
+      "from": 97.66,
+      "to": 101.28,
+      "sid": 31,
+      "location": 2,
+      "content": "分为小中小中大功率",
+      "music": 0.0
+    },
+    {
+      "from": 104.12,
+      "to": 107.08,
+      "sid": 32,
+      "location": 2,
+      "content": "这就是我们经常看到的一个三极管",
+      "music": 0.0
+    },
+    {
+      "from": 107.08,
+      "to": 108.88,
+      "sid": 33,
+      "location": 2,
+      "content": "的表示方法啊",
+      "music": 0.0
+    },
+    {
+      "from": 108.88,
+      "to": 110.44,
+      "sid": 34,
+      "location": 2,
+      "content": "这就是它的积极",
+      "music": 0.0
+    },
+    {
+      "from": 110.44,
+      "to": 111.7,
+      "sid": 35,
+      "location": 2,
+      "content": "这是它的集电极",
+      "music": 0.0
+    },
+    {
+      "from": 111.7,
+      "to": 113.14,
+      "sid": 36,
+      "location": 2,
+      "content": "这是它的发射机",
+      "music": 0.0
+    },
+    {
+      "from": 113.14,
+      "to": 114.82,
+      "sid": 37,
+      "location": 2,
+      "content": "那么我们来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 114.82,
+      "to": 117.79,
+      "sid": 38,
+      "location": 2,
+      "content": "这个三极管的结构是怎么样的",
+      "music": 0.0
+    },
+    {
+      "from": 117.79,
+      "to": 119.44,
+      "sid": 39,
+      "location": 2,
+      "content": "虽然它有两个拼音节",
+      "music": 0.0
+    },
+    {
+      "from": 119.44,
+      "to": 122.73,
+      "sid": 40,
+      "location": 2,
+      "content": "但并不是有两个啊",
+      "music": 0.0
+    },
+    {
+      "from": 122.73,
+      "to": 126.62,
+      "sid": 41,
+      "location": 2,
+      "content": "二极管简单的串并联来组成的",
+      "music": 0.0
+    },
+    {
+      "from": 126.62,
+      "to": 129.88,
+      "sid": 42,
+      "location": 2,
+      "content": "因为很多很多人在看到它的定义的时候",
+      "music": 0.0
+    },
+    {
+      "from": 129.88,
+      "to": 133.27,
+      "sid": 43,
+      "location": 2,
+      "content": "很容易把它理解成是两个简单的二极管",
+      "music": 0.0
+    },
+    {
+      "from": 133.27,
+      "to": 134.35,
+      "sid": 44,
+      "location": 2,
+      "content": "串并联组成的",
+      "music": 0.0
+    },
+    {
+      "from": 134.35,
+      "to": 135.28,
+      "sid": 45,
+      "location": 2,
+      "content": "其实不一样",
+      "music": 0.0
+    },
+    {
+      "from": 135.28,
+      "to": 139.51,
+      "sid": 46,
+      "location": 2,
+      "content": "大家通过这个n p n型的这个三极管的结构图",
+      "music": 0.0
+    },
+    {
+      "from": 139.51,
+      "to": 140.29,
+      "sid": 47,
+      "location": 2,
+      "content": "可以看出来",
+      "music": 0.0
+    },
+    {
+      "from": 141.31,
+      "to": 147.3,
+      "sid": 48,
+      "location": 2,
+      "content": "实际上它们是共用一个g7 p的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 147.579,
+      "to": 150.759,
+      "sid": 49,
+      "location": 2,
+      "content": "这个p区呢实际上是很薄的",
+      "music": 0.0
+    },
+    {
+      "from": 150.759,
+      "to": 152.979,
+      "sid": 50,
+      "location": 2,
+      "content": "它它是嗯",
+      "music": 0.0
+    },
+    {
+      "from": 152.979,
+      "to": 158.32,
+      "sid": 51,
+      "location": 2,
+      "content": "靠它来将这两个拼音节结合成一个整整体",
+      "music": 0.0
+    },
+    {
+      "from": 161.22,
+      "to": 164.6,
+      "sid": 52,
+      "location": 2,
+      "content": "通常呢这个三极管在外加电压的作用下",
+      "music": 0.0
+    },
+    {
+      "from": 164.6,
+      "to": 166.37,
+      "sid": 53,
+      "location": 2,
+      "content": "通常会形成一个积极电流",
+      "music": 0.0
+    },
+    {
+      "from": 166.37,
+      "to": 170.04,
+      "sid": 54,
+      "location": 2,
+      "content": "积极电流就是在这儿的大家画一下",
+      "music": 0.0
+    },
+    {
+      "from": 172.1,
+      "to": 175.92,
+      "sid": 55,
+      "location": 2,
+      "content": "机器电流在这对吧",
+      "music": 0.0
+    },
+    {
+      "from": 175.92,
+      "to": 176.58,
+      "sid": 56,
+      "location": 2,
+      "content": "在这画吧",
+      "music": 0.0
+    },
+    {
+      "from": 176.58,
+      "to": 177.66,
+      "sid": 57,
+      "location": 2,
+      "content": "这还清楚啊",
+      "music": 0.0
+    },
+    {
+      "from": 177.66,
+      "to": 179.12,
+      "sid": 58,
+      "location": 2,
+      "content": "积极电流是在这儿的",
+      "music": 0.0
+    },
+    {
+      "from": 180.559,
+      "to": 182.289,
+      "sid": 59,
+      "location": 2,
+      "content": "会形成一个积极电流",
+      "music": 0.0
+    },
+    {
+      "from": 182.289,
+      "to": 184.479,
+      "sid": 60,
+      "location": 2,
+      "content": "还有一个集电极电流",
+      "music": 0.0
+    },
+    {
+      "from": 184.479,
+      "to": 186.039,
+      "sid": 61,
+      "location": 2,
+      "content": "集电极电流是这样呀",
+      "music": 0.0
+    },
+    {
+      "from": 186.039,
+      "to": 189.34,
+      "sid": 62,
+      "location": 2,
+      "content": "在这儿的还有一个设计电流",
+      "music": 0.0
+    },
+    {
+      "from": 189.34,
+      "to": 191.06,
+      "sid": 63,
+      "location": 2,
+      "content": "设计电流在这儿的",
+      "music": 0.0
+    },
+    {
+      "from": 193.519,
+      "to": 197.259,
+      "sid": 64,
+      "location": 2,
+      "content": "通常呢会有这三个电流在外加电压的作用下",
+      "music": 0.0
+    },
+    {
+      "from": 197.259,
+      "to": 198.84,
+      "sid": 65,
+      "location": 2,
+      "content": "会形成三个电流",
+      "music": 0.0
+    },
+    {
+      "from": 199.16,
+      "to": 200.18,
+      "sid": 66,
+      "location": 2,
+      "content": "这就是",
+      "music": 0.0
+    },
+    {
+      "from": 203.06,
+      "to": 204.94,
+      "sid": 67,
+      "location": 2,
+      "content": "三极管的一个结构",
+      "music": 0.0
+    },
+    {
+      "from": 208.24,
+      "to": 211.13,
+      "sid": 68,
+      "location": 2,
+      "content": "我们来看一下三极管的一个工作原理啊",
+      "music": 0.0
+    },
+    {
+      "from": 211.13,
+      "to": 213.83,
+      "sid": 69,
+      "location": 2,
+      "content": "三极管呢其实三极管的放大作用",
+      "music": 0.0
+    },
+    {
+      "from": 213.83,
+      "to": 215.15,
+      "sid": 70,
+      "location": 2,
+      "content": "通常说三极管有什么作用",
+      "music": 0.0
+    },
+    {
+      "from": 215.15,
+      "to": 217.34,
+      "sid": 71,
+      "location": 2,
+      "content": "它就是大家最基本的一个认识",
+      "music": 0.0
+    },
+    {
+      "from": 217.34,
+      "to": 219.2,
+      "sid": 72,
+      "location": 2,
+      "content": "就是三极管有一个电流放大作用",
+      "music": 0.0
+    },
+    {
+      "from": 219.2,
+      "to": 222.3,
+      "sid": 73,
+      "location": 2,
+      "content": "实际上三极管的这个本身的一个工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 222.3,
+      "to": 225.989,
+      "sid": 74,
+      "location": 2,
+      "content": "跟它内部结构有很大的关系",
+      "music": 0.0
+    },
+    {
+      "from": 225.989,
+      "to": 227.579,
+      "sid": 75,
+      "location": 2,
+      "content": "但是它内部结构比较复杂",
+      "music": 0.0
+    },
+    {
+      "from": 227.579,
+      "to": 230.41,
+      "sid": 76,
+      "location": 2,
+      "content": "对于我们初学者来说可以不必深究啊",
+      "music": 0.0
+    },
+    {
+      "from": 230.41,
+      "to": 233.56,
+      "sid": 77,
+      "location": 2,
+      "content": "我们只从应用上来讲它的工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 233.56,
+      "to": 237.28,
+      "sid": 78,
+      "location": 2,
+      "content": "我们可以把三极管看成一个是电流分配器",
+      "music": 0.0
+    },
+    {
+      "from": 237.28,
+      "to": 238.72,
+      "sid": 79,
+      "location": 2,
+      "content": "就像图中这样",
+      "music": 0.0
+    },
+    {
+      "from": 238.72,
+      "to": 240.54,
+      "sid": 80,
+      "location": 2,
+      "content": "它有三个电流对吧",
+      "music": 0.0
+    },
+    {
+      "from": 240.54,
+      "to": 243.66,
+      "sid": 81,
+      "location": 2,
+      "content": "这三个电流呢实际上是有一定的关系的",
+      "music": 0.0
+    },
+    {
+      "from": 243.66,
+      "to": 245.8,
+      "sid": 82,
+      "location": 2,
+      "content": "这三个电流是相互影响的",
+      "music": 0.0
+    },
+    {
+      "from": 245.8,
+      "to": 249.4,
+      "sid": 83,
+      "location": 2,
+      "content": "那么如果我们改变其中的一个电流啊",
+      "music": 0.0
+    },
+    {
+      "from": 249.4,
+      "to": 251.56,
+      "sid": 84,
+      "location": 2,
+      "content": "其他电流呢也会跟着改变",
+      "music": 0.0
+    },
+    {
+      "from": 255.8,
+      "to": 257.32,
+      "sid": 85,
+      "location": 2,
+      "content": "值得注意的是啊",
+      "music": 0.0
+    },
+    {
+      "from": 257.32,
+      "to": 259.6,
+      "sid": 86,
+      "location": 2,
+      "content": "对于这个三极管的电流放大作用",
+      "music": 0.0
+    },
+    {
+      "from": 259.6,
+      "to": 262.69,
+      "sid": 87,
+      "location": 2,
+      "content": "并不是说三极管就能把小电流变成大电流",
+      "music": 0.0
+    },
+    {
+      "from": 262.69,
+      "to": 265.79,
+      "sid": 88,
+      "location": 2,
+      "content": "而三极管呢仅仅是一个控制作用",
+      "music": 0.0
+    },
+    {
+      "from": 265.79,
+      "to": 269.39,
+      "sid": 89,
+      "location": 2,
+      "content": "它是控制着这个电路当中的电源",
+      "music": 0.0
+    },
+    {
+      "from": 269.39,
+      "to": 273.77,
+      "sid": 90,
+      "location": 2,
+      "content": "我们可以用比较通俗一点的方法来讲",
+      "music": 0.0
+    },
+    {
+      "from": 273.77,
+      "to": 278.18,
+      "sid": 91,
+      "location": 2,
+      "content": "就是我们把这个呃电流比喻成水流",
+      "music": 0.0
+    },
+    {
+      "from": 278.599,
+      "to": 280.849,
+      "sid": 92,
+      "location": 2,
+      "content": "把电流比喻成水流的话",
+      "music": 0.0
+    },
+    {
+      "from": 280.849,
+      "to": 284.87,
+      "sid": 93,
+      "location": 2,
+      "content": "比如说我这边这个积极它是一个小水管",
+      "music": 0.0
+    },
+    {
+      "from": 284.87,
+      "to": 287.24,
+      "sid": 94,
+      "location": 2,
+      "content": "这个小水管里边有水流通过",
+      "music": 0.0
+    },
+    {
+      "from": 287.24,
+      "to": 288.46,
+      "sid": 95,
+      "location": 2,
+      "content": "那么这个",
+      "music": 0.0
+    },
+    {
+      "from": 290.16,
+      "to": 292.94,
+      "sid": 96,
+      "location": 2,
+      "content": "集电极到发射极是一个大水管",
+      "music": 0.0
+    },
+    {
+      "from": 292.94,
+      "to": 294.08,
+      "sid": 97,
+      "location": 2,
+      "content": "这个大水管很粗",
+      "music": 0.0
+    },
+    {
+      "from": 294.08,
+      "to": 295.37,
+      "sid": 98,
+      "location": 2,
+      "content": "可以流过很多的水",
+      "music": 0.0
+    },
+    {
+      "from": 295.37,
+      "to": 298.81,
+      "sid": 99,
+      "location": 2,
+      "content": "但是大水管里边它有一个闸门",
+      "music": 0.0
+    },
+    {
+      "from": 298.81,
+      "to": 302.669,
+      "sid": 100,
+      "location": 2,
+      "content": "这个闸门他对于这个这个大水管来说",
+      "music": 0.0
+    },
+    {
+      "from": 302.669,
+      "to": 303.869,
+      "sid": 101,
+      "location": 2,
+      "content": "它自身是不能打开的",
+      "music": 0.0
+    },
+    {
+      "from": 303.869,
+      "to": 306.239,
+      "sid": 102,
+      "location": 2,
+      "content": "而是要依靠这个小水管来打开的",
+      "music": 0.0
+    },
+    {
+      "from": 306.239,
+      "to": 309.869,
+      "sid": 103,
+      "location": 2,
+      "content": "也就是说我这个小水管流过的小小小小水流",
+      "music": 0.0
+    },
+    {
+      "from": 309.869,
+      "to": 312.34,
+      "sid": 104,
+      "location": 2,
+      "content": "可以把这个闸门打开",
+      "music": 0.0
+    },
+    {
+      "from": 312.96,
+      "to": 314.48,
+      "sid": 105,
+      "location": 2,
+      "content": "那这样子的话",
+      "music": 0.0
+    },
+    {
+      "from": 314.48,
+      "to": 317.93,
+      "sid": 106,
+      "location": 2,
+      "content": "如果我如果我这个小小水",
+      "music": 0.0
+    },
+    {
+      "from": 317.93,
+      "to": 320.9,
+      "sid": 107,
+      "location": 2,
+      "content": "小水管里边这个水流大一点的话",
+      "music": 0.0
+    },
+    {
+      "from": 320.9,
+      "to": 322.7,
+      "sid": 108,
+      "location": 2,
+      "content": "就可以把这个闸门打的大一点",
+      "music": 0.0
+    },
+    {
+      "from": 322.7,
+      "to": 325.16,
+      "sid": 109,
+      "location": 2,
+      "content": "然后我这边流过的水流就会多一点",
+      "music": 0.0
+    },
+    {
+      "from": 325.16,
+      "to": 330.02,
+      "sid": 110,
+      "location": 2,
+      "content": "这就是就像是这个就就像是用这个小水流唉",
+      "music": 0.0
+    },
+    {
+      "from": 330.02,
+      "to": 332.48,
+      "sid": 111,
+      "location": 2,
+      "content": "来控制这个大水管的那个水流",
+      "music": 0.0
+    },
+    {
+      "from": 332.48,
+      "to": 336.42,
+      "sid": 112,
+      "location": 2,
+      "content": "这就是以以小控制大的这样一个一个作用",
+      "music": 0.0
+    },
+    {
+      "from": 336.68,
+      "to": 339.74,
+      "sid": 113,
+      "location": 2,
+      "content": "那么对于这个放大作用呢",
+      "music": 0.0
+    },
+    {
+      "from": 339.74,
+      "to": 342.44,
+      "sid": 114,
+      "location": 2,
+      "content": "通常是有这样的一个关系",
+      "music": 0.0
+    },
+    {
+      "from": 343.42,
+      "to": 346.13,
+      "sid": 115,
+      "location": 2,
+      "content": "对于这个这边的电流是ib",
+      "music": 0.0
+    },
+    {
+      "from": 346.13,
+      "to": 349.16,
+      "sid": 116,
+      "location": 2,
+      "content": "这个集电极流过的电流是i c",
+      "music": 0.0
+    },
+    {
+      "from": 349.16,
+      "to": 353.24,
+      "sid": 117,
+      "location": 2,
+      "content": "通常ic等于贝塔倍的ib等于阿拉法贝的i e",
+      "music": 0.0
+    },
+    {
+      "from": 353.34,
+      "to": 354.81,
+      "sid": 118,
+      "location": 2,
+      "content": "这是ie",
+      "music": 0.0
+    },
+    {
+      "from": 354.81,
+      "to": 358.56,
+      "sid": 119,
+      "location": 2,
+      "content": "那么我们可以把阿拉法和贝塔看成两个系数",
+      "music": 0.0
+    },
+    {
+      "from": 358.56,
+      "to": 361.56,
+      "sid": 120,
+      "location": 2,
+      "content": "通常把这个贝塔叫做电流放大系数",
+      "music": 0.0
+    },
+    {
+      "from": 363.4,
+      "to": 364.92,
+      "sid": 121,
+      "location": 2,
+      "content": "那么有的人就说了",
+      "music": 0.0
+    },
+    {
+      "from": 364.92,
+      "to": 367.92,
+      "sid": 122,
+      "location": 2,
+      "content": "既然通过这个ip可以控制到这个aic",
+      "music": 0.0
+    },
+    {
+      "from": 367.92,
+      "to": 369.18,
+      "sid": 123,
+      "location": 2,
+      "content": "对它有一个放大作用",
+      "music": 0.0
+    },
+    {
+      "from": 369.18,
+      "to": 371.58,
+      "sid": 124,
+      "location": 2,
+      "content": "那可不可以把这个贝塔值取得很大",
+      "music": 0.0
+    },
+    {
+      "from": 371.58,
+      "to": 372.3,
+      "sid": 125,
+      "location": 2,
+      "content": "这样子的话",
+      "music": 0.0
+    },
+    {
+      "from": 372.3,
+      "to": 374.79,
+      "sid": 126,
+      "location": 2,
+      "content": "我的这个整个电路端的电流",
+      "music": 0.0
+    },
+    {
+      "from": 374.79,
+      "to": 376.71,
+      "sid": 127,
+      "location": 2,
+      "content": "就会放大的倍数更大一点",
+      "music": 0.0
+    },
+    {
+      "from": 376.71,
+      "to": 378.8,
+      "sid": 128,
+      "location": 2,
+      "content": "是不是被它越越大越好呢",
+      "music": 0.0
+    },
+    {
+      "from": 378.8,
+      "to": 380.96,
+      "sid": 129,
+      "location": 2,
+      "content": "这是我给大家留的一个思考题",
+      "music": 0.0
+    },
+    {
+      "from": 380.96,
+      "to": 383.74,
+      "sid": 130,
+      "location": 2,
+      "content": "大家可以想一下是不是这样呀",
+      "music": 0.0
+    },
+    {
+      "from": 384.06,
+      "to": 386.04,
+      "sid": 131,
+      "location": 2,
+      "content": "那我觉得肯定不是的",
+      "music": 0.0
+    },
+    {
+      "from": 386.04,
+      "to": 390.379,
+      "sid": 132,
+      "location": 2,
+      "content": "因为没有什么事情是绝对的啊",
+      "music": 0.0
+    },
+    {
+      "from": 390.379,
+      "to": 391.789,
+      "sid": 133,
+      "location": 2,
+      "content": "他不会说呃",
+      "music": 0.0
+    },
+    {
+      "from": 391.789,
+      "to": 393.78,
+      "sid": 134,
+      "location": 2,
+      "content": "他越大就会越好",
+      "music": 0.0
+    },
+    {
+      "from": 393.78,
+      "to": 395.88,
+      "sid": 135,
+      "location": 2,
+      "content": "它肯定会有一个制约的因素",
+      "music": 0.0
+    },
+    {
+      "from": 395.88,
+      "to": 397.9,
+      "sid": 136,
+      "location": 2,
+      "content": "比如说在这个电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 398.539,
+      "to": 402.079,
+      "sid": 137,
+      "location": 2,
+      "content": "从c流往e就存在了一个有害的电流",
+      "music": 0.0
+    },
+    {
+      "from": 402.079,
+      "to": 404.94,
+      "sid": 138,
+      "location": 2,
+      "content": "我们通常把它称为i ceo",
+      "music": 0.0
+    },
+    {
+      "from": 406.66,
+      "to": 412.94,
+      "sid": 139,
+      "location": 2,
+      "content": "就是这个i c e啊",
+      "music": 0.0
+    },
+    {
+      "from": 412.94,
+      "to": 414.23,
+      "sid": 140,
+      "location": 2,
+      "content": "通常就是这个电流",
+      "music": 0.0
+    },
+    {
+      "from": 414.23,
+      "to": 418.74,
+      "sid": 141,
+      "location": 2,
+      "content": "这个电流呢它是只要是贝塔值已增大",
+      "music": 0.0
+    },
+    {
+      "from": 419.92,
+      "to": 421.68,
+      "sid": 142,
+      "location": 2,
+      "content": "这个值就会增大",
+      "music": 0.0
+    },
+    {
+      "from": 423.68,
+      "to": 426.97,
+      "sid": 143,
+      "location": 2,
+      "content": "而且这个值它是不受这个ip控制的",
+      "music": 0.0
+    },
+    {
+      "from": 426.97,
+      "to": 433.5,
+      "sid": 144,
+      "location": 2,
+      "content": "而ac i c等于贝塔值加上a贝塔值乘以a b",
+      "music": 0.0
+    },
+    {
+      "from": 433.5,
+      "to": 438.76,
+      "sid": 145,
+      "location": 2,
+      "content": "同时再加上这个同时再加上这个有害的漏电流",
+      "music": 0.0
+    },
+    {
+      "from": 443.0,
+      "to": 445.24,
+      "sid": 146,
+      "location": 2,
+      "content": "那么一旦温度升高的话",
+      "music": 0.0
+    },
+    {
+      "from": 445.24,
+      "to": 447.7,
+      "sid": 147,
+      "location": 2,
+      "content": "这个是受温度的影响特别大",
+      "music": 0.0
+    },
+    {
+      "from": 447.7,
+      "to": 449.36,
+      "sid": 148,
+      "location": 2,
+      "content": "一旦温度升高的话",
+      "music": 0.0
+    },
+    {
+      "from": 449.68,
+      "to": 452.38,
+      "sid": 149,
+      "location": 2,
+      "content": "那么它就是一个极不稳定的因素",
+      "music": 0.0
+    },
+    {
+      "from": 452.38,
+      "to": 454.54,
+      "sid": 150,
+      "location": 2,
+      "content": "它对这个整个放大电路的稳定性",
+      "music": 0.0
+    },
+    {
+      "from": 454.54,
+      "to": 455.92,
+      "sid": 151,
+      "location": 2,
+      "content": "就会有很大的影响",
+      "music": 0.0
+    },
+    {
+      "from": 455.92,
+      "to": 458.32,
+      "sid": 152,
+      "location": 2,
+      "content": "因此并不是贝塔值越大",
+      "music": 0.0
+    },
+    {
+      "from": 458.32,
+      "to": 460.88,
+      "sid": 153,
+      "location": 2,
+      "content": "这个对于这个放大电路会越好",
+      "music": 0.0
+    },
+    {
+      "from": 461.819,
+      "to": 463.879,
+      "sid": 154,
+      "location": 2,
+      "content": "所以呢这个是大家需要注意的",
+      "music": 0.0
+    },
+    {
+      "from": 463.879,
+      "to": 466.339,
+      "sid": 155,
+      "location": 2,
+      "content": "通常这个北大值是有一定的取值范围的",
+      "music": 0.0
+    },
+    {
+      "from": 466.339,
+      "to": 468.5,
+      "sid": 156,
+      "location": 2,
+      "content": "比如说对于硅管来说",
+      "music": 0.0
+    },
+    {
+      "from": 468.5,
+      "to": 471.02,
+      "sid": 157,
+      "location": 2,
+      "content": "它的取值范围是40~150",
+      "music": 0.0
+    },
+    {
+      "from": 471.02,
+      "to": 471.86,
+      "sid": 158,
+      "location": 2,
+      "content": "对于折管来说",
+      "music": 0.0
+    },
+    {
+      "from": 471.86,
+      "to": 474.649,
+      "sid": 159,
+      "location": 2,
+      "content": "它的取值范围是40~80嗯",
+      "music": 0.0
+    },
+    {
+      "from": 474.649,
+      "to": 479.48,
+      "sid": 160,
+      "location": 2,
+      "content": "这就是三极管的一个工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 481.3,
+      "to": 483.18,
+      "sid": 161,
+      "location": 2,
+      "content": "那么下面呢我们来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 483.18,
+      "to": 484.92,
+      "sid": 162,
+      "location": 2,
+      "content": "三极管的一个特性曲线",
+      "music": 0.0
+    },
+    {
+      "from": 485.4,
+      "to": 488.22,
+      "sid": 163,
+      "location": 2,
+      "content": "三极管的特性曲线分为输入特性曲线和",
+      "music": 0.0
+    },
+    {
+      "from": 488.22,
+      "to": 489.36,
+      "sid": 164,
+      "location": 2,
+      "content": "输出特性曲线",
+      "music": 0.0
+    },
+    {
+      "from": 489.36,
+      "to": 491.31,
+      "sid": 165,
+      "location": 2,
+      "content": "对于输入特性曲线来讲",
+      "music": 0.0
+    },
+    {
+      "from": 491.31,
+      "to": 494.94,
+      "sid": 166,
+      "location": 2,
+      "content": "它描述的是当uc e一定的时候",
+      "music": 0.0
+    },
+    {
+      "from": 494.94,
+      "to": 496.799,
+      "sid": 167,
+      "location": 2,
+      "content": "u c e一定的时候",
+      "music": 0.0
+    },
+    {
+      "from": 496.799,
+      "to": 500.339,
+      "sid": 168,
+      "location": 2,
+      "content": "然后ib和ub e之间的函数关系",
+      "music": 0.0
+    },
+    {
+      "from": 500.339,
+      "to": 502.7,
+      "sid": 169,
+      "location": 2,
+      "content": "大家可以通过这个图来看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 502.7,
+      "to": 504.96,
+      "sid": 170,
+      "location": 2,
+      "content": "实际上就是呃",
+      "music": 0.0
+    },
+    {
+      "from": 506.72,
+      "to": 510.52,
+      "sid": 171,
+      "location": 2,
+      "content": "b b e实际上啊当这样讲吧",
+      "music": 0.0
+    },
+    {
+      "from": 510.52,
+      "to": 514.079,
+      "sid": 172,
+      "location": 2,
+      "content": "当我们来看一下这个u c e等于零的时候",
+      "music": 0.0
+    },
+    {
+      "from": 514.18,
+      "to": 516.04,
+      "sid": 173,
+      "location": 2,
+      "content": "u c e等于零的时候",
+      "music": 0.0
+    },
+    {
+      "from": 516.04,
+      "to": 520.57,
+      "sid": 174,
+      "location": 2,
+      "content": "相当于这个三极管的发射结和集电极短路了",
+      "music": 0.0
+    },
+    {
+      "from": 520.57,
+      "to": 523.76,
+      "sid": 175,
+      "location": 2,
+      "content": "当发换一下给大家",
+      "music": 0.0
+    },
+    {
+      "from": 533.78,
+      "to": 535.66,
+      "sid": 176,
+      "location": 2,
+      "content": "当u c e等于零的时候",
+      "music": 0.0
+    },
+    {
+      "from": 535.66,
+      "to": 538.02,
+      "sid": 177,
+      "location": 2,
+      "content": "相当于这一段和这一端是短路的",
+      "music": 0.0
+    },
+    {
+      "from": 538.74,
+      "to": 540.2,
+      "sid": 178,
+      "location": 2,
+      "content": "那么两个拼音节",
+      "music": 0.0
+    },
+    {
+      "from": 540.2,
+      "to": 543.86,
+      "sid": 179,
+      "location": 2,
+      "content": "这边一个这边一个相当于拼音节是什么",
+      "music": 0.0
+    },
+    {
+      "from": 543.86,
+      "to": 545.06,
+      "sid": 180,
+      "location": 2,
+      "content": "拼音节外面加一个外壳",
+      "music": 0.0
+    },
+    {
+      "from": 545.06,
+      "to": 546.05,
+      "sid": 181,
+      "location": 2,
+      "content": "就是二极管",
+      "music": 0.0
+    },
+    {
+      "from": 546.05,
+      "to": 552.02,
+      "sid": 182,
+      "location": 2,
+      "content": "它就相当于两个二极管并联的这样子的嗯",
+      "music": 0.0
+    },
+    {
+      "from": 552.02,
+      "to": 553.94,
+      "sid": 183,
+      "location": 2,
+      "content": "u c e等于零的时候",
+      "music": 0.0
+    },
+    {
+      "from": 553.94,
+      "to": 556.07,
+      "sid": 184,
+      "location": 2,
+      "content": "这个特性曲线大家可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 556.07,
+      "to": 559.37,
+      "sid": 185,
+      "location": 2,
+      "content": "特别像那个二极管的正向特性曲线",
+      "music": 0.0
+    },
+    {
+      "from": 559.37,
+      "to": 562.099,
+      "sid": 186,
+      "location": 2,
+      "content": "实际上它就是一个二极管的正向特性曲线",
+      "music": 0.0
+    },
+    {
+      "from": 563.8,
+      "to": 567.18,
+      "sid": 187,
+      "location": 2,
+      "content": "它这是有一个死区电压的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 568.7,
+      "to": 571.51,
+      "sid": 188,
+      "location": 2,
+      "content": "而当这个uc大于零的时候",
+      "music": 0.0
+    },
+    {
+      "from": 571.51,
+      "to": 576.0,
+      "sid": 189,
+      "location": 2,
+      "content": "并且随着u b e的升高",
+      "music": 0.0
+    },
+    {
+      "from": 577.3,
+      "to": 581.219,
+      "sid": 190,
+      "location": 2,
+      "content": "一旦这个u c u c e",
+      "music": 0.0
+    },
+    {
+      "from": 583.7,
+      "to": 585.76,
+      "sid": 191,
+      "location": 2,
+      "content": "减去u b e",
+      "music": 0.0
+    },
+    {
+      "from": 587.98,
+      "to": 591.06,
+      "sid": 192,
+      "location": 2,
+      "content": "一旦这个u c e减去ub一大于零",
+      "music": 0.0
+    },
+    {
+      "from": 592.14,
+      "to": 594.86,
+      "sid": 193,
+      "location": 2,
+      "content": "比如说这个二极管c端",
+      "music": 0.0
+    },
+    {
+      "from": 594.86,
+      "to": 599.56,
+      "sid": 194,
+      "location": 2,
+      "content": "c e连的电电压比b翼两端的电压还大的时候",
+      "music": 0.0
+    },
+    {
+      "from": 599.56,
+      "to": 602.08,
+      "sid": 195,
+      "location": 2,
+      "content": "他这边的电压实际上就是一个反向电压",
+      "music": 0.0
+    },
+    {
+      "from": 602.08,
+      "to": 603.85,
+      "sid": 196,
+      "location": 2,
+      "content": "是朝这边的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 603.85,
+      "to": 606.579,
+      "sid": 197,
+      "location": 2,
+      "content": "它是它是一个",
+      "music": 0.0
+    },
+    {
+      "from": 608.78,
+      "to": 610.03,
+      "sid": 198,
+      "location": 2,
+      "content": "反向电压",
+      "music": 0.0
+    },
+    {
+      "from": 610.03,
+      "to": 613.39,
+      "sid": 199,
+      "location": 2,
+      "content": "也就是说极点节是一个反反偏电压",
+      "music": 0.0
+    },
+    {
+      "from": 613.39,
+      "to": 617.9,
+      "sid": 200,
+      "location": 2,
+      "content": "这个时候呢这个就处于一个放大状态",
+      "music": 0.0
+    },
+    {
+      "from": 617.9,
+      "to": 619.04,
+      "sid": 201,
+      "location": 2,
+      "content": "导通了放大状态",
+      "music": 0.0
+    },
+    {
+      "from": 619.04,
+      "to": 621.4,
+      "sid": 202,
+      "location": 2,
+      "content": "并且随着u b e的",
+      "music": 0.0
+    },
+    {
+      "from": 622.34,
+      "to": 624.1,
+      "sid": 203,
+      "location": 2,
+      "content": "随着uc e的增加",
+      "music": 0.0
+    },
+    {
+      "from": 624.1,
+      "to": 628.98,
+      "sid": 204,
+      "location": 2,
+      "content": "它这个特性曲线是不会再朝右朝右偏偏移的",
+      "music": 0.0
+    },
+    {
+      "from": 628.98,
+      "to": 630.66,
+      "sid": 205,
+      "location": 2,
+      "content": "这个几率就很小了",
+      "music": 0.0
+    },
+    {
+      "from": 630.66,
+      "to": 631.5,
+      "sid": 206,
+      "location": 2,
+      "content": "偏移很小了",
+      "music": 0.0
+    },
+    {
+      "from": 631.5,
+      "to": 633.8,
+      "sid": 207,
+      "location": 2,
+      "content": "这就是它的一个输入特性曲线",
+      "music": 0.0
+    },
+    {
+      "from": 635.32,
+      "to": 637.32,
+      "sid": 208,
+      "location": 2,
+      "content": "那么我看一下输出特性曲线",
+      "music": 0.0
+    },
+    {
+      "from": 637.32,
+      "to": 640.62,
+      "sid": 209,
+      "location": 2,
+      "content": "输出特性曲线实际上就是集电极电流",
+      "music": 0.0
+    },
+    {
+      "from": 640.62,
+      "to": 643.14,
+      "sid": 210,
+      "location": 2,
+      "content": "积极电流ib为常量的时候",
+      "music": 0.0
+    },
+    {
+      "from": 643.14,
+      "to": 646.6,
+      "sid": 211,
+      "location": 2,
+      "content": "集电极电流ic和管压降",
+      "music": 0.0
+    },
+    {
+      "from": 646.6,
+      "to": 648.69,
+      "sid": 212,
+      "location": 2,
+      "content": "uc e之间的一个函数关系",
+      "music": 0.0
+    },
+    {
+      "from": 648.69,
+      "to": 651.81,
+      "sid": 213,
+      "location": 2,
+      "content": "在这个在这个图中呢分为三个区域",
+      "music": 0.0
+    },
+    {
+      "from": 651.81,
+      "to": 652.95,
+      "sid": 214,
+      "location": 2,
+      "content": "一个是截止区",
+      "music": 0.0
+    },
+    {
+      "from": 652.95,
+      "to": 654.51,
+      "sid": 215,
+      "location": 2,
+      "content": "一个是饱和区",
+      "music": 0.0
+    },
+    {
+      "from": 654.51,
+      "to": 657.59,
+      "sid": 216,
+      "location": 2,
+      "content": "下面这个曲线下面这个阴影部分是截止区",
+      "music": 0.0
+    },
+    {
+      "from": 657.59,
+      "to": 659.09,
+      "sid": 217,
+      "location": 2,
+      "content": "上面这块是饱和区",
+      "music": 0.0
+    },
+    {
+      "from": 659.09,
+      "to": 661.19,
+      "sid": 218,
+      "location": 2,
+      "content": "中间是处于一个放大区",
+      "music": 0.0
+    },
+    {
+      "from": 661.19,
+      "to": 662.849,
+      "sid": 219,
+      "location": 2,
+      "content": "对于截止区呢",
+      "music": 0.0
+    },
+    {
+      "from": 662.849,
+      "to": 666.78,
+      "sid": 220,
+      "location": 2,
+      "content": "实际上就是当ab小于等于零的一个区域",
+      "music": 0.0
+    },
+    {
+      "from": 666.78,
+      "to": 674.58,
+      "sid": 221,
+      "location": 2,
+      "content": "这个呢呃实际上就是ub没有没有到达死去电",
+      "music": 0.0
+    },
+    {
+      "from": 674.58,
+      "to": 676.52,
+      "sid": 222,
+      "location": 2,
+      "content": "ub e小于等于零的时候",
+      "music": 0.0
+    },
+    {
+      "from": 678.14,
+      "to": 679.96,
+      "sid": 223,
+      "location": 2,
+      "content": "u b e小于等于零",
+      "music": 0.0
+    },
+    {
+      "from": 679.96,
+      "to": 683.62,
+      "sid": 224,
+      "location": 2,
+      "content": "或者是u b e小于死区电压的时候",
+      "music": 0.0
+    },
+    {
+      "from": 683.62,
+      "to": 688.79,
+      "sid": 225,
+      "location": 2,
+      "content": "那么相当于这个这边这个拼音节没有打开嗯",
+      "music": 0.0
+    },
+    {
+      "from": 688.79,
+      "to": 690.2,
+      "sid": 226,
+      "location": 2,
+      "content": "它处于一个截止区",
+      "music": 0.0
+    },
+    {
+      "from": 690.2,
+      "to": 691.16,
+      "sid": 227,
+      "location": 2,
+      "content": "饱和区是什么",
+      "music": 0.0
+    },
+    {
+      "from": 691.16,
+      "to": 693.56,
+      "sid": 228,
+      "location": 2,
+      "content": "是u b e大于大于零",
+      "music": 0.0
+    },
+    {
+      "from": 693.56,
+      "to": 694.94,
+      "sid": 229,
+      "location": 2,
+      "content": "并且大于了死去电压",
+      "music": 0.0
+    },
+    {
+      "from": 694.94,
+      "to": 698.44,
+      "sid": 230,
+      "location": 2,
+      "content": "也就是说它这边是一个正片电压",
+      "music": 0.0
+    },
+    {
+      "from": 698.44,
+      "to": 702.58,
+      "sid": 231,
+      "location": 2,
+      "content": "它这个拼音节是一个正偏电压",
+      "music": 0.0
+    },
+    {
+      "from": 702.58,
+      "to": 708.78,
+      "sid": 232,
+      "location": 2,
+      "content": "但是呢u c e小于u b e c e小于b e",
+      "music": 0.0
+    },
+    {
+      "from": 708.78,
+      "to": 711.0,
+      "sid": 233,
+      "location": 2,
+      "content": "c e小于b e",
+      "music": 0.0
+    },
+    {
+      "from": 711.0,
+      "to": 712.68,
+      "sid": 234,
+      "location": 2,
+      "content": "说明这个时候",
+      "music": 0.0
+    },
+    {
+      "from": 714.46,
+      "to": 717.42,
+      "sid": 235,
+      "location": 2,
+      "content": "这个集电极是处于一个正片电压",
+      "music": 0.0
+    },
+    {
+      "from": 717.42,
+      "to": 720.06,
+      "sid": 236,
+      "location": 2,
+      "content": "这个时候呢是不利于机器电子的收集的",
+      "music": 0.0
+    },
+    {
+      "from": 720.06,
+      "to": 723.52,
+      "sid": 237,
+      "location": 2,
+      "content": "所以说这个时候就没有放大作用",
+      "music": 0.0
+    },
+    {
+      "from": 723.52,
+      "to": 727.62,
+      "sid": 238,
+      "location": 2,
+      "content": "它是称它是呃处于一个饱和状态",
+      "music": 0.0
+    },
+    {
+      "from": 728.42,
+      "to": 730.18,
+      "sid": 239,
+      "location": 2,
+      "content": "这就是一个饱和区",
+      "music": 0.0
+    },
+    {
+      "from": 730.18,
+      "to": 733.51,
+      "sid": 240,
+      "location": 2,
+      "content": "在这个饱和区基本上就是嗯",
+      "music": 0.0
+    },
+    {
+      "from": 733.51,
+      "to": 735.959,
+      "sid": 241,
+      "location": 2,
+      "content": "不随着基极电流的变化而变化",
+      "music": 0.0
+    },
+    {
+      "from": 739.68,
+      "to": 741.92,
+      "sid": 242,
+      "location": 2,
+      "content": "那么最后呢是看一下放大区",
+      "music": 0.0
+    },
+    {
+      "from": 741.92,
+      "to": 743.3,
+      "sid": 243,
+      "location": 2,
+      "content": "放大区实际上就是",
+      "music": 0.0
+    },
+    {
+      "from": 743.3,
+      "to": 746.74,
+      "sid": 244,
+      "location": 2,
+      "content": "当u u b e处于一个正片电压",
+      "music": 0.0
+    },
+    {
+      "from": 746.74,
+      "to": 750.06,
+      "sid": 245,
+      "location": 2,
+      "content": "而uc e处于一个反偏电压的时候",
+      "music": 0.0
+    },
+    {
+      "from": 750.52,
+      "to": 754.6,
+      "sid": 246,
+      "location": 2,
+      "content": "这个时候呢i b和ac是呈线性放大关系的",
+      "music": 0.0
+    },
+    {
+      "from": 754.6,
+      "to": 758.25,
+      "sid": 247,
+      "location": 2,
+      "content": "这就是我们常说的三极管的一个放大作用",
+      "music": 0.0
+    },
+    {
+      "from": 758.25,
+      "to": 762.28,
+      "sid": 248,
+      "location": 2,
+      "content": "其实在刚才我们在分析这个图的时候",
+      "music": 0.0
+    },
+    {
+      "from": 762.28,
+      "to": 763.81,
+      "sid": 249,
+      "location": 2,
+      "content": "已经说出了截止区",
+      "music": 0.0
+    },
+    {
+      "from": 763.81,
+      "to": 766.9,
+      "sid": 250,
+      "location": 2,
+      "content": "饱和区和放大区的一个判断依据",
+      "music": 0.0
+    },
+    {
+      "from": 766.9,
+      "to": 771.88,
+      "sid": 251,
+      "location": 2,
+      "content": "也就是说当嗯当u b e小于等于零",
+      "music": 0.0
+    },
+    {
+      "from": 771.88,
+      "to": 774.7,
+      "sid": 252,
+      "location": 2,
+      "content": "或者小于反偏电压的",
+      "music": 0.0
+    },
+    {
+      "from": 774.7,
+      "to": 776.5,
+      "sid": 253,
+      "location": 2,
+      "content": "小于那个死区电压的时候",
+      "music": 0.0
+    },
+    {
+      "from": 776.5,
+      "to": 778.38,
+      "sid": 254,
+      "location": 2,
+      "content": "它就是处于一个截止区",
+      "music": 0.0
+    },
+    {
+      "from": 778.54,
+      "to": 781.96,
+      "sid": 255,
+      "location": 2,
+      "content": "当u b e大于等于零",
+      "music": 0.0
+    },
+    {
+      "from": 781.96,
+      "to": 785.3,
+      "sid": 256,
+      "location": 2,
+      "content": "并且大于死区电压的时候",
+      "music": 0.0
+    },
+    {
+      "from": 788.18,
+      "to": 792.78,
+      "sid": 257,
+      "location": 2,
+      "content": "呃u c e小于u b e的时候",
+      "music": 0.0
+    },
+    {
+      "from": 794.34,
+      "to": 796.07,
+      "sid": 258,
+      "location": 2,
+      "content": "它是处于饱和区",
+      "music": 0.0
+    },
+    {
+      "from": 796.07,
+      "to": 801.79,
+      "sid": 259,
+      "location": 2,
+      "content": "放大区呢实际上就是嗯u b e是一个正弦电压",
+      "music": 0.0
+    },
+    {
+      "from": 801.79,
+      "to": 803.2,
+      "sid": 260,
+      "location": 2,
+      "content": "是正的",
+      "music": 0.0
+    },
+    {
+      "from": 803.2,
+      "to": 805.68,
+      "sid": 261,
+      "location": 2,
+      "content": "u c e是一个",
+      "music": 0.0
+    },
+    {
+      "from": 807.7,
+      "to": 809.479,
+      "sid": 262,
+      "location": 2,
+      "content": "u c e",
+      "music": 0.0
+    },
+    {
+      "from": 811.16,
+      "to": 813.43,
+      "sid": 263,
+      "location": 2,
+      "content": "大于u b e的时候",
+      "music": 0.0
+    },
+    {
+      "from": 813.43,
+      "to": 815.56,
+      "sid": 264,
+      "location": 2,
+      "content": "uc大于u b e的时候",
+      "music": 0.0
+    },
+    {
+      "from": 815.56,
+      "to": 819.6,
+      "sid": 265,
+      "location": 2,
+      "content": "它是而使这个集电极处于一个反偏状态",
+      "music": 0.0
+    },
+    {
+      "from": 819.6,
+      "to": 821.719,
+      "sid": 266,
+      "location": 2,
+      "content": "这样呢它就处于一个放大区",
+      "music": 0.0
+    },
+    {
+      "from": 822.0,
+      "to": 824.829,
+      "sid": 267,
+      "location": 2,
+      "content": "这就是三极管的一个特性曲线",
+      "music": 0.0
+    },
+    {
+      "from": 824.829,
+      "to": 829.65,
+      "sid": 268,
+      "location": 2,
+      "content": "我们下面来看一下三极管的参数以及封装形式",
+      "music": 0.0
+    },
+    {
+      "from": 829.65,
+      "to": 832.11,
+      "sid": 269,
+      "location": 2,
+      "content": "三极管的参数其实也挺多的",
+      "music": 0.0
+    },
+    {
+      "from": 832.11,
+      "to": 834.8,
+      "sid": 270,
+      "location": 2,
+      "content": "就是在data sheet里面列出来的挺多的",
+      "music": 0.0
+    },
+    {
+      "from": 834.8,
+      "to": 837.26,
+      "sid": 271,
+      "location": 2,
+      "content": "这边呢主要是给大家讲一下",
+      "music": 0.0
+    },
+    {
+      "from": 837.26,
+      "to": 839.84,
+      "sid": 272,
+      "location": 2,
+      "content": "就是我们通常在三极管选型的时候",
+      "music": 0.0
+    },
+    {
+      "from": 839.84,
+      "to": 842.18,
+      "sid": 273,
+      "location": 2,
+      "content": "经常用到的几个参数",
+      "music": 0.0
+    },
+    {
+      "from": 842.18,
+      "to": 845.96,
+      "sid": 274,
+      "location": 2,
+      "content": "首先就是啊及电机最大允许电流",
+      "music": 0.0
+    },
+    {
+      "from": 845.96,
+      "to": 850.54,
+      "sid": 275,
+      "location": 2,
+      "content": "这个呢通常是嗯比较重要的一个参数",
+      "music": 0.0
+    },
+    {
+      "from": 850.54,
+      "to": 853.3,
+      "sid": 276,
+      "location": 2,
+      "content": "因为当它的集电极电流超过一定数值的时候",
+      "music": 0.0
+    },
+    {
+      "from": 853.3,
+      "to": 855.66,
+      "sid": 277,
+      "location": 2,
+      "content": "这个北大值会影响会减小的",
+      "music": 0.0
+    },
+    {
+      "from": 855.66,
+      "to": 857.58,
+      "sid": 278,
+      "location": 2,
+      "content": "影响电路的工作性能",
+      "music": 0.0
+    },
+    {
+      "from": 857.58,
+      "to": 859.56,
+      "sid": 279,
+      "location": 2,
+      "content": "因此我们在选择的时候",
+      "music": 0.0
+    },
+    {
+      "from": 859.56,
+      "to": 863.37,
+      "sid": 280,
+      "location": 2,
+      "content": "首先要看一下这个集电极的最大允许电流",
+      "music": 0.0
+    },
+    {
+      "from": 863.37,
+      "to": 866.79,
+      "sid": 281,
+      "location": 2,
+      "content": "其次呢就是三极管基极开路的时候",
+      "music": 0.0
+    },
+    {
+      "from": 866.79,
+      "to": 869.74,
+      "sid": 282,
+      "location": 2,
+      "content": "集电极到发射极的一个反向击穿电压",
+      "music": 0.0
+    },
+    {
+      "from": 871.66,
+      "to": 874.14,
+      "sid": 283,
+      "location": 2,
+      "content": "嗯这是这也是比较重要的",
+      "music": 0.0
+    },
+    {
+      "from": 874.14,
+      "to": 877.58,
+      "sid": 284,
+      "location": 2,
+      "content": "因为通常我们会在这上面放一个电源啊",
+      "music": 0.0
+    },
+    {
+      "from": 877.58,
+      "to": 879.5,
+      "sid": 285,
+      "location": 2,
+      "content": "你放这个电源放多大的",
+      "music": 0.0
+    },
+    {
+      "from": 879.5,
+      "to": 880.49,
+      "sid": 286,
+      "location": 2,
+      "content": "多大的电源",
+      "music": 0.0
+    },
+    {
+      "from": 880.49,
+      "to": 883.19,
+      "sid": 287,
+      "location": 2,
+      "content": "通常是由这个参数来决定的",
+      "music": 0.0
+    },
+    {
+      "from": 883.82,
+      "to": 887.84,
+      "sid": 288,
+      "location": 2,
+      "content": "再一个呢就是一个极电机的最大允许散热功耗",
+      "music": 0.0
+    },
+    {
+      "from": 887.84,
+      "to": 889.42,
+      "sid": 289,
+      "location": 2,
+      "content": "pcm",
+      "music": 0.0
+    },
+    {
+      "from": 889.42,
+      "to": 892.42,
+      "sid": 290,
+      "location": 2,
+      "content": "因为在在这个三极管工作的时候",
+      "music": 0.0
+    },
+    {
+      "from": 892.42,
+      "to": 894.22,
+      "sid": 291,
+      "location": 2,
+      "content": "他在集电极上会产生热量",
+      "music": 0.0
+    },
+    {
+      "from": 894.22,
+      "to": 896.199,
+      "sid": 292,
+      "location": 2,
+      "content": "使这个三极管发热",
+      "music": 0.0
+    },
+    {
+      "from": 896.199,
+      "to": 898.929,
+      "sid": 293,
+      "location": 2,
+      "content": "如果说这个功耗特别大的时候",
+      "music": 0.0
+    },
+    {
+      "from": 898.929,
+      "to": 900.85,
+      "sid": 294,
+      "location": 2,
+      "content": "这个热量会让三极管烧坏",
+      "music": 0.0
+    },
+    {
+      "from": 900.85,
+      "to": 904.57,
+      "sid": 295,
+      "location": 2,
+      "content": "尤其是在大功率三极管工作的选型的时候",
+      "music": 0.0
+    },
+    {
+      "from": 904.57,
+      "to": 906.24,
+      "sid": 296,
+      "location": 2,
+      "content": "要特别注意这个参数",
+      "music": 0.0
+    },
+    {
+      "from": 906.24,
+      "to": 908.079,
+      "sid": 297,
+      "location": 2,
+      "content": "最后一个就是特征频率",
+      "music": 0.0
+    },
+    {
+      "from": 908.079,
+      "to": 911.079,
+      "sid": 298,
+      "location": 2,
+      "content": "特征频率其实对于大功率三极管来说",
+      "music": 0.0
+    },
+    {
+      "from": 911.079,
+      "to": 912.339,
+      "sid": 299,
+      "location": 2,
+      "content": "影响不是特别大",
+      "music": 0.0
+    },
+    {
+      "from": 912.339,
+      "to": 914.379,
+      "sid": 300,
+      "location": 2,
+      "content": "但是对于小功率三极管来说",
+      "music": 0.0
+    },
+    {
+      "from": 914.379,
+      "to": 915.74,
+      "sid": 301,
+      "location": 2,
+      "content": "它的影响会比较大",
+      "music": 0.0
+    },
+    {
+      "from": 915.74,
+      "to": 918.92,
+      "sid": 302,
+      "location": 2,
+      "content": "因为如果你的工作频率超过了它的特征",
+      "music": 0.0
+    },
+    {
+      "from": 918.92,
+      "to": 920.21,
+      "sid": 303,
+      "location": 2,
+      "content": "工作频率的话",
+      "music": 0.0
+    },
+    {
+      "from": 920.21,
+      "to": 922.28,
+      "sid": 304,
+      "location": 2,
+      "content": "它的放大能力将会下降",
+      "music": 0.0
+    },
+    {
+      "from": 922.28,
+      "to": 925.19,
+      "sid": 305,
+      "location": 2,
+      "content": "这就是三极管的几个啊参数",
+      "music": 0.0
+    },
+    {
+      "from": 925.19,
+      "to": 927.23,
+      "sid": 306,
+      "location": 2,
+      "content": "在我们选型的时候一定要注意",
+      "music": 0.0
+    },
+    {
+      "from": 928.25,
+      "to": 931.02,
+      "sid": 307,
+      "location": 2,
+      "content": "另外呢啊还有一个它的封装形式",
+      "music": 0.0
+    },
+    {
+      "from": 931.02,
+      "to": 931.68,
+      "sid": 308,
+      "location": 2,
+      "content": "封装形式",
+      "music": 0.0
+    },
+    {
+      "from": 931.68,
+      "to": 935.1,
+      "sid": 309,
+      "location": 2,
+      "content": "刚才我们在那个图片当中也已经看到了",
+      "music": 0.0
+    },
+    {
+      "from": 935.1,
+      "to": 937.41,
+      "sid": 310,
+      "location": 2,
+      "content": "有几种封装形式啊",
+      "music": 0.0
+    },
+    {
+      "from": 937.41,
+      "to": 940.46,
+      "sid": 311,
+      "location": 2,
+      "content": "其中这两种封装形式是",
+      "music": 0.0
+    },
+    {
+      "from": 940.46,
+      "to": 944.1,
+      "sid": 312,
+      "location": 2,
+      "content": "一般都用在小功率三极管里边儿",
+      "music": 0.0
+    },
+    {
+      "from": 944.1,
+      "to": 946.98,
+      "sid": 313,
+      "location": 2,
+      "content": "这两个用在小功率电路里边",
+      "music": 0.0
+    },
+    {
+      "from": 951.65,
+      "to": 953.4,
+      "sid": 314,
+      "location": 2,
+      "content": "我们可以来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 956.48,
+      "to": 959.14,
+      "sid": 315,
+      "location": 2,
+      "content": "这是t20 的一个三极管",
+      "music": 0.0
+    },
+    {
+      "from": 960.46,
+      "to": 963.66,
+      "sid": 316,
+      "location": 2,
+      "content": "这是t922 的一个三句话",
+      "music": 0.0
+    },
+    {
+      "from": 963.66,
+      "to": 967.02,
+      "sid": 317,
+      "location": 2,
+      "content": "这也是这是s o t23 的一个3d管",
+      "music": 0.0
+    },
+    {
+      "from": 967.02,
+      "to": 967.8,
+      "sid": 318,
+      "location": 2,
+      "content": "这是贴片的",
+      "music": 0.0
+    },
+    {
+      "from": 967.8,
+      "to": 971.599,
+      "sid": 319,
+      "location": 2,
+      "content": "它就通常用在一个小功率的电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 972.97,
+      "to": 974.41,
+      "sid": 320,
+      "location": 2,
+      "content": "基本上就这些",
+      "music": 0.0
+    },
+    {
+      "from": 974.41,
+      "to": 977.77,
+      "sid": 321,
+      "location": 2,
+      "content": "这是三极管的参数以及封装形式",
+      "music": 0.0
+    },
+    {
+      "from": 977.77,
+      "to": 979.0,
+      "sid": 322,
+      "location": 2,
+      "content": "我们来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 979.0,
+      "to": 982.98,
+      "sid": 323,
+      "location": 2,
+      "content": "通常我们在嗯测试当中或实验当中",
+      "music": 0.0
+    },
+    {
+      "from": 982.98,
+      "to": 986.73,
+      "sid": 324,
+      "location": 2,
+      "content": "是怎么用万用表来判断三极管的这几个",
+      "music": 0.0
+    },
+    {
+      "from": 986.73,
+      "to": 990.149,
+      "sid": 325,
+      "location": 2,
+      "content": "比如说积极集电极和设计",
+      "music": 0.0
+    },
+    {
+      "from": 990.149,
+      "to": 993.689,
+      "sid": 326,
+      "location": 2,
+      "content": "以及怎么判断三极管是np n管还是pp管",
+      "music": 0.0
+    },
+    {
+      "from": 993.689,
+      "to": 995.519,
+      "sid": 327,
+      "location": 2,
+      "content": "这也是有办法的啊",
+      "music": 0.0
+    },
+    {
+      "from": 995.519,
+      "to": 999.18,
+      "sid": 328,
+      "location": 2,
+      "content": "通常呢我们在判断集电极和设计的时候",
+      "music": 0.0
+    },
+    {
+      "from": 999.18,
+      "to": 1002.56,
+      "sid": 329,
+      "location": 2,
+      "content": "就是用到了欧盟那个万用表的欧姆档",
+      "music": 0.0
+    },
+    {
+      "from": 1003.46,
+      "to": 1005.64,
+      "sid": 330,
+      "location": 2,
+      "content": "比如说以np n管为例吧",
+      "music": 0.0
+    },
+    {
+      "from": 1005.64,
+      "to": 1009.36,
+      "sid": 331,
+      "location": 2,
+      "content": "我们先把红笔接到一个假定的一个集电极上",
+      "music": 0.0
+    },
+    {
+      "from": 1009.36,
+      "to": 1013.289,
+      "sid": 332,
+      "location": 2,
+      "content": "然后就用黑笔去接触到另外两接啊",
+      "music": 0.0
+    },
+    {
+      "from": 1013.289,
+      "to": 1015.629,
+      "sid": 333,
+      "location": 2,
+      "content": "去接触到那个假设的发射机上",
+      "music": 0.0
+    },
+    {
+      "from": 1015.629,
+      "to": 1018.4,
+      "sid": 334,
+      "location": 2,
+      "content": "然后要用手捏住他的",
+      "music": 0.0
+    },
+    {
+      "from": 1020.12,
+      "to": 1022.719,
+      "sid": 335,
+      "location": 2,
+      "content": "捏捏住他的积极和射击",
+      "music": 0.0
+    },
+    {
+      "from": 1023.38,
+      "to": 1024.96,
+      "sid": 336,
+      "location": 2,
+      "content": "通过人体",
+      "music": 0.0
+    },
+    {
+      "from": 1024.96,
+      "to": 1028.83,
+      "sid": 337,
+      "location": 2,
+      "content": "相当于在这个季节和设计之间接入了偏置电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1028.83,
+      "to": 1031.78,
+      "sid": 338,
+      "location": 2,
+      "content": "然后这时候我们去读万用表的阻值",
+      "music": 0.0
+    },
+    {
+      "from": 1032.06,
+      "to": 1036.32,
+      "sid": 339,
+      "location": 2,
+      "content": "然后呢将两个扁笔表笔反接重新测得",
+      "music": 0.0
+    },
+    {
+      "from": 1036.32,
+      "to": 1038.24,
+      "sid": 340,
+      "location": 2,
+      "content": "如果第一次测的组织比第二次小",
+      "music": 0.0
+    },
+    {
+      "from": 1038.24,
+      "to": 1041.72,
+      "sid": 341,
+      "location": 2,
+      "content": "说明我们的啊原假设成立的",
+      "music": 0.0
+    },
+    {
+      "from": 1046.62,
+      "to": 1048.62,
+      "sid": 342,
+      "location": 2,
+      "content": "我们可以反复的测一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 1048.62,
+      "to": 1051.01,
+      "sid": 343,
+      "location": 2,
+      "content": "另外它对于它这个放大倍数",
+      "music": 0.0
+    },
+    {
+      "from": 1051.01,
+      "to": 1054.37,
+      "sid": 344,
+      "location": 2,
+      "content": "万用表和万用表上它有一个这样子的接口",
+      "music": 0.0
+    },
+    {
+      "from": 1054.37,
+      "to": 1056.98,
+      "sid": 345,
+      "location": 2,
+      "content": "大家可以估测三极管的放大倍数",
+      "music": 0.0
+    },
+    {
+      "from": 1058.48,
+      "to": 1061.68,
+      "sid": 346,
+      "location": 2,
+      "content": "判断它是什么类型的",
+      "music": 0.0
+    },
+    {
+      "from": 1061.68,
+      "to": 1066.87,
+      "sid": 347,
+      "location": 2,
+      "content": "这个呢啊也可以用万用表来测量",
+      "music": 0.0
+    },
+    {
+      "from": 1066.87,
+      "to": 1069.72,
+      "sid": 348,
+      "location": 2,
+      "content": "就是还是用欧姆档来测",
+      "music": 0.0
+    },
+    {
+      "from": 1069.72,
+      "to": 1071.85,
+      "sid": 349,
+      "location": 2,
+      "content": "我们假定某一个是gg",
+      "music": 0.0
+    },
+    {
+      "from": 1071.85,
+      "to": 1075.93,
+      "sid": 350,
+      "location": 2,
+      "content": "然后把这个红笔接在假定的积极上面",
+      "music": 0.0
+    },
+    {
+      "from": 1075.93,
+      "to": 1077.989,
+      "sid": 351,
+      "location": 2,
+      "content": "用黑笔测其他两个集",
+      "music": 0.0
+    },
+    {
+      "from": 1077.989,
+      "to": 1080.329,
+      "sid": 352,
+      "location": 2,
+      "content": "如果其他两个极的电阻都很小",
+      "music": 0.0
+    },
+    {
+      "from": 1080.329,
+      "to": 1082.549,
+      "sid": 353,
+      "location": 2,
+      "content": "表明我们的积极假定是正确的",
+      "music": 0.0
+    },
+    {
+      "from": 1082.549,
+      "to": 1084.34,
+      "sid": 354,
+      "location": 2,
+      "content": "并且三极管是np n管",
+      "music": 0.0
+    },
+    {
+      "from": 1084.34,
+      "to": 1086.56,
+      "sid": 355,
+      "location": 2,
+      "content": "如果测电阻都比较大呢",
+      "music": 0.0
+    },
+    {
+      "from": 1086.56,
+      "to": 1088.48,
+      "sid": 356,
+      "location": 2,
+      "content": "就说明积极是正确的",
+      "music": 0.0
+    },
+    {
+      "from": 1088.48,
+      "to": 1090.08,
+      "sid": 357,
+      "location": 2,
+      "content": "被测的是pp管",
+      "music": 0.0
+    },
+    {
+      "from": 1091.28,
+      "to": 1092.71,
+      "sid": 358,
+      "location": 2,
+      "content": "如果是一大一小",
+      "music": 0.0
+    },
+    {
+      "from": 1092.71,
+      "to": 1095.14,
+      "sid": 359,
+      "location": 2,
+      "content": "说明我们假设的这个积极是错误的",
+      "music": 0.0
+    },
+    {
+      "from": 1095.14,
+      "to": 1099.2,
+      "sid": 360,
+      "location": 2,
+      "content": "然后我们就再再再设另外一个链接为积极",
+      "music": 0.0
+    },
+    {
+      "from": 1099.2,
+      "to": 1100.34,
+      "sid": 361,
+      "location": 2,
+      "content": "就是反复来测试",
+      "music": 0.0
+    },
+    {
+      "from": 1100.34,
+      "to": 1102.399,
+      "sid": 362,
+      "location": 2,
+      "content": "肯定能找到这个积极的",
+      "music": 0.0
+    },
+    {
+      "from": 1103.64,
+      "to": 1106.06,
+      "sid": 363,
+      "location": 2,
+      "content": "找到具体其他两个集就好找了",
+      "music": 0.0
+    },
+    {
+      "from": 1106.06,
+      "to": 1108.52,
+      "sid": 364,
+      "location": 2,
+      "content": "这就是基本的一个测试方法",
+      "music": 0.0
+    },
+    {
+      "from": 1108.52,
+      "to": 1109.66,
+      "sid": 365,
+      "location": 2,
+      "content": "就是这种东西呢",
+      "music": 0.0
+    },
+    {
+      "from": 1109.66,
+      "to": 1110.62,
+      "sid": 366,
+      "location": 2,
+      "content": "其实我在这讲",
+      "music": 0.0
+    },
+    {
+      "from": 1110.62,
+      "to": 1115.06,
+      "sid": 367,
+      "location": 2,
+      "content": "可能也不如同学们自己实际做一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 1115.06,
+      "to": 1117.31,
+      "sid": 368,
+      "location": 2,
+      "content": "同学们可以根据我的这个提示",
+      "music": 0.0
+    },
+    {
+      "from": 1117.31,
+      "to": 1119.32,
+      "sid": 369,
+      "location": 2,
+      "content": "然后自己下去拿一个三极管",
+      "music": 0.0
+    },
+    {
+      "from": 1119.32,
+      "to": 1121.679,
+      "sid": 370,
+      "location": 2,
+      "content": "用万用表实际来做一下",
+      "music": 0.0
+    },
+    {
+      "from": 1121.679,
+      "to": 1124.27,
+      "sid": 371,
+      "location": 2,
+      "content": "这样可能会更快的吸收到",
+      "music": 0.0
+    },
+    {
+      "from": 1124.27,
+      "to": 1126.41,
+      "sid": 372,
+      "location": 2,
+      "content": "是吸收掉这部分的知识",
+      "music": 0.0
+    },
+    {
+      "from": 1126.41,
+      "to": 1129.97,
+      "sid": 373,
+      "location": 2,
+      "content": "那么三极管的放大电路有几种呢",
+      "music": 0.0
+    },
+    {
+      "from": 1129.97,
+      "to": 1133.33,
+      "sid": 374,
+      "location": 2,
+      "content": "一个是根据它们的连接方式不同啊",
+      "music": 0.0
+    },
+    {
+      "from": 1133.33,
+      "to": 1134.59,
+      "sid": 375,
+      "location": 2,
+      "content": "一个是共积极",
+      "music": 0.0
+    },
+    {
+      "from": 1134.59,
+      "to": 1135.13,
+      "sid": 376,
+      "location": 2,
+      "content": "共基极",
+      "music": 0.0
+    },
+    {
+      "from": 1135.13,
+      "to": 1137.53,
+      "sid": 377,
+      "location": 2,
+      "content": "你看它这个积极是这样连接的",
+      "music": 0.0
+    },
+    {
+      "from": 1137.53,
+      "to": 1139.34,
+      "sid": 378,
+      "location": 2,
+      "content": "这是一个共基极电路",
+      "music": 0.0
+    },
+    {
+      "from": 1144.14,
+      "to": 1147.08,
+      "sid": 379,
+      "location": 2,
+      "content": "设计是啊通用的供设计电路",
+      "music": 0.0
+    },
+    {
+      "from": 1147.08,
+      "to": 1149.27,
+      "sid": 380,
+      "location": 2,
+      "content": "这个呢是一个供给电机电路",
+      "music": 0.0
+    },
+    {
+      "from": 1149.27,
+      "to": 1151.76,
+      "sid": 381,
+      "location": 2,
+      "content": "这是三种不同的那个放大电路",
+      "music": 0.0
+    },
+    {
+      "from": 1151.76,
+      "to": 1154.609,
+      "sid": 382,
+      "location": 2,
+      "content": "对于这三种电路呢共设计电路",
+      "music": 0.0
+    },
+    {
+      "from": 1154.609,
+      "to": 1155.5,
+      "sid": 383,
+      "location": 2,
+      "content": "放大电路",
+      "music": 0.0
+    },
+    {
+      "from": 1155.5,
+      "to": 1158.68,
+      "sid": 384,
+      "location": 2,
+      "content": "共设计放大电路的电流增益和电压增益",
+      "music": 0.0
+    },
+    {
+      "from": 1158.68,
+      "to": 1160.87,
+      "sid": 385,
+      "location": 2,
+      "content": "都比其他两种放大电路要大",
+      "music": 0.0
+    },
+    {
+      "from": 1160.87,
+      "to": 1164.24,
+      "sid": 386,
+      "location": 2,
+      "content": "因此呢这个通常用作信号放大",
+      "music": 0.0
+    },
+    {
+      "from": 1164.66,
+      "to": 1168.48,
+      "sid": 387,
+      "location": 2,
+      "content": "就是说这个供设计电路其实还使用的比较多的",
+      "music": 0.0
+    },
+    {
+      "from": 1168.5,
+      "to": 1172.33,
+      "sid": 388,
+      "location": 2,
+      "content": "最后我们来看一下三极管的功能以及应用",
+      "music": 0.0
+    },
+    {
+      "from": 1172.33,
+      "to": 1174.01,
+      "sid": 389,
+      "location": 2,
+      "content": "三极管有哪些功能呢",
+      "music": 0.0
+    },
+    {
+      "from": 1174.01,
+      "to": 1175.51,
+      "sid": 390,
+      "location": 2,
+      "content": "首先电流放大功能",
+      "music": 0.0
+    },
+    {
+      "from": 1175.51,
+      "to": 1176.77,
+      "sid": 391,
+      "location": 2,
+      "content": "这个我们就不用说了",
+      "music": 0.0
+    },
+    {
+      "from": 1176.77,
+      "to": 1179.97,
+      "sid": 392,
+      "location": 2,
+      "content": "实际上我们在没有了解三极管之前",
+      "music": 0.0
+    },
+    {
+      "from": 1179.97,
+      "to": 1181.71,
+      "sid": 393,
+      "location": 2,
+      "content": "对于三极管的一个基础功能",
+      "music": 0.0
+    },
+    {
+      "from": 1181.71,
+      "to": 1186.76,
+      "sid": 394,
+      "location": 2,
+      "content": "我们可能是嗯最先知道的就是电流放大作用",
+      "music": 0.0
+    },
+    {
+      "from": 1186.76,
+      "to": 1188.62,
+      "sid": 395,
+      "location": 2,
+      "content": "然后呢还有一个控制开关作用",
+      "music": 0.0
+    },
+    {
+      "from": 1188.62,
+      "to": 1191.08,
+      "sid": 396,
+      "location": 2,
+      "content": "就是我可以通过三极管来控制",
+      "music": 0.0
+    },
+    {
+      "from": 1191.08,
+      "to": 1194.28,
+      "sid": 397,
+      "location": 2,
+      "content": "某一个电路的开通或关闭",
+      "music": 0.0
+    },
+    {
+      "from": 1194.28,
+      "to": 1196.58,
+      "sid": 398,
+      "location": 2,
+      "content": "最后呢是一个稳压作用",
+      "music": 0.0
+    },
+    {
+      "from": 1197.48,
+      "to": 1199.49,
+      "sid": 399,
+      "location": 2,
+      "content": "我要给大家看啊",
+      "music": 0.0
+    },
+    {
+      "from": 1199.49,
+      "to": 1200.42,
+      "sid": 400,
+      "location": 2,
+      "content": "看一个图吧",
+      "music": 0.0
+    },
+    {
+      "from": 1200.42,
+      "to": 1203.76,
+      "sid": 401,
+      "location": 2,
+      "content": "以一个图来说明三极管的一些作用",
+      "music": 0.0
+    },
+    {
+      "from": 1203.76,
+      "to": 1204.75,
+      "sid": 402,
+      "location": 2,
+      "content": "可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 1204.75,
+      "to": 1207.69,
+      "sid": 403,
+      "location": 2,
+      "content": "我这个是用三极管来控制一个继电器",
+      "music": 0.0
+    },
+    {
+      "from": 1207.69,
+      "to": 1209.639,
+      "sid": 404,
+      "location": 2,
+      "content": "这是我继电器的线圈",
+      "music": 0.0
+    },
+    {
+      "from": 1210.1,
+      "to": 1212.32,
+      "sid": 405,
+      "location": 2,
+      "content": "这是继电器连在主回路里边",
+      "music": 0.0
+    },
+    {
+      "from": 1212.32,
+      "to": 1214.06,
+      "sid": 406,
+      "location": 2,
+      "content": "这是继电器的一个线圈",
+      "music": 0.0
+    },
+    {
+      "from": 1214.06,
+      "to": 1217.3,
+      "sid": 407,
+      "location": 2,
+      "content": "我给这个线圈这一端通上一个15伏的电",
+      "music": 0.0
+    },
+    {
+      "from": 1217.3,
+      "to": 1222.73,
+      "sid": 408,
+      "location": 2,
+      "content": "然后这一端呢啊是通过一个三极管",
+      "music": 0.0
+    },
+    {
+      "from": 1222.73,
+      "to": 1226.21,
+      "sid": 409,
+      "location": 2,
+      "content": "因为我要通过我的单片耳机的一个控制信号",
+      "music": 0.0
+    },
+    {
+      "from": 1226.21,
+      "to": 1229.94,
+      "sid": 410,
+      "location": 2,
+      "content": "来控制这个继电器的开通与关断",
+      "music": 0.0
+    },
+    {
+      "from": 1229.94,
+      "to": 1233.24,
+      "sid": 411,
+      "location": 2,
+      "content": "而我如果把我这个单片机的这个控制信号",
+      "music": 0.0
+    },
+    {
+      "from": 1233.24,
+      "to": 1238.99,
+      "sid": 412,
+      "location": 2,
+      "content": "直接接到这个这个继电器的继电器",
+      "music": 0.0
+    },
+    {
+      "from": 1238.99,
+      "to": 1240.67,
+      "sid": 413,
+      "location": 2,
+      "content": "线圈的这一段呢是不合适的",
+      "music": 0.0
+    },
+    {
+      "from": 1240.67,
+      "to": 1244.26,
+      "sid": 414,
+      "location": 2,
+      "content": "因为我的单片机输出来的电流是比较小的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1244.26,
+      "to": 1247.11,
+      "sid": 415,
+      "location": 2,
+      "content": "这个需要通过一个比较大一点的电流",
+      "music": 0.0
+    },
+    {
+      "from": 1247.11,
+      "to": 1248.04,
+      "sid": 416,
+      "location": 2,
+      "content": "这就不合适",
+      "music": 0.0
+    },
+    {
+      "from": 1248.04,
+      "to": 1251.659,
+      "sid": 417,
+      "location": 2,
+      "content": "那么我可以通过三极管来进行一个电流的放大",
+      "music": 0.0
+    },
+    {
+      "from": 1253.08,
+      "to": 1256.22,
+      "sid": 418,
+      "location": 2,
+      "content": "三极管进行一个电流的放大",
+      "music": 0.0
+    },
+    {
+      "from": 1256.22,
+      "to": 1259.91,
+      "sid": 419,
+      "location": 2,
+      "content": "这样子我如果这边给一个高电平的话",
+      "music": 0.0
+    },
+    {
+      "from": 1259.91,
+      "to": 1261.02,
+      "sid": 420,
+      "location": 2,
+      "content": "给一个高电平",
+      "music": 0.0
+    },
+    {
+      "from": 1261.02,
+      "to": 1267.139,
+      "sid": 421,
+      "location": 2,
+      "content": "那我这个这一块就是有一个正向导通电压是吧",
+      "music": 0.0
+    },
+    {
+      "from": 1267.92,
+      "to": 1270.94,
+      "sid": 422,
+      "location": 2,
+      "content": "然后这样子我这个电路导通了",
+      "music": 0.0
+    },
+    {
+      "from": 1270.94,
+      "to": 1273.28,
+      "sid": 423,
+      "location": 2,
+      "content": "我这个线圈里边带电了",
+      "music": 0.0
+    },
+    {
+      "from": 1273.28,
+      "to": 1274.54,
+      "sid": 424,
+      "location": 2,
+      "content": "我的继电器就闭合了",
+      "music": 0.0
+    },
+    {
+      "from": 1274.54,
+      "to": 1276.07,
+      "sid": 425,
+      "location": 2,
+      "content": "我的主回路就有电了",
+      "music": 0.0
+    },
+    {
+      "from": 1276.07,
+      "to": 1278.06,
+      "sid": 426,
+      "location": 2,
+      "content": "这就是三极管",
+      "music": 0.0
+    },
+    {
+      "from": 1278.06,
+      "to": 1279.95,
+      "sid": 427,
+      "location": 2,
+      "content": "其实三极管在这个电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 1279.95,
+      "to": 1282.86,
+      "sid": 428,
+      "location": 2,
+      "content": "它不仅有一个电流放大的作用",
+      "music": 0.0
+    },
+    {
+      "from": 1282.86,
+      "to": 1284.6,
+      "sid": 429,
+      "location": 2,
+      "content": "实际上它还有一个控制开关啊",
+      "music": 0.0
+    },
+    {
+      "from": 1284.6,
+      "to": 1289.92,
+      "sid": 430,
+      "location": 2,
+      "content": "它控制这个啊电路的开通与关断嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1289.92,
+      "to": 1291.78,
+      "sid": 431,
+      "location": 2,
+      "content": "这就是三极管的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1291.78,
+      "to": 1295.44,
+      "sid": 432,
+      "location": 2,
+      "content": "刚才我们讲的一个讲的一些作用啊",
+      "music": 0.0
+    },
+    {
+      "from": 1295.44,
+      "to": 1296.88,
+      "sid": 433,
+      "location": 2,
+      "content": "关于这个稳压作用呢",
+      "music": 0.0
+    },
+    {
+      "from": 1296.88,
+      "to": 1298.5,
+      "sid": 434,
+      "location": 2,
+      "content": "其实也是有一些应用的",
+      "music": 0.0
+    },
+    {
+      "from": 1298.5,
+      "to": 1300.24,
+      "sid": 435,
+      "location": 2,
+      "content": "这就是我给大家留的思考题",
+      "music": 0.0
+    },
+    {
+      "from": 1300.24,
+      "to": 1303.05,
+      "sid": 436,
+      "location": 2,
+      "content": "大家要在课下去找一下",
+      "music": 0.0
+    },
+    {
+      "from": 1303.05,
+      "to": 1305.18,
+      "sid": 437,
+      "location": 2,
+      "content": "具有稳压功能的三极管电路",
+      "music": 0.0
+    },
+    {
+      "from": 1305.18,
+      "to": 1308.3,
+      "sid": 438,
+      "location": 2,
+      "content": "然后仔细读一下三极管的稳压功能",
+      "music": 0.0
+    },
+    {
+      "from": 1308.3,
+      "to": 1312.68,
+      "sid": 439,
+      "location": 2,
+      "content": "因为我们学习硬件工程师必须要读懂电路",
+      "music": 0.0
+    },
+    {
+      "from": 1312.68,
+      "to": 1314.66,
+      "sid": 440,
+      "location": 2,
+      "content": "这是我们的一项基本功能",
+      "music": 0.0
+    },
+    {
+      "from": 1314.66,
+      "to": 1317.33,
+      "sid": 441,
+      "location": 2,
+      "content": "所以呢大家要在课下多",
+      "music": 0.0
+    },
+    {
+      "from": 1317.33,
+      "to": 1320.45,
+      "sid": 442,
+      "location": 2,
+      "content": "就是看到我们学到的这些基础元器件",
+      "music": 0.0
+    },
+    {
+      "from": 1320.45,
+      "to": 1322.73,
+      "sid": 443,
+      "location": 2,
+      "content": "多找一些基础的电路来读一下",
+      "music": 0.0
+    },
+    {
+      "from": 1322.73,
+      "to": 1323.69,
+      "sid": 444,
+      "location": 2,
+      "content": "读懂这些电路",
+      "music": 0.0
+    },
+    {
+      "from": 1323.69,
+      "to": 1325.659,
+      "sid": 445,
+      "location": 2,
+      "content": "我们才能够去设计电路",
+      "music": 0.0
+    },
+    {
+      "from": 1326.04,
+      "to": 1328.94,
+      "sid": 446,
+      "location": 2,
+      "content": "好这些就是三极管的一些基础知识",
+      "music": 0.0
+    }
+  ]
+}

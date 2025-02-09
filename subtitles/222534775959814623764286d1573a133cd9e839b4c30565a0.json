@@ -1,0 +1,4532 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 2.18,
+      "to": 5.83,
+      "sid": 1,
+      "location": 2,
+      "content": "嗯接下来呢给大家讲一下一个功率器件",
+      "music": 0.0
+    },
+    {
+      "from": 5.83,
+      "to": 6.55,
+      "sid": 2,
+      "location": 2,
+      "content": "i g b t",
+      "music": 0.0
+    },
+    {
+      "from": 6.55,
+      "to": 8.89,
+      "sid": 3,
+      "location": 2,
+      "content": "i g b t是我们在整流逆变当中",
+      "music": 0.0
+    },
+    {
+      "from": 8.89,
+      "to": 11.11,
+      "sid": 4,
+      "location": 2,
+      "content": "非常常见的一个功率器件",
+      "music": 0.0
+    },
+    {
+      "from": 11.11,
+      "to": 13.129,
+      "sid": 5,
+      "location": 2,
+      "content": "首先我们来了解一下它",
+      "music": 0.0
+    },
+    {
+      "from": 13.129,
+      "to": 14.809,
+      "sid": 6,
+      "location": 2,
+      "content": "认识一下它的图片啊",
+      "music": 0.0
+    },
+    {
+      "from": 14.809,
+      "to": 17.449,
+      "sid": 7,
+      "location": 2,
+      "content": "对它的实物做一个一个感性的认识",
+      "music": 0.0
+    },
+    {
+      "from": 17.449,
+      "to": 19.68,
+      "sid": 8,
+      "location": 2,
+      "content": "这就是一个i g b t的实物图",
+      "music": 0.0
+    },
+    {
+      "from": 19.759,
+      "to": 23.6,
+      "sid": 9,
+      "location": 2,
+      "content": "呃我们来看一下什么是i g b t",
+      "music": 0.0
+    },
+    {
+      "from": 23.6,
+      "to": 26.87,
+      "sid": 10,
+      "location": 2,
+      "content": "了解一下它的基础定义以及特点和结构",
+      "music": 0.0
+    },
+    {
+      "from": 26.87,
+      "to": 30.08,
+      "sid": 11,
+      "location": 2,
+      "content": "i g b t呢实际上是双啊",
+      "music": 0.0
+    },
+    {
+      "from": 30.08,
+      "to": 32.15,
+      "sid": 12,
+      "location": 2,
+      "content": "绝缘山脊的双极型晶体管",
+      "music": 0.0
+    },
+    {
+      "from": 32.15,
+      "to": 35.2,
+      "sid": 13,
+      "location": 2,
+      "content": "它是由一个三极管和一个mos管来组成的",
+      "music": 0.0
+    },
+    {
+      "from": 35.2,
+      "to": 38.83,
+      "sid": 14,
+      "location": 2,
+      "content": "它是一个那个电压驱动型的功率半导体器件",
+      "music": 0.0
+    },
+    {
+      "from": 38.83,
+      "to": 43.11,
+      "sid": 15,
+      "location": 2,
+      "content": "所以呢它兼具三极管和mos管两方面的优点",
+      "music": 0.0
+    },
+    {
+      "from": 43.11,
+      "to": 45.36,
+      "sid": 16,
+      "location": 2,
+      "content": "那么看一下它有哪些优点呢",
+      "music": 0.0
+    },
+    {
+      "from": 45.36,
+      "to": 49.71,
+      "sid": 17,
+      "location": 2,
+      "content": "呃在一些啊大功率的电路当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 49.71,
+      "to": 51.09,
+      "sid": 18,
+      "location": 2,
+      "content": "经常用的i g b t",
+      "music": 0.0
+    },
+    {
+      "from": 51.09,
+      "to": 54.33,
+      "sid": 19,
+      "location": 2,
+      "content": "那么它呢有一个高输入阻抗啊",
+      "music": 0.0
+    },
+    {
+      "from": 54.33,
+      "to": 56.4,
+      "sid": 20,
+      "location": 2,
+      "content": "低低导通压降",
+      "music": 0.0
+    },
+    {
+      "from": 56.54,
+      "to": 59.72,
+      "sid": 21,
+      "location": 2,
+      "content": "其次呢他的电源它是由电压控制的",
+      "music": 0.0
+    },
+    {
+      "from": 59.72,
+      "to": 61.31,
+      "sid": 22,
+      "location": 2,
+      "content": "电压控制型器件嘛",
+      "music": 0.0
+    },
+    {
+      "from": 61.31,
+      "to": 62.72,
+      "sid": 23,
+      "location": 2,
+      "content": "它的驱动功率比较小",
+      "music": 0.0
+    },
+    {
+      "from": 62.72,
+      "to": 64.319,
+      "sid": 24,
+      "location": 2,
+      "content": "开关速度比较快",
+      "music": 0.0
+    },
+    {
+      "from": 64.64,
+      "to": 68.96,
+      "sid": 25,
+      "location": 2,
+      "content": "工作频率可达到10~40k赫兹",
+      "music": 0.0
+    },
+    {
+      "from": 69.46,
+      "to": 71.65,
+      "sid": 26,
+      "location": 2,
+      "content": "饱和压降比较低",
+      "music": 0.0
+    },
+    {
+      "from": 71.65,
+      "to": 74.02,
+      "sid": 27,
+      "location": 2,
+      "content": "比莫斯费比莫斯费的还要小啊",
+      "music": 0.0
+    },
+    {
+      "from": 74.02,
+      "to": 77.58,
+      "sid": 28,
+      "location": 2,
+      "content": "跟这个电力三极管比较相当啊",
+      "music": 0.0
+    },
+    {
+      "from": 77.66,
+      "to": 80.63,
+      "sid": 29,
+      "location": 2,
+      "content": "最后呢它的电压电流容量比较大",
+      "music": 0.0
+    },
+    {
+      "from": 80.63,
+      "to": 84.11,
+      "sid": 30,
+      "location": 2,
+      "content": "安全工安全工作区域宽",
+      "music": 0.0
+    },
+    {
+      "from": 84.11,
+      "to": 87.85,
+      "sid": 31,
+      "location": 2,
+      "content": "它比较适合600伏以上的交流系统",
+      "music": 0.0
+    },
+    {
+      "from": 87.85,
+      "to": 88.93,
+      "sid": 32,
+      "location": 2,
+      "content": "比如说交流电机",
+      "music": 0.0
+    },
+    {
+      "from": 88.93,
+      "to": 89.65,
+      "sid": 33,
+      "location": 2,
+      "content": "变频器",
+      "music": 0.0
+    },
+    {
+      "from": 89.65,
+      "to": 91.24,
+      "sid": 34,
+      "location": 2,
+      "content": "开关电源等等",
+      "music": 0.0
+    },
+    {
+      "from": 91.86,
+      "to": 93.36,
+      "sid": 35,
+      "location": 2,
+      "content": "看一下它的结构",
+      "music": 0.0
+    },
+    {
+      "from": 93.36,
+      "to": 96.66,
+      "sid": 36,
+      "location": 2,
+      "content": "以及它在原理图当中经常用到的符号啊",
+      "music": 0.0
+    },
+    {
+      "from": 96.82,
+      "to": 100.93,
+      "sid": 37,
+      "location": 2,
+      "content": "这是他的一个i g b t内部的一个等效图",
+      "music": 0.0
+    },
+    {
+      "from": 100.93,
+      "to": 102.28,
+      "sid": 38,
+      "location": 2,
+      "content": "它是由一个mos管",
+      "music": 0.0
+    },
+    {
+      "from": 102.28,
+      "to": 104.11,
+      "sid": 39,
+      "location": 2,
+      "content": "一个三极管啊",
+      "music": 0.0
+    },
+    {
+      "from": 104.11,
+      "to": 106.1,
+      "sid": 40,
+      "location": 2,
+      "content": "里面有一些电阻之类的啊",
+      "music": 0.0
+    },
+    {
+      "from": 106.1,
+      "to": 108.38,
+      "sid": 41,
+      "location": 2,
+      "content": "这样的一个等效原理图",
+      "music": 0.0
+    },
+    {
+      "from": 109.18,
+      "to": 114.56,
+      "sid": 42,
+      "location": 2,
+      "content": "这是他在电路图当中经常用到的一些符号",
+      "music": 0.0
+    },
+    {
+      "from": 114.94,
+      "to": 118.6,
+      "sid": 43,
+      "location": 2,
+      "content": "它也分n p a型和p np型啊",
+      "music": 0.0
+    },
+    {
+      "from": 118.6,
+      "to": 121.96,
+      "sid": 44,
+      "location": 2,
+      "content": "这就是i g b t的一个简单的介绍",
+      "music": 0.0
+    },
+    {
+      "from": 122.18,
+      "to": 126.38,
+      "sid": 45,
+      "location": 2,
+      "content": "下面我们来看一下i g b t是如何工作的",
+      "music": 0.0
+    },
+    {
+      "from": 126.38,
+      "to": 128.58,
+      "sid": 46,
+      "location": 2,
+      "content": "那么i g b t",
+      "music": 0.0
+    },
+    {
+      "from": 128.82,
+      "to": 134.5,
+      "sid": 47,
+      "location": 2,
+      "content": "它既然是一个由mos管和三极管组成的一个",
+      "music": 0.0
+    },
+    {
+      "from": 134.5,
+      "to": 136.25,
+      "sid": 48,
+      "location": 2,
+      "content": "复合型半导体器件",
+      "music": 0.0
+    },
+    {
+      "from": 136.25,
+      "to": 138.83,
+      "sid": 49,
+      "location": 2,
+      "content": "那么我们在考虑它的工作原理的时候",
+      "music": 0.0
+    },
+    {
+      "from": 138.83,
+      "to": 142.01,
+      "sid": 50,
+      "location": 2,
+      "content": "就要从它的内部的等效电路图来分析",
+      "music": 0.0
+    },
+    {
+      "from": 142.01,
+      "to": 145.07,
+      "sid": 51,
+      "location": 2,
+      "content": "我们把他的那个内部等效图放到这里了",
+      "music": 0.0
+    },
+    {
+      "from": 145.07,
+      "to": 149.659,
+      "sid": 52,
+      "location": 2,
+      "content": "那么我们知道它也是一个电压控制型器件啊",
+      "music": 0.0
+    },
+    {
+      "from": 149.659,
+      "to": 153.6,
+      "sid": 53,
+      "location": 2,
+      "content": "我们它里边呢是由mos管的",
+      "music": 0.0
+    },
+    {
+      "from": 153.6,
+      "to": 155.4,
+      "sid": 54,
+      "location": 2,
+      "content": "我们从这个方面来考虑",
+      "music": 0.0
+    },
+    {
+      "from": 155.4,
+      "to": 160.1,
+      "sid": 55,
+      "location": 2,
+      "content": "那么当在i g b t的这是山脊啊",
+      "music": 0.0
+    },
+    {
+      "from": 160.1,
+      "to": 161.96,
+      "sid": 56,
+      "location": 2,
+      "content": "发射极集电极对吧",
+      "music": 0.0
+    },
+    {
+      "from": 161.96,
+      "to": 165.23,
+      "sid": 57,
+      "location": 2,
+      "content": "当我在i g b t的升级和发射极之间",
+      "music": 0.0
+    },
+    {
+      "from": 165.23,
+      "to": 166.61,
+      "sid": 58,
+      "location": 2,
+      "content": "加上驱动正电压的时候",
+      "music": 0.0
+    },
+    {
+      "from": 166.61,
+      "to": 168.68,
+      "sid": 59,
+      "location": 2,
+      "content": "这时候我的mos管是导通的",
+      "music": 0.0
+    },
+    {
+      "from": 170.92,
+      "to": 175.79,
+      "sid": 60,
+      "location": 2,
+      "content": "这两段这两端如果加一个正正电压的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 175.79,
+      "to": 177.29,
+      "sid": 61,
+      "location": 2,
+      "content": "我的墨子管是导通的",
+      "music": 0.0
+    },
+    {
+      "from": 177.29,
+      "to": 179.21,
+      "sid": 62,
+      "location": 2,
+      "content": "我的墨子管一旦导通了",
+      "music": 0.0
+    },
+    {
+      "from": 179.21,
+      "to": 182.23,
+      "sid": 63,
+      "location": 2,
+      "content": "我们这个晶体管的集电极",
+      "music": 0.0
+    },
+    {
+      "from": 182.23,
+      "to": 184.64,
+      "sid": 64,
+      "location": 2,
+      "content": "集电极和积极之间啊",
+      "music": 0.0
+    },
+    {
+      "from": 184.64,
+      "to": 186.5,
+      "sid": 65,
+      "location": 2,
+      "content": "它就是呈低阻状态",
+      "music": 0.0
+    },
+    {
+      "from": 186.5,
+      "to": 188.12,
+      "sid": 66,
+      "location": 2,
+      "content": "它也是晶体管导通了",
+      "music": 0.0
+    },
+    {
+      "from": 188.12,
+      "to": 190.0,
+      "sid": 67,
+      "location": 2,
+      "content": "那我这块呢是有电流的",
+      "music": 0.0
+    },
+    {
+      "from": 190.0,
+      "to": 191.8,
+      "sid": 68,
+      "location": 2,
+      "content": "所以说我这个就导通了",
+      "music": 0.0
+    },
+    {
+      "from": 191.8,
+      "to": 195.18,
+      "sid": 69,
+      "location": 2,
+      "content": "这就使得我的整个的i g b t是导通状态对吧",
+      "music": 0.0
+    },
+    {
+      "from": 195.18,
+      "to": 199.84,
+      "sid": 70,
+      "location": 2,
+      "content": "如果说我这一块儿加上呢是一个啊零电压",
+      "music": 0.0
+    },
+    {
+      "from": 199.84,
+      "to": 202.69,
+      "sid": 71,
+      "location": 2,
+      "content": "比如说我是一个低于导通电压的一个电压",
+      "music": 0.0
+    },
+    {
+      "from": 202.69,
+      "to": 203.32,
+      "sid": 72,
+      "location": 2,
+      "content": "零电压",
+      "music": 0.0
+    },
+    {
+      "from": 203.32,
+      "to": 207.1,
+      "sid": 73,
+      "location": 2,
+      "content": "那么我这个呢i g b t这个mos管是不导通的",
+      "music": 0.0
+    },
+    {
+      "from": 207.1,
+      "to": 208.82,
+      "sid": 74,
+      "location": 2,
+      "content": "木子管就不导通了",
+      "music": 0.0
+    },
+    {
+      "from": 208.82,
+      "to": 210.26,
+      "sid": 75,
+      "location": 2,
+      "content": "貌似管不导通的话",
+      "music": 0.0
+    },
+    {
+      "from": 210.26,
+      "to": 212.15,
+      "sid": 76,
+      "location": 2,
+      "content": "我这块就没有积极电流",
+      "music": 0.0
+    },
+    {
+      "from": 212.15,
+      "to": 214.309,
+      "sid": 77,
+      "location": 2,
+      "content": "没有积极电没啊",
+      "music": 0.0
+    },
+    {
+      "from": 214.309,
+      "to": 215.8,
+      "sid": 78,
+      "location": 2,
+      "content": "没有积极电量",
+      "music": 0.0
+    },
+    {
+      "from": 216.42,
+      "to": 217.82,
+      "sid": 79,
+      "location": 2,
+      "content": "没有基极电流的话",
+      "music": 0.0
+    },
+    {
+      "from": 217.82,
+      "to": 219.86,
+      "sid": 80,
+      "location": 2,
+      "content": "我这个三极管也是不导通的",
+      "music": 0.0
+    },
+    {
+      "from": 219.86,
+      "to": 223.89,
+      "sid": 81,
+      "location": 2,
+      "content": "因此呢我这个i g b t就处于一个截止状态啊",
+      "music": 0.0
+    },
+    {
+      "from": 223.89,
+      "to": 225.24,
+      "sid": 82,
+      "location": 2,
+      "content": "不导通的状态",
+      "music": 0.0
+    },
+    {
+      "from": 225.24,
+      "to": 228.63,
+      "sid": 83,
+      "location": 2,
+      "content": "所以说这就是i g b t的一个简单的工作",
+      "music": 0.0
+    },
+    {
+      "from": 228.63,
+      "to": 230.96,
+      "sid": 84,
+      "location": 2,
+      "content": "的一个必啊必要条件",
+      "music": 0.0
+    },
+    {
+      "from": 231.839,
+      "to": 234.259,
+      "sid": 85,
+      "location": 2,
+      "content": "在这一块加一个正向电压",
+      "music": 0.0
+    },
+    {
+      "from": 234.259,
+      "to": 239.26,
+      "sid": 86,
+      "location": 2,
+      "content": "这也就是说它是一个电压型控电压控制型器件",
+      "music": 0.0
+    },
+    {
+      "from": 239.26,
+      "to": 241.6,
+      "sid": 87,
+      "location": 2,
+      "content": "我们从上面的分析可以知道",
+      "music": 0.0
+    },
+    {
+      "from": 241.6,
+      "to": 245.48,
+      "sid": 88,
+      "location": 2,
+      "content": "实际上这个i j b d的安全与否呢跟几个呃",
+      "music": 0.0
+    },
+    {
+      "from": 245.48,
+      "to": 247.34,
+      "sid": 89,
+      "location": 2,
+      "content": "跟几个因素比较相关",
+      "music": 0.0
+    },
+    {
+      "from": 247.34,
+      "to": 250.85,
+      "sid": 90,
+      "location": 2,
+      "content": "首先就是三极和发射极之间的电压",
+      "music": 0.0
+    },
+    {
+      "from": 250.85,
+      "to": 252.59,
+      "sid": 91,
+      "location": 2,
+      "content": "对于这个电压的话",
+      "music": 0.0
+    },
+    {
+      "from": 252.59,
+      "to": 253.97,
+      "sid": 92,
+      "location": 2,
+      "content": "如果过高的话",
+      "music": 0.0
+    },
+    {
+      "from": 253.97,
+      "to": 258.07,
+      "sid": 93,
+      "location": 2,
+      "content": "高于呃i g b t的一个导通电压",
+      "music": 0.0
+    },
+    {
+      "from": 258.07,
+      "to": 261.18,
+      "sid": 94,
+      "location": 2,
+      "content": "那么就会把i g b t啊击穿",
+      "music": 0.0
+    },
+    {
+      "from": 261.18,
+      "to": 264.42,
+      "sid": 95,
+      "location": 2,
+      "content": "造成这个器件的永久性损坏",
+      "music": 0.0
+    },
+    {
+      "from": 264.46,
+      "to": 267.37,
+      "sid": 96,
+      "location": 2,
+      "content": "如果说这个驱动电压比较低的话",
+      "music": 0.0
+    },
+    {
+      "from": 267.37,
+      "to": 272.2,
+      "sid": 97,
+      "location": 2,
+      "content": "就啊不能够使他这个i g b t正常的导通",
+      "music": 0.0
+    },
+    {
+      "from": 272.2,
+      "to": 274.159,
+      "sid": 98,
+      "location": 2,
+      "content": "也不能够使它驱动起来对吧",
+      "music": 0.0
+    },
+    {
+      "from": 274.159,
+      "to": 277.099,
+      "sid": 99,
+      "location": 2,
+      "content": "然后其次呢就是集电极和发射极之间的电压",
+      "music": 0.0
+    },
+    {
+      "from": 277.099,
+      "to": 279.439,
+      "sid": 100,
+      "location": 2,
+      "content": "集电极和发射极之间的电压呢",
+      "music": 0.0
+    },
+    {
+      "from": 279.439,
+      "to": 283.03,
+      "sid": 101,
+      "location": 2,
+      "content": "实际上就要考虑到它的一个集电极和发射极之",
+      "music": 0.0
+    },
+    {
+      "from": 283.03,
+      "to": 285.049,
+      "sid": 102,
+      "location": 2,
+      "content": "发射极之间的耐压值",
+      "music": 0.0
+    },
+    {
+      "from": 285.049,
+      "to": 287.329,
+      "sid": 103,
+      "location": 2,
+      "content": "如果说它高于这个耐压值的话",
+      "music": 0.0
+    },
+    {
+      "from": 287.329,
+      "to": 290.21,
+      "sid": 104,
+      "location": 2,
+      "content": "也会造成这个器件的一个永久性的损坏",
+      "music": 0.0
+    },
+    {
+      "from": 290.21,
+      "to": 294.76,
+      "sid": 105,
+      "location": 2,
+      "content": "嗯再其次呢就是集电极和发射极之间的电流",
+      "music": 0.0
+    },
+    {
+      "from": 294.76,
+      "to": 297.52,
+      "sid": 106,
+      "location": 2,
+      "content": "这个电流呢也不能超过啊",
+      "music": 0.0
+    },
+    {
+      "from": 297.52,
+      "to": 300.0,
+      "sid": 107,
+      "location": 2,
+      "content": "它允许的一个最大电流范围",
+      "music": 0.0
+    },
+    {
+      "from": 300.0,
+      "to": 301.98,
+      "sid": 108,
+      "location": 2,
+      "content": "这时这三点因素呢",
+      "music": 0.0
+    },
+    {
+      "from": 301.98,
+      "to": 305.58,
+      "sid": 109,
+      "location": 2,
+      "content": "是刚才我们在他在分析它的工作原理的",
+      "music": 0.0
+    },
+    {
+      "from": 305.58,
+      "to": 306.84,
+      "sid": 110,
+      "location": 2,
+      "content": "过程当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 306.84,
+      "to": 308.5,
+      "sid": 111,
+      "location": 2,
+      "content": "提及到的啊",
+      "music": 0.0
+    },
+    {
+      "from": 309.16,
+      "to": 311.82,
+      "sid": 112,
+      "location": 2,
+      "content": "涉及到这个i g b t安全可靠的",
+      "music": 0.0
+    },
+    {
+      "from": 311.82,
+      "to": 313.21,
+      "sid": 113,
+      "location": 2,
+      "content": "一个重要的因素",
+      "music": 0.0
+    },
+    {
+      "from": 313.21,
+      "to": 314.65,
+      "sid": 114,
+      "location": 2,
+      "content": "最后还有一点啊",
+      "music": 0.0
+    },
+    {
+      "from": 314.65,
+      "to": 316.09,
+      "sid": 115,
+      "location": 2,
+      "content": "就是对于一个功率型器件",
+      "music": 0.0
+    },
+    {
+      "from": 316.09,
+      "to": 318.04,
+      "sid": 116,
+      "location": 2,
+      "content": "我们一定要考虑它的结温啊",
+      "music": 0.0
+    },
+    {
+      "from": 318.04,
+      "to": 320.97,
+      "sid": 117,
+      "location": 2,
+      "content": "考虑到它的一个啊温度问题",
+      "music": 0.0
+    },
+    {
+      "from": 320.97,
+      "to": 323.52,
+      "sid": 118,
+      "location": 2,
+      "content": "如果说它的温度过高",
+      "music": 0.0
+    },
+    {
+      "from": 323.52,
+      "to": 326.58,
+      "sid": 119,
+      "location": 2,
+      "content": "结温过高也会对这个器件有影响",
+      "music": 0.0
+    },
+    {
+      "from": 326.58,
+      "to": 329.7,
+      "sid": 120,
+      "location": 2,
+      "content": "对他的工作效率会造成影响",
+      "music": 0.0
+    },
+    {
+      "from": 329.7,
+      "to": 335.54,
+      "sid": 121,
+      "location": 2,
+      "content": "所以说呢我们要啊计算它的一个啊功耗",
+      "music": 0.0
+    },
+    {
+      "from": 335.54,
+      "to": 338.9,
+      "sid": 122,
+      "location": 2,
+      "content": "然后来对它进行必要的散热处理",
+      "music": 0.0
+    },
+    {
+      "from": 340.3,
+      "to": 343.9,
+      "sid": 123,
+      "location": 2,
+      "content": "这就是i g b t的一个工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 343.9,
+      "to": 349.04,
+      "sid": 124,
+      "location": 2,
+      "content": "以及影响的影响它安全与否的几个重要的因素",
+      "music": 0.0
+    },
+    {
+      "from": 349.219,
+      "to": 352.399,
+      "sid": 125,
+      "location": 2,
+      "content": "呃下面呢我们就要来看一下它的工作特性",
+      "music": 0.0
+    },
+    {
+      "from": 352.399,
+      "to": 354.019,
+      "sid": 126,
+      "location": 2,
+      "content": "对于前面的一些功啊",
+      "music": 0.0
+    },
+    {
+      "from": 354.019,
+      "to": 356.07,
+      "sid": 127,
+      "location": 2,
+      "content": "那功率器件我们在分析的时候",
+      "music": 0.0
+    },
+    {
+      "from": 356.07,
+      "to": 358.29,
+      "sid": 128,
+      "location": 2,
+      "content": "也会分析它的一些功率特性",
+      "music": 0.0
+    },
+    {
+      "from": 358.29,
+      "to": 360.15,
+      "sid": 129,
+      "location": 2,
+      "content": "比如说一个伏安特性之类的",
+      "music": 0.0
+    },
+    {
+      "from": 360.15,
+      "to": 362.01,
+      "sid": 130,
+      "location": 2,
+      "content": "我们在分析i g b t呢",
+      "music": 0.0
+    },
+    {
+      "from": 362.01,
+      "to": 364.53,
+      "sid": 131,
+      "location": 2,
+      "content": "主要也分为两点来分析它的工作特性",
+      "music": 0.0
+    },
+    {
+      "from": 364.53,
+      "to": 365.67,
+      "sid": 132,
+      "location": 2,
+      "content": "一个是静态特性",
+      "music": 0.0
+    },
+    {
+      "from": 365.67,
+      "to": 367.13,
+      "sid": 133,
+      "location": 2,
+      "content": "一个是动态特性",
+      "music": 0.0
+    },
+    {
+      "from": 367.13,
+      "to": 370.43,
+      "sid": 134,
+      "location": 2,
+      "content": "对于静态特性呢我们稍作了解就可以",
+      "music": 0.0
+    },
+    {
+      "from": 370.43,
+      "to": 372.17,
+      "sid": 135,
+      "location": 2,
+      "content": "因为我们在用的时候",
+      "music": 0.0
+    },
+    {
+      "from": 372.17,
+      "to": 375.45,
+      "sid": 136,
+      "location": 2,
+      "content": "最多的调试当中用的是动态特性",
+      "music": 0.0
+    },
+    {
+      "from": 375.45,
+      "to": 378.81,
+      "sid": 137,
+      "location": 2,
+      "content": "我们要对动态特性做一个比较详细的了解",
+      "music": 0.0
+    },
+    {
+      "from": 378.81,
+      "to": 381.33,
+      "sid": 138,
+      "location": 2,
+      "content": "静态特性呢我们先来认识一下",
+      "music": 0.0
+    },
+    {
+      "from": 381.33,
+      "to": 383.37,
+      "sid": 139,
+      "location": 2,
+      "content": "静态特性主要分为三部分",
+      "music": 0.0
+    },
+    {
+      "from": 383.37,
+      "to": 384.51,
+      "sid": 140,
+      "location": 2,
+      "content": "一个是伏安特性",
+      "music": 0.0
+    },
+    {
+      "from": 384.51,
+      "to": 385.77,
+      "sid": 141,
+      "location": 2,
+      "content": "一个是转移特性",
+      "music": 0.0
+    },
+    {
+      "from": 385.77,
+      "to": 388.12,
+      "sid": 142,
+      "location": 2,
+      "content": "还有一个是静态开关特性",
+      "music": 0.0
+    },
+    {
+      "from": 388.12,
+      "to": 389.83,
+      "sid": 143,
+      "location": 2,
+      "content": "对于伏安特性呢",
+      "music": 0.0
+    },
+    {
+      "from": 389.83,
+      "to": 393.98,
+      "sid": 144,
+      "location": 2,
+      "content": "实际上就是我们前面所说的那个啊输出特性",
+      "music": 0.0
+    },
+    {
+      "from": 393.98,
+      "to": 395.54,
+      "sid": 145,
+      "location": 2,
+      "content": "它是指集电极电流",
+      "music": 0.0
+    },
+    {
+      "from": 395.54,
+      "to": 398.36,
+      "sid": 146,
+      "location": 2,
+      "content": "以及u c e之间的一个函数关系",
+      "music": 0.0
+    },
+    {
+      "from": 398.7,
+      "to": 402.82,
+      "sid": 147,
+      "location": 2,
+      "content": "我们可以看这就是ig bt的一个伏安特性",
+      "music": 0.0
+    },
+    {
+      "from": 402.82,
+      "to": 404.26,
+      "sid": 148,
+      "location": 2,
+      "content": "看到这个伏安特性呢",
+      "music": 0.0
+    },
+    {
+      "from": 404.26,
+      "to": 407.44,
+      "sid": 149,
+      "location": 2,
+      "content": "实际上它是和那个三极管的一个伏安特性",
+      "music": 0.0
+    },
+    {
+      "from": 407.44,
+      "to": 408.929,
+      "sid": 150,
+      "location": 2,
+      "content": "是基本相似的",
+      "music": 0.0
+    },
+    {
+      "from": 408.929,
+      "to": 410.579,
+      "sid": 151,
+      "location": 2,
+      "content": "不同点在哪里呢",
+      "music": 0.0
+    },
+    {
+      "from": 410.579,
+      "to": 414.74,
+      "sid": 152,
+      "location": 2,
+      "content": "对于这个i g b t它是一个电压控制型器件啊",
+      "music": 0.0
+    },
+    {
+      "from": 414.92,
+      "to": 417.33,
+      "sid": 153,
+      "location": 2,
+      "content": "电压控制型器件的话",
+      "music": 0.0
+    },
+    {
+      "from": 417.33,
+      "to": 419.94,
+      "sid": 154,
+      "location": 2,
+      "content": "它的控制参数就是一个电压",
+      "music": 0.0
+    },
+    {
+      "from": 419.94,
+      "to": 422.09,
+      "sid": 155,
+      "location": 2,
+      "content": "是一个单元电压值对吧",
+      "music": 0.0
+    },
+    {
+      "from": 422.09,
+      "to": 424.7,
+      "sid": 156,
+      "location": 2,
+      "content": "而不是积极电流啊",
+      "music": 0.0
+    },
+    {
+      "from": 424.7,
+      "to": 427.43,
+      "sid": 157,
+      "location": 2,
+      "content": "所以说呢它跟这个三极管的区别",
+      "music": 0.0
+    },
+    {
+      "from": 427.43,
+      "to": 428.5,
+      "sid": 158,
+      "location": 2,
+      "content": "主要是在这儿呢",
+      "music": 0.0
+    },
+    {
+      "from": 428.5,
+      "to": 434.1,
+      "sid": 159,
+      "location": 2,
+      "content": "但是单纯从这个图上的这个图来看",
+      "music": 0.0
+    },
+    {
+      "from": 434.1,
+      "to": 437.2,
+      "sid": 160,
+      "location": 2,
+      "content": "实际上适合我们的那个呃",
+      "music": 0.0
+    },
+    {
+      "from": 437.2,
+      "to": 440.71,
+      "sid": 161,
+      "location": 2,
+      "content": "三极管的伏安特性曲线是非常相像的",
+      "music": 0.0
+    },
+    {
+      "from": 440.71,
+      "to": 442.84,
+      "sid": 162,
+      "location": 2,
+      "content": "第二个呢就是转移特性",
+      "music": 0.0
+    },
+    {
+      "from": 442.84,
+      "to": 446.52,
+      "sid": 163,
+      "location": 2,
+      "content": "转移特性呢这个i g b t的转移特性呢",
+      "music": 0.0
+    },
+    {
+      "from": 446.52,
+      "to": 449.79,
+      "sid": 164,
+      "location": 2,
+      "content": "实际上和mos管的转移特性是非常相近的",
+      "music": 0.0
+    },
+    {
+      "from": 449.79,
+      "to": 454.98,
+      "sid": 165,
+      "location": 2,
+      "content": "你看它这是一个这个导通的一个阈值啊",
+      "music": 0.0
+    },
+    {
+      "from": 454.98,
+      "to": 456.24,
+      "sid": 166,
+      "location": 2,
+      "content": "过了这个阈值之后",
+      "music": 0.0
+    },
+    {
+      "from": 456.24,
+      "to": 457.44,
+      "sid": 167,
+      "location": 2,
+      "content": "他就开始导通了",
+      "music": 0.0
+    },
+    {
+      "from": 457.44,
+      "to": 458.74,
+      "sid": 168,
+      "location": 2,
+      "content": "c值就开始有了",
+      "music": 0.0
+    },
+    {
+      "from": 458.74,
+      "to": 462.51,
+      "sid": 169,
+      "location": 2,
+      "content": "它就是i c和u g e之间的一个函数关系",
+      "music": 0.0
+    },
+    {
+      "from": 462.51,
+      "to": 465.33,
+      "sid": 170,
+      "location": 2,
+      "content": "最后呢是它的一个静态开关特性",
+      "music": 0.0
+    },
+    {
+      "from": 465.33,
+      "to": 466.53,
+      "sid": 171,
+      "location": 2,
+      "content": "静态开关特性",
+      "music": 0.0
+    },
+    {
+      "from": 466.53,
+      "to": 470.3,
+      "sid": 172,
+      "location": 2,
+      "content": "就是当这个单元电压大于一个阈值电压的时候",
+      "music": 0.0
+    },
+    {
+      "from": 470.3,
+      "to": 472.44,
+      "sid": 173,
+      "location": 2,
+      "content": "rgb机就导通了啊",
+      "music": 0.0
+    },
+    {
+      "from": 472.479,
+      "to": 479.169,
+      "sid": 174,
+      "location": 2,
+      "content": "这就是这就是它的一个开关特性的一个图示呃",
+      "music": 0.0
+    },
+    {
+      "from": 479.169,
+      "to": 482.679,
+      "sid": 175,
+      "location": 2,
+      "content": "这三点呢就是i g b t的一个静态特性",
+      "music": 0.0
+    },
+    {
+      "from": 482.679,
+      "to": 486.23,
+      "sid": 176,
+      "location": 2,
+      "content": "那么我们下一面呢来看一下它的动态特性",
+      "music": 0.0
+    },
+    {
+      "from": 486.23,
+      "to": 487.31,
+      "sid": 177,
+      "location": 2,
+      "content": "动态特性呢",
+      "music": 0.0
+    },
+    {
+      "from": 487.31,
+      "to": 492.59,
+      "sid": 178,
+      "location": 2,
+      "content": "实际上就是指ig bt在一个开关期间的一个特性",
+      "music": 0.0
+    },
+    {
+      "from": 492.59,
+      "to": 496.34,
+      "sid": 179,
+      "location": 2,
+      "content": "那么开关期间的特性包括它的开关开通过程",
+      "music": 0.0
+    },
+    {
+      "from": 496.34,
+      "to": 497.4,
+      "sid": 180,
+      "location": 2,
+      "content": "关断过程",
+      "music": 0.0
+    },
+    {
+      "from": 497.4,
+      "to": 499.74,
+      "sid": 181,
+      "location": 2,
+      "content": "那么另外呢还有一个庆祝效应",
+      "music": 0.0
+    },
+    {
+      "from": 499.74,
+      "to": 501.93,
+      "sid": 182,
+      "location": 2,
+      "content": "这个情注效应呢我们后面会讲",
+      "music": 0.0
+    },
+    {
+      "from": 501.93,
+      "to": 503.98,
+      "sid": 183,
+      "location": 2,
+      "content": "因为我们前面没有接触过",
+      "music": 0.0
+    },
+    {
+      "from": 504.8,
+      "to": 508.42,
+      "sid": 184,
+      "location": 2,
+      "content": "首先我们从它的一个导通观众图上来分析",
+      "music": 0.0
+    },
+    {
+      "from": 508.42,
+      "to": 510.88,
+      "sid": 185,
+      "location": 2,
+      "content": "这个i g b t的导通与关断",
+      "music": 0.0
+    },
+    {
+      "from": 510.88,
+      "to": 513.79,
+      "sid": 186,
+      "location": 2,
+      "content": "与mos管的导通与关断非常相近",
+      "music": 0.0
+    },
+    {
+      "from": 513.79,
+      "to": 516.12,
+      "sid": 187,
+      "location": 2,
+      "content": "我们来看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 516.12,
+      "to": 518.64,
+      "sid": 188,
+      "location": 2,
+      "content": "它在这个开通过程当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 518.64,
+      "to": 522.79,
+      "sid": 189,
+      "location": 2,
+      "content": "大部分是作为功率这个mos管导通来运行的呃",
+      "music": 0.0
+    },
+    {
+      "from": 522.79,
+      "to": 526.69,
+      "sid": 190,
+      "location": 2,
+      "content": "把它的开通过程分为四部分嗯",
+      "music": 0.0
+    },
+    {
+      "from": 526.69,
+      "to": 527.74,
+      "sid": 191,
+      "location": 2,
+      "content": "看一下",
+      "music": 0.0
+    },
+    {
+      "from": 527.74,
+      "to": 529.079,
+      "sid": 192,
+      "location": 2,
+      "content": "一开始是从",
+      "music": 0.0
+    },
+    {
+      "from": 531.5,
+      "to": 537.16,
+      "sid": 193,
+      "location": 2,
+      "content": "啊从那个山脊脉冲由负到正的一个跳变开始",
+      "music": 0.0
+    },
+    {
+      "from": 537.16,
+      "to": 538.3,
+      "sid": 194,
+      "location": 2,
+      "content": "从这一点啊",
+      "music": 0.0
+    },
+    {
+      "from": 538.3,
+      "to": 540.54,
+      "sid": 195,
+      "location": 2,
+      "content": "从t0 时刻开始啊",
+      "music": 0.0
+    },
+    {
+      "from": 540.54,
+      "to": 544.53,
+      "sid": 196,
+      "location": 2,
+      "content": "三级电影单元脉冲从那个零开始跳变",
+      "music": 0.0
+    },
+    {
+      "from": 544.53,
+      "to": 549.24,
+      "sid": 197,
+      "location": 2,
+      "content": "给这个三级和设计电压充电到ut",
+      "music": 0.0
+    },
+    {
+      "from": 549.24,
+      "to": 551.64,
+      "sid": 198,
+      "location": 2,
+      "content": "ut充电到这一块",
+      "music": 0.0
+    },
+    {
+      "from": 551.64,
+      "to": 556.2,
+      "sid": 199,
+      "location": 2,
+      "content": "这个时间对应的是t0 到t一这个时间",
+      "music": 0.0
+    },
+    {
+      "from": 556.2,
+      "to": 558.78,
+      "sid": 200,
+      "location": 2,
+      "content": "实际上这个i j p t是还没有导通的啊",
+      "music": 0.0
+    },
+    {
+      "from": 558.78,
+      "to": 559.8,
+      "sid": 201,
+      "location": 2,
+      "content": "但它有机电机电流",
+      "music": 0.0
+    },
+    {
+      "from": 559.8,
+      "to": 561.96,
+      "sid": 202,
+      "location": 2,
+      "content": "你看从这个t2 t一的阶段",
+      "music": 0.0
+    },
+    {
+      "from": 561.96,
+      "to": 565.3,
+      "sid": 203,
+      "location": 2,
+      "content": "它的这个i c值才到零对吧",
+      "music": 0.0
+    },
+    {
+      "from": 565.3,
+      "to": 567.58,
+      "sid": 204,
+      "location": 2,
+      "content": "也就是说从t一以后的时刻",
+      "music": 0.0
+    },
+    {
+      "from": 567.58,
+      "to": 568.78,
+      "sid": 205,
+      "location": 2,
+      "content": "他才开始导通",
+      "music": 0.0
+    },
+    {
+      "from": 568.78,
+      "to": 571.18,
+      "sid": 206,
+      "location": 2,
+      "content": "那么所以说呢这段时间t0 到t1 ",
+      "music": 0.0
+    },
+    {
+      "from": 571.18,
+      "to": 574.5,
+      "sid": 207,
+      "location": 2,
+      "content": "这段时间就叫做开通延时时间啊",
+      "music": 0.0
+    },
+    {
+      "from": 574.5,
+      "to": 579.54,
+      "sid": 208,
+      "location": 2,
+      "content": "然后从下面开始这个集电极电流啊",
+      "music": 0.0
+    },
+    {
+      "from": 579.54,
+      "to": 581.61,
+      "sid": 209,
+      "location": 2,
+      "content": "就从零开始上升了",
+      "music": 0.0
+    },
+    {
+      "from": 581.61,
+      "to": 585.51,
+      "sid": 210,
+      "location": 2,
+      "content": "直到它上升到90%稳态值的时候",
+      "music": 0.0
+    },
+    {
+      "from": 585.51,
+      "to": 587.01,
+      "sid": 211,
+      "location": 2,
+      "content": "上升到什么时候",
+      "music": 0.0
+    },
+    {
+      "from": 587.01,
+      "to": 588.24,
+      "sid": 212,
+      "location": 2,
+      "content": "t2 时刻对吧",
+      "music": 0.0
+    },
+    {
+      "from": 588.24,
+      "to": 590.03,
+      "sid": 213,
+      "location": 2,
+      "content": "上升到t2 时刻",
+      "music": 0.0
+    },
+    {
+      "from": 590.03,
+      "to": 593.51,
+      "sid": 214,
+      "location": 2,
+      "content": "这个呢就称为电流的一个上升时间",
+      "music": 0.0
+    },
+    {
+      "from": 593.51,
+      "to": 596.21,
+      "sid": 215,
+      "location": 2,
+      "content": "t2 也就是t2 减t1 ",
+      "music": 0.0
+    },
+    {
+      "from": 596.21,
+      "to": 597.89,
+      "sid": 216,
+      "location": 2,
+      "content": "这是电流的上升时间",
+      "music": 0.0
+    },
+    {
+      "from": 597.89,
+      "to": 599.3,
+      "sid": 217,
+      "location": 2,
+      "content": "这是他的第二个阶段",
+      "music": 0.0
+    },
+    {
+      "from": 599.3,
+      "to": 601.43,
+      "sid": 218,
+      "location": 2,
+      "content": "那么我们来看一下第三个阶段",
+      "music": 0.0
+    },
+    {
+      "from": 601.43,
+      "to": 606.74,
+      "sid": 219,
+      "location": 2,
+      "content": "第三个阶段呢就当t2 以后啊",
+      "music": 0.0
+    },
+    {
+      "from": 606.74,
+      "to": 610.12,
+      "sid": 220,
+      "location": 2,
+      "content": "他这个集电极和设计的电压u c e",
+      "music": 0.0
+    },
+    {
+      "from": 612.4,
+      "to": 614.4,
+      "sid": 221,
+      "location": 2,
+      "content": "uc就开始下降了",
+      "music": 0.0
+    },
+    {
+      "from": 614.4,
+      "to": 615.199,
+      "sid": 222,
+      "location": 2,
+      "content": "看了吗",
+      "music": 0.0
+    },
+    {
+      "from": 615.68,
+      "to": 619.4,
+      "sid": 223,
+      "location": 2,
+      "content": "u c e就是集电极和设计这两端的电压",
+      "music": 0.0
+    },
+    {
+      "from": 619.4,
+      "to": 622.14,
+      "sid": 224,
+      "location": 2,
+      "content": "这两端的电压就开始下降了",
+      "music": 0.0
+    },
+    {
+      "from": 622.7,
+      "to": 625.1,
+      "sid": 225,
+      "location": 2,
+      "content": "导通了之后就开始下降了",
+      "music": 0.0
+    },
+    {
+      "from": 625.1,
+      "to": 626.87,
+      "sid": 226,
+      "location": 2,
+      "content": "那么它下降呢",
+      "music": 0.0
+    },
+    {
+      "from": 626.87,
+      "to": 630.479,
+      "sid": 227,
+      "location": 2,
+      "content": "呃它的过程呢分为两部分",
+      "music": 0.0
+    },
+    {
+      "from": 633.74,
+      "to": 635.02,
+      "sid": 228,
+      "location": 2,
+      "content": "分为两部分",
+      "music": 0.0
+    },
+    {
+      "from": 635.02,
+      "to": 636.42,
+      "sid": 229,
+      "location": 2,
+      "content": "我们来看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 637.06,
+      "to": 639.76,
+      "sid": 230,
+      "location": 2,
+      "content": "呃一个呢这个阶段啊",
+      "music": 0.0
+    },
+    {
+      "from": 639.76,
+      "to": 644.44,
+      "sid": 231,
+      "location": 2,
+      "content": "这个阶段是tv f1 ",
+      "music": 0.0
+    },
+    {
+      "from": 644.44,
+      "to": 648.05,
+      "sid": 232,
+      "location": 2,
+      "content": "这个阶段是也就是t2 到t3 ",
+      "music": 0.0
+    },
+    {
+      "from": 648.05,
+      "to": 648.68,
+      "sid": 233,
+      "location": 2,
+      "content": "这个阶段",
+      "music": 0.0
+    },
+    {
+      "from": 648.68,
+      "to": 651.75,
+      "sid": 234,
+      "location": 2,
+      "content": "它实际上是mos管单独工作的一个时间",
+      "music": 0.0
+    },
+    {
+      "from": 651.75,
+      "to": 656.45,
+      "sid": 235,
+      "location": 2,
+      "content": "而在替v f2 这个期间由t3 到t4 ",
+      "music": 0.0
+    },
+    {
+      "from": 656.45,
+      "to": 659.21,
+      "sid": 236,
+      "location": 2,
+      "content": "这个期间呢是帽子管和晶体管",
+      "music": 0.0
+    },
+    {
+      "from": 659.21,
+      "to": 661.67,
+      "sid": 237,
+      "location": 2,
+      "content": "同时工作的一个时间啊",
+      "music": 0.0
+    },
+    {
+      "from": 661.67,
+      "to": 663.43,
+      "sid": 238,
+      "location": 2,
+      "content": "同时工作时",
+      "music": 0.0
+    },
+    {
+      "from": 663.43,
+      "to": 667.939,
+      "sid": 239,
+      "location": 2,
+      "content": "那个集电极和射极电压下降的一个时间",
+      "music": 0.0
+    },
+    {
+      "from": 670.42,
+      "to": 673.86,
+      "sid": 240,
+      "location": 2,
+      "content": "所以呢总体来说对于这个ig bt的导通时间",
+      "music": 0.0
+    },
+    {
+      "from": 673.86,
+      "to": 676.54,
+      "sid": 241,
+      "location": 2,
+      "content": "实际上实际上是从t0 到t4 啊",
+      "music": 0.0
+    },
+    {
+      "from": 676.54,
+      "to": 680.29,
+      "sid": 242,
+      "location": 2,
+      "content": "这一段时间就是它的一个开通时间啊",
+      "music": 0.0
+    },
+    {
+      "from": 680.29,
+      "to": 683.38,
+      "sid": 243,
+      "location": 2,
+      "content": "在图上表现出它的一个特特性曲线",
+      "music": 0.0
+    },
+    {
+      "from": 683.38,
+      "to": 685.479,
+      "sid": 244,
+      "location": 2,
+      "content": "就是这一块是吧",
+      "music": 0.0
+    },
+    {
+      "from": 687.22,
+      "to": 692.99,
+      "sid": 245,
+      "location": 2,
+      "content": "嗯开通时间呢主要就有这样几个重要的因素啊",
+      "music": 0.0
+    },
+    {
+      "from": 692.99,
+      "to": 694.73,
+      "sid": 246,
+      "location": 2,
+      "content": "参数我们刚才已经说过了",
+      "music": 0.0
+    },
+    {
+      "from": 694.73,
+      "to": 697.19,
+      "sid": 247,
+      "location": 2,
+      "content": "一个是导通延时的时间",
+      "music": 0.0
+    },
+    {
+      "from": 697.19,
+      "to": 699.04,
+      "sid": 248,
+      "location": 2,
+      "content": "就是t2 到t1 ",
+      "music": 0.0
+    },
+    {
+      "from": 699.04,
+      "to": 704.64,
+      "sid": 249,
+      "location": 2,
+      "content": "这个呢就是在这个期间我的那个还没有导通",
+      "music": 0.0
+    },
+    {
+      "from": 705.08,
+      "to": 707.42,
+      "sid": 250,
+      "location": 2,
+      "content": "还有一个电流上升的时间",
+      "music": 0.0
+    },
+    {
+      "from": 707.42,
+      "to": 710.78,
+      "sid": 251,
+      "location": 2,
+      "content": "就是电流从零上升到90%的稳态值",
+      "music": 0.0
+    },
+    {
+      "from": 710.78,
+      "to": 712.88,
+      "sid": 252,
+      "location": 2,
+      "content": "还有一个是开通时间",
+      "music": 0.0
+    },
+    {
+      "from": 712.88,
+      "to": 714.56,
+      "sid": 253,
+      "location": 2,
+      "content": "开通时间呢对于这边来说",
+      "music": 0.0
+    },
+    {
+      "from": 714.56,
+      "to": 718.34,
+      "sid": 254,
+      "location": 2,
+      "content": "我的总的开通时间是从t0 到t4 对吧",
+      "music": 0.0
+    },
+    {
+      "from": 718.34,
+      "to": 721.39,
+      "sid": 255,
+      "location": 2,
+      "content": "还有一个就是貌似管单独的工",
+      "music": 0.0
+    },
+    {
+      "from": 721.39,
+      "to": 724.27,
+      "sid": 256,
+      "location": 2,
+      "content": "单独工作时电压的一个下降过程",
+      "music": 0.0
+    },
+    {
+      "from": 724.27,
+      "to": 727.09,
+      "sid": 257,
+      "location": 2,
+      "content": "还有一个是mos管和晶体管同时工作",
+      "music": 0.0
+    },
+    {
+      "from": 727.09,
+      "to": 728.47,
+      "sid": 258,
+      "location": 2,
+      "content": "是电压的一个下降过程",
+      "music": 0.0
+    },
+    {
+      "from": 728.47,
+      "to": 729.939,
+      "sid": 259,
+      "location": 2,
+      "content": "两两个阶段",
+      "music": 0.0
+    },
+    {
+      "from": 730.18,
+      "to": 732.13,
+      "sid": 260,
+      "location": 2,
+      "content": "这就是它的一个导通",
+      "music": 0.0
+    },
+    {
+      "from": 732.13,
+      "to": 735.11,
+      "sid": 261,
+      "location": 2,
+      "content": "导通的一个开通的一个呃过程",
+      "music": 0.0
+    },
+    {
+      "from": 735.11,
+      "to": 736.79,
+      "sid": 262,
+      "location": 2,
+      "content": "我们来看一下他关灯的过程",
+      "music": 0.0
+    },
+    {
+      "from": 736.79,
+      "to": 740.18,
+      "sid": 263,
+      "location": 2,
+      "content": "关灯的过程我们仍旧是以这个图为例啊",
+      "music": 0.0
+    },
+    {
+      "from": 740.26,
+      "to": 742.24,
+      "sid": 264,
+      "location": 2,
+      "content": "因为它这个关断的时候",
+      "music": 0.0
+    },
+    {
+      "from": 742.24,
+      "to": 745.24,
+      "sid": 265,
+      "location": 2,
+      "content": "我们知道关段要给它加一个负向电压对吧",
+      "music": 0.0
+    },
+    {
+      "from": 745.24,
+      "to": 748.14,
+      "sid": 266,
+      "location": 2,
+      "content": "反反向电压来使它的关断",
+      "music": 0.0
+    },
+    {
+      "from": 748.14,
+      "to": 749.94,
+      "sid": 267,
+      "location": 2,
+      "content": "但是在mos管的内部啊",
+      "music": 0.0
+    },
+    {
+      "from": 749.94,
+      "to": 752.54,
+      "sid": 268,
+      "location": 2,
+      "content": "它有一个等效的输入电容",
+      "music": 0.0
+    },
+    {
+      "from": 752.54,
+      "to": 755.18,
+      "sid": 269,
+      "location": 2,
+      "content": "要使它这个输入电容放电之后",
+      "music": 0.0
+    },
+    {
+      "from": 756.22,
+      "to": 758.61,
+      "sid": 270,
+      "location": 2,
+      "content": "全部放电之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 758.61,
+      "to": 760.59,
+      "sid": 271,
+      "location": 2,
+      "content": "这也是有一个过程的",
+      "music": 0.0
+    },
+    {
+      "from": 760.59,
+      "to": 763.78,
+      "sid": 272,
+      "location": 2,
+      "content": "所以说呢在t5 和t6 时间内",
+      "music": 0.0
+    },
+    {
+      "from": 763.86,
+      "to": 765.9,
+      "sid": 273,
+      "location": 2,
+      "content": "这个集电极电流和电压",
+      "music": 0.0
+    },
+    {
+      "from": 765.9,
+      "to": 768.27,
+      "sid": 274,
+      "location": 2,
+      "content": "都没有明显的明显的变化",
+      "music": 0.0
+    },
+    {
+      "from": 768.27,
+      "to": 773.12,
+      "sid": 275,
+      "location": 2,
+      "content": "虽然说啊给这个相机加上一个反向的脉冲电压",
+      "music": 0.0
+    },
+    {
+      "from": 773.84,
+      "to": 776.2,
+      "sid": 276,
+      "location": 2,
+      "content": "但它内部的mos管的输入电容",
+      "music": 0.0
+    },
+    {
+      "from": 776.2,
+      "to": 777.79,
+      "sid": 277,
+      "location": 2,
+      "content": "人就是放电的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 777.79,
+      "to": 780.71,
+      "sid": 278,
+      "location": 2,
+      "content": "所以说他这边呢有没有明显的变化",
+      "music": 0.0
+    },
+    {
+      "from": 780.71,
+      "to": 783.14,
+      "sid": 279,
+      "location": 2,
+      "content": "一直到t7 之呃",
+      "music": 0.0
+    },
+    {
+      "from": 783.14,
+      "to": 786.3,
+      "sid": 280,
+      "location": 2,
+      "content": "t6 和t60 t60 克之后",
+      "music": 0.0
+    },
+    {
+      "from": 786.3,
+      "to": 789.48,
+      "sid": 281,
+      "location": 2,
+      "content": "然后呢我这个mos管呢慢慢的退出饱和状态",
+      "music": 0.0
+    },
+    {
+      "from": 789.48,
+      "to": 792.599,
+      "sid": 282,
+      "location": 2,
+      "content": "t6 时刻我们看一下t6 时刻对应到哪了",
+      "music": 0.0
+    },
+    {
+      "from": 795.24,
+      "to": 796.4,
+      "sid": 283,
+      "location": 2,
+      "content": "这边没有画出来",
+      "music": 0.0
+    },
+    {
+      "from": 796.4,
+      "to": 798.47,
+      "sid": 284,
+      "location": 2,
+      "content": "是不是到t7 时刻",
+      "music": 0.0
+    },
+    {
+      "from": 798.47,
+      "to": 799.22,
+      "sid": 285,
+      "location": 2,
+      "content": "t7 时刻",
+      "music": 0.0
+    },
+    {
+      "from": 799.22,
+      "to": 800.18,
+      "sid": 286,
+      "location": 2,
+      "content": "这个比较明显",
+      "music": 0.0
+    },
+    {
+      "from": 800.18,
+      "to": 805.26,
+      "sid": 287,
+      "location": 2,
+      "content": "t7 时刻这个uc上升到这里了",
+      "music": 0.0
+    },
+    {
+      "from": 807.64,
+      "to": 809.58,
+      "sid": 288,
+      "location": 2,
+      "content": "u c e上升到这个点了",
+      "music": 0.0
+    },
+    {
+      "from": 809.58,
+      "to": 812.76,
+      "sid": 289,
+      "location": 2,
+      "content": "t70 个u c e上升到他这边",
+      "music": 0.0
+    },
+    {
+      "from": 812.76,
+      "to": 815.49,
+      "sid": 290,
+      "location": 2,
+      "content": "是实际上是一个u cm对吧",
+      "music": 0.0
+    },
+    {
+      "from": 815.49,
+      "to": 816.63,
+      "sid": 291,
+      "location": 2,
+      "content": "t6 到t7 ",
+      "music": 0.0
+    },
+    {
+      "from": 816.63,
+      "to": 820.02,
+      "sid": 292,
+      "location": 2,
+      "content": "这段时间实际上是是电压上升的一个时间",
+      "music": 0.0
+    },
+    {
+      "from": 820.02,
+      "to": 822.959,
+      "sid": 293,
+      "location": 2,
+      "content": "u c e电压上升的一个时间",
+      "music": 0.0
+    },
+    {
+      "from": 825.46,
+      "to": 829.44,
+      "sid": 294,
+      "location": 2,
+      "content": "这段呢成为电压上升时间之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 829.44,
+      "to": 832.44,
+      "sid": 295,
+      "location": 2,
+      "content": "这个mos fit mos fit就退出了饱和状态啊",
+      "music": 0.0
+    },
+    {
+      "from": 832.44,
+      "to": 834.54,
+      "sid": 296,
+      "location": 2,
+      "content": "他的这个积极电流就慢慢下降了",
+      "music": 0.0
+    },
+    {
+      "from": 834.54,
+      "to": 837.339,
+      "sid": 297,
+      "location": 2,
+      "content": "集电极电流也减小了",
+      "music": 0.0
+    },
+    {
+      "from": 837.8,
+      "to": 842.3,
+      "sid": 298,
+      "location": 2,
+      "content": "当它这个值当这个值减小到90%之后",
+      "music": 0.0
+    },
+    {
+      "from": 842.3,
+      "to": 844.339,
+      "sid": 299,
+      "location": 2,
+      "content": "稳态值的90%之后",
+      "music": 0.0
+    },
+    {
+      "from": 853.38,
+      "to": 858.99,
+      "sid": 300,
+      "location": 2,
+      "content": "到t8 到t8 时刻",
+      "music": 0.0
+    },
+    {
+      "from": 858.99,
+      "to": 860.79,
+      "sid": 301,
+      "location": 2,
+      "content": "然后就完全关断了",
+      "music": 0.0
+    },
+    {
+      "from": 860.79,
+      "to": 863.28,
+      "sid": 302,
+      "location": 2,
+      "content": "这就是它的一个关断过程",
+      "music": 0.0
+    },
+    {
+      "from": 863.28,
+      "to": 866.24,
+      "sid": 303,
+      "location": 2,
+      "content": "关断过程呢主要是从t5 到t8 ",
+      "music": 0.0
+    },
+    {
+      "from": 867.6,
+      "to": 872.06,
+      "sid": 304,
+      "location": 2,
+      "content": "我们来看一下在关断过程当中的几个重要参数",
+      "music": 0.0
+    },
+    {
+      "from": 872.06,
+      "to": 873.8,
+      "sid": 305,
+      "location": 2,
+      "content": "一个是关断延时时间",
+      "music": 0.0
+    },
+    {
+      "from": 873.8,
+      "to": 875.8,
+      "sid": 306,
+      "location": 2,
+      "content": "td关断延时时间",
+      "music": 0.0
+    },
+    {
+      "from": 875.8,
+      "to": 877.24,
+      "sid": 307,
+      "location": 2,
+      "content": "td在这个图上来看",
+      "music": 0.0
+    },
+    {
+      "from": 877.24,
+      "to": 879.9,
+      "sid": 308,
+      "location": 2,
+      "content": "实际上是t5 到t6 这段时间对吧",
+      "music": 0.0
+    },
+    {
+      "from": 879.9,
+      "to": 883.71,
+      "sid": 309,
+      "location": 2,
+      "content": "t5 到t6 这段时间叫做关断延时时间",
+      "music": 0.0
+    },
+    {
+      "from": 883.71,
+      "to": 886.05,
+      "sid": 310,
+      "location": 2,
+      "content": "然后还有呢t6 到t7 ",
+      "music": 0.0
+    },
+    {
+      "from": 886.05,
+      "to": 889.38,
+      "sid": 311,
+      "location": 2,
+      "content": "这段时间叫做电压上升时间啊",
+      "music": 0.0
+    },
+    {
+      "from": 889.38,
+      "to": 892.04,
+      "sid": 312,
+      "location": 2,
+      "content": "他这个u c e在这一块是从",
+      "music": 0.0
+    },
+    {
+      "from": 895.08,
+      "to": 896.78,
+      "sid": 313,
+      "location": 2,
+      "content": "一直上升到u c e",
+      "music": 0.0
+    },
+    {
+      "from": 896.78,
+      "to": 900.93,
+      "sid": 314,
+      "location": 2,
+      "content": "在这段时间一直上升到接近ucm这一点对吧",
+      "music": 0.0
+    },
+    {
+      "from": 900.93,
+      "to": 902.1,
+      "sid": 315,
+      "location": 2,
+      "content": "之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 902.1,
+      "to": 905.46,
+      "sid": 316,
+      "location": 2,
+      "content": "当那个莫斯管推出饱和状态之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 905.46,
+      "to": 910.23,
+      "sid": 317,
+      "location": 2,
+      "content": "他就进入了一个电压上的一个下降时间",
+      "music": 0.0
+    },
+    {
+      "from": 910.23,
+      "to": 911.25,
+      "sid": 318,
+      "location": 2,
+      "content": "电压上的啊",
+      "music": 0.0
+    },
+    {
+      "from": 911.25,
+      "to": 913.999,
+      "sid": 319,
+      "location": 2,
+      "content": "不是是电流上的一个下降时间",
+      "music": 0.0
+    },
+    {
+      "from": 913.999,
+      "to": 915.559,
+      "sid": 320,
+      "location": 2,
+      "content": "电流上的一个下降时间",
+      "music": 0.0
+    },
+    {
+      "from": 915.559,
+      "to": 919.219,
+      "sid": 321,
+      "location": 2,
+      "content": "就是这个电流上的电流从90%",
+      "music": 0.0
+    },
+    {
+      "from": 919.219,
+      "to": 920.719,
+      "sid": 322,
+      "location": 2,
+      "content": "一直下降到10%",
+      "music": 0.0
+    },
+    {
+      "from": 920.719,
+      "to": 921.739,
+      "sid": 323,
+      "location": 2,
+      "content": "这个这个阶段",
+      "music": 0.0
+    },
+    {
+      "from": 921.739,
+      "to": 923.179,
+      "sid": 324,
+      "location": 2,
+      "content": "这个阶段对应到时间上",
+      "music": 0.0
+    },
+    {
+      "from": 923.179,
+      "to": 926.979,
+      "sid": 325,
+      "location": 2,
+      "content": "时间轴上实际上是t7 到t8 这段时间",
+      "music": 0.0
+    },
+    {
+      "from": 930.66,
+      "to": 933.89,
+      "sid": 326,
+      "location": 2,
+      "content": "实际呢在那个t吧以后还有一个尾部时间",
+      "music": 0.0
+    },
+    {
+      "from": 933.89,
+      "to": 935.24,
+      "sid": 327,
+      "location": 2,
+      "content": "这个时间里边呢",
+      "music": 0.0
+    },
+    {
+      "from": 935.24,
+      "to": 938.82,
+      "sid": 328,
+      "location": 2,
+      "content": "由于这个集电极和设计的dna已经建立了",
+      "music": 0.0
+    },
+    {
+      "from": 938.82,
+      "to": 941.74,
+      "sid": 329,
+      "location": 2,
+      "content": "就会产生比较大的损耗",
+      "music": 0.0
+    },
+    {
+      "from": 942.38,
+      "to": 944.08,
+      "sid": 330,
+      "location": 2,
+      "content": "整个的关段时间呢",
+      "music": 0.0
+    },
+    {
+      "from": 944.08,
+      "to": 947.38,
+      "sid": 331,
+      "location": 2,
+      "content": "实际上就是到t5 到t8 这段时间",
+      "music": 0.0
+    },
+    {
+      "from": 950.28,
+      "to": 952.43,
+      "sid": 332,
+      "location": 2,
+      "content": "这就是它的一个关段时间",
+      "music": 0.0
+    },
+    {
+      "from": 952.43,
+      "to": 955.76,
+      "sid": 333,
+      "location": 2,
+      "content": "关段时间也是这几部分的一个核对吧",
+      "music": 0.0
+    },
+    {
+      "from": 956.58,
+      "to": 962.12,
+      "sid": 334,
+      "location": 2,
+      "content": "这就是呃动态特性当中关断过程的一个分析",
+      "music": 0.0
+    },
+    {
+      "from": 962.12,
+      "to": 964.25,
+      "sid": 335,
+      "location": 2,
+      "content": "最后呢就是这个情注效应",
+      "music": 0.0
+    },
+    {
+      "from": 964.25,
+      "to": 968.69,
+      "sid": 336,
+      "location": 2,
+      "content": "实际上这个情注效应呢就是i g b t不受控的",
+      "music": 0.0
+    },
+    {
+      "from": 968.69,
+      "to": 969.05,
+      "sid": 337,
+      "location": 2,
+      "content": "一种",
+      "music": 0.0
+    },
+    {
+      "from": 969.05,
+      "to": 970.86,
+      "sid": 338,
+      "location": 2,
+      "content": "像一种一种状况",
+      "music": 0.0
+    },
+    {
+      "from": 970.86,
+      "to": 973.38,
+      "sid": 339,
+      "location": 2,
+      "content": "就是当他的ac瞬间过大的时候",
+      "music": 0.0
+    },
+    {
+      "from": 973.38,
+      "to": 976.52,
+      "sid": 340,
+      "location": 2,
+      "content": "这个i g b t呢就会像晶闸管一样导通",
+      "music": 0.0
+    },
+    {
+      "from": 976.52,
+      "to": 979.699,
+      "sid": 341,
+      "location": 2,
+      "content": "但是呢他的这个呃这集呢",
+      "music": 0.0
+    },
+    {
+      "from": 979.699,
+      "to": 981.499,
+      "sid": 342,
+      "location": 2,
+      "content": "他失去了一个控制作用",
+      "music": 0.0
+    },
+    {
+      "from": 981.499,
+      "to": 983.77,
+      "sid": 343,
+      "location": 2,
+      "content": "这就叫做它的一个情注效应",
+      "music": 0.0
+    },
+    {
+      "from": 983.77,
+      "to": 986.35,
+      "sid": 344,
+      "location": 2,
+      "content": "我们在用的时候也要分析啊",
+      "music": 0.0
+    },
+    {
+      "from": 986.35,
+      "to": 989.89,
+      "sid": 345,
+      "location": 2,
+      "content": "通过看从那个示波器上看图之类的",
+      "music": 0.0
+    },
+    {
+      "from": 989.89,
+      "to": 991.28,
+      "sid": 346,
+      "location": 2,
+      "content": "然后要分析一下",
+      "music": 0.0
+    },
+    {
+      "from": 993.14,
+      "to": 996.21,
+      "sid": 347,
+      "location": 2,
+      "content": "这就是ig bt的一个工作特性",
+      "music": 0.0
+    },
+    {
+      "from": 996.21,
+      "to": 999.21,
+      "sid": 348,
+      "location": 2,
+      "content": "那么i g b t有哪些技术参数呢",
+      "music": 0.0
+    },
+    {
+      "from": 999.21,
+      "to": 1001.55,
+      "sid": 349,
+      "location": 2,
+      "content": "我们在使用的时候如何选型呢",
+      "music": 0.0
+    },
+    {
+      "from": 1001.55,
+      "to": 1003.44,
+      "sid": 350,
+      "location": 2,
+      "content": "我们下面来接着看一下",
+      "music": 0.0
+    },
+    {
+      "from": 1003.44,
+      "to": 1005.12,
+      "sid": 351,
+      "location": 2,
+      "content": "对于它的一些参数呢",
+      "music": 0.0
+    },
+    {
+      "from": 1005.12,
+      "to": 1008.06,
+      "sid": 352,
+      "location": 2,
+      "content": "我们刚才在分析它的工作特性的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1008.06,
+      "to": 1009.819,
+      "sid": 353,
+      "location": 2,
+      "content": "实际上也已经提出来了",
+      "music": 0.0
+    },
+    {
+      "from": 1009.819,
+      "to": 1013.059,
+      "sid": 354,
+      "location": 2,
+      "content": "比如说集电极和发射极之间的电压",
+      "music": 0.0
+    },
+    {
+      "from": 1013.059,
+      "to": 1015.88,
+      "sid": 355,
+      "location": 2,
+      "content": "升级发射极之间的电压",
+      "music": 0.0
+    },
+    {
+      "from": 1017.04,
+      "to": 1020.06,
+      "sid": 356,
+      "location": 2,
+      "content": "然后集电极电流啊",
+      "music": 0.0
+    },
+    {
+      "from": 1020.06,
+      "to": 1021.17,
+      "sid": 357,
+      "location": 2,
+      "content": "耗散功率",
+      "music": 0.0
+    },
+    {
+      "from": 1021.17,
+      "to": 1022.51,
+      "sid": 358,
+      "location": 2,
+      "content": "节温啊",
+      "music": 0.0
+    },
+    {
+      "from": 1022.51,
+      "to": 1023.35,
+      "sid": 359,
+      "location": 2,
+      "content": "关断电流",
+      "music": 0.0
+    },
+    {
+      "from": 1023.35,
+      "to": 1026.29,
+      "sid": 360,
+      "location": 2,
+      "content": "漏电流饱和压降输入电容等等",
+      "music": 0.0
+    },
+    {
+      "from": 1026.29,
+      "to": 1028.57,
+      "sid": 361,
+      "location": 2,
+      "content": "这些在刚才我们的讲解当中",
+      "music": 0.0
+    },
+    {
+      "from": 1028.57,
+      "to": 1030.679,
+      "sid": 362,
+      "location": 2,
+      "content": "都也涉及到了这些参数",
+      "music": 0.0
+    },
+    {
+      "from": 1030.679,
+      "to": 1032.599,
+      "sid": 363,
+      "location": 2,
+      "content": "所以说呢对于这些参数呢",
+      "music": 0.0
+    },
+    {
+      "from": 1032.599,
+      "to": 1034.699,
+      "sid": 364,
+      "location": 2,
+      "content": "我就不一一说明了啊",
+      "music": 0.0
+    },
+    {
+      "from": 1034.699,
+      "to": 1036.979,
+      "sid": 365,
+      "location": 2,
+      "content": "我们主要是来看一下它的选项",
+      "music": 0.0
+    },
+    {
+      "from": 1036.979,
+      "to": 1038.51,
+      "sid": 366,
+      "location": 2,
+      "content": "我们如果来啊",
+      "music": 0.0
+    },
+    {
+      "from": 1038.51,
+      "to": 1042.76,
+      "sid": 367,
+      "location": 2,
+      "content": "在那个实际的应用当中选择这个i g b t",
+      "music": 0.0
+    },
+    {
+      "from": 1042.76,
+      "to": 1044.53,
+      "sid": 368,
+      "location": 2,
+      "content": "我们首先看一下",
+      "music": 0.0
+    },
+    {
+      "from": 1044.53,
+      "to": 1047.17,
+      "sid": 369,
+      "location": 2,
+      "content": "我们要依据哪几个方面来进行选择",
+      "music": 0.0
+    },
+    {
+      "from": 1047.17,
+      "to": 1048.11,
+      "sid": 370,
+      "location": 2,
+      "content": "i g b t",
+      "music": 0.0
+    },
+    {
+      "from": 1048.11,
+      "to": 1051.08,
+      "sid": 371,
+      "location": 2,
+      "content": "首先我们来要来看一下它的电压",
+      "music": 0.0
+    },
+    {
+      "from": 1051.8,
+      "to": 1054.639,
+      "sid": 372,
+      "location": 2,
+      "content": "电压的规格呢通常有这么几种",
+      "music": 0.0
+    },
+    {
+      "from": 1054.98,
+      "to": 1056.78,
+      "sid": 373,
+      "location": 2,
+      "content": "这是比较常见的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1056.78,
+      "to": 1059.019,
+      "sid": 374,
+      "location": 2,
+      "content": "列了一下表格呃",
+      "music": 0.0
+    },
+    {
+      "from": 1059.019,
+      "to": 1061.869,
+      "sid": 375,
+      "location": 2,
+      "content": "我们在电压的选型上面呢",
+      "music": 0.0
+    },
+    {
+      "from": 1061.869,
+      "to": 1068.26,
+      "sid": 376,
+      "location": 2,
+      "content": "主要是器件上所能承受的最高电压小于这个啊",
+      "music": 0.0
+    },
+    {
+      "from": 1068.26,
+      "to": 1071.02,
+      "sid": 377,
+      "location": 2,
+      "content": "电器件上所能承受的这个最高电压",
+      "music": 0.0
+    },
+    {
+      "from": 1071.02,
+      "to": 1075.21,
+      "sid": 378,
+      "location": 2,
+      "content": "小于这个器件的最那个额定电压值就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 1075.21,
+      "to": 1076.95,
+      "sid": 379,
+      "location": 2,
+      "content": "呃在电流上面呢",
+      "music": 0.0
+    },
+    {
+      "from": 1076.95,
+      "to": 1079.589,
+      "sid": 380,
+      "location": 2,
+      "content": "我们在电流方面选选型呢",
+      "music": 0.0
+    },
+    {
+      "from": 1079.589,
+      "to": 1083.729,
+      "sid": 381,
+      "location": 2,
+      "content": "实际上就是说我在这个电路当中所能过的",
+      "music": 0.0
+    },
+    {
+      "from": 1083.729,
+      "to": 1086.88,
+      "sid": 382,
+      "location": 2,
+      "content": "这个最大电流值要小于等于",
+      "music": 0.0
+    },
+    {
+      "from": 1086.88,
+      "to": 1090.9,
+      "sid": 383,
+      "location": 2,
+      "content": "这个器件额定电流值的70%啊",
+      "music": 0.0
+    },
+    {
+      "from": 1090.9,
+      "to": 1093.86,
+      "sid": 384,
+      "location": 2,
+      "content": "这是我们的一个电流选择的标准",
+      "music": 0.0
+    },
+    {
+      "from": 1093.86,
+      "to": 1095.36,
+      "sid": 385,
+      "location": 2,
+      "content": "对于电路结构呢",
+      "music": 0.0
+    },
+    {
+      "from": 1095.36,
+      "to": 1098.54,
+      "sid": 386,
+      "location": 2,
+      "content": "电路结构实际上是我们的电气方案来决定的",
+      "music": 0.0
+    },
+    {
+      "from": 1098.54,
+      "to": 1100.239,
+      "sid": 387,
+      "location": 2,
+      "content": "我们用什么样的方案",
+      "music": 0.0
+    },
+    {
+      "from": 1100.239,
+      "to": 1102.609,
+      "sid": 388,
+      "location": 2,
+      "content": "我们来选择什么样的电路结构",
+      "music": 0.0
+    },
+    {
+      "from": 1102.609,
+      "to": 1103.359,
+      "sid": 389,
+      "location": 2,
+      "content": "电源呀",
+      "music": 0.0
+    },
+    {
+      "from": 1103.359,
+      "to": 1104.86,
+      "sid": 390,
+      "location": 2,
+      "content": "还是怎么连接呀",
+      "music": 0.0
+    },
+    {
+      "from": 1106.0,
+      "to": 1109.96,
+      "sid": 391,
+      "location": 2,
+      "content": "这个呢是需要我们在做定期方案的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1109.96,
+      "to": 1111.25,
+      "sid": 392,
+      "location": 2,
+      "content": "就已经确定了",
+      "music": 0.0
+    },
+    {
+      "from": 1111.25,
+      "to": 1116.24,
+      "sid": 393,
+      "location": 2,
+      "content": "最后呢是要考虑它的一个封装以及安装方式",
+      "music": 0.0
+    },
+    {
+      "from": 1116.88,
+      "to": 1118.28,
+      "sid": 394,
+      "location": 2,
+      "content": "这个封装的封装",
+      "music": 0.0
+    },
+    {
+      "from": 1118.28,
+      "to": 1121.4,
+      "sid": 395,
+      "location": 2,
+      "content": "它决定了我这个r g b t是怎么安装的",
+      "music": 0.0
+    },
+    {
+      "from": 1121.4,
+      "to": 1122.9,
+      "sid": 396,
+      "location": 2,
+      "content": "是装在板子上呀",
+      "music": 0.0
+    },
+    {
+      "from": 1122.9,
+      "to": 1123.83,
+      "sid": 397,
+      "location": 2,
+      "content": "还是怎么装",
+      "music": 0.0
+    },
+    {
+      "from": 1123.83,
+      "to": 1126.32,
+      "sid": 398,
+      "location": 2,
+      "content": "然后呢它的封装形式呢",
+      "music": 0.0
+    },
+    {
+      "from": 1126.32,
+      "to": 1128.709,
+      "sid": 399,
+      "location": 2,
+      "content": "同时也决定了它的散热啊",
+      "music": 0.0
+    },
+    {
+      "from": 1128.709,
+      "to": 1130.749,
+      "sid": 400,
+      "location": 2,
+      "content": "对于这种功率型器件",
+      "music": 0.0
+    },
+    {
+      "from": 1130.749,
+      "to": 1132.519,
+      "sid": 401,
+      "location": 2,
+      "content": "我们要考虑到它的结温",
+      "music": 0.0
+    },
+    {
+      "from": 1132.519,
+      "to": 1135.01,
+      "sid": 402,
+      "location": 2,
+      "content": "要考虑到它的散热处理",
+      "music": 0.0
+    },
+    {
+      "from": 1135.01,
+      "to": 1138.76,
+      "sid": 403,
+      "location": 2,
+      "content": "这就是我们在i g b t选型的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1138.76,
+      "to": 1142.26,
+      "sid": 404,
+      "location": 2,
+      "content": "主要依据的几个重要的一方面啊",
+      "music": 0.0
+    },
+    {
+      "from": 1143.42,
+      "to": 1145.78,
+      "sid": 405,
+      "location": 2,
+      "content": "下面我们来看一下这个i g b t",
+      "music": 0.0
+    },
+    {
+      "from": 1145.78,
+      "to": 1147.64,
+      "sid": 406,
+      "location": 2,
+      "content": "实际上在电路设计当中呀",
+      "music": 0.0
+    },
+    {
+      "from": 1147.64,
+      "to": 1150.37,
+      "sid": 407,
+      "location": 2,
+      "content": "并不是一个简单的一个元器件",
+      "music": 0.0
+    },
+    {
+      "from": 1150.37,
+      "to": 1153.25,
+      "sid": 408,
+      "location": 2,
+      "content": "我们还要考虑到它在电路设计当中的",
+      "music": 0.0
+    },
+    {
+      "from": 1153.25,
+      "to": 1155.25,
+      "sid": 409,
+      "location": 2,
+      "content": "一个电路的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1155.25,
+      "to": 1158.19,
+      "sid": 410,
+      "location": 2,
+      "content": "与i g b t相关的电路的一个设计",
+      "music": 0.0
+    },
+    {
+      "from": 1158.19,
+      "to": 1159.96,
+      "sid": 411,
+      "location": 2,
+      "content": "我们来看一下在",
+      "music": 0.0
+    },
+    {
+      "from": 1161.66,
+      "to": 1164.5,
+      "sid": 412,
+      "location": 2,
+      "content": "在这个ig bt的这个周围",
+      "music": 0.0
+    },
+    {
+      "from": 1164.5,
+      "to": 1166.33,
+      "sid": 413,
+      "location": 2,
+      "content": "我们需要设计哪些电路",
+      "music": 0.0
+    },
+    {
+      "from": 1166.33,
+      "to": 1168.31,
+      "sid": 414,
+      "location": 2,
+      "content": "首先呢就是一个驱动电路",
+      "music": 0.0
+    },
+    {
+      "from": 1168.31,
+      "to": 1171.07,
+      "sid": 415,
+      "location": 2,
+      "content": "对于一个开关开关控制型器件啊",
+      "music": 0.0
+    },
+    {
+      "from": 1171.07,
+      "to": 1173.91,
+      "sid": 416,
+      "location": 2,
+      "content": "我们首先要给他一个驱动电路对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1173.91,
+      "to": 1175.52,
+      "sid": 417,
+      "location": 2,
+      "content": "驱动电路呢",
+      "music": 0.0
+    },
+    {
+      "from": 1177.26,
+      "to": 1178.66,
+      "sid": 418,
+      "location": 2,
+      "content": "实际上呃",
+      "music": 0.0
+    },
+    {
+      "from": 1178.66,
+      "to": 1182.94,
+      "sid": 419,
+      "location": 2,
+      "content": "我们在选择某一个型号的那个i g b t的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1182.94,
+      "to": 1186.96,
+      "sid": 420,
+      "location": 2,
+      "content": "我们在选择对应的驱动芯片以及驱动电路",
+      "music": 0.0
+    },
+    {
+      "from": 1186.96,
+      "to": 1188.79,
+      "sid": 421,
+      "location": 2,
+      "content": "对于这个驱动电路呢",
+      "music": 0.0
+    },
+    {
+      "from": 1188.79,
+      "to": 1192.9,
+      "sid": 422,
+      "location": 2,
+      "content": "我们一般的data sheet上会有一个建议的一个电路",
+      "music": 0.0
+    },
+    {
+      "from": 1192.9,
+      "to": 1194.91,
+      "sid": 423,
+      "location": 2,
+      "content": "对于一些成熟的产品",
+      "music": 0.0
+    },
+    {
+      "from": 1194.91,
+      "to": 1199.2,
+      "sid": 424,
+      "location": 2,
+      "content": "我们可以对这些驱动电路啊不做大的更改",
+      "music": 0.0
+    },
+    {
+      "from": 1212.14,
+      "to": 1214.32,
+      "sid": 425,
+      "location": 2,
+      "content": "这就是它的一个驱动电路",
+      "music": 0.0
+    },
+    {
+      "from": 1214.32,
+      "to": 1217.389,
+      "sid": 426,
+      "location": 2,
+      "content": "那么下面呢还有一个山脊保护电路",
+      "music": 0.0
+    },
+    {
+      "from": 1217.389,
+      "to": 1219.189,
+      "sid": 427,
+      "location": 2,
+      "content": "对于山脊保护电路",
+      "music": 0.0
+    },
+    {
+      "from": 1219.189,
+      "to": 1223.089,
+      "sid": 428,
+      "location": 2,
+      "content": "这也是它的一个简单的一个山脊保路",
+      "music": 0.0
+    },
+    {
+      "from": 1223.089,
+      "to": 1227.72,
+      "sid": 429,
+      "location": 2,
+      "content": "三级保护电路的一个一个图",
+      "music": 0.0
+    },
+    {
+      "from": 1228.42,
+      "to": 1232.64,
+      "sid": 430,
+      "location": 2,
+      "content": "我们可以看出来这个在这个山鸡保护电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 1232.64,
+      "to": 1237.48,
+      "sid": 431,
+      "location": 2,
+      "content": "有几个有几个器件",
+      "music": 0.0
+    },
+    {
+      "from": 1237.48,
+      "to": 1239.58,
+      "sid": 432,
+      "location": 2,
+      "content": "一个是电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1239.58,
+      "to": 1240.93,
+      "sid": 433,
+      "location": 2,
+      "content": "一个是电容",
+      "music": 0.0
+    },
+    {
+      "from": 1240.93,
+      "to": 1244.57,
+      "sid": 434,
+      "location": 2,
+      "content": "还有一个是保护的",
+      "music": 0.0
+    },
+    {
+      "from": 1244.57,
+      "to": 1246.399,
+      "sid": 435,
+      "location": 2,
+      "content": "一个是双向的",
+      "music": 0.0
+    },
+    {
+      "from": 1252.8,
+      "to": 1254.12,
+      "sid": 436,
+      "location": 2,
+      "content": "二极管对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1254.12,
+      "to": 1255.7,
+      "sid": 437,
+      "location": 2,
+      "content": "一个双向二极管",
+      "music": 0.0
+    },
+    {
+      "from": 1264.42,
+      "to": 1266.42,
+      "sid": 438,
+      "location": 2,
+      "content": "双向稳压二极管",
+      "music": 0.0
+    },
+    {
+      "from": 1266.42,
+      "to": 1271.38,
+      "sid": 439,
+      "location": 2,
+      "content": "我们在对这个升级来进行保护的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 1271.38,
+      "to": 1276.39,
+      "sid": 440,
+      "location": 2,
+      "content": "我们这个门这个这个发射这个电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1276.39,
+      "to": 1278.46,
+      "sid": 441,
+      "location": 2,
+      "content": "我们对这个电阻的这个血型",
+      "music": 0.0
+    },
+    {
+      "from": 1278.46,
+      "to": 1282.35,
+      "sid": 442,
+      "location": 2,
+      "content": "通常是有一个呃电阻值的范围啊",
+      "music": 0.0
+    },
+    {
+      "from": 1282.35,
+      "to": 1283.43,
+      "sid": 443,
+      "location": 2,
+      "content": "在我这个电路",
+      "music": 0.0
+    },
+    {
+      "from": 1283.43,
+      "to": 1285.2,
+      "sid": 444,
+      "location": 2,
+      "content": "我这个截取的这个电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 1285.2,
+      "to": 1289.66,
+      "sid": 445,
+      "location": 2,
+      "content": "它这个电阻值的是4.7k到10k左右",
+      "music": 0.0
+    },
+    {
+      "from": 1289.66,
+      "to": 1291.98,
+      "sid": 446,
+      "location": 2,
+      "content": "他这个稳压管",
+      "music": 0.0
+    },
+    {
+      "from": 1292.0,
+      "to": 1295.75,
+      "sid": 447,
+      "location": 2,
+      "content": "稳压管是16.8伏到17.5伏",
+      "music": 0.0
+    },
+    {
+      "from": 1295.75,
+      "to": 1299.68,
+      "sid": 448,
+      "location": 2,
+      "content": "然后我根据这个驱动波形呀加一个小的电容",
+      "music": 0.0
+    },
+    {
+      "from": 1299.68,
+      "to": 1304.22,
+      "sid": 449,
+      "location": 2,
+      "content": "这个电容一般都是啊皮法级的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1304.22,
+      "to": 1306.58,
+      "sid": 450,
+      "location": 2,
+      "content": "根据他那个波形来进行调整",
+      "music": 0.0
+    },
+    {
+      "from": 1307.54,
+      "to": 1310.32,
+      "sid": 451,
+      "location": 2,
+      "content": "但是这只是针对我这个电路啊",
+      "music": 0.0
+    },
+    {
+      "from": 1310.32,
+      "to": 1313.5,
+      "sid": 452,
+      "location": 2,
+      "content": "然后大家在做大家的这个保护电路的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1313.5,
+      "to": 1317.89,
+      "sid": 453,
+      "location": 2,
+      "content": "还要对这些参数针对具体的电路再进行更改",
+      "music": 0.0
+    },
+    {
+      "from": 1317.89,
+      "to": 1319.99,
+      "sid": 454,
+      "location": 2,
+      "content": "还有一个就是过载保护",
+      "music": 0.0
+    },
+    {
+      "from": 1319.99,
+      "to": 1322.69,
+      "sid": 455,
+      "location": 2,
+      "content": "对于这个i g b t的过载保护呀",
+      "music": 0.0
+    },
+    {
+      "from": 1322.69,
+      "to": 1325.27,
+      "sid": 456,
+      "location": 2,
+      "content": "它通常是设置1.2~1.5倍的一个",
+      "music": 0.0
+    },
+    {
+      "from": 1325.27,
+      "to": 1326.24,
+      "sid": 457,
+      "location": 2,
+      "content": "过载保护",
+      "music": 0.0
+    },
+    {
+      "from": 1326.24,
+      "to": 1327.74,
+      "sid": 458,
+      "location": 2,
+      "content": "这个过载保护啊",
+      "music": 0.0
+    },
+    {
+      "from": 1327.74,
+      "to": 1332.56,
+      "sid": 459,
+      "location": 2,
+      "content": "实际上是检测输入端或者是直流嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1332.56,
+      "to": 1334.6,
+      "sid": 460,
+      "location": 2,
+      "content": "直流环节的一个总电流",
+      "music": 0.0
+    },
+    {
+      "from": 1334.6,
+      "to": 1337.54,
+      "sid": 461,
+      "location": 2,
+      "content": "然后通过这个检测到它这个电流",
+      "music": 0.0
+    },
+    {
+      "from": 1337.54,
+      "to": 1339.28,
+      "sid": 462,
+      "location": 2,
+      "content": "是不是超过设定值了",
+      "music": 0.0
+    },
+    {
+      "from": 1339.28,
+      "to": 1341.02,
+      "sid": 463,
+      "location": 2,
+      "content": "超过之后比较器翻转",
+      "music": 0.0
+    },
+    {
+      "from": 1341.02,
+      "to": 1347.01,
+      "sid": 464,
+      "location": 2,
+      "content": "然后就直接给他那个封锁这个输入脉冲",
+      "music": 0.0
+    },
+    {
+      "from": 1347.01,
+      "to": 1348.48,
+      "sid": 465,
+      "location": 2,
+      "content": "使它的输出电流为零",
+      "music": 0.0
+    },
+    {
+      "from": 1348.48,
+      "to": 1350.76,
+      "sid": 466,
+      "location": 2,
+      "content": "只要你过载了没有输出了啊",
+      "music": 0.0
+    },
+    {
+      "from": 1350.76,
+      "to": 1353.9,
+      "sid": 467,
+      "location": 2,
+      "content": "这种呢一般是需要复位才能够正常工作的",
+      "music": 0.0
+    },
+    {
+      "from": 1353.9,
+      "to": 1355.58,
+      "sid": 468,
+      "location": 2,
+      "content": "还有一个就是短路保护",
+      "music": 0.0
+    },
+    {
+      "from": 1355.58,
+      "to": 1357.32,
+      "sid": 469,
+      "location": 2,
+      "content": "短路保护的只要稍微大一点",
+      "music": 0.0
+    },
+    {
+      "from": 1357.32,
+      "to": 1359.48,
+      "sid": 470,
+      "location": 2,
+      "content": "短路保护一般是高倍数的",
+      "music": 0.0
+    },
+    {
+      "from": 1359.48,
+      "to": 1361.26,
+      "sid": 471,
+      "location": 2,
+      "content": "八到十倍的短路保护",
+      "music": 0.0
+    },
+    {
+      "from": 1363.7,
+      "to": 1368.16,
+      "sid": 472,
+      "location": 2,
+      "content": "最后呢这个一般最后呢就是过电压保护",
+      "music": 0.0
+    },
+    {
+      "from": 1368.16,
+      "to": 1370.86,
+      "sid": 473,
+      "location": 2,
+      "content": "过电压保护这边需要说的就是",
+      "music": 0.0
+    },
+    {
+      "from": 1370.86,
+      "to": 1373.74,
+      "sid": 474,
+      "location": 2,
+      "content": "过电压保护呢通常是要隔离的",
+      "music": 0.0
+    },
+    {
+      "from": 1373.74,
+      "to": 1375.879,
+      "sid": 475,
+      "location": 2,
+      "content": "你这个过电压的呃",
+      "music": 0.0
+    },
+    {
+      "from": 1377.12,
+      "to": 1380.71,
+      "sid": 476,
+      "location": 2,
+      "content": "国电压的这个要送到那个控制电路是吧",
+      "music": 0.0
+    },
+    {
+      "from": 1380.71,
+      "to": 1382.72,
+      "sid": 477,
+      "location": 2,
+      "content": "因为它驱动电路和控制电路",
+      "music": 0.0
+    },
+    {
+      "from": 1382.72,
+      "to": 1386.26,
+      "sid": 478,
+      "location": 2,
+      "content": "一般都是进行光这个电器隔离的",
+      "music": 0.0
+    },
+    {
+      "from": 1386.26,
+      "to": 1391.0,
+      "sid": 479,
+      "location": 2,
+      "content": "这边呢一般都用光耦呀之类的来进行一下隔离",
+      "music": 0.0
+    },
+    {
+      "from": 1395.36,
+      "to": 1398.96,
+      "sid": 480,
+      "location": 2,
+      "content": "或者是脉冲变压器光耦来进行一下隔离",
+      "music": 0.0
+    },
+    {
+      "from": 1398.96,
+      "to": 1400.64,
+      "sid": 481,
+      "location": 2,
+      "content": "最后呢就是这个温度保护",
+      "music": 0.0
+    },
+    {
+      "from": 1400.64,
+      "to": 1402.14,
+      "sid": 482,
+      "location": 2,
+      "content": "温度保护就是我们刚才说的",
+      "music": 0.0
+    },
+    {
+      "from": 1402.14,
+      "to": 1403.64,
+      "sid": 483,
+      "location": 2,
+      "content": "要考虑它的最高结温",
+      "music": 0.0
+    },
+    {
+      "from": 1403.64,
+      "to": 1405.69,
+      "sid": 484,
+      "location": 2,
+      "content": "然后做散热处理啊",
+      "music": 0.0
+    },
+    {
+      "from": 1405.69,
+      "to": 1407.61,
+      "sid": 485,
+      "location": 2,
+      "content": "使他的正常工作的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1407.61,
+      "to": 1411.11,
+      "sid": 486,
+      "location": 2,
+      "content": "它的温度不高于他的允许最高结温",
+      "music": 0.0
+    },
+    {
+      "from": 1411.11,
+      "to": 1413.09,
+      "sid": 487,
+      "location": 2,
+      "content": "最后就是一个静电防护",
+      "music": 0.0
+    },
+    {
+      "from": 1413.09,
+      "to": 1415.25,
+      "sid": 488,
+      "location": 2,
+      "content": "静电防护其实也挺重要的",
+      "music": 0.0
+    },
+    {
+      "from": 1415.25,
+      "to": 1416.81,
+      "sid": 489,
+      "location": 2,
+      "content": "因为这个对于r g b t来说",
+      "music": 0.0
+    },
+    {
+      "from": 1416.81,
+      "to": 1420.34,
+      "sid": 490,
+      "location": 2,
+      "content": "它的v j e的那个通过值呀",
+      "music": 0.0
+    },
+    {
+      "from": 1420.34,
+      "to": 1421.54,
+      "sid": 491,
+      "location": 2,
+      "content": "就是保证值",
+      "music": 0.0
+    },
+    {
+      "from": 1421.54,
+      "to": 1423.76,
+      "sid": 492,
+      "location": 2,
+      "content": "它是正-20幅",
+      "music": 0.0
+    },
+    {
+      "from": 1423.76,
+      "to": 1425.23,
+      "sid": 493,
+      "location": 2,
+      "content": "不能超过正-20",
+      "music": 0.0
+    },
+    {
+      "from": 1425.23,
+      "to": 1428.5,
+      "sid": 494,
+      "location": 2,
+      "content": "那么如果它超出他这个保证值的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1428.5,
+      "to": 1430.46,
+      "sid": 495,
+      "location": 2,
+      "content": "它就会击穿",
+      "music": 0.0
+    },
+    {
+      "from": 1430.46,
+      "to": 1435.67,
+      "sid": 496,
+      "location": 2,
+      "content": "所以说呢我们要注意这个静电静电保护这一块",
+      "music": 0.0
+    },
+    {
+      "from": 1435.67,
+      "to": 1438.46,
+      "sid": 497,
+      "location": 2,
+      "content": "静电保护呢当然有一些静电保护的措施",
+      "music": 0.0
+    },
+    {
+      "from": 1438.46,
+      "to": 1440.17,
+      "sid": 498,
+      "location": 2,
+      "content": "你看这列出了挺多的",
+      "music": 0.0
+    },
+    {
+      "from": 1440.17,
+      "to": 1443.86,
+      "sid": 499,
+      "location": 2,
+      "content": "大家在做的时候放注意防护一下就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 1443.86,
+      "to": 1446.759,
+      "sid": 500,
+      "location": 2,
+      "content": "最后讲的就是它的一个并联问题",
+      "music": 0.0
+    },
+    {
+      "from": 1446.759,
+      "to": 1448.08,
+      "sid": 501,
+      "location": 2,
+      "content": "对于r g b t呢",
+      "music": 0.0
+    },
+    {
+      "from": 1448.08,
+      "to": 1451.2,
+      "sid": 502,
+      "location": 2,
+      "content": "他经常会使用多个期间并联",
+      "music": 0.0
+    },
+    {
+      "from": 1451.2,
+      "to": 1452.4,
+      "sid": 503,
+      "location": 2,
+      "content": "这个并联的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1452.4,
+      "to": 1455.379,
+      "sid": 504,
+      "location": 2,
+      "content": "还要考虑它的一个那个并联均流",
+      "music": 0.0
+    },
+    {
+      "from": 1455.4,
+      "to": 1458.16,
+      "sid": 505,
+      "location": 2,
+      "content": "所以说呢这就涉及到我们在选型的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1458.16,
+      "to": 1460.8,
+      "sid": 506,
+      "location": 2,
+      "content": "选型的时候选的这个v c e啊",
+      "music": 0.0
+    },
+    {
+      "from": 1460.8,
+      "to": 1464.05,
+      "sid": 507,
+      "location": 2,
+      "content": "这一块相同是并联的非常重要的因素",
+      "music": 0.0
+    },
+    {
+      "from": 1464.05,
+      "to": 1466.9,
+      "sid": 508,
+      "location": 2,
+      "content": "这就是并联",
+      "music": 0.0
+    },
+    {
+      "from": 1466.9,
+      "to": 1469.9,
+      "sid": 509,
+      "location": 2,
+      "content": "同时呢就是在并联均流的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1469.9,
+      "to": 1474.42,
+      "sid": 510,
+      "location": 2,
+      "content": "这个极限方法等等呀也比较重要",
+      "music": 0.0
+    },
+    {
+      "from": 1474.42,
+      "to": 1476.52,
+      "sid": 511,
+      "location": 2,
+      "content": "大家可以再注意一下",
+      "music": 0.0
+    },
+    {
+      "from": 1476.52,
+      "to": 1478.08,
+      "sid": 512,
+      "location": 2,
+      "content": "对于这个驱动电路",
+      "music": 0.0
+    },
+    {
+      "from": 1478.08,
+      "to": 1478.98,
+      "sid": 513,
+      "location": 2,
+      "content": "还有其他的",
+      "music": 0.0
+    },
+    {
+      "from": 1478.98,
+      "to": 1480.66,
+      "sid": 514,
+      "location": 2,
+      "content": "比如说驱动电路的布线啊",
+      "music": 0.0
+    },
+    {
+      "from": 1480.66,
+      "to": 1485.99,
+      "sid": 515,
+      "location": 2,
+      "content": "我们在用那个驱动这个驱动线的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 1485.99,
+      "to": 1490.51,
+      "sid": 516,
+      "location": 2,
+      "content": "这个布线的时候到这个i g b t的驱动端",
+      "music": 0.0
+    },
+    {
+      "from": 1490.51,
+      "to": 1493.36,
+      "sid": 517,
+      "location": 2,
+      "content": "从驱动回路出来到i g b t的驱动端",
+      "music": 0.0
+    },
+    {
+      "from": 1493.36,
+      "to": 1494.92,
+      "sid": 518,
+      "location": 2,
+      "content": "这个线要尽可能短",
+      "music": 0.0
+    },
+    {
+      "from": 1494.92,
+      "to": 1496.0,
+      "sid": 519,
+      "location": 2,
+      "content": "越短越好",
+      "music": 0.0
+    },
+    {
+      "from": 1496.0,
+      "to": 1499.09,
+      "sid": 520,
+      "location": 2,
+      "content": "比如说这边这个线就讲到布线了",
+      "music": 0.0
+    },
+    {
+      "from": 1499.09,
+      "to": 1502.51,
+      "sid": 521,
+      "location": 2,
+      "content": "比如说这边这个线实际上在pcb上是越短越好",
+      "music": 0.0
+    },
+    {
+      "from": 1502.51,
+      "to": 1505.8,
+      "sid": 522,
+      "location": 2,
+      "content": "并且需要要跟那个墙面有一定的距离",
+      "music": 0.0
+    },
+    {
+      "from": 1505.8,
+      "to": 1507.3,
+      "sid": 523,
+      "location": 2,
+      "content": "还有呢就是",
+      "music": 0.0
+    },
+    {
+      "from": 1509.62,
+      "to": 1511.26,
+      "sid": 524,
+      "location": 2,
+      "content": "这个保护电路呀",
+      "music": 0.0
+    },
+    {
+      "from": 1511.26,
+      "to": 1512.76,
+      "sid": 525,
+      "location": 2,
+      "content": "像这种保护电路呀",
+      "music": 0.0
+    },
+    {
+      "from": 1512.76,
+      "to": 1515.87,
+      "sid": 526,
+      "location": 2,
+      "content": "在布线的时候要尽可能的靠近i g b t",
+      "music": 0.0
+    },
+    {
+      "from": 1515.87,
+      "to": 1518.75,
+      "sid": 527,
+      "location": 2,
+      "content": "像这边这边就属于它的一个吸收电路",
+      "music": 0.0
+    },
+    {
+      "from": 1518.75,
+      "to": 1519.23,
+      "sid": 528,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 1519.23,
+      "to": 1522.81,
+      "sid": 529,
+      "location": 2,
+      "content": "吸收电路也要尽可能的保护这个i g p t",
+      "music": 0.0
+    },
+    {
+      "from": 1522.81,
+      "to": 1526.29,
+      "sid": 530,
+      "location": 2,
+      "content": "或者是我就直接固定在这i g b t的上面",
+      "music": 0.0
+    },
+    {
+      "from": 1526.96,
+      "to": 1530.56,
+      "sid": 531,
+      "location": 2,
+      "content": "这是在我们讲到电路了",
+      "music": 0.0
+    },
+    {
+      "from": 1530.56,
+      "to": 1532.06,
+      "sid": 532,
+      "location": 2,
+      "content": "讲到一些保护电路的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1532.06,
+      "to": 1535.919,
+      "sid": 533,
+      "location": 2,
+      "content": "它的布线的一个一个一个注意的事项",
+      "music": 0.0
+    },
+    {
+      "from": 1538.24,
+      "to": 1539.94,
+      "sid": 534,
+      "location": 2,
+      "content": "最后呢我们来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 1539.94,
+      "to": 1543.11,
+      "sid": 535,
+      "location": 2,
+      "content": "就讲了这么多i g b t的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1543.11,
+      "to": 1543.95,
+      "sid": 536,
+      "location": 2,
+      "content": "基础知识呀",
+      "music": 0.0
+    },
+    {
+      "from": 1543.95,
+      "to": 1544.76,
+      "sid": 537,
+      "location": 2,
+      "content": "选型呀",
+      "music": 0.0
+    },
+    {
+      "from": 1544.76,
+      "to": 1545.87,
+      "sid": 538,
+      "location": 2,
+      "content": "电路设计啊等等",
+      "music": 0.0
+    },
+    {
+      "from": 1545.87,
+      "to": 1548.07,
+      "sid": 539,
+      "location": 2,
+      "content": "我们看一下它主要应用在哪个方面",
+      "music": 0.0
+    },
+    {
+      "from": 1548.07,
+      "to": 1550.44,
+      "sid": 540,
+      "location": 2,
+      "content": "其实最常见的这个i g b t呢",
+      "music": 0.0
+    },
+    {
+      "from": 1550.44,
+      "to": 1555.64,
+      "sid": 541,
+      "location": 2,
+      "content": "我们呢呃经常是用的最多的是我们的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1555.64,
+      "to": 1557.29,
+      "sid": 542,
+      "location": 2,
+      "content": "eps呀",
+      "music": 0.0
+    },
+    {
+      "from": 1557.29,
+      "to": 1558.58,
+      "sid": 543,
+      "location": 2,
+      "content": "变频器呀",
+      "music": 0.0
+    },
+    {
+      "from": 1558.58,
+      "to": 1562.56,
+      "sid": 544,
+      "location": 2,
+      "content": "逆变器呀啊开关电源呀等等",
+      "music": 0.0
+    },
+    {
+      "from": 1562.56,
+      "to": 1564.3,
+      "sid": 545,
+      "location": 2,
+      "content": "这里边用的会比较多一点",
+      "music": 0.0
+    },
+    {
+      "from": 1564.3,
+      "to": 1568.35,
+      "sid": 546,
+      "location": 2,
+      "content": "因为你看他也是在这个方面啊",
+      "music": 0.0
+    },
+    {
+      "from": 1568.35,
+      "to": 1571.41,
+      "sid": 547,
+      "location": 2,
+      "content": "是它的竞争力逐渐显现",
+      "music": 0.0
+    },
+    {
+      "from": 1571.41,
+      "to": 1573.12,
+      "sid": 548,
+      "location": 2,
+      "content": "其次呢这个i g b t呢",
+      "music": 0.0
+    },
+    {
+      "from": 1573.12,
+      "to": 1578.0,
+      "sid": 549,
+      "location": 2,
+      "content": "在这个汽车点火器上也有很强的竞争力啊",
+      "music": 0.0
+    },
+    {
+      "from": 1578.0,
+      "to": 1578.81,
+      "sid": 550,
+      "location": 2,
+      "content": "还有高铁",
+      "music": 0.0
+    },
+    {
+      "from": 1578.81,
+      "to": 1581.9,
+      "sid": 551,
+      "location": 2,
+      "content": "高铁上面这个电力机车啊",
+      "music": 0.0
+    },
+    {
+      "from": 1581.9,
+      "to": 1585.0,
+      "sid": 552,
+      "location": 2,
+      "content": "你看这个电力机车需要很多个i g b t对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1585.5,
+      "to": 1588.8,
+      "sid": 553,
+      "location": 2,
+      "content": "这个i g b t呢它也有一个发展趋势啊",
+      "music": 0.0
+    },
+    {
+      "from": 1588.8,
+      "to": 1590.91,
+      "sid": 554,
+      "location": 2,
+      "content": "像高耐压呀",
+      "music": 0.0
+    },
+    {
+      "from": 1590.91,
+      "to": 1591.63,
+      "sid": 555,
+      "location": 2,
+      "content": "大电流啊",
+      "music": 0.0
+    },
+    {
+      "from": 1591.63,
+      "to": 1593.55,
+      "sid": 556,
+      "location": 2,
+      "content": "高速度低压降呀等等",
+      "music": 0.0
+    },
+    {
+      "from": 1593.55,
+      "to": 1594.84,
+      "sid": 557,
+      "location": 2,
+      "content": "主要是低成本",
+      "music": 0.0
+    },
+    {
+      "from": 1594.84,
+      "to": 1597.62,
+      "sid": 558,
+      "location": 2,
+      "content": "h p t总的来说它的成本还是比较高的",
+      "music": 0.0
+    },
+    {
+      "from": 1597.62,
+      "to": 1601.46,
+      "sid": 559,
+      "location": 2,
+      "content": "低成本也成为它的一个啊发展的目标",
+      "music": 0.0
+    },
+    {
+      "from": 1602.32,
+      "to": 1604.68,
+      "sid": 560,
+      "location": 2,
+      "content": "目前就是市场上经常用的",
+      "music": 0.0
+    },
+    {
+      "from": 1604.68,
+      "to": 1606.84,
+      "sid": 561,
+      "location": 2,
+      "content": "那就是英飞凌啊",
+      "music": 0.0
+    },
+    {
+      "from": 1606.84,
+      "to": 1613.22,
+      "sid": 562,
+      "location": 2,
+      "content": "三肯a b b等等这些gb t流行的这种品牌",
+      "music": 0.0
+    },
+    {
+      "from": 1613.22,
+      "to": 1616.879,
+      "sid": 563,
+      "location": 2,
+      "content": "大家以后用的时候可以在这些的官网上查一下",
+      "music": 0.0
+    },
+    {
+      "from": 1617.0,
+      "to": 1619.7,
+      "sid": 564,
+      "location": 2,
+      "content": "这就是i g b t的一些基本知识",
+      "music": 0.0
+    },
+    {
+      "from": 1619.7,
+      "to": 1621.08,
+      "sid": 565,
+      "location": 2,
+      "content": "今天先讲到这",
+      "music": 0.0
+    }
+  ]
+}

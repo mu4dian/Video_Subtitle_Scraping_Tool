@@ -1,0 +1,4668 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.76,
+      "to": 3.74,
+      "sid": 1,
+      "location": 2,
+      "content": "下面呢我们来讲一下运算放大器",
+      "music": 0.0
+    },
+    {
+      "from": 3.74,
+      "to": 8.61,
+      "sid": 2,
+      "location": 2,
+      "content": "那么运算放大器呢也是非常常见的一种元器件",
+      "music": 0.0
+    },
+    {
+      "from": 8.61,
+      "to": 10.53,
+      "sid": 3,
+      "location": 2,
+      "content": "那么运算放大电路呢",
+      "music": 0.0
+    },
+    {
+      "from": 10.53,
+      "to": 13.25,
+      "sid": 4,
+      "location": 2,
+      "content": "基本上可以算得上是模拟电路",
+      "music": 0.0
+    },
+    {
+      "from": 13.25,
+      "to": 15.85,
+      "sid": 5,
+      "location": 2,
+      "content": "最需要了解的电路之一了",
+      "music": 0.0
+    },
+    {
+      "from": 15.85,
+      "to": 19.93,
+      "sid": 6,
+      "location": 2,
+      "content": "我们在这一部分呢主要从下面几节来进行说明",
+      "music": 0.0
+    },
+    {
+      "from": 19.93,
+      "to": 21.85,
+      "sid": 7,
+      "location": 2,
+      "content": "首先是一个基本定义",
+      "music": 0.0
+    },
+    {
+      "from": 21.85,
+      "to": 23.81,
+      "sid": 8,
+      "location": 2,
+      "content": "运算放大器的一个基本定义",
+      "music": 0.0
+    },
+    {
+      "from": 23.81,
+      "to": 29.13,
+      "sid": 9,
+      "location": 2,
+      "content": "然后是了解运算放大器的一些基础概念啊",
+      "music": 0.0
+    },
+    {
+      "from": 29.13,
+      "to": 31.59,
+      "sid": 10,
+      "location": 2,
+      "content": "再者呢就是运算放大啊",
+      "music": 0.0
+    },
+    {
+      "from": 31.59,
+      "to": 33.51,
+      "sid": 11,
+      "location": 2,
+      "content": "气组成的一些基本电路",
+      "music": 0.0
+    },
+    {
+      "from": 33.51,
+      "to": 38.18,
+      "sid": 12,
+      "location": 2,
+      "content": "最后呢是运放和比较器的一些区别呃",
+      "music": 0.0
+    },
+    {
+      "from": 38.18,
+      "to": 40.2,
+      "sid": 13,
+      "location": 2,
+      "content": "我们首先来看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 40.2,
+      "to": 43.58,
+      "sid": 14,
+      "location": 2,
+      "content": "运算放大器的一些基本定义",
+      "music": 0.0
+    },
+    {
+      "from": 52.56,
+      "to": 54.96,
+      "sid": 15,
+      "location": 2,
+      "content": "所谓运算放大电路啊",
+      "music": 0.0
+    },
+    {
+      "from": 54.96,
+      "to": 57.16,
+      "sid": 16,
+      "location": 2,
+      "content": "它就是",
+      "music": 0.0
+    },
+    {
+      "from": 58.62,
+      "to": 59.92,
+      "sid": 17,
+      "location": 2,
+      "content": "所谓运算放",
+      "music": 0.0
+    },
+    {
+      "from": 59.92,
+      "to": 61.02,
+      "sid": 18,
+      "location": 2,
+      "content": "所谓运放啊",
+      "music": 0.0
+    },
+    {
+      "from": 61.02,
+      "to": 64.1,
+      "sid": 19,
+      "location": 2,
+      "content": "他就是对这个信号进行数学运算",
+      "music": 0.0
+    },
+    {
+      "from": 64.1,
+      "to": 66.239,
+      "sid": 20,
+      "location": 2,
+      "content": "的一个放大电路嗯",
+      "music": 0.0
+    },
+    {
+      "from": 66.239,
+      "to": 69.019,
+      "sid": 21,
+      "location": 2,
+      "content": "它曾是模拟计算机的一个基础部件",
+      "music": 0.0
+    },
+    {
+      "from": 69.019,
+      "to": 72.13,
+      "sid": 22,
+      "location": 2,
+      "content": "所以就是啊这样得名的",
+      "music": 0.0
+    },
+    {
+      "from": 72.13,
+      "to": 73.37,
+      "sid": 23,
+      "location": 2,
+      "content": "我们可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 73.37,
+      "to": 76.95,
+      "sid": 24,
+      "location": 2,
+      "content": "下面就是模拟集成运算放大器的一个符号",
+      "music": 0.0
+    },
+    {
+      "from": 76.95,
+      "to": 78.27,
+      "sid": 25,
+      "location": 2,
+      "content": "反向输入端",
+      "music": 0.0
+    },
+    {
+      "from": 78.27,
+      "to": 80.66,
+      "sid": 26,
+      "location": 2,
+      "content": "同向输入端输出端啊",
+      "music": 0.0
+    },
+    {
+      "from": 80.66,
+      "to": 83.67,
+      "sid": 27,
+      "location": 2,
+      "content": "这是它的一个原来的符号啊",
+      "music": 0.0
+    },
+    {
+      "from": 83.67,
+      "to": 87.03,
+      "sid": 28,
+      "location": 2,
+      "content": "那么他有许多的啊优点啊",
+      "music": 0.0
+    },
+    {
+      "from": 87.03,
+      "to": 92.3,
+      "sid": 29,
+      "location": 2,
+      "content": "比如说他那个呃就是精巧廉价",
+      "music": 0.0
+    },
+    {
+      "from": 92.3,
+      "to": 95.61,
+      "sid": 30,
+      "location": 2,
+      "content": "可灵活性啊比较高呃",
+      "music": 0.0
+    },
+    {
+      "from": 95.61,
+      "to": 97.19,
+      "sid": 31,
+      "location": 2,
+      "content": "在有源滤波器呀",
+      "music": 0.0
+    },
+    {
+      "from": 97.19,
+      "to": 98.51,
+      "sid": 32,
+      "location": 2,
+      "content": "开关电容电路呀",
+      "music": 0.0
+    },
+    {
+      "from": 98.51,
+      "to": 101.979,
+      "sid": 33,
+      "location": 2,
+      "content": "数模模数转换器里边儿啊等很多方面啊",
+      "music": 0.0
+    },
+    {
+      "from": 101.979,
+      "to": 103.939,
+      "sid": 34,
+      "location": 2,
+      "content": "都得到了一个广泛的应用",
+      "music": 0.0
+    },
+    {
+      "from": 103.939,
+      "to": 106.88,
+      "sid": 35,
+      "location": 2,
+      "content": "这是它的一个基本基本定义",
+      "music": 0.0
+    },
+    {
+      "from": 106.88,
+      "to": 111.36,
+      "sid": 36,
+      "location": 2,
+      "content": "其实要想更好的这个用好这个运算放大器",
+      "music": 0.0
+    },
+    {
+      "from": 111.36,
+      "to": 114.8,
+      "sid": 37,
+      "location": 2,
+      "content": "并且用好运算放大电路呢",
+      "music": 0.0
+    },
+    {
+      "from": 115.12,
+      "to": 118.2,
+      "sid": 38,
+      "location": 2,
+      "content": "透彻的了解这个运算放大器的工作原理啊",
+      "music": 0.0
+    },
+    {
+      "from": 118.2,
+      "to": 119.3,
+      "sid": 39,
+      "location": 2,
+      "content": "是不可避免的",
+      "music": 0.0
+    },
+    {
+      "from": 119.3,
+      "to": 123.03,
+      "sid": 40,
+      "location": 2,
+      "content": "那么运算放大器组成的电路五花八门啊",
+      "music": 0.0
+    },
+    {
+      "from": 123.03,
+      "to": 124.83,
+      "sid": 41,
+      "location": 2,
+      "content": "也通常令我们眼花缭乱",
+      "music": 0.0
+    },
+    {
+      "from": 124.83,
+      "to": 127.85,
+      "sid": 42,
+      "location": 2,
+      "content": "在分析运算放大器工作原理的时候",
+      "music": 0.0
+    },
+    {
+      "from": 127.85,
+      "to": 129.509,
+      "sid": 43,
+      "location": 2,
+      "content": "如果没有抓到核心",
+      "music": 0.0
+    },
+    {
+      "from": 129.509,
+      "to": 133.369,
+      "sid": 44,
+      "location": 2,
+      "content": "往往呀就是我们哎头比较大啊",
+      "music": 0.0
+    },
+    {
+      "from": 133.369,
+      "to": 135.2,
+      "sid": 45,
+      "location": 2,
+      "content": "不会分析这个东西",
+      "music": 0.0
+    },
+    {
+      "from": 135.2,
+      "to": 139.4,
+      "sid": 46,
+      "location": 2,
+      "content": "所以呢我们在分析这个运算放大器组成的",
+      "music": 0.0
+    },
+    {
+      "from": 139.4,
+      "to": 141.4,
+      "sid": 47,
+      "location": 2,
+      "content": "这些运算放大电路的时候",
+      "music": 0.0
+    },
+    {
+      "from": 141.4,
+      "to": 145.45,
+      "sid": 48,
+      "location": 2,
+      "content": "我们首先要对两个基本概念要有一个比较啊",
+      "music": 0.0
+    },
+    {
+      "from": 145.45,
+      "to": 146.51,
+      "sid": 49,
+      "location": 2,
+      "content": "透彻的理解",
+      "music": 0.0
+    },
+    {
+      "from": 146.51,
+      "to": 150.69,
+      "sid": 50,
+      "location": 2,
+      "content": "那么就是下面我们要讲的虚短和虚断",
+      "music": 0.0
+    },
+    {
+      "from": 151.89,
+      "to": 155.53,
+      "sid": 51,
+      "location": 2,
+      "content": "我们来看一下这两个概念它是怎么来解释的",
+      "music": 0.0
+    },
+    {
+      "from": 155.53,
+      "to": 157.11,
+      "sid": 52,
+      "location": 2,
+      "content": "对于虚短呢",
+      "music": 0.0
+    },
+    {
+      "from": 157.11,
+      "to": 160.1,
+      "sid": 53,
+      "location": 2,
+      "content": "虚短呢它是指分析这个定义",
+      "music": 0.0
+    },
+    {
+      "from": 160.1,
+      "to": 163.88,
+      "sid": 54,
+      "location": 2,
+      "content": "它是给的是在分析运算放大器处于线性状态时",
+      "music": 0.0
+    },
+    {
+      "from": 163.88,
+      "to": 166.969,
+      "sid": 55,
+      "location": 2,
+      "content": "把两个输入端视为等电位啊",
+      "music": 0.0
+    },
+    {
+      "from": 166.969,
+      "to": 168.209,
+      "sid": 56,
+      "location": 2,
+      "content": "是虚假短路",
+      "music": 0.0
+    },
+    {
+      "from": 168.209,
+      "to": 169.469,
+      "sid": 57,
+      "location": 2,
+      "content": "简称虚短",
+      "music": 0.0
+    },
+    {
+      "from": 169.469,
+      "to": 175.06,
+      "sid": 58,
+      "location": 2,
+      "content": "而虚断呢是好细分析运放处于线性状态的时候",
+      "music": 0.0
+    },
+    {
+      "from": 175.06,
+      "to": 177.36,
+      "sid": 59,
+      "location": 2,
+      "content": "把两个输入端视为等效开路",
+      "music": 0.0
+    },
+    {
+      "from": 177.36,
+      "to": 179.88,
+      "sid": 60,
+      "location": 2,
+      "content": "这个特性呢称为虚假开路",
+      "music": 0.0
+    },
+    {
+      "from": 179.88,
+      "to": 181.9,
+      "sid": 61,
+      "location": 2,
+      "content": "成为虚断",
+      "music": 0.0
+    },
+    {
+      "from": 181.9,
+      "to": 184.56,
+      "sid": 62,
+      "location": 2,
+      "content": "虚断虚假开路称为虚断",
+      "music": 0.0
+    },
+    {
+      "from": 184.56,
+      "to": 186.08,
+      "sid": 63,
+      "location": 2,
+      "content": "刚才那个是虚假短路",
+      "music": 0.0
+    },
+    {
+      "from": 186.08,
+      "to": 187.16,
+      "sid": 64,
+      "location": 2,
+      "content": "对吧啊",
+      "music": 0.0
+    },
+    {
+      "from": 187.16,
+      "to": 188.8,
+      "sid": 65,
+      "location": 2,
+      "content": "这就是它的一个基本概念",
+      "music": 0.0
+    },
+    {
+      "from": 190.64,
+      "to": 192.99,
+      "sid": 66,
+      "location": 2,
+      "content": "实际上仔细来说一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 192.99,
+      "to": 196.21,
+      "sid": 67,
+      "location": 2,
+      "content": "由于这个运放的这个电压放大倍数很大",
+      "music": 0.0
+    },
+    {
+      "from": 196.21,
+      "to": 199.519,
+      "sid": 68,
+      "location": 2,
+      "content": "一般通用型的这个运运算放大器啊",
+      "music": 0.0
+    },
+    {
+      "from": 199.519,
+      "to": 203.59,
+      "sid": 69,
+      "location": 2,
+      "content": "它的开环电压放大倍数都在80dB以上",
+      "music": 0.0
+    },
+    {
+      "from": 203.91,
+      "to": 206.51,
+      "sid": 70,
+      "location": 2,
+      "content": "而这个运放的输出电压是有限的",
+      "music": 0.0
+    },
+    {
+      "from": 206.51,
+      "to": 209.7,
+      "sid": 71,
+      "location": 2,
+      "content": "输出电压一般都在十伏到14伏中间",
+      "music": 0.0
+    },
+    {
+      "from": 209.7,
+      "to": 213.35,
+      "sid": 72,
+      "location": 2,
+      "content": "而这个输入这个差模输入啊",
+      "music": 0.0
+    },
+    {
+      "from": 213.35,
+      "to": 216.61,
+      "sid": 73,
+      "location": 2,
+      "content": "它的电压一般都小于一毫伏",
+      "music": 0.0
+    },
+    {
+      "from": 216.61,
+      "to": 220.95,
+      "sid": 74,
+      "location": 2,
+      "content": "所以说这个两个输入端近似就等电位了",
+      "music": 0.0
+    },
+    {
+      "from": 220.95,
+      "to": 223.11,
+      "sid": 75,
+      "location": 2,
+      "content": "所以说就相当于短路",
+      "music": 0.0
+    },
+    {
+      "from": 223.11,
+      "to": 228.979,
+      "sid": 76,
+      "location": 2,
+      "content": "这就是我们把它考虑成虚短的一个元音啊",
+      "music": 0.0
+    },
+    {
+      "from": 228.979,
+      "to": 231.279,
+      "sid": 77,
+      "location": 2,
+      "content": "开环电压的放大倍数越大",
+      "music": 0.0
+    },
+    {
+      "from": 231.279,
+      "to": 234.699,
+      "sid": 78,
+      "location": 2,
+      "content": "那么两个输入端的电位呢越接近于相等",
+      "music": 0.0
+    },
+    {
+      "from": 234.699,
+      "to": 239.85,
+      "sid": 79,
+      "location": 2,
+      "content": "我们越啊越可能把它看成啊就是越有利于吧",
+      "music": 0.0
+    },
+    {
+      "from": 239.85,
+      "to": 242.93,
+      "sid": 80,
+      "location": 2,
+      "content": "把它看成是一个虚短的电路",
+      "music": 0.0
+    },
+    {
+      "from": 242.93,
+      "to": 246.37,
+      "sid": 81,
+      "location": 2,
+      "content": "而虚呃虚短呢",
+      "music": 0.0
+    },
+    {
+      "from": 246.37,
+      "to": 250.52,
+      "sid": 82,
+      "location": 2,
+      "content": "它是指指的就是一个虚假的短路啊",
+      "music": 0.0
+    },
+    {
+      "from": 250.52,
+      "to": 254.92,
+      "sid": 83,
+      "location": 2,
+      "content": "显然他那两个输入端是不可能真正短路的",
+      "music": 0.0
+    },
+    {
+      "from": 256.239,
+      "to": 258.339,
+      "sid": 84,
+      "location": 2,
+      "content": "还有一个呢就是虚断",
+      "music": 0.0
+    },
+    {
+      "from": 258.339,
+      "to": 259.479,
+      "sid": 85,
+      "location": 2,
+      "content": "虚断是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 259.479,
+      "to": 263.64,
+      "sid": 86,
+      "location": 2,
+      "content": "是由于这个运放的这个差模输入端啊",
+      "music": 0.0
+    },
+    {
+      "from": 263.64,
+      "to": 267.47,
+      "sid": 87,
+      "location": 2,
+      "content": "它这个运放的差模输入电阻很大",
+      "music": 0.0
+    },
+    {
+      "from": 267.47,
+      "to": 270.47,
+      "sid": 88,
+      "location": 2,
+      "content": "一般通用型的运算放大器的输入电阻呢",
+      "music": 0.0
+    },
+    {
+      "from": 270.47,
+      "to": 272.01,
+      "sid": 89,
+      "location": 2,
+      "content": "都在一兆欧以上",
+      "music": 0.0
+    },
+    {
+      "from": 272.01,
+      "to": 275.94,
+      "sid": 90,
+      "location": 2,
+      "content": "所以说它这个流入运算放大器",
+      "music": 0.0
+    },
+    {
+      "from": 275.94,
+      "to": 281.0,
+      "sid": 91,
+      "location": 2,
+      "content": "输入端的这个电流往往不不足一毫安嗯",
+      "music": 0.0
+    },
+    {
+      "from": 281.0,
+      "to": 285.72,
+      "sid": 92,
+      "location": 2,
+      "content": "远小于这个输入外端的这个这个电流",
+      "music": 0.0
+    },
+    {
+      "from": 285.72,
+      "to": 289.68,
+      "sid": 93,
+      "location": 2,
+      "content": "因此呢就把这块儿啊看成是一个断路哎",
+      "music": 0.0
+    },
+    {
+      "from": 289.68,
+      "to": 291.0,
+      "sid": 94,
+      "location": 2,
+      "content": "就称为是虚断",
+      "music": 0.0
+    },
+    {
+      "from": 292.04,
+      "to": 295.24,
+      "sid": 95,
+      "location": 2,
+      "content": "实际上它是一个等效的一个段位",
+      "music": 0.0
+    },
+    {
+      "from": 295.24,
+      "to": 296.66,
+      "sid": 96,
+      "location": 2,
+      "content": "也有等效开路",
+      "music": 0.0
+    },
+    {
+      "from": 296.66,
+      "to": 299.12,
+      "sid": 97,
+      "location": 2,
+      "content": "并不可能是真正的两个输入端",
+      "music": 0.0
+    },
+    {
+      "from": 299.12,
+      "to": 301.17,
+      "sid": 98,
+      "location": 2,
+      "content": "是真正的一个开路啊",
+      "music": 0.0
+    },
+    {
+      "from": 301.17,
+      "to": 304.63,
+      "sid": 99,
+      "location": 2,
+      "content": "下面我们从下面这个例子来来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 304.63,
+      "to": 306.75,
+      "sid": 100,
+      "location": 2,
+      "content": "我们看一下这个实例啊",
+      "music": 0.0
+    },
+    {
+      "from": 306.75,
+      "to": 311.99,
+      "sid": 101,
+      "location": 2,
+      "content": "呃这是一个常见的反向比例运算放大电路",
+      "music": 0.0
+    },
+    {
+      "from": 311.99,
+      "to": 315.45,
+      "sid": 102,
+      "location": 2,
+      "content": "我们来用虚短和虚断来分析一下",
+      "music": 0.0
+    },
+    {
+      "from": 315.45,
+      "to": 321.559,
+      "sid": 103,
+      "location": 2,
+      "content": "呃我们首先来看啊这个信号电压",
+      "music": 0.0
+    },
+    {
+      "from": 321.559,
+      "to": 325.539,
+      "sid": 104,
+      "location": 2,
+      "content": "这个vs通过电阻R1啊",
+      "music": 0.0
+    },
+    {
+      "from": 325.539,
+      "to": 328.52,
+      "sid": 105,
+      "location": 2,
+      "content": "加到这个运放的一个反向输入端",
+      "music": 0.0
+    },
+    {
+      "from": 328.52,
+      "to": 332.44,
+      "sid": 106,
+      "location": 2,
+      "content": "输出电阻呢是V0对吧",
+      "music": 0.0
+    },
+    {
+      "from": 332.44,
+      "to": 335.32,
+      "sid": 107,
+      "location": 2,
+      "content": "输出电阻是VO啊",
+      "music": 0.0
+    },
+    {
+      "from": 335.32,
+      "to": 337.31,
+      "sid": 108,
+      "location": 2,
+      "content": "咱们就叫它是VO",
+      "music": 0.0
+    },
+    {
+      "from": 337.31,
+      "to": 339.94,
+      "sid": 109,
+      "location": 2,
+      "content": "通过这个",
+      "music": 0.0
+    },
+    {
+      "from": 341.7,
+      "to": 345.85,
+      "sid": 110,
+      "location": 2,
+      "content": "通过这个反向的一个反馈反馈电路",
+      "music": 0.0
+    },
+    {
+      "from": 345.85,
+      "to": 346.93,
+      "sid": 111,
+      "location": 2,
+      "content": "我们看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 346.93,
+      "to": 349.81,
+      "sid": 112,
+      "location": 2,
+      "content": "通过这个反反馈电阻RF",
+      "music": 0.0
+    },
+    {
+      "from": 349.81,
+      "to": 351.27,
+      "sid": 113,
+      "location": 2,
+      "content": "这是一个RF",
+      "music": 0.0
+    },
+    {
+      "from": 351.27,
+      "to": 354.3,
+      "sid": 114,
+      "location": 2,
+      "content": "通过这一个反馈电阻RF",
+      "music": 0.0
+    },
+    {
+      "from": 354.5,
+      "to": 359.02,
+      "sid": 115,
+      "location": 2,
+      "content": "然后连接到这个反向输入端这块对吧",
+      "music": 0.0
+    },
+    {
+      "from": 359.46,
+      "to": 361.68,
+      "sid": 116,
+      "location": 2,
+      "content": "而这个同向输入端呢",
+      "music": 0.0
+    },
+    {
+      "from": 361.68,
+      "to": 364.9,
+      "sid": 117,
+      "location": 2,
+      "content": "这是经过一个电阻连接到D上面了",
+      "music": 0.0
+    },
+    {
+      "from": 364.9,
+      "to": 370.429,
+      "sid": 118,
+      "location": 2,
+      "content": "也就是说我们可以简单的认为同向输入端接地",
+      "music": 0.0
+    },
+    {
+      "from": 370.429,
+      "to": 372.749,
+      "sid": 119,
+      "location": 2,
+      "content": "然后这边是零啊",
+      "music": 0.0
+    },
+    {
+      "from": 372.749,
+      "to": 375.289,
+      "sid": 120,
+      "location": 2,
+      "content": "这边是零伏啊",
+      "music": 0.0
+    },
+    {
+      "from": 375.289,
+      "to": 377.289,
+      "sid": 121,
+      "location": 2,
+      "content": "根据这个",
+      "music": 0.0
+    },
+    {
+      "from": 378.72,
+      "to": 380.62,
+      "sid": 122,
+      "location": 2,
+      "content": "虚短的这个概念呢",
+      "music": 0.0
+    },
+    {
+      "from": 380.62,
+      "to": 381.92,
+      "sid": 123,
+      "location": 2,
+      "content": "那么这边是零伏",
+      "music": 0.0
+    },
+    {
+      "from": 381.92,
+      "to": 385.32,
+      "sid": 124,
+      "location": 2,
+      "content": "我们可以把这边也认为成是灵符",
+      "music": 0.0
+    },
+    {
+      "from": 386.34,
+      "to": 388.74,
+      "sid": 125,
+      "location": 2,
+      "content": "虚假短路嘛是吧",
+      "music": 0.0
+    },
+    {
+      "from": 389.929,
+      "to": 392.809,
+      "sid": 126,
+      "location": 2,
+      "content": "那么反向输入端的这个电阻吧",
+      "music": 0.0
+    },
+    {
+      "from": 393.929,
+      "to": 396.21,
+      "sid": 127,
+      "location": 2,
+      "content": "反向输入端这个内部电阻挺大的",
+      "music": 0.0
+    },
+    {
+      "from": 396.21,
+      "to": 398.57,
+      "sid": 128,
+      "location": 2,
+      "content": "也就是说它这一块的电流非常小",
+      "music": 0.0
+    },
+    {
+      "from": 398.57,
+      "to": 400.82,
+      "sid": 129,
+      "location": 2,
+      "content": "就是从这块电流非常小",
+      "music": 0.0
+    },
+    {
+      "from": 400.82,
+      "to": 402.8,
+      "sid": 130,
+      "location": 2,
+      "content": "所以把它看成是一个虚段",
+      "music": 0.0
+    },
+    {
+      "from": 402.8,
+      "to": 403.9,
+      "sid": 131,
+      "location": 2,
+      "content": "这块是断路的",
+      "music": 0.0
+    },
+    {
+      "from": 403.9,
+      "to": 404.98,
+      "sid": 132,
+      "location": 2,
+      "content": "这块是断路的话",
+      "music": 0.0
+    },
+    {
+      "from": 404.98,
+      "to": 408.58,
+      "sid": 133,
+      "location": 2,
+      "content": "那R1和RF实际上可以啊",
+      "music": 0.0
+    },
+    {
+      "from": 408.58,
+      "to": 411.09,
+      "sid": 134,
+      "location": 2,
+      "content": "等效于串联电路啊",
+      "music": 0.0
+    },
+    {
+      "from": 411.09,
+      "to": 412.57,
+      "sid": 135,
+      "location": 2,
+      "content": "这边是VS",
+      "music": 0.0
+    },
+    {
+      "from": 412.57,
+      "to": 414.07,
+      "sid": 136,
+      "location": 2,
+      "content": "这边是VO对吧",
+      "music": 0.0
+    },
+    {
+      "from": 414.07,
+      "to": 415.57,
+      "sid": 137,
+      "location": 2,
+      "content": "我们根据欧姆定律",
+      "music": 0.0
+    },
+    {
+      "from": 415.57,
+      "to": 422.6,
+      "sid": 138,
+      "location": 2,
+      "content": "就是这个IS就等于这个VS减去这个VV负",
+      "music": 0.0
+    },
+    {
+      "from": 422.6,
+      "to": 424.88,
+      "sid": 139,
+      "location": 2,
+      "content": "这边比如说是V负啊",
+      "music": 0.0
+    },
+    {
+      "from": 424.88,
+      "to": 426.299,
+      "sid": 140,
+      "location": 2,
+      "content": "除以这个R1",
+      "music": 0.0
+    },
+    {
+      "from": 426.299,
+      "to": 428.559,
+      "sid": 141,
+      "location": 2,
+      "content": "这边这个按F呢",
+      "music": 0.0
+    },
+    {
+      "from": 428.559,
+      "to": 434.04,
+      "sid": 142,
+      "location": 2,
+      "content": "按F实际上就是呃V负减去这个VO除以RF",
+      "music": 0.0
+    },
+    {
+      "from": 434.04,
+      "to": 436.04,
+      "sid": 143,
+      "location": 2,
+      "content": "那么这两个电流是个IS",
+      "music": 0.0
+    },
+    {
+      "from": 436.04,
+      "to": 438.24,
+      "sid": 144,
+      "location": 2,
+      "content": "和这个F实际上是相等的",
+      "music": 0.0
+    },
+    {
+      "from": 438.24,
+      "to": 438.88,
+      "sid": 145,
+      "location": 2,
+      "content": "对吧",
+      "music": 0.0
+    },
+    {
+      "from": 438.88,
+      "to": 441.34,
+      "sid": 146,
+      "location": 2,
+      "content": "这个V负和V正是相等的",
+      "music": 0.0
+    },
+    {
+      "from": 441.34,
+      "to": 443.32,
+      "sid": 147,
+      "location": 2,
+      "content": "那么呢",
+      "music": 0.0
+    },
+    {
+      "from": 445.12,
+      "to": 447.62,
+      "sid": 148,
+      "location": 2,
+      "content": "这样呢就组成了一个",
+      "music": 0.0
+    },
+    {
+      "from": 447.62,
+      "to": 449.68,
+      "sid": 149,
+      "location": 2,
+      "content": "像我们下面列出来的这几个式子",
+      "music": 0.0
+    },
+    {
+      "from": 449.68,
+      "to": 451.57,
+      "sid": 150,
+      "location": 2,
+      "content": "就组成了一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 451.57,
+      "to": 455.81,
+      "sid": 151,
+      "location": 2,
+      "content": "由几个方程式构成的这么一个方程式组啊",
+      "music": 0.0
+    },
+    {
+      "from": 455.81,
+      "to": 459.79,
+      "sid": 152,
+      "location": 2,
+      "content": "通过解答呢解出这个VO有一个值啊",
+      "music": 0.0
+    },
+    {
+      "from": 459.79,
+      "to": 464.52,
+      "sid": 153,
+      "location": 2,
+      "content": "算出来它是一个反向的一个放大电路",
+      "music": 0.0
+    },
+    {
+      "from": 464.52,
+      "to": 468.11,
+      "sid": 154,
+      "location": 2,
+      "content": "这就是利用虚短和虚断",
+      "music": 0.0
+    },
+    {
+      "from": 468.11,
+      "to": 471.38,
+      "sid": 155,
+      "location": 2,
+      "content": "来分析电路的一个简单的实例啊",
+      "music": 0.0
+    },
+    {
+      "from": 471.38,
+      "to": 472.66,
+      "sid": 156,
+      "location": 2,
+      "content": "需要注意的是啊",
+      "music": 0.0
+    },
+    {
+      "from": 472.66,
+      "to": 475.1,
+      "sid": 157,
+      "location": 2,
+      "content": "如果是不工作在放大区的时候",
+      "music": 0.0
+    },
+    {
+      "from": 475.1,
+      "to": 477.68,
+      "sid": 158,
+      "location": 2,
+      "content": "他就不满足续断和续断的条件啊",
+      "music": 0.0
+    },
+    {
+      "from": 477.68,
+      "to": 479.78,
+      "sid": 159,
+      "location": 2,
+      "content": "就不能用这个来分析",
+      "music": 0.0
+    },
+    {
+      "from": 479.78,
+      "to": 482.12,
+      "sid": 160,
+      "location": 2,
+      "content": "比如说这个比较器嗯",
+      "music": 0.0
+    },
+    {
+      "from": 482.12,
+      "to": 482.94,
+      "sid": 161,
+      "location": 2,
+      "content": "这个比较器呢",
+      "music": 0.0
+    },
+    {
+      "from": 482.94,
+      "to": 486.5,
+      "sid": 162,
+      "location": 2,
+      "content": "我们在后端还会给大家做一个详细的介绍",
+      "music": 0.0
+    },
+    {
+      "from": 486.5,
+      "to": 489.9,
+      "sid": 163,
+      "location": 2,
+      "content": "大家只要在这块了解我们这种情况分析",
+      "music": 0.0
+    },
+    {
+      "from": 489.9,
+      "to": 493.88,
+      "sid": 164,
+      "location": 2,
+      "content": "只是说它是在一个放大区来进行分析的",
+      "music": 0.0
+    },
+    {
+      "from": 493.88,
+      "to": 496.51,
+      "sid": 165,
+      "location": 2,
+      "content": "嗯嗯好",
+      "music": 0.0
+    },
+    {
+      "from": 496.51,
+      "to": 500.31,
+      "sid": 166,
+      "location": 2,
+      "content": "我们看完了虚短和虚断",
+      "music": 0.0
+    },
+    {
+      "from": 501.61,
+      "to": 505.83,
+      "sid": 167,
+      "location": 2,
+      "content": "这两个呢就是嗯两个概念我们了解了",
+      "music": 0.0
+    },
+    {
+      "from": 505.83,
+      "to": 508.01,
+      "sid": 168,
+      "location": 2,
+      "content": "接下来呢我们在典型电路",
+      "music": 0.0
+    },
+    {
+      "from": 508.01,
+      "to": 510.9,
+      "sid": 169,
+      "location": 2,
+      "content": "在分析这个运算放大器组成的",
+      "music": 0.0
+    },
+    {
+      "from": 510.9,
+      "to": 513.72,
+      "sid": 170,
+      "location": 2,
+      "content": "这些运算放大电路我们就不难了",
+      "music": 0.0
+    },
+    {
+      "from": 513.72,
+      "to": 518.809,
+      "sid": 171,
+      "location": 2,
+      "content": "我们一起来看一下下面这些典型的啊电路",
+      "music": 0.0
+    },
+    {
+      "from": 523.68,
+      "to": 527.4,
+      "sid": 172,
+      "location": 2,
+      "content": "呃典型电路呢实际上总结了很多",
+      "music": 0.0
+    },
+    {
+      "from": 527.4,
+      "to": 530.8,
+      "sid": 173,
+      "location": 2,
+      "content": "首先这个就是反向电路",
+      "music": 0.0
+    },
+    {
+      "from": 531.32,
+      "to": 534.95,
+      "sid": 174,
+      "location": 2,
+      "content": "这个反向电路哦",
+      "music": 0.0
+    },
+    {
+      "from": 534.95,
+      "to": 536.53,
+      "sid": 175,
+      "location": 2,
+      "content": "这个还用多说吗",
+      "music": 0.0
+    },
+    {
+      "from": 536.53,
+      "to": 539.51,
+      "sid": 176,
+      "location": 2,
+      "content": "这个刚才我们在虚短和虚断这一节当中",
+      "music": 0.0
+    },
+    {
+      "from": 539.51,
+      "to": 541.31,
+      "sid": 177,
+      "location": 2,
+      "content": "已经对它做一个分析了",
+      "music": 0.0
+    },
+    {
+      "from": 541.31,
+      "to": 545.52,
+      "sid": 178,
+      "location": 2,
+      "content": "根据虚短啊啊两个电电位相等",
+      "music": 0.0
+    },
+    {
+      "from": 545.52,
+      "to": 546.74,
+      "sid": 179,
+      "location": 2,
+      "content": "根据虚断",
+      "music": 0.0
+    },
+    {
+      "from": 546.74,
+      "to": 548.13,
+      "sid": 180,
+      "location": 2,
+      "content": "它俩串联",
+      "music": 0.0
+    },
+    {
+      "from": 548.13,
+      "to": 551.91,
+      "sid": 181,
+      "location": 2,
+      "content": "构成了一个两个电流相等的这样一个方程",
+      "music": 0.0
+    },
+    {
+      "from": 551.91,
+      "to": 558.35,
+      "sid": 182,
+      "location": 2,
+      "content": "然后得出来是一个输出和输入的一个电压啊",
+      "music": 0.0
+    },
+    {
+      "from": 558.35,
+      "to": 560.13,
+      "sid": 183,
+      "location": 2,
+      "content": "它是一个反向的关系",
+      "music": 0.0
+    },
+    {
+      "from": 560.13,
+      "to": 563.52,
+      "sid": 184,
+      "location": 2,
+      "content": "所以叫做反向放大电路对吧",
+      "music": 0.0
+    },
+    {
+      "from": 563.52,
+      "to": 568.55,
+      "sid": 185,
+      "location": 2,
+      "content": "然后我们再来看一下这个同向放大器",
+      "music": 0.0
+    },
+    {
+      "from": 568.55,
+      "to": 573.51,
+      "sid": 186,
+      "location": 2,
+      "content": "同向放大器呢啊也是由这样一个电路组成的",
+      "music": 0.0
+    },
+    {
+      "from": 573.51,
+      "to": 576.49,
+      "sid": 187,
+      "location": 2,
+      "content": "我们看一下在这个电路当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 576.49,
+      "to": 582.56,
+      "sid": 188,
+      "location": 2,
+      "content": "这个呃输入vi和这个V负实际上是虚短的",
+      "music": 0.0
+    },
+    {
+      "from": 582.56,
+      "to": 585.47,
+      "sid": 189,
+      "location": 2,
+      "content": "也就组成了vi等于V负对吧",
+      "music": 0.0
+    },
+    {
+      "from": 585.47,
+      "to": 587.91,
+      "sid": 190,
+      "location": 2,
+      "content": "嗯然后再看一下虚断",
+      "music": 0.0
+    },
+    {
+      "from": 587.91,
+      "to": 591.94,
+      "sid": 191,
+      "location": 2,
+      "content": "虚断呢就是由于这个反向输入端呀",
+      "music": 0.0
+    },
+    {
+      "from": 591.94,
+      "to": 595.83,
+      "sid": 192,
+      "location": 2,
+      "content": "反向输入端你看它实际上是没有电流的",
+      "music": 0.0
+    },
+    {
+      "from": 595.83,
+      "to": 598.55,
+      "sid": 193,
+      "location": 2,
+      "content": "反向输入端就没有电流输入输出对吧",
+      "music": 0.0
+    },
+    {
+      "from": 598.55,
+      "to": 602.31,
+      "sid": 194,
+      "location": 2,
+      "content": "所以呢就是说R1和R2上的电流",
+      "music": 0.0
+    },
+    {
+      "from": 602.31,
+      "to": 604.94,
+      "sid": 195,
+      "location": 2,
+      "content": "通过它俩的电流是相等的",
+      "music": 0.0
+    },
+    {
+      "from": 604.94,
+      "to": 608.3,
+      "sid": 196,
+      "location": 2,
+      "content": "所以说我们就得出I等于v out",
+      "music": 0.0
+    },
+    {
+      "from": 608.3,
+      "to": 610.42,
+      "sid": 197,
+      "location": 2,
+      "content": "除以R1加R2啊",
+      "music": 0.0
+    },
+    {
+      "from": 610.42,
+      "to": 612.47,
+      "sid": 198,
+      "location": 2,
+      "content": "这上面的一个电流对吧",
+      "music": 0.0
+    },
+    {
+      "from": 612.47,
+      "to": 617.31,
+      "sid": 199,
+      "location": 2,
+      "content": "然后根据这个呃电流这个分压啊",
+      "music": 0.0
+    },
+    {
+      "from": 617.31,
+      "to": 618.97,
+      "sid": 200,
+      "location": 2,
+      "content": "根据这个电阻分压",
+      "music": 0.0
+    },
+    {
+      "from": 618.97,
+      "to": 621.49,
+      "sid": 201,
+      "location": 2,
+      "content": "我们可以得出这个这个V负",
+      "music": 0.0
+    },
+    {
+      "from": 621.49,
+      "to": 624.85,
+      "sid": 202,
+      "location": 2,
+      "content": "实际上是在R2上分得的电压吗",
+      "music": 0.0
+    },
+    {
+      "from": 624.85,
+      "to": 627.41,
+      "sid": 203,
+      "location": 2,
+      "content": "然后V负是等于这个vi的",
+      "music": 0.0
+    },
+    {
+      "from": 627.41,
+      "to": 630.51,
+      "sid": 204,
+      "location": 2,
+      "content": "嗯由此推断出呢这个v out有一个值",
+      "music": 0.0
+    },
+    {
+      "from": 630.51,
+      "to": 631.53,
+      "sid": 205,
+      "location": 2,
+      "content": "那么可以看出来",
+      "music": 0.0
+    },
+    {
+      "from": 631.53,
+      "to": 635.1,
+      "sid": 206,
+      "location": 2,
+      "content": "它就是一个同向的一个放大器的一个公式",
+      "music": 0.0
+    },
+    {
+      "from": 635.1,
+      "to": 636.5,
+      "sid": 207,
+      "location": 2,
+      "content": "对吧啊",
+      "music": 0.0
+    },
+    {
+      "from": 636.5,
+      "to": 639.32,
+      "sid": 208,
+      "location": 2,
+      "content": "再来看一下加法器啊",
+      "music": 0.0
+    },
+    {
+      "from": 639.32,
+      "to": 640.96,
+      "sid": 209,
+      "location": 2,
+      "content": "加法器呢它有两种",
+      "music": 0.0
+    },
+    {
+      "from": 640.96,
+      "to": 642.58,
+      "sid": 210,
+      "location": 2,
+      "content": "我们依次来看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 642.58,
+      "to": 647.6,
+      "sid": 211,
+      "location": 2,
+      "content": "首先来看这种这个加法器呢",
+      "music": 0.0
+    },
+    {
+      "from": 647.6,
+      "to": 649.07,
+      "sid": 212,
+      "location": 2,
+      "content": "嗯看一下",
+      "music": 0.0
+    },
+    {
+      "from": 649.07,
+      "to": 652.43,
+      "sid": 213,
+      "location": 2,
+      "content": "比刚才咱们看的那个稍微多了一些电阻对吧",
+      "music": 0.0
+    },
+    {
+      "from": 653.09,
+      "to": 654.47,
+      "sid": 214,
+      "location": 2,
+      "content": "这是一个双向的",
+      "music": 0.0
+    },
+    {
+      "from": 654.47,
+      "to": 656.19,
+      "sid": 215,
+      "location": 2,
+      "content": "你看它的电源是正15伏",
+      "music": 0.0
+    },
+    {
+      "from": 656.19,
+      "to": 657.42,
+      "sid": 216,
+      "location": 2,
+      "content": "-15伏",
+      "music": 0.0
+    },
+    {
+      "from": 657.42,
+      "to": 661.58,
+      "sid": 217,
+      "location": 2,
+      "content": "那么我们先从这个图中由虚短可以知道",
+      "music": 0.0
+    },
+    {
+      "from": 661.58,
+      "to": 665.189,
+      "sid": 218,
+      "location": 2,
+      "content": "就是这个呃V负等于V正",
+      "music": 0.0
+    },
+    {
+      "from": 665.189,
+      "to": 667.37,
+      "sid": 219,
+      "location": 2,
+      "content": "这两点的电位是相等的",
+      "music": 0.0
+    },
+    {
+      "from": 667.37,
+      "to": 670.95,
+      "sid": 220,
+      "location": 2,
+      "content": "嗯我们然后呢再根据虚断虚断",
+      "music": 0.0
+    },
+    {
+      "from": 670.95,
+      "to": 677.639,
+      "sid": 221,
+      "location": 2,
+      "content": "那么通过R2和R1上的这个电流之和",
+      "music": 0.0
+    },
+    {
+      "from": 677.639,
+      "to": 682.04,
+      "sid": 222,
+      "location": 2,
+      "content": "实际上是跟通过R3上的这个电流是相等的",
+      "music": 0.0
+    },
+    {
+      "from": 682.04,
+      "to": 684.54,
+      "sid": 223,
+      "location": 2,
+      "content": "这两个电流同时通过R3",
+      "music": 0.0
+    },
+    {
+      "from": 684.54,
+      "to": 685.76,
+      "sid": 224,
+      "location": 2,
+      "content": "然后流出来吗",
+      "music": 0.0
+    },
+    {
+      "from": 685.76,
+      "to": 688.44,
+      "sid": 225,
+      "location": 2,
+      "content": "所以说他这跟R3上的电流是相等的",
+      "music": 0.0
+    },
+    {
+      "from": 688.44,
+      "to": 694.05,
+      "sid": 226,
+      "location": 2,
+      "content": "所以就得到了一个呃V1减去V负除以R1",
+      "music": 0.0
+    },
+    {
+      "from": 694.05,
+      "to": 697.17,
+      "sid": 227,
+      "location": 2,
+      "content": "加上V2减去V负除以R2",
+      "music": 0.0
+    },
+    {
+      "from": 697.17,
+      "to": 698.64,
+      "sid": 228,
+      "location": 2,
+      "content": "这是两个电流和",
+      "music": 0.0
+    },
+    {
+      "from": 698.64,
+      "to": 703.58,
+      "sid": 229,
+      "location": 2,
+      "content": "然后实际上就等于这个V负减去v out除以R3",
+      "music": 0.0
+    },
+    {
+      "from": 703.58,
+      "to": 707.619,
+      "sid": 230,
+      "location": 2,
+      "content": "嗯啊根据这个呢就可以推断出这个",
+      "music": 0.0
+    },
+    {
+      "from": 709.859,
+      "to": 713.34,
+      "sid": 231,
+      "location": 2,
+      "content": "这个啊v out有一个呃值",
+      "music": 0.0
+    },
+    {
+      "from": 713.34,
+      "to": 715.649,
+      "sid": 232,
+      "location": 2,
+      "content": "v out等于V1加V2啊",
+      "music": 0.0
+    },
+    {
+      "from": 715.649,
+      "to": 718.889,
+      "sid": 233,
+      "location": 2,
+      "content": "可以看出这就是两个输入电压的一个和",
+      "music": 0.0
+    },
+    {
+      "from": 718.889,
+      "to": 721.34,
+      "sid": 234,
+      "location": 2,
+      "content": "实际上就是一个简单的加法器",
+      "music": 0.0
+    },
+    {
+      "from": 721.34,
+      "to": 724.16,
+      "sid": 235,
+      "location": 2,
+      "content": "然后下面呢这也是一个加法器",
+      "music": 0.0
+    },
+    {
+      "from": 724.16,
+      "to": 727.3,
+      "sid": 236,
+      "location": 2,
+      "content": "这个加法器跟上面有所不同",
+      "music": 0.0
+    },
+    {
+      "from": 728.08,
+      "to": 729.76,
+      "sid": 237,
+      "location": 2,
+      "content": "他因为这个也是啊",
+      "music": 0.0
+    },
+    {
+      "from": 729.76,
+      "to": 731.26,
+      "sid": 238,
+      "location": 2,
+      "content": "因为虚断",
+      "music": 0.0
+    },
+    {
+      "from": 731.26,
+      "to": 734.68,
+      "sid": 239,
+      "location": 2,
+      "content": "然后那个运放这个同向端呀",
+      "music": 0.0
+    },
+    {
+      "from": 734.68,
+      "to": 737.03,
+      "sid": 240,
+      "location": 2,
+      "content": "运放的这个同向端",
+      "music": 0.0
+    },
+    {
+      "from": 739.8,
+      "to": 742.16,
+      "sid": 241,
+      "location": 2,
+      "content": "没有电流经过同向端",
+      "music": 0.0
+    },
+    {
+      "from": 742.16,
+      "to": 746.18,
+      "sid": 242,
+      "location": 2,
+      "content": "你看啊运放的同向端",
+      "music": 0.0
+    },
+    {
+      "from": 746.18,
+      "to": 748.94,
+      "sid": 243,
+      "location": 2,
+      "content": "但是没有电流通过的同向端",
+      "music": 0.0
+    },
+    {
+      "from": 748.94,
+      "to": 750.2,
+      "sid": 244,
+      "location": 2,
+      "content": "没有电流通过",
+      "music": 0.0
+    },
+    {
+      "from": 750.2,
+      "to": 753.08,
+      "sid": 245,
+      "location": 2,
+      "content": "那么流过啊",
+      "music": 0.0
+    },
+    {
+      "from": 754.25,
+      "to": 758.97,
+      "sid": 246,
+      "location": 2,
+      "content": "R1和R2它俩的电流实际上就是相等的",
+      "music": 0.0
+    },
+    {
+      "from": 759.17,
+      "to": 762.09,
+      "sid": 247,
+      "location": 2,
+      "content": "那么就得出了V1减去V正除以R1",
+      "music": 0.0
+    },
+    {
+      "from": 762.09,
+      "to": 766.82,
+      "sid": 248,
+      "location": 2,
+      "content": "就等于V2减V正减去V2啊",
+      "music": 0.0
+    },
+    {
+      "from": 766.82,
+      "to": 768.34,
+      "sid": 249,
+      "location": 2,
+      "content": "它应该是这样流的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 768.34,
+      "to": 769.78,
+      "sid": 250,
+      "location": 2,
+      "content": "比上R2啊",
+      "music": 0.0
+    },
+    {
+      "from": 769.78,
+      "to": 771.67,
+      "sid": 251,
+      "location": 2,
+      "content": "他俩的电流是相等的",
+      "music": 0.0
+    },
+    {
+      "from": 771.67,
+      "to": 775.79,
+      "sid": 252,
+      "location": 2,
+      "content": "那么由于续短知道呢是V正等于V负",
+      "music": 0.0
+    },
+    {
+      "from": 775.79,
+      "to": 778.75,
+      "sid": 253,
+      "location": 2,
+      "content": "如果这个R1和R2相等的话啊",
+      "music": 0.0
+    },
+    {
+      "from": 778.75,
+      "to": 783.36,
+      "sid": 254,
+      "location": 2,
+      "content": "就可以推出R3和R4也相等",
+      "music": 0.0
+    },
+    {
+      "from": 783.36,
+      "to": 784.7,
+      "sid": 255,
+      "location": 2,
+      "content": "它俩也相等的话",
+      "music": 0.0
+    },
+    {
+      "from": 784.7,
+      "to": 788.36,
+      "sid": 256,
+      "location": 2,
+      "content": "就可以推出有一个式子就是v out",
+      "music": 0.0
+    },
+    {
+      "from": 788.36,
+      "to": 790.4,
+      "sid": 257,
+      "location": 2,
+      "content": "就等于V1加V2啊",
+      "music": 0.0
+    },
+    {
+      "from": 790.4,
+      "to": 792.32,
+      "sid": 258,
+      "location": 2,
+      "content": "所以说它也是一个加法器",
+      "music": 0.0
+    },
+    {
+      "from": 792.32,
+      "to": 795.68,
+      "sid": 259,
+      "location": 2,
+      "content": "我们来看一下减法器呃",
+      "music": 0.0
+    },
+    {
+      "from": 795.68,
+      "to": 800.6,
+      "sid": 260,
+      "location": 2,
+      "content": "减法器呢啊同样是根据虚短",
+      "music": 0.0
+    },
+    {
+      "from": 800.6,
+      "to": 803.91,
+      "sid": 261,
+      "location": 2,
+      "content": "然后是V负等于V正对吧",
+      "music": 0.0
+    },
+    {
+      "from": 803.91,
+      "to": 807.59,
+      "sid": 262,
+      "location": 2,
+      "content": "虚断的话就是流过R1上的电流",
+      "music": 0.0
+    },
+    {
+      "from": 807.59,
+      "to": 810.05,
+      "sid": 263,
+      "location": 2,
+      "content": "和流过R2上的电流是相等的",
+      "music": 0.0
+    },
+    {
+      "from": 810.05,
+      "to": 811.85,
+      "sid": 264,
+      "location": 2,
+      "content": "那么流过R4上的电流",
+      "music": 0.0
+    },
+    {
+      "from": 811.85,
+      "to": 814.45,
+      "sid": 265,
+      "location": 2,
+      "content": "和流过R3上的电流是相等的",
+      "music": 0.0
+    },
+    {
+      "from": 814.45,
+      "to": 819.14,
+      "sid": 266,
+      "location": 2,
+      "content": "然后啊推断出有V2减去",
+      "music": 0.0
+    },
+    {
+      "from": 819.14,
+      "to": 822.64,
+      "sid": 267,
+      "location": 2,
+      "content": "你看啊这V2减去V正除以R1",
+      "music": 0.0
+    },
+    {
+      "from": 822.64,
+      "to": 824.72,
+      "sid": 268,
+      "location": 2,
+      "content": "等于V正除以R2",
+      "music": 0.0
+    },
+    {
+      "from": 824.72,
+      "to": 827.72,
+      "sid": 269,
+      "location": 2,
+      "content": "那么V1减去V负除以R4",
+      "music": 0.0
+    },
+    {
+      "from": 827.72,
+      "to": 831.28,
+      "sid": 270,
+      "location": 2,
+      "content": "就等于V负减去v out除以R3",
+      "music": 0.0
+    },
+    {
+      "from": 831.28,
+      "to": 833.24,
+      "sid": 271,
+      "location": 2,
+      "content": "那么如果R1和R2相等",
+      "music": 0.0
+    },
+    {
+      "from": 833.24,
+      "to": 835.04,
+      "sid": 272,
+      "location": 2,
+      "content": "R3和R4相等的话",
+      "music": 0.0
+    },
+    {
+      "from": 835.04,
+      "to": 836.68,
+      "sid": 273,
+      "location": 2,
+      "content": "实际上这是一个假设条件",
+      "music": 0.0
+    },
+    {
+      "from": 836.68,
+      "to": 840.18,
+      "sid": 274,
+      "location": 2,
+      "content": "只是让我们这个推算算起来更加简单啊",
+      "music": 0.0
+    },
+    {
+      "from": 840.18,
+      "to": 843.38,
+      "sid": 275,
+      "location": 2,
+      "content": "然后就得出了这个V2就等于V2减V1",
+      "music": 0.0
+    },
+    {
+      "from": 843.38,
+      "to": 845.64,
+      "sid": 276,
+      "location": 2,
+      "content": "V2和V1是两个输入电压对吧",
+      "music": 0.0
+    },
+    {
+      "from": 845.64,
+      "to": 848.099,
+      "sid": 277,
+      "location": 2,
+      "content": "这就是传说中的减法器了",
+      "music": 0.0
+    },
+    {
+      "from": 848.099,
+      "to": 851.53,
+      "sid": 278,
+      "location": 2,
+      "content": "我们再来看一下积分电路",
+      "music": 0.0
+    },
+    {
+      "from": 851.53,
+      "to": 853.61,
+      "sid": 279,
+      "location": 2,
+      "content": "看一下积分电路是怎么算的啊",
+      "music": 0.0
+    },
+    {
+      "from": 853.61,
+      "to": 855.53,
+      "sid": 280,
+      "location": 2,
+      "content": "积分电路看起来好像简单",
+      "music": 0.0
+    },
+    {
+      "from": 855.53,
+      "to": 856.77,
+      "sid": 281,
+      "location": 2,
+      "content": "但是它多了电容",
+      "music": 0.0
+    },
+    {
+      "from": 856.77,
+      "to": 859.98,
+      "sid": 282,
+      "location": 2,
+      "content": "这是前面几个电路当中没有的一个元器件",
+      "music": 0.0
+    },
+    {
+      "from": 859.98,
+      "to": 862.94,
+      "sid": 283,
+      "location": 2,
+      "content": "我们看一下在这个积分电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 862.94,
+      "to": 866.12,
+      "sid": 284,
+      "location": 2,
+      "content": "它的那个同向输入端是接地的",
+      "music": 0.0
+    },
+    {
+      "from": 866.12,
+      "to": 869.71,
+      "sid": 285,
+      "location": 2,
+      "content": "那么可以知道这个反向输入端",
+      "music": 0.0
+    },
+    {
+      "from": 869.71,
+      "to": 873.91,
+      "sid": 286,
+      "location": 2,
+      "content": "这一点他应该也是一个零值啊",
+      "music": 0.0
+    },
+    {
+      "from": 873.91,
+      "to": 876.02,
+      "sid": 287,
+      "location": 2,
+      "content": "虚短是不是嗯",
+      "music": 0.0
+    },
+    {
+      "from": 876.02,
+      "to": 877.34,
+      "sid": 288,
+      "location": 2,
+      "content": "由虚断可以知道呢",
+      "music": 0.0
+    },
+    {
+      "from": 877.34,
+      "to": 878.82,
+      "sid": 289,
+      "location": 2,
+      "content": "就是流过R1上的电流",
+      "music": 0.0
+    },
+    {
+      "from": 878.82,
+      "to": 881.81,
+      "sid": 290,
+      "location": 2,
+      "content": "与通过C1上的电流是相等的",
+      "music": 0.0
+    },
+    {
+      "from": 881.81,
+      "to": 883.93,
+      "sid": 291,
+      "location": 2,
+      "content": "那么通过R1上的电流是多少呢",
+      "music": 0.0
+    },
+    {
+      "from": 883.93,
+      "to": 885.95,
+      "sid": 292,
+      "location": 2,
+      "content": "实际上就是V1-0",
+      "music": 0.0
+    },
+    {
+      "from": 885.95,
+      "to": 888.45,
+      "sid": 293,
+      "location": 2,
+      "content": "这点电压是零除以R1",
+      "music": 0.0
+    },
+    {
+      "from": 888.45,
+      "to": 893.76,
+      "sid": 294,
+      "location": 2,
+      "content": "那么嗯到C点的那个电流是多少呢",
+      "music": 0.0
+    },
+    {
+      "from": 893.76,
+      "to": 897.75,
+      "sid": 295,
+      "location": 2,
+      "content": "C点的电流呢啊通过C1的这个电流啊",
+      "music": 0.0
+    },
+    {
+      "from": 897.75,
+      "to": 902.63,
+      "sid": 296,
+      "location": 2,
+      "content": "就是I等于C乘以DOC比DT嗯",
+      "music": 0.0
+    },
+    {
+      "from": 902.63,
+      "to": 905.89,
+      "sid": 297,
+      "location": 2,
+      "content": "这是一个电容的一个电流的计算公式",
+      "music": 0.0
+    },
+    {
+      "from": 905.89,
+      "to": 907.81,
+      "sid": 298,
+      "location": 2,
+      "content": "我们重新来推导一下",
+      "music": 0.0
+    },
+    {
+      "from": 907.81,
+      "to": 909.35,
+      "sid": 299,
+      "location": 2,
+      "content": "就变成了这样的一个式子",
+      "music": 0.0
+    },
+    {
+      "from": 909.35,
+      "to": 914.28,
+      "sid": 300,
+      "location": 2,
+      "content": "这也是啊书输出和输入的一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 914.28,
+      "to": 915.2,
+      "sid": 301,
+      "location": 2,
+      "content": "输入是V1吗",
+      "music": 0.0
+    },
+    {
+      "from": 915.2,
+      "to": 917.04,
+      "sid": 302,
+      "location": 2,
+      "content": "输出和输入的一个关系",
+      "music": 0.0
+    },
+    {
+      "from": 917.04,
+      "to": 918.48,
+      "sid": 303,
+      "location": 2,
+      "content": "在这个式子当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 918.48,
+      "to": 921.319,
+      "sid": 304,
+      "location": 2,
+      "content": "如果这个V1是一个恒定的电压",
+      "music": 0.0
+    },
+    {
+      "from": 921.319,
+      "to": 923.199,
+      "sid": 305,
+      "location": 2,
+      "content": "唯一是一个恒定电压的话",
+      "music": 0.0
+    },
+    {
+      "from": 923.199,
+      "to": 925.119,
+      "sid": 306,
+      "location": 2,
+      "content": "它会就变成另外一个式子",
+      "music": 0.0
+    },
+    {
+      "from": 925.119,
+      "to": 927.399,
+      "sid": 307,
+      "location": 2,
+      "content": "比如说是这个式子对吧",
+      "music": 0.0
+    },
+    {
+      "from": 928.48,
+      "to": 931.52,
+      "sid": 308,
+      "location": 2,
+      "content": "嗯从这个式子实际上就已经能看出来了",
+      "music": 0.0
+    },
+    {
+      "from": 931.52,
+      "to": 932.96,
+      "sid": 309,
+      "location": 2,
+      "content": "他就是一个积分电路",
+      "music": 0.0
+    },
+    {
+      "from": 932.96,
+      "to": 936.07,
+      "sid": 310,
+      "location": 2,
+      "content": "那么下面这个式子呢只不过就是把它啊",
+      "music": 0.0
+    },
+    {
+      "from": 936.07,
+      "to": 937.91,
+      "sid": 311,
+      "location": 2,
+      "content": "如果说它是一个恒定值的话",
+      "music": 0.0
+    },
+    {
+      "from": 937.91,
+      "to": 940.03,
+      "sid": 312,
+      "location": 2,
+      "content": "它就是一条从零到负",
+      "music": 0.0
+    },
+    {
+      "from": 940.03,
+      "to": 945.1,
+      "sid": 313,
+      "location": 2,
+      "content": "电源电压随时间变化的这么一条直线啊",
+      "music": 0.0
+    },
+    {
+      "from": 946.2,
+      "to": 949.12,
+      "sid": 314,
+      "location": 2,
+      "content": "呃再来看一下微分电路",
+      "music": 0.0
+    },
+    {
+      "from": 949.12,
+      "to": 954.77,
+      "sid": 315,
+      "location": 2,
+      "content": "微分电路呢把电容和电阻换了一下位置",
+      "music": 0.0
+    },
+    {
+      "from": 954.77,
+      "to": 958.33,
+      "sid": 316,
+      "location": 2,
+      "content": "我们还是这一点是根据虚短",
+      "music": 0.0
+    },
+    {
+      "from": 958.33,
+      "to": 960.84,
+      "sid": 317,
+      "location": 2,
+      "content": "然后这一点是等于零的",
+      "music": 0.0
+    },
+    {
+      "from": 960.84,
+      "to": 963.24,
+      "sid": 318,
+      "location": 2,
+      "content": "那么根据虚断啊",
+      "music": 0.0
+    },
+    {
+      "from": 963.24,
+      "to": 967.53,
+      "sid": 319,
+      "location": 2,
+      "content": "流过它的电流和流过它的电流是相等的",
+      "music": 0.0
+    },
+    {
+      "from": 967.53,
+      "to": 970.65,
+      "sid": 320,
+      "location": 2,
+      "content": "那么最后呢也是根据这些等式关系",
+      "music": 0.0
+    },
+    {
+      "from": 970.65,
+      "to": 972.41,
+      "sid": 321,
+      "location": 2,
+      "content": "推导出来这样一个公式",
+      "music": 0.0
+    },
+    {
+      "from": 972.41,
+      "to": 973.05,
+      "sid": 322,
+      "location": 2,
+      "content": "可以看出来",
+      "music": 0.0
+    },
+    {
+      "from": 973.05,
+      "to": 974.73,
+      "sid": 323,
+      "location": 2,
+      "content": "这就是一个微分公式",
+      "music": 0.0
+    },
+    {
+      "from": 974.73,
+      "to": 977.06,
+      "sid": 324,
+      "location": 2,
+      "content": "输入和输出成微分关系",
+      "music": 0.0
+    },
+    {
+      "from": 977.06,
+      "to": 980.86,
+      "sid": 325,
+      "location": 2,
+      "content": "最后一个是一个差分放大电路",
+      "music": 0.0
+    },
+    {
+      "from": 980.86,
+      "to": 985.61,
+      "sid": 326,
+      "location": 2,
+      "content": "这个呢要比我们之前的稍微啊复杂一点",
+      "music": 0.0
+    },
+    {
+      "from": 986.81,
+      "to": 988.17,
+      "sid": 327,
+      "location": 2,
+      "content": "嗯看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 988.17,
+      "to": 989.29,
+      "sid": 328,
+      "location": 2,
+      "content": "输入一个V1",
+      "music": 0.0
+    },
+    {
+      "from": 989.29,
+      "to": 991.93,
+      "sid": 329,
+      "location": 2,
+      "content": "一个V2呃",
+      "music": 0.0
+    },
+    {
+      "from": 993.44,
+      "to": 995.24,
+      "sid": 330,
+      "location": 2,
+      "content": "由这个虚短可以知道",
+      "music": 0.0
+    },
+    {
+      "from": 995.24,
+      "to": 998.48,
+      "sid": 331,
+      "location": 2,
+      "content": "这个VX是等于V1的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 998.48,
+      "to": 1002.23,
+      "sid": 332,
+      "location": 2,
+      "content": "这个VY是等于V2的",
+      "music": 0.0
+    },
+    {
+      "from": 1002.92,
+      "to": 1005.24,
+      "sid": 333,
+      "location": 2,
+      "content": "那么运放的这个输入端",
+      "music": 0.0
+    },
+    {
+      "from": 1005.24,
+      "to": 1008.06,
+      "sid": 334,
+      "location": 2,
+      "content": "输入端都是没有电流输入的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1008.06,
+      "to": 1011.85,
+      "sid": 335,
+      "location": 2,
+      "content": "可以把它看成是R1和R2",
+      "music": 0.0
+    },
+    {
+      "from": 1011.85,
+      "to": 1013.7,
+      "sid": 336,
+      "location": 2,
+      "content": "这边没有电流输入对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1013.7,
+      "to": 1016.7,
+      "sid": 337,
+      "location": 2,
+      "content": "可以看成R一R二R33个是串联的",
+      "music": 0.0
+    },
+    {
+      "from": 1016.7,
+      "to": 1019.64,
+      "sid": 338,
+      "location": 2,
+      "content": "通过每一个电阻的电流是相等的",
+      "music": 0.0
+    },
+    {
+      "from": 1019.64,
+      "to": 1020.9,
+      "sid": 339,
+      "location": 2,
+      "content": "那么这个电压呢",
+      "music": 0.0
+    },
+    {
+      "from": 1020.9,
+      "to": 1025.13,
+      "sid": 340,
+      "location": 2,
+      "content": "实际上就是电阻串联的一个电压",
+      "music": 0.0
+    },
+    {
+      "from": 1027.54,
+      "to": 1029.42,
+      "sid": 341,
+      "location": 2,
+      "content": "我们可以得出一个式子",
+      "music": 0.0
+    },
+    {
+      "from": 1029.42,
+      "to": 1031.62,
+      "sid": 342,
+      "location": 2,
+      "content": "就是VO1哈",
+      "music": 0.0
+    },
+    {
+      "from": 1031.62,
+      "to": 1034.46,
+      "sid": 343,
+      "location": 2,
+      "content": "这边是刚才我们推导出来的",
+      "music": 0.0
+    },
+    {
+      "from": 1037.12,
+      "to": 1041.56,
+      "sid": 344,
+      "location": 2,
+      "content": "然后可以得出这个V偶一减VO2的一个式子",
+      "music": 0.0
+    },
+    {
+      "from": 1042.46,
+      "to": 1044.14,
+      "sid": 345,
+      "location": 2,
+      "content": "这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 1046.539,
+      "to": 1049.299,
+      "sid": 346,
+      "location": 2,
+      "content": "如果说这个R6",
+      "music": 0.0
+    },
+    {
+      "from": 1051.66,
+      "to": 1054.08,
+      "sid": 347,
+      "location": 2,
+      "content": "嗯这是一个式子",
+      "music": 0.0
+    },
+    {
+      "from": 1054.08,
+      "to": 1055.62,
+      "sid": 348,
+      "location": 2,
+      "content": "然后咱们再看后面",
+      "music": 0.0
+    },
+    {
+      "from": 1055.62,
+      "to": 1061.89,
+      "sid": 349,
+      "location": 2,
+      "content": "如果说这个R6和这个R7是相等的",
+      "music": 0.0
+    },
+    {
+      "from": 1061.89,
+      "to": 1064.65,
+      "sid": 350,
+      "location": 2,
+      "content": "流过R6和流过R7的电流",
+      "music": 0.0
+    },
+    {
+      "from": 1064.65,
+      "to": 1066.61,
+      "sid": 351,
+      "location": 2,
+      "content": "实际上是一样的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1066.61,
+      "to": 1069.03,
+      "sid": 352,
+      "location": 2,
+      "content": "如果R6和R7是相等的",
+      "music": 0.0
+    },
+    {
+      "from": 1069.03,
+      "to": 1075.48,
+      "sid": 353,
+      "location": 2,
+      "content": "那么这个V它就等于12的",
+      "music": 0.0
+    },
+    {
+      "from": 1075.48,
+      "to": 1076.6,
+      "sid": 354,
+      "location": 2,
+      "content": "这边是VOR嘛",
+      "music": 0.0
+    },
+    {
+      "from": 1076.6,
+      "to": 1078.5,
+      "sid": 355,
+      "location": 2,
+      "content": "12的VO2对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1078.5,
+      "to": 1082.12,
+      "sid": 356,
+      "location": 2,
+      "content": "然后如果是R4和R5相等的话",
+      "music": 0.0
+    },
+    {
+      "from": 1083.54,
+      "to": 1088.18,
+      "sid": 357,
+      "location": 2,
+      "content": "这一点的电压呢实际上就是呃",
+      "music": 0.0
+    },
+    {
+      "from": 1090.24,
+      "to": 1091.64,
+      "sid": 358,
+      "location": 2,
+      "content": "看on",
+      "music": 0.0
+    },
+    {
+      "from": 1095.52,
+      "to": 1097.14,
+      "sid": 359,
+      "location": 2,
+      "content": "我们来仔细看一下",
+      "music": 0.0
+    },
+    {
+      "from": 1097.14,
+      "to": 1098.68,
+      "sid": 360,
+      "location": 2,
+      "content": "这边是VO1",
+      "music": 0.0
+    },
+    {
+      "from": 1098.68,
+      "to": 1099.76,
+      "sid": 361,
+      "location": 2,
+      "content": "这边是VO1",
+      "music": 0.0
+    },
+    {
+      "from": 1099.76,
+      "to": 1102.24,
+      "sid": 362,
+      "location": 2,
+      "content": "如果R4和RR5相等的话",
+      "music": 0.0
+    },
+    {
+      "from": 1102.24,
+      "to": 1106.47,
+      "sid": 363,
+      "location": 2,
+      "content": "这一点的电压实际上就是we out",
+      "music": 0.0
+    },
+    {
+      "from": 1107.8,
+      "to": 1113.84,
+      "sid": 364,
+      "location": 2,
+      "content": "we out减去加上on",
+      "music": 0.0
+    },
+    {
+      "from": 1115.36,
+      "to": 1119.2,
+      "sid": 365,
+      "location": 2,
+      "content": "加上一个VOO12",
+      "music": 0.0
+    },
+    {
+      "from": 1122.1,
+      "to": 1125.32,
+      "sid": 366,
+      "location": 2,
+      "content": "哦加上一个VO12",
+      "music": 0.0
+    },
+    {
+      "from": 1125.32,
+      "to": 1126.98,
+      "sid": 367,
+      "location": 2,
+      "content": "我们来算一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 1126.98,
+      "to": 1133.33,
+      "sid": 368,
+      "location": 2,
+      "content": "实际上就是v out减去一个呃VU对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1133.33,
+      "to": 1137.01,
+      "sid": 369,
+      "location": 2,
+      "content": "等于一个VU减去一个VO1",
+      "music": 0.0
+    },
+    {
+      "from": 1138.66,
+      "to": 1144.91,
+      "sid": 370,
+      "location": 2,
+      "content": "然后呢这个VUVU就等于嗯VW",
+      "music": 0.0
+    },
+    {
+      "from": 1146.47,
+      "to": 1150.665,
+      "sid": 371,
+      "location": 2,
+      "content": "所以说呢这个v out就等于VO2减去VO1",
+      "music": 0.0
+    },
+    {
+      "from": 1151.22,
+      "to": 1154.47,
+      "sid": 372,
+      "location": 2,
+      "content": "VO2减去VO1嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1155.07,
+      "to": 1157.21,
+      "sid": 373,
+      "location": 2,
+      "content": "然后呢得出这个way out",
+      "music": 0.0
+    },
+    {
+      "from": 1157.21,
+      "to": 1162.34,
+      "sid": 374,
+      "location": 2,
+      "content": "实际上就等于一个呃VOX乘以R1",
+      "music": 0.0
+    },
+    {
+      "from": 1162.34,
+      "to": 1165.73,
+      "sid": 375,
+      "location": 2,
+      "content": "加R2加R3除以R2这样一个式子",
+      "music": 0.0
+    },
+    {
+      "from": 1165.73,
+      "to": 1169.89,
+      "sid": 376,
+      "location": 2,
+      "content": "所以说呢这个V2的实际上是VX和",
+      "music": 0.0
+    },
+    {
+      "from": 1169.89,
+      "to": 1172.719,
+      "sid": 377,
+      "location": 2,
+      "content": "减去VY的这样一个放大倍数",
+      "music": 0.0
+    },
+    {
+      "from": 1172.719,
+      "to": 1175.799,
+      "sid": 378,
+      "location": 2,
+      "content": "这也就是我们传说中的一个差分啊",
+      "music": 0.0
+    },
+    {
+      "from": 1175.799,
+      "to": 1177.019,
+      "sid": 379,
+      "location": 2,
+      "content": "这是这个差分嘛",
+      "music": 0.0
+    },
+    {
+      "from": 1177.019,
+      "to": 1179.56,
+      "sid": 380,
+      "location": 2,
+      "content": "差分放大电路呃",
+      "music": 0.0
+    },
+    {
+      "from": 1179.56,
+      "to": 1183.16,
+      "sid": 381,
+      "location": 2,
+      "content": "这就是基本的几个典型的电路",
+      "music": 0.0
+    },
+    {
+      "from": 1183.16,
+      "to": 1187.759,
+      "sid": 382,
+      "location": 2,
+      "content": "实际上还有一个呃电流检测电路以及电压",
+      "music": 0.0
+    },
+    {
+      "from": 1187.759,
+      "to": 1191.72,
+      "sid": 383,
+      "location": 2,
+      "content": "电流以及电压电流检测啊",
+      "music": 0.0
+    },
+    {
+      "from": 1191.72,
+      "to": 1194.08,
+      "sid": 384,
+      "location": 2,
+      "content": "啊转换检测的这样两个电路",
+      "music": 0.0
+    },
+    {
+      "from": 1194.08,
+      "to": 1196.56,
+      "sid": 385,
+      "location": 2,
+      "content": "我呢给大家流程思考题了",
+      "music": 0.0
+    },
+    {
+      "from": 1196.56,
+      "to": 1198.43,
+      "sid": 386,
+      "location": 2,
+      "content": "在这一部分嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1198.43,
+      "to": 1202.54,
+      "sid": 387,
+      "location": 2,
+      "content": "这个呢比我们前面讲的那个要稍微复杂一点",
+      "music": 0.0
+    },
+    {
+      "from": 1202.54,
+      "to": 1205.42,
+      "sid": 388,
+      "location": 2,
+      "content": "但是他们的基本分析原理是不变的",
+      "music": 0.0
+    },
+    {
+      "from": 1205.42,
+      "to": 1207.62,
+      "sid": 389,
+      "location": 2,
+      "content": "还是利用虚短和虚断",
+      "music": 0.0
+    },
+    {
+      "from": 1207.62,
+      "to": 1213.9,
+      "sid": 390,
+      "location": 2,
+      "content": "以及咱们学的那个就是一些基本的电路当中的",
+      "music": 0.0
+    },
+    {
+      "from": 1213.9,
+      "to": 1216.24,
+      "sid": 391,
+      "location": 2,
+      "content": "一些基本计算的定律",
+      "music": 0.0
+    },
+    {
+      "from": 1216.24,
+      "to": 1218.88,
+      "sid": 392,
+      "location": 2,
+      "content": "大家根据这些呢列一些方程式",
+      "music": 0.0
+    },
+    {
+      "from": 1218.88,
+      "to": 1220.88,
+      "sid": 393,
+      "location": 2,
+      "content": "然后自己试着去推导一下",
+      "music": 0.0
+    },
+    {
+      "from": 1220.88,
+      "to": 1221.42,
+      "sid": 394,
+      "location": 2,
+      "content": "不难",
+      "music": 0.0
+    },
+    {
+      "from": 1221.42,
+      "to": 1222.88,
+      "sid": 395,
+      "location": 2,
+      "content": "这些一点都不难啊",
+      "music": 0.0
+    },
+    {
+      "from": 1222.88,
+      "to": 1224.8,
+      "sid": 396,
+      "location": 2,
+      "content": "大家试着自己去推导一下",
+      "music": 0.0
+    },
+    {
+      "from": 1224.8,
+      "to": 1227.2,
+      "sid": 397,
+      "location": 2,
+      "content": "然后看看有没有真正掌握这个",
+      "music": 0.0
+    },
+    {
+      "from": 1227.2,
+      "to": 1228.48,
+      "sid": 398,
+      "location": 2,
+      "content": "续短和虚断的概念",
+      "music": 0.0
+    },
+    {
+      "from": 1228.48,
+      "to": 1232.24,
+      "sid": 399,
+      "location": 2,
+      "content": "以及呃运算放大电路的一些分析的方法",
+      "music": 0.0
+    },
+    {
+      "from": 1232.24,
+      "to": 1236.61,
+      "sid": 400,
+      "location": 2,
+      "content": "呃其实在这一块儿我们讲完了之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 1236.61,
+      "to": 1240.63,
+      "sid": 401,
+      "location": 2,
+      "content": "我们前面也已经提到了一个名词是比较器对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1240.63,
+      "to": 1244.31,
+      "sid": 402,
+      "location": 2,
+      "content": "嗯其实在我们了解了这些东西之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 1244.31,
+      "to": 1248.27,
+      "sid": 403,
+      "location": 2,
+      "content": "呃有一些同学呢会在实际使用当中有一些困惑",
+      "music": 0.0
+    },
+    {
+      "from": 1248.27,
+      "to": 1250.59,
+      "sid": 404,
+      "location": 2,
+      "content": "就是运放和比较器的一些区别啊",
+      "music": 0.0
+    },
+    {
+      "from": 1250.59,
+      "to": 1252.999,
+      "sid": 405,
+      "location": 2,
+      "content": "容易把两者搞混淆",
+      "music": 0.0
+    },
+    {
+      "from": 1252.999,
+      "to": 1256.199,
+      "sid": 406,
+      "location": 2,
+      "content": "我们下面就来看一下这个两者之间的区别",
+      "music": 0.0
+    },
+    {
+      "from": 1256.199,
+      "to": 1258.03,
+      "sid": 407,
+      "location": 2,
+      "content": "其实也挺好理解的",
+      "music": 0.0
+    },
+    {
+      "from": 1258.03,
+      "to": 1260.43,
+      "sid": 408,
+      "location": 2,
+      "content": "呃首先我们来看一下什么是比较器",
+      "music": 0.0
+    },
+    {
+      "from": 1260.43,
+      "to": 1261.59,
+      "sid": 409,
+      "location": 2,
+      "content": "这个电压比较器啊",
+      "music": 0.0
+    },
+    {
+      "from": 1261.59,
+      "to": 1263.55,
+      "sid": 410,
+      "location": 2,
+      "content": "这是它的一个符号啊",
+      "music": 0.0
+    },
+    {
+      "from": 1263.55,
+      "to": 1266.51,
+      "sid": 411,
+      "location": 2,
+      "content": "这是它的电源输入输出对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1266.51,
+      "to": 1267.99,
+      "sid": 412,
+      "location": 2,
+      "content": "我们",
+      "music": 0.0
+    },
+    {
+      "from": 1268.99,
+      "to": 1272.43,
+      "sid": 413,
+      "location": 2,
+      "content": "我们看一下啊这个它们两者具体的一个区别",
+      "music": 0.0
+    },
+    {
+      "from": 1272.43,
+      "to": 1276.17,
+      "sid": 414,
+      "location": 2,
+      "content": "从这个图上先来看一下这个电压比较器啊",
+      "music": 0.0
+    },
+    {
+      "from": 1276.17,
+      "to": 1279.92,
+      "sid": 415,
+      "location": 2,
+      "content": "实际上是对两个这个模拟电压比较",
+      "music": 0.0
+    },
+    {
+      "from": 1279.92,
+      "to": 1284.62,
+      "sid": 416,
+      "location": 2,
+      "content": "它大小的就是嗯也有可能会有数字电压比较",
+      "music": 0.0
+    },
+    {
+      "from": 1284.62,
+      "to": 1287.21,
+      "sid": 417,
+      "location": 2,
+      "content": "我们在这儿只是讲这个模拟电压",
+      "music": 0.0
+    },
+    {
+      "from": 1287.21,
+      "to": 1289.29,
+      "sid": 418,
+      "location": 2,
+      "content": "对模拟电压进行比较的",
+      "music": 0.0
+    },
+    {
+      "from": 1289.29,
+      "to": 1292.04,
+      "sid": 419,
+      "location": 2,
+      "content": "判断出其中哪个电压高啊",
+      "music": 0.0
+    },
+    {
+      "from": 1292.04,
+      "to": 1294.5,
+      "sid": 420,
+      "location": 2,
+      "content": "像这种呢就是一个比较器",
+      "music": 0.0
+    },
+    {
+      "from": 1294.5,
+      "to": 1296.409,
+      "sid": 421,
+      "location": 2,
+      "content": "它有两个输入端啊",
+      "music": 0.0
+    },
+    {
+      "from": 1296.409,
+      "to": 1298.289,
+      "sid": 422,
+      "location": 2,
+      "content": "同向输入端是正的",
+      "music": 0.0
+    },
+    {
+      "from": 1298.289,
+      "to": 1299.049,
+      "sid": 423,
+      "location": 2,
+      "content": "负向输入",
+      "music": 0.0
+    },
+    {
+      "from": 1299.049,
+      "to": 1301.55,
+      "sid": 424,
+      "location": 2,
+      "content": "反向输入端是负的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1301.55,
+      "to": 1303.43,
+      "sid": 425,
+      "location": 2,
+      "content": "有一个叔叔是v out对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1303.43,
+      "to": 1305.87,
+      "sid": 426,
+      "location": 2,
+      "content": "还有电源D啊",
+      "music": 0.0
+    },
+    {
+      "from": 1305.87,
+      "to": 1308.39,
+      "sid": 427,
+      "location": 2,
+      "content": "这是一个单电源的一个比较器",
+      "music": 0.0
+    },
+    {
+      "from": 1308.39,
+      "to": 1313.48,
+      "sid": 428,
+      "location": 2,
+      "content": "那么它的同向输入端呢是为噗VA",
+      "music": 0.0
+    },
+    {
+      "from": 1313.48,
+      "to": 1315.88,
+      "sid": 429,
+      "location": 2,
+      "content": "反向输入端的是vb对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1315.88,
+      "to": 1318.36,
+      "sid": 430,
+      "location": 2,
+      "content": "当这个VA大于vb的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1318.36,
+      "to": 1319.0,
+      "sid": 431,
+      "location": 2,
+      "content": "我们看一下",
+      "music": 0.0
+    },
+    {
+      "from": 1319.0,
+      "to": 1320.64,
+      "sid": 432,
+      "location": 2,
+      "content": "当VA大于vb的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1320.64,
+      "to": 1322.56,
+      "sid": 433,
+      "location": 2,
+      "content": "那么它的输出VA大于VB啊",
+      "music": 0.0
+    },
+    {
+      "from": 1322.56,
+      "to": 1324.29,
+      "sid": 434,
+      "location": 2,
+      "content": "它的输出是一个高电平",
+      "music": 0.0
+    },
+    {
+      "from": 1324.29,
+      "to": 1328.1,
+      "sid": 435,
+      "location": 2,
+      "content": "有时候他的输出始终是一个高低电平衡啊",
+      "music": 0.0
+    },
+    {
+      "from": 1328.1,
+      "to": 1329.66,
+      "sid": 436,
+      "location": 2,
+      "content": "在这个阶段零到T1",
+      "music": 0.0
+    },
+    {
+      "from": 1329.66,
+      "to": 1331.7,
+      "sid": 437,
+      "location": 2,
+      "content": "这个阶段VA大于VB的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1331.7,
+      "to": 1333.24,
+      "sid": 438,
+      "location": 2,
+      "content": "它输出是一个高电平",
+      "music": 0.0
+    },
+    {
+      "from": 1333.24,
+      "to": 1336.26,
+      "sid": 439,
+      "location": 2,
+      "content": "当另下一个阶段T1到T2阶段",
+      "music": 0.0
+    },
+    {
+      "from": 1336.26,
+      "to": 1337.74,
+      "sid": 440,
+      "location": 2,
+      "content": "vb大于VA的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1337.74,
+      "to": 1339.4,
+      "sid": 441,
+      "location": 2,
+      "content": "那么它又是一个低电平",
+      "music": 0.0
+    },
+    {
+      "from": 1339.4,
+      "to": 1340.99,
+      "sid": 442,
+      "location": 2,
+      "content": "以此类推啊",
+      "music": 0.0
+    },
+    {
+      "from": 1340.99,
+      "to": 1344.43,
+      "sid": 443,
+      "location": 2,
+      "content": "这就是通过我们的输出的高低电平",
+      "music": 0.0
+    },
+    {
+      "from": 1344.43,
+      "to": 1349.17,
+      "sid": 444,
+      "location": 2,
+      "content": "来反映输入端两个模拟量的一个大小关系",
+      "music": 0.0
+    },
+    {
+      "from": 1349.45,
+      "to": 1351.21,
+      "sid": 445,
+      "location": 2,
+      "content": "那么对于这一个图呢",
+      "music": 0.0
+    },
+    {
+      "from": 1351.21,
+      "to": 1353.37,
+      "sid": 446,
+      "location": 2,
+      "content": "它实际上就是一个双电源的",
+      "music": 0.0
+    },
+    {
+      "from": 1353.37,
+      "to": 1355.97,
+      "sid": 447,
+      "location": 2,
+      "content": "一个供电的一个比较器",
+      "music": 0.0
+    },
+    {
+      "from": 1355.97,
+      "to": 1357.31,
+      "sid": 448,
+      "location": 2,
+      "content": "然后输入输出不变",
+      "music": 0.0
+    },
+    {
+      "from": 1357.31,
+      "to": 1358.21,
+      "sid": 449,
+      "location": 2,
+      "content": "只是双电源",
+      "music": 0.0
+    },
+    {
+      "from": 1358.21,
+      "to": 1359.29,
+      "sid": 450,
+      "location": 2,
+      "content": "它这是一个微负",
+      "music": 0.0
+    },
+    {
+      "from": 1359.29,
+      "to": 1360.07,
+      "sid": 451,
+      "location": 2,
+      "content": "这个是V正",
+      "music": 0.0
+    },
+    {
+      "from": 1360.07,
+      "to": 1364.01,
+      "sid": 452,
+      "location": 2,
+      "content": "比如说这是一个12伏或者是15伏的",
+      "music": 0.0
+    },
+    {
+      "from": 1364.01,
+      "to": 1365.41,
+      "sid": 453,
+      "location": 2,
+      "content": "然后这可能就是负的",
+      "music": 0.0
+    },
+    {
+      "from": 1365.41,
+      "to": 1365.91,
+      "sid": 454,
+      "location": 2,
+      "content": "12伏",
+      "music": 0.0
+    },
+    {
+      "from": 1365.91,
+      "to": 1366.65,
+      "sid": 455,
+      "location": 2,
+      "content": "正的是二伏",
+      "music": 0.0
+    },
+    {
+      "from": 1366.65,
+      "to": 1367.65,
+      "sid": 456,
+      "location": 2,
+      "content": "是这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 1367.65,
+      "to": 1369.57,
+      "sid": 457,
+      "location": 2,
+      "content": "那么这个这个时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 1369.57,
+      "to": 1375.29,
+      "sid": 458,
+      "location": 2,
+      "content": "它的一个这个嗯输出的一个饱和负电压",
+      "music": 0.0
+    },
+    {
+      "from": 1375.29,
+      "to": 1378.22,
+      "sid": 459,
+      "location": 2,
+      "content": "就是到这边",
+      "music": 0.0
+    },
+    {
+      "from": 1379.96,
+      "to": 1384.42,
+      "sid": 460,
+      "location": 2,
+      "content": "嗯还有一种情况呢就叫做过零检测",
+      "music": 0.0
+    },
+    {
+      "from": 1384.42,
+      "to": 1388.08,
+      "sid": 461,
+      "location": 2,
+      "content": "过零检测呢也是比较器的一种",
+      "music": 0.0
+    },
+    {
+      "from": 1388.51,
+      "to": 1390.63,
+      "sid": 462,
+      "location": 2,
+      "content": "我们来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 1393.92,
+      "to": 1396.5,
+      "sid": 463,
+      "location": 2,
+      "content": "如果说他这个输入电压VA呀",
+      "music": 0.0
+    },
+    {
+      "from": 1396.5,
+      "to": 1399.24,
+      "sid": 464,
+      "location": 2,
+      "content": "跟一个固定不变的一个电压vb",
+      "music": 0.0
+    },
+    {
+      "from": 1399.24,
+      "to": 1401.0,
+      "sid": 465,
+      "location": 2,
+      "content": "像他这个就是一个固定不变的",
+      "music": 0.0
+    },
+    {
+      "from": 1401.0,
+      "to": 1402.5,
+      "sid": 466,
+      "location": 2,
+      "content": "接个电容接地对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1402.5,
+      "to": 1405.3,
+      "sid": 467,
+      "location": 2,
+      "content": "固定不变的一个电压vb来比较的话",
+      "music": 0.0
+    },
+    {
+      "from": 1405.3,
+      "to": 1408.32,
+      "sid": 468,
+      "location": 2,
+      "content": "那么这个vb呢称为是一个参考电压",
+      "music": 0.0
+    },
+    {
+      "from": 1408.32,
+      "to": 1410.909,
+      "sid": 469,
+      "location": 2,
+      "content": "或者是基准电压阈值电压",
+      "music": 0.0
+    },
+    {
+      "from": 1410.909,
+      "to": 1414.309,
+      "sid": 470,
+      "location": 2,
+      "content": "那么如果它的参考电压是零值的话",
+      "music": 0.0
+    },
+    {
+      "from": 1414.309,
+      "to": 1417.709,
+      "sid": 471,
+      "location": 2,
+      "content": "那么一般就把它用作是过零检测",
+      "music": 0.0
+    },
+    {
+      "from": 1417.709,
+      "to": 1419.9,
+      "sid": 472,
+      "location": 2,
+      "content": "也就是说它跟零相比较",
+      "music": 0.0
+    },
+    {
+      "from": 1419.9,
+      "to": 1422.88,
+      "sid": 473,
+      "location": 2,
+      "content": "对于这个比较器的一个工作原理啊",
+      "music": 0.0
+    },
+    {
+      "from": 1422.88,
+      "to": 1426.49,
+      "sid": 474,
+      "location": 2,
+      "content": "它实际上比较器是由运算放大器发展而来的",
+      "music": 0.0
+    },
+    {
+      "from": 1426.49,
+      "to": 1428.53,
+      "sid": 475,
+      "location": 2,
+      "content": "这个比较器电路呢",
+      "music": 0.0
+    },
+    {
+      "from": 1428.53,
+      "to": 1433.97,
+      "sid": 476,
+      "location": 2,
+      "content": "可以把它认认认为成是这个运放的一种",
+      "music": 0.0
+    },
+    {
+      "from": 1436.8,
+      "to": 1441.14,
+      "sid": 477,
+      "location": 2,
+      "content": "大家可以看一下这个就是一个运放对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1441.14,
+      "to": 1445.72,
+      "sid": 478,
+      "location": 2,
+      "content": "这个运放呢它是差分放大电路经过尾",
+      "music": 0.0
+    },
+    {
+      "from": 1445.78,
+      "to": 1449.32,
+      "sid": 479,
+      "location": 2,
+      "content": "经过这个这个VA啊",
+      "music": 0.0
+    },
+    {
+      "from": 1449.32,
+      "to": 1451.94,
+      "sid": 480,
+      "location": 2,
+      "content": "经过这个R2R3分压之后",
+      "music": 0.0
+    },
+    {
+      "from": 1451.94,
+      "to": 1454.58,
+      "sid": 481,
+      "location": 2,
+      "content": "接在同向端嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1454.9,
+      "to": 1458.76,
+      "sid": 482,
+      "location": 2,
+      "content": "然后呢vb呢经过R1接在反向端",
+      "music": 0.0
+    },
+    {
+      "from": 1458.76,
+      "to": 1460.98,
+      "sid": 483,
+      "location": 2,
+      "content": "这个RF作为一个反馈电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1460.98,
+      "to": 1464.1,
+      "sid": 484,
+      "location": 2,
+      "content": "如果不考虑我的这个输入失调电压啊",
+      "music": 0.0
+    },
+    {
+      "from": 1464.1,
+      "to": 1465.74,
+      "sid": 485,
+      "location": 2,
+      "content": "实际上我的这个输出电压",
+      "music": 0.0
+    },
+    {
+      "from": 1465.74,
+      "to": 1469.98,
+      "sid": 486,
+      "location": 2,
+      "content": "v out跟这个VAVB以及四个电阻的一个关系",
+      "music": 0.0
+    },
+    {
+      "from": 1469.98,
+      "to": 1472.24,
+      "sid": 487,
+      "location": 2,
+      "content": "我们是可以啊",
+      "music": 0.0
+    },
+    {
+      "from": 1472.24,
+      "to": 1475.5,
+      "sid": 488,
+      "location": 2,
+      "content": "好简单的来推导一下的",
+      "music": 0.0
+    },
+    {
+      "from": 1475.5,
+      "to": 1477.86,
+      "sid": 489,
+      "location": 2,
+      "content": "呃在这儿我就不仔细做推导了",
+      "music": 0.0
+    },
+    {
+      "from": 1477.86,
+      "to": 1478.9,
+      "sid": 490,
+      "location": 2,
+      "content": "给大家说一下",
+      "music": 0.0
+    },
+    {
+      "from": 1478.9,
+      "to": 1483.45,
+      "sid": 491,
+      "location": 2,
+      "content": "这个实际上这个最终呢是一个v out等于一",
+      "music": 0.0
+    },
+    {
+      "from": 1483.45,
+      "to": 1487.78,
+      "sid": 492,
+      "location": 2,
+      "content": "加上这个RF比上R1",
+      "music": 0.0
+    },
+    {
+      "from": 1488.22,
+      "to": 1493.94,
+      "sid": 493,
+      "location": 2,
+      "content": "然后乘以R3比上R2加R3",
+      "music": 0.0
+    },
+    {
+      "from": 1493.94,
+      "to": 1499.84,
+      "sid": 494,
+      "location": 2,
+      "content": "乘以VA再减去RF除以R1乘以VB啊",
+      "music": 0.0
+    },
+    {
+      "from": 1499.84,
+      "to": 1503.3,
+      "sid": 495,
+      "location": 2,
+      "content": "这样一个一个一个公式啊",
+      "music": 0.0
+    },
+    {
+      "from": 1503.3,
+      "to": 1508.79,
+      "sid": 496,
+      "location": 2,
+      "content": "就是呃当这个R1和R2相等的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 1508.79,
+      "to": 1510.91,
+      "sid": 497,
+      "location": 2,
+      "content": "R1和R2相等的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1510.91,
+      "to": 1513.449,
+      "sid": 498,
+      "location": 2,
+      "content": "这个R3等于RF的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1513.449,
+      "to": 1516.929,
+      "sid": 499,
+      "location": 2,
+      "content": "这个V额v out呢",
+      "music": 0.0
+    },
+    {
+      "from": 1516.929,
+      "to": 1521.93,
+      "sid": 500,
+      "location": 2,
+      "content": "实际上就等于RF除以R1乘以小",
+      "music": 0.0
+    },
+    {
+      "from": 1521.93,
+      "to": 1524.18,
+      "sid": 501,
+      "location": 2,
+      "content": "括号里边V减VB",
+      "music": 0.0
+    },
+    {
+      "from": 1524.18,
+      "to": 1526.82,
+      "sid": 502,
+      "location": 2,
+      "content": "V减VB实际上是这样一个关系",
+      "music": 0.0
+    },
+    {
+      "from": 1526.82,
+      "to": 1529.02,
+      "sid": 503,
+      "location": 2,
+      "content": "那么RF除以RE呢",
+      "music": 0.0
+    },
+    {
+      "from": 1529.02,
+      "to": 1531.34,
+      "sid": 504,
+      "location": 2,
+      "content": "这就是一个放大器的增益了",
+      "music": 0.0
+    },
+    {
+      "from": 1531.34,
+      "to": 1533.4,
+      "sid": 505,
+      "location": 2,
+      "content": "如果说这个R1和R2",
+      "music": 0.0
+    },
+    {
+      "from": 1533.4,
+      "to": 1535.9,
+      "sid": 506,
+      "location": 2,
+      "content": "是一个无穷大的一个值的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1535.9,
+      "to": 1541.19,
+      "sid": 507,
+      "location": 2,
+      "content": "就相当于这个R3和RF开路对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1541.19,
+      "to": 1544.05,
+      "sid": 508,
+      "location": 2,
+      "content": "这个时候他这个输出就是无穷大了",
+      "music": 0.0
+    },
+    {
+      "from": 1544.05,
+      "to": 1545.51,
+      "sid": 509,
+      "location": 2,
+      "content": "增益变成无穷大呢",
+      "music": 0.0
+    },
+    {
+      "from": 1545.51,
+      "to": 1550.17,
+      "sid": 510,
+      "location": 2,
+      "content": "就变成这个这个这个这种这种这种状况",
+      "music": 0.0
+    },
+    {
+      "from": 1550.17,
+      "to": 1552.11,
+      "sid": 511,
+      "location": 2,
+      "content": "这种状况也就变成这种状况了",
+      "music": 0.0
+    },
+    {
+      "from": 1552.11,
+      "to": 1554.07,
+      "sid": 512,
+      "location": 2,
+      "content": "输出变成无穷大了",
+      "music": 0.0
+    },
+    {
+      "from": 1554.63,
+      "to": 1556.87,
+      "sid": 513,
+      "location": 2,
+      "content": "那么V2的输出就是一个饱和电压",
+      "music": 0.0
+    },
+    {
+      "from": 1556.87,
+      "to": 1558.99,
+      "sid": 514,
+      "location": 2,
+      "content": "它是小于正负电源的电压",
+      "music": 0.0
+    },
+    {
+      "from": 1558.99,
+      "to": 1562.86,
+      "sid": 515,
+      "location": 2,
+      "content": "也可能是这个无穷电的一个无穷大的一个电压",
+      "music": 0.0
+    },
+    {
+      "from": 1562.86,
+      "to": 1566.06,
+      "sid": 516,
+      "location": 2,
+      "content": "所以说呢从这个图四当中我们可以看出来啊",
+      "music": 0.0
+    },
+    {
+      "from": 1566.06,
+      "to": 1568.36,
+      "sid": 517,
+      "location": 2,
+      "content": "这个比较器电路就是运算放大电路",
+      "music": 0.0
+    },
+    {
+      "from": 1568.36,
+      "to": 1574.14,
+      "sid": 518,
+      "location": 2,
+      "content": "处于一个开环状态的一个差分放大器电路",
+      "music": 0.0
+    },
+    {
+      "from": 1575.28,
+      "to": 1576.76,
+      "sid": 519,
+      "location": 2,
+      "content": "呃说到这儿呢",
+      "music": 0.0
+    },
+    {
+      "from": 1576.76,
+      "to": 1582.32,
+      "sid": 520,
+      "location": 2,
+      "content": "实际上就差不多就能了解这个呃",
+      "music": 0.0
+    },
+    {
+      "from": 1582.32,
+      "to": 1585.84,
+      "sid": 521,
+      "location": 2,
+      "content": "运放以及比较气它们二者之间的关系了",
+      "music": 0.0
+    },
+    {
+      "from": 1585.84,
+      "to": 1591.72,
+      "sid": 522,
+      "location": 2,
+      "content": "嗯还有一种情况呢就是这个同向放大器电路呀",
+      "music": 0.0
+    },
+    {
+      "from": 1591.72,
+      "to": 1593.46,
+      "sid": 523,
+      "location": 2,
+      "content": "比如说像图五当中",
+      "music": 0.0
+    },
+    {
+      "from": 1593.46,
+      "to": 1595.36,
+      "sid": 524,
+      "location": 2,
+      "content": "像这个样子的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1595.36,
+      "to": 1597.2,
+      "sid": 525,
+      "location": 2,
+      "content": "如果说这个RF",
+      "music": 0.0
+    },
+    {
+      "from": 1597.2,
+      "to": 1599.44,
+      "sid": 526,
+      "location": 2,
+      "content": "也就是说他这个反馈电阻是无穷大的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1599.44,
+      "to": 1601.75,
+      "sid": 527,
+      "location": 2,
+      "content": "R啊R1等于零",
+      "music": 0.0
+    },
+    {
+      "from": 1601.75,
+      "to": 1602.81,
+      "sid": 528,
+      "location": 2,
+      "content": "它是零值",
+      "music": 0.0
+    },
+    {
+      "from": 1602.81,
+      "to": 1605.25,
+      "sid": 529,
+      "location": 2,
+      "content": "然后它无穷大的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 1608.7,
+      "to": 1609.82,
+      "sid": 530,
+      "location": 2,
+      "content": "它会变成",
+      "music": 0.0
+    },
+    {
+      "from": 1609.82,
+      "to": 1613.56,
+      "sid": 531,
+      "location": 2,
+      "content": "就是跟咱们前面所讲的那个过零检测啊",
+      "music": 0.0
+    },
+    {
+      "from": 1613.56,
+      "to": 1615.73,
+      "sid": 532,
+      "location": 2,
+      "content": "就会变成这种状况对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1615.73,
+      "to": 1618.39,
+      "sid": 533,
+      "location": 2,
+      "content": "因为它这个无穷大相当于开路了嘛",
+      "music": 0.0
+    },
+    {
+      "from": 1618.39,
+      "to": 1621.19,
+      "sid": 534,
+      "location": 2,
+      "content": "就相当于是前面我们所说的那种",
+      "music": 0.0
+    },
+    {
+      "from": 1621.19,
+      "to": 1622.73,
+      "sid": 535,
+      "location": 2,
+      "content": "过零检测电路了",
+      "music": 0.0
+    },
+    {
+      "from": 1622.73,
+      "to": 1626.45,
+      "sid": 536,
+      "location": 2,
+      "content": "它就是一个比较器电路了",
+      "music": 0.0
+    },
+    {
+      "from": 1627.32,
+      "to": 1630.28,
+      "sid": 537,
+      "location": 2,
+      "content": "所以说呢大家在这些电路的分析当中",
+      "music": 0.0
+    },
+    {
+      "from": 1630.28,
+      "to": 1632.09,
+      "sid": 538,
+      "location": 2,
+      "content": "要注意二者的区别",
+      "music": 0.0
+    },
+    {
+      "from": 1632.09,
+      "to": 1635.59,
+      "sid": 539,
+      "location": 2,
+      "content": "当然对于这个它们两者的区别呢",
+      "music": 0.0
+    },
+    {
+      "from": 1635.59,
+      "to": 1639.6,
+      "sid": 540,
+      "location": 2,
+      "content": "对于网上也有一些就是呃总结",
+      "music": 0.0
+    },
+    {
+      "from": 1639.6,
+      "to": 1643.61,
+      "sid": 541,
+      "location": 2,
+      "content": "比如说它们两个的区别是输出结构啊",
+      "music": 0.0
+    },
+    {
+      "from": 1643.61,
+      "to": 1647.19,
+      "sid": 542,
+      "location": 2,
+      "content": "比较器呢往往是集集电极开路输出",
+      "music": 0.0
+    },
+    {
+      "from": 1647.19,
+      "to": 1650.03,
+      "sid": 543,
+      "location": 2,
+      "content": "可以多个比较器输出并联",
+      "music": 0.0
+    },
+    {
+      "from": 1650.03,
+      "to": 1651.77,
+      "sid": 544,
+      "location": 2,
+      "content": "构成语门",
+      "music": 0.0
+    },
+    {
+      "from": 1651.77,
+      "to": 1654.61,
+      "sid": 545,
+      "location": 2,
+      "content": "而运放呢通常是推挽输出",
+      "music": 0.0
+    },
+    {
+      "from": 1654.61,
+      "to": 1657.029,
+      "sid": 546,
+      "location": 2,
+      "content": "输出端不能并联啊",
+      "music": 0.0
+    },
+    {
+      "from": 1657.029,
+      "to": 1659.109,
+      "sid": 547,
+      "location": 2,
+      "content": "还有一个呢就是二者的区别呢",
+      "music": 0.0
+    },
+    {
+      "from": 1659.109,
+      "to": 1661.589,
+      "sid": 548,
+      "location": 2,
+      "content": "就是比较器的输出要加上拉电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1661.589,
+      "to": 1664.52,
+      "sid": 549,
+      "location": 2,
+      "content": "而运放的输出不需要加啊",
+      "music": 0.0
+    },
+    {
+      "from": 1664.52,
+      "to": 1665.06,
+      "sid": 550,
+      "location": 2,
+      "content": "还有呢",
+      "music": 0.0
+    },
+    {
+      "from": 1665.06,
+      "to": 1666.3,
+      "sid": 551,
+      "location": 2,
+      "content": "比较器的工作",
+      "music": 0.0
+    },
+    {
+      "from": 1666.3,
+      "to": 1669.24,
+      "sid": 552,
+      "location": 2,
+      "content": "工作在开环或者是正反馈的状态呢",
+      "music": 0.0
+    },
+    {
+      "from": 1669.24,
+      "to": 1670.55,
+      "sid": 553,
+      "location": 2,
+      "content": "不会刺激",
+      "music": 0.0
+    },
+    {
+      "from": 1670.55,
+      "to": 1674.51,
+      "sid": 554,
+      "location": 2,
+      "content": "而运放工作一般工作在负反馈状态",
+      "music": 0.0
+    },
+    {
+      "from": 1674.51,
+      "to": 1677.75,
+      "sid": 555,
+      "location": 2,
+      "content": "而且开环或正反馈的时候需要加补偿电路",
+      "music": 0.0
+    },
+    {
+      "from": 1677.75,
+      "to": 1680.549,
+      "sid": 556,
+      "location": 2,
+      "content": "否则容易刺激嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1680.549,
+      "to": 1684.51,
+      "sid": 557,
+      "location": 2,
+      "content": "还有就是精密运放的开环增益很高",
+      "music": 0.0
+    },
+    {
+      "from": 1684.51,
+      "to": 1686.47,
+      "sid": 558,
+      "location": 2,
+      "content": "120dB左右",
+      "music": 0.0
+    },
+    {
+      "from": 1686.47,
+      "to": 1690.67,
+      "sid": 559,
+      "location": 2,
+      "content": "然后运放工作一般工作在线性状态",
+      "music": 0.0
+    },
+    {
+      "from": 1690.67,
+      "to": 1692.03,
+      "sid": 560,
+      "location": 2,
+      "content": "还有什么比较器",
+      "music": 0.0
+    },
+    {
+      "from": 1692.03,
+      "to": 1693.57,
+      "sid": 561,
+      "location": 2,
+      "content": "翻转速度比较快等等",
+      "music": 0.0
+    },
+    {
+      "from": 1693.57,
+      "to": 1696.18,
+      "sid": 562,
+      "location": 2,
+      "content": "这些呢不需要大家死记硬背啊",
+      "music": 0.0
+    },
+    {
+      "from": 1696.18,
+      "to": 1698.62,
+      "sid": 563,
+      "location": 2,
+      "content": "就是大家以后在用到的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1698.62,
+      "to": 1701.1,
+      "sid": 564,
+      "location": 2,
+      "content": "通过例子对这些话加以理解",
+      "music": 0.0
+    },
+    {
+      "from": 1701.1,
+      "to": 1703.23,
+      "sid": 565,
+      "location": 2,
+      "content": "以后会用就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 1703.23,
+      "to": 1706.37,
+      "sid": 566,
+      "location": 2,
+      "content": "呃运放呢主要就是这么多内容",
+      "music": 0.0
+    },
+    {
+      "from": 1706.37,
+      "to": 1708.77,
+      "sid": 567,
+      "location": 2,
+      "content": "大家如果把这些啊",
+      "music": 0.0
+    },
+    {
+      "from": 1708.77,
+      "to": 1713.2,
+      "sid": 568,
+      "location": 2,
+      "content": "分析这个典型电路的这些方法掌握了",
+      "music": 0.0
+    },
+    {
+      "from": 1713.2,
+      "to": 1716.85,
+      "sid": 569,
+      "location": 2,
+      "content": "我们不需要记住我的输出和输入是什么关系",
+      "music": 0.0
+    },
+    {
+      "from": 1716.85,
+      "to": 1719.85,
+      "sid": 570,
+      "location": 2,
+      "content": "来记住这个典型电路的一个功能",
+      "music": 0.0
+    },
+    {
+      "from": 1719.85,
+      "to": 1722.95,
+      "sid": 571,
+      "location": 2,
+      "content": "我们只需要掌握分析这个电路的方法",
+      "music": 0.0
+    },
+    {
+      "from": 1722.95,
+      "to": 1726.47,
+      "sid": 572,
+      "location": 2,
+      "content": "以及深刻理解虚短续断概念",
+      "music": 0.0
+    },
+    {
+      "from": 1726.47,
+      "to": 1727.85,
+      "sid": 573,
+      "location": 2,
+      "content": "并会运用它们",
+      "music": 0.0
+    },
+    {
+      "from": 1727.85,
+      "to": 1732.389,
+      "sid": 574,
+      "location": 2,
+      "content": "对于运放的我们就算是掌握比较熟练了",
+      "music": 0.0
+    },
+    {
+      "from": 1733.6,
+      "to": 1735.46,
+      "sid": 575,
+      "location": 2,
+      "content": "运放就给大家讲这么多",
+      "music": 0.0
+    },
+    {
+      "from": 1735.46,
+      "to": 1736.84,
+      "sid": 576,
+      "location": 2,
+      "content": "最后大家别忘了",
+      "music": 0.0
+    },
+    {
+      "from": 1736.84,
+      "to": 1740.68,
+      "sid": 577,
+      "location": 2,
+      "content": "就是在课后呢把这两个一个是电流检测电路",
+      "music": 0.0
+    },
+    {
+      "from": 1740.68,
+      "to": 1742.46,
+      "sid": 578,
+      "location": 2,
+      "content": "一个是电压电流啊",
+      "music": 0.0
+    },
+    {
+      "from": 1742.46,
+      "to": 1747.92,
+      "sid": 579,
+      "location": 2,
+      "content": "检测转换的这样一个呃图呢自己再分析一下",
+      "music": 0.0
+    },
+    {
+      "from": 1747.92,
+      "to": 1751.7,
+      "sid": 580,
+      "location": 2,
+      "content": "利运用咱们之前分析这些典型电路的一个方法",
+      "music": 0.0
+    },
+    {
+      "from": 1751.7,
+      "to": 1753.01,
+      "sid": 581,
+      "location": 2,
+      "content": "来分析一下",
+      "music": 0.0
+    },
+    {
+      "from": 1753.57,
+      "to": 1755.26,
+      "sid": 582,
+      "location": 2,
+      "content": "好就讲这些吧",
+      "music": 0.0
+    }
+  ]
+}

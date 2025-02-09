@@ -1,0 +1,5548 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 1.78,
+      "to": 5.77,
+      "sid": 1,
+      "location": 2,
+      "content": "嗯下面我们来看一下数模模数转换器",
+      "music": 0.0
+    },
+    {
+      "from": 5.77,
+      "to": 7.9,
+      "sid": 2,
+      "location": 2,
+      "content": "为什么要有这种元器件呢",
+      "music": 0.0
+    },
+    {
+      "from": 7.9,
+      "to": 12.78,
+      "sid": 3,
+      "location": 2,
+      "content": "因为在我们实际的一些啊控制理论当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 12.78,
+      "to": 16.84,
+      "sid": 4,
+      "location": 2,
+      "content": "我们需要把一些模拟量转化成数字量去啊",
+      "music": 0.0
+    },
+    {
+      "from": 16.84,
+      "to": 18.52,
+      "sid": 5,
+      "location": 2,
+      "content": "给到我们的单片机啊",
+      "music": 0.0
+    },
+    {
+      "from": 18.52,
+      "to": 21.28,
+      "sid": 6,
+      "location": 2,
+      "content": "或者是给到我们的计算机啊进行一个处理",
+      "music": 0.0
+    },
+    {
+      "from": 21.28,
+      "to": 23.97,
+      "sid": 7,
+      "location": 2,
+      "content": "然后呢再转换成模拟信号",
+      "music": 0.0
+    },
+    {
+      "from": 23.97,
+      "to": 27.3,
+      "sid": 8,
+      "location": 2,
+      "content": "然后在输出为我们的电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 27.3,
+      "to": 29.55,
+      "sid": 9,
+      "location": 2,
+      "content": "因此呢在这个转换过程中",
+      "music": 0.0
+    },
+    {
+      "from": 29.55,
+      "to": 33.22,
+      "sid": 10,
+      "location": 2,
+      "content": "我们就会用到用到了一些数模模数转换器",
+      "music": 0.0
+    },
+    {
+      "from": 33.22,
+      "to": 34.54,
+      "sid": 11,
+      "location": 2,
+      "content": "在这一部分呢",
+      "music": 0.0
+    },
+    {
+      "from": 34.54,
+      "to": 37.9,
+      "sid": 12,
+      "location": 2,
+      "content": "我们首先来讲解一下它的基本知识",
+      "music": 0.0
+    },
+    {
+      "from": 37.9,
+      "to": 41.61,
+      "sid": 13,
+      "location": 2,
+      "content": "然后分别对数模模数转换器的一个工作原理呀",
+      "music": 0.0
+    },
+    {
+      "from": 41.61,
+      "to": 44.91,
+      "sid": 14,
+      "location": 2,
+      "content": "实现步骤啊进行一下讲解啊",
+      "music": 0.0
+    },
+    {
+      "from": 44.91,
+      "to": 47.32,
+      "sid": 15,
+      "location": 2,
+      "content": "我们先来看一下它的基本概念",
+      "music": 0.0
+    },
+    {
+      "from": 49.22,
+      "to": 50.58,
+      "sid": 16,
+      "location": 2,
+      "content": "对于这个",
+      "music": 0.0
+    },
+    {
+      "from": 54.04,
+      "to": 58.2,
+      "sid": 17,
+      "location": 2,
+      "content": "数数模转换器呢通常就是数字信啊",
+      "music": 0.0
+    },
+    {
+      "from": 58.2,
+      "to": 59.61,
+      "sid": 18,
+      "location": 2,
+      "content": "经过数字处理",
+      "music": 0.0
+    },
+    {
+      "from": 59.61,
+      "to": 63.54,
+      "sid": 19,
+      "location": 2,
+      "content": "经过数字系统处理后的一个数字量啊",
+      "music": 0.0
+    },
+    {
+      "from": 63.54,
+      "to": 65.34,
+      "sid": 20,
+      "location": 2,
+      "content": "有时候又要求转化成模拟量",
+      "music": 0.0
+    },
+    {
+      "from": 65.34,
+      "to": 68.62,
+      "sid": 21,
+      "location": 2,
+      "content": "以便实际使用这种转换就成为数模转换",
+      "music": 0.0
+    },
+    {
+      "from": 68.62,
+      "to": 71.56,
+      "sid": 22,
+      "location": 2,
+      "content": "那么能完成这种数模转换的啊",
+      "music": 0.0
+    },
+    {
+      "from": 71.56,
+      "to": 73.84,
+      "sid": 23,
+      "location": 2,
+      "content": "电路呀就叫数模转换器",
+      "music": 0.0
+    },
+    {
+      "from": 73.84,
+      "to": 77.43,
+      "sid": 24,
+      "location": 2,
+      "content": "或者是呃一种简单的一个芯片对吧",
+      "music": 0.0
+    },
+    {
+      "from": 77.97,
+      "to": 80.55,
+      "sid": 25,
+      "location": 2,
+      "content": "还有一个呢就是将模拟量转换成数字量的过程",
+      "music": 0.0
+    },
+    {
+      "from": 80.55,
+      "to": 82.119,
+      "sid": 26,
+      "location": 2,
+      "content": "称为是魔术转换",
+      "music": 0.0
+    },
+    {
+      "from": 83.28,
+      "to": 86.92,
+      "sid": 27,
+      "location": 2,
+      "content": "咱们来看一下它实际应用的一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 88.12,
+      "to": 90.29,
+      "sid": 28,
+      "location": 2,
+      "content": "一个一个呃分析框图",
+      "music": 0.0
+    },
+    {
+      "from": 90.29,
+      "to": 92.63,
+      "sid": 29,
+      "location": 2,
+      "content": "这是一个多路数据采集的系统",
+      "music": 0.0
+    },
+    {
+      "from": 92.63,
+      "to": 97.13,
+      "sid": 30,
+      "location": 2,
+      "content": "我们通过传感器把一些模拟信号啊采采集过来",
+      "music": 0.0
+    },
+    {
+      "from": 97.13,
+      "to": 101.01,
+      "sid": 31,
+      "location": 2,
+      "content": "通过放大器滤波器对这些信号进行处理",
+      "music": 0.0
+    },
+    {
+      "from": 101.01,
+      "to": 104.96,
+      "sid": 32,
+      "location": 2,
+      "content": "然后呢给到一个多路模拟开关当中",
+      "music": 0.0
+    },
+    {
+      "from": 105.94,
+      "to": 108.99,
+      "sid": 33,
+      "location": 2,
+      "content": "经过多路模拟开关的这些模拟信号",
+      "music": 0.0
+    },
+    {
+      "from": 108.99,
+      "to": 112.469,
+      "sid": 34,
+      "location": 2,
+      "content": "然后再经过一个魔术转换器啊",
+      "music": 0.0
+    },
+    {
+      "from": 112.469,
+      "to": 114.389,
+      "sid": 35,
+      "location": 2,
+      "content": "把模拟信号转换成数字信号的",
+      "music": 0.0
+    },
+    {
+      "from": 114.389,
+      "to": 116.579,
+      "sid": 36,
+      "location": 2,
+      "content": "这样一个魔术转换器",
+      "music": 0.0
+    },
+    {
+      "from": 116.579,
+      "to": 119.47,
+      "sid": 37,
+      "location": 2,
+      "content": "最终呢送给计算机啊",
+      "music": 0.0
+    },
+    {
+      "from": 119.47,
+      "to": 121.679,
+      "sid": 38,
+      "location": 2,
+      "content": "作为一个处理信号",
+      "music": 0.0
+    },
+    {
+      "from": 121.84,
+      "to": 123.58,
+      "sid": 39,
+      "location": 2,
+      "content": "这就是多路系统",
+      "music": 0.0
+    },
+    {
+      "from": 123.58,
+      "to": 124.06,
+      "sid": 40,
+      "location": 2,
+      "content": "采",
+      "music": 0.0
+    },
+    {
+      "from": 124.06,
+      "to": 127.86,
+      "sid": 41,
+      "location": 2,
+      "content": "多路数据采集系统的这样一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 127.86,
+      "to": 129.24,
+      "sid": 42,
+      "location": 2,
+      "content": "实现的一个过程",
+      "music": 0.0
+    },
+    {
+      "from": 129.24,
+      "to": 131.55,
+      "sid": 43,
+      "location": 2,
+      "content": "或者是说它实现了一个框图",
+      "music": 0.0
+    },
+    {
+      "from": 131.55,
+      "to": 133.08,
+      "sid": 44,
+      "location": 2,
+      "content": "那么另外一个呢",
+      "music": 0.0
+    },
+    {
+      "from": 133.08,
+      "to": 135.84,
+      "sid": 45,
+      "location": 2,
+      "content": "在计算机d d c控制系统当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 137.059,
+      "to": 139.76,
+      "sid": 46,
+      "location": 2,
+      "content": "在一个反馈的一个环路当中",
+      "music": 0.0
+    },
+    {
+      "from": 140.619,
+      "to": 142.409,
+      "sid": 47,
+      "location": 2,
+      "content": "它也有很重要的作用",
+      "music": 0.0
+    },
+    {
+      "from": 142.409,
+      "to": 145.619,
+      "sid": 48,
+      "location": 2,
+      "content": "比如说啊对于我控制控制对象",
+      "music": 0.0
+    },
+    {
+      "from": 145.619,
+      "to": 148.16,
+      "sid": 49,
+      "location": 2,
+      "content": "通过传感器传回来的一个信号",
+      "music": 0.0
+    },
+    {
+      "from": 148.16,
+      "to": 153.6,
+      "sid": 50,
+      "location": 2,
+      "content": "那么它会跟一个给定的信号进行啊比较",
+      "music": 0.0
+    },
+    {
+      "from": 153.6,
+      "to": 154.68,
+      "sid": 51,
+      "location": 2,
+      "content": "更正对吧",
+      "music": 0.0
+    },
+    {
+      "from": 154.68,
+      "to": 156.18,
+      "sid": 52,
+      "location": 2,
+      "content": "有一个反馈嘛对吧",
+      "music": 0.0
+    },
+    {
+      "from": 156.18,
+      "to": 157.92,
+      "sid": 53,
+      "location": 2,
+      "content": "这是相当于反馈回来的信号",
+      "music": 0.0
+    },
+    {
+      "from": 157.92,
+      "to": 160.86,
+      "sid": 54,
+      "location": 2,
+      "content": "跟给定信号进行啊比较",
+      "music": 0.0
+    },
+    {
+      "from": 160.86,
+      "to": 165.3,
+      "sid": 55,
+      "location": 2,
+      "content": "然后呢比较的信号要进入一个模数转换器当中",
+      "music": 0.0
+    },
+    {
+      "from": 165.3,
+      "to": 168.67,
+      "sid": 56,
+      "location": 2,
+      "content": "把这些模拟量转换成数字量给到计算机",
+      "music": 0.0
+    },
+    {
+      "from": 168.67,
+      "to": 171.1,
+      "sid": 57,
+      "location": 2,
+      "content": "或者是我们的单片机进行处理",
+      "music": 0.0
+    },
+    {
+      "from": 171.1,
+      "to": 172.78,
+      "sid": 58,
+      "location": 2,
+      "content": "然后处理的数据呢",
+      "music": 0.0
+    },
+    {
+      "from": 172.78,
+      "to": 176.06,
+      "sid": 59,
+      "location": 2,
+      "content": "再转换成通过一个数模转换器",
+      "music": 0.0
+    },
+    {
+      "from": 176.06,
+      "to": 179.37,
+      "sid": 60,
+      "location": 2,
+      "content": "再转换成一个模拟信号给到我们的控制对象",
+      "music": 0.0
+    },
+    {
+      "from": 179.37,
+      "to": 183.67,
+      "sid": 61,
+      "location": 2,
+      "content": "从而达到控制我们这些呃控制对象",
+      "music": 0.0
+    },
+    {
+      "from": 183.67,
+      "to": 189.14,
+      "sid": 62,
+      "location": 2,
+      "content": "使它的这个输出值符合我们啊理想的",
+      "music": 0.0
+    },
+    {
+      "from": 189.14,
+      "to": 190.7,
+      "sid": 63,
+      "location": 2,
+      "content": "要控制的一个范围",
+      "music": 0.0
+    },
+    {
+      "from": 190.7,
+      "to": 194.35,
+      "sid": 64,
+      "location": 2,
+      "content": "这就是他在计算机控制系统当中的一个应用",
+      "music": 0.0
+    },
+    {
+      "from": 194.35,
+      "to": 197.23,
+      "sid": 65,
+      "location": 2,
+      "content": "所以说这个数模模数转换器啊",
+      "music": 0.0
+    },
+    {
+      "from": 197.23,
+      "to": 201.329,
+      "sid": 66,
+      "location": 2,
+      "content": "他们在实际的应用中还是用的用的挺广泛的",
+      "music": 0.0
+    },
+    {
+      "from": 201.329,
+      "to": 205.0,
+      "sid": 67,
+      "location": 2,
+      "content": "我们先来看一下比较简单的一个数模转换器",
+      "music": 0.0
+    },
+    {
+      "from": 206.14,
+      "to": 209.26,
+      "sid": 68,
+      "location": 2,
+      "content": "看一下它的工作原理以及实现步骤",
+      "music": 0.0
+    },
+    {
+      "from": 210.02,
+      "to": 211.24,
+      "sid": 69,
+      "location": 2,
+      "content": "首先来看啊",
+      "music": 0.0
+    },
+    {
+      "from": 211.24,
+      "to": 214.7,
+      "sid": 70,
+      "location": 2,
+      "content": "这个是这个数模转换器呢",
+      "music": 0.0
+    },
+    {
+      "from": 214.7,
+      "to": 217.04,
+      "sid": 71,
+      "location": 2,
+      "content": "他就把数字量转换成模拟量嘛",
+      "music": 0.0
+    },
+    {
+      "from": 217.04,
+      "to": 220.5,
+      "sid": 72,
+      "location": 2,
+      "content": "然后它通常是由一些开关啊",
+      "music": 0.0
+    },
+    {
+      "from": 220.5,
+      "to": 222.6,
+      "sid": 73,
+      "location": 2,
+      "content": "加一些电阻来实现的",
+      "music": 0.0
+    },
+    {
+      "from": 222.6,
+      "to": 225.93,
+      "sid": 74,
+      "location": 2,
+      "content": "比如说它以一个n位的二进制数",
+      "music": 0.0
+    },
+    {
+      "from": 225.93,
+      "to": 230.53,
+      "sid": 75,
+      "location": 2,
+      "content": "它就可以用这样的来这样的一个公式来表示啊",
+      "music": 0.0
+    },
+    {
+      "from": 230.53,
+      "to": 234.31,
+      "sid": 76,
+      "location": 2,
+      "content": "这前面的这些呢实际上就是它的二进制",
+      "music": 0.0
+    },
+    {
+      "from": 234.31,
+      "to": 235.98,
+      "sid": 77,
+      "location": 2,
+      "content": "个位的一个系数",
+      "music": 0.0
+    },
+    {
+      "from": 237.48,
+      "to": 239.96,
+      "sid": 78,
+      "location": 2,
+      "content": "后面呢比如说二的n减一次方",
+      "music": 0.0
+    },
+    {
+      "from": 239.96,
+      "to": 241.04,
+      "sid": 79,
+      "location": 2,
+      "content": "二的n减二次方",
+      "music": 0.0
+    },
+    {
+      "from": 241.04,
+      "to": 241.7,
+      "sid": 80,
+      "location": 2,
+      "content": "二的一次方",
+      "music": 0.0
+    },
+    {
+      "from": 241.7,
+      "to": 243.07,
+      "sid": 81,
+      "location": 2,
+      "content": "二的零次方等等",
+      "music": 0.0
+    },
+    {
+      "from": 243.07,
+      "to": 247.32,
+      "sid": 82,
+      "location": 2,
+      "content": "这些呢是各位二进制数的一个全啊",
+      "music": 0.0
+    },
+    {
+      "from": 247.519,
+      "to": 249.709,
+      "sid": 83,
+      "location": 2,
+      "content": "为了表示方便呢",
+      "music": 0.0
+    },
+    {
+      "from": 249.709,
+      "to": 253.56,
+      "sid": 84,
+      "location": 2,
+      "content": "嗯看它下面还有另外一种表示方法",
+      "music": 0.0
+    },
+    {
+      "from": 254.7,
+      "to": 259.0,
+      "sid": 85,
+      "location": 2,
+      "content": "二进制的每一个代码都有一定的全职啊",
+      "music": 0.0
+    },
+    {
+      "from": 259.0,
+      "to": 261.7,
+      "sid": 86,
+      "location": 2,
+      "content": "如果将每一位的代码按照其全职的代号",
+      "music": 0.0
+    },
+    {
+      "from": 261.7,
+      "to": 263.38,
+      "sid": 87,
+      "location": 2,
+      "content": "转化成相应的模拟量",
+      "music": 0.0
+    },
+    {
+      "from": 263.38,
+      "to": 266.23,
+      "sid": 88,
+      "location": 2,
+      "content": "再将这些模拟量呢进行相加",
+      "music": 0.0
+    },
+    {
+      "from": 266.23,
+      "to": 269.74,
+      "sid": 89,
+      "location": 2,
+      "content": "就可以得到与数字量成正比的一个模拟量",
+      "music": 0.0
+    },
+    {
+      "from": 269.74,
+      "to": 273.24,
+      "sid": 90,
+      "location": 2,
+      "content": "而从而实现数字量相模拟量的一个转换",
+      "music": 0.0
+    },
+    {
+      "from": 273.24,
+      "to": 277.2,
+      "sid": 91,
+      "location": 2,
+      "content": "那么它的实现步骤呢主要有下面这几这几步",
+      "music": 0.0
+    },
+    {
+      "from": 277.2,
+      "to": 282.859,
+      "sid": 92,
+      "location": 2,
+      "content": "一个是嗯由这个数码寄存器啊",
+      "music": 0.0
+    },
+    {
+      "from": 282.859,
+      "to": 284.299,
+      "sid": 93,
+      "location": 2,
+      "content": "先寄存数据对吧",
+      "music": 0.0
+    },
+    {
+      "from": 284.299,
+      "to": 286.699,
+      "sid": 94,
+      "location": 2,
+      "content": "然后用a v的模拟开关呀",
+      "music": 0.0
+    },
+    {
+      "from": 286.699,
+      "to": 289.14,
+      "sid": 95,
+      "location": 2,
+      "content": "然后用解码网络啊",
+      "music": 0.0
+    },
+    {
+      "from": 289.46,
+      "to": 293.74,
+      "sid": 96,
+      "location": 2,
+      "content": "最后呢是求和运算电路和基准电源啊",
+      "music": 0.0
+    },
+    {
+      "from": 293.74,
+      "to": 295.24,
+      "sid": 97,
+      "location": 2,
+      "content": "这样实现的",
+      "music": 0.0
+    },
+    {
+      "from": 295.24,
+      "to": 297.82,
+      "sid": 98,
+      "location": 2,
+      "content": "它的实现方法是有多种的啊",
+      "music": 0.0
+    },
+    {
+      "from": 297.82,
+      "to": 301.18,
+      "sid": 99,
+      "location": 2,
+      "content": "啊有全电阻网络啊",
+      "music": 0.0
+    },
+    {
+      "from": 301.18,
+      "to": 302.02,
+      "sid": 100,
+      "location": 2,
+      "content": "全电阻网络",
+      "music": 0.0
+    },
+    {
+      "from": 302.02,
+      "to": 306.82,
+      "sid": 101,
+      "location": 2,
+      "content": "看它就是利用一些电阻和一些开关来实现的啊",
+      "music": 0.0
+    },
+    {
+      "from": 306.82,
+      "to": 309.97,
+      "sid": 102,
+      "location": 2,
+      "content": "他们的首先要把他们的全电流计算出来",
+      "music": 0.0
+    },
+    {
+      "from": 309.97,
+      "to": 312.25,
+      "sid": 103,
+      "location": 2,
+      "content": "当哪一个是开通的时候",
+      "music": 0.0
+    },
+    {
+      "from": 312.25,
+      "to": 314.14,
+      "sid": 104,
+      "location": 2,
+      "content": "然后根据这些进行计算",
+      "music": 0.0
+    },
+    {
+      "from": 314.14,
+      "to": 320.909,
+      "sid": 105,
+      "location": 2,
+      "content": "然后呢还有一个倒倒t形电阻网络da转换器嗯",
+      "music": 0.0
+    },
+    {
+      "from": 320.909,
+      "to": 324.239,
+      "sid": 106,
+      "location": 2,
+      "content": "看一下这个呢跟它有所不同的是",
+      "music": 0.0
+    },
+    {
+      "from": 324.239,
+      "to": 326.08,
+      "sid": 107,
+      "location": 2,
+      "content": "这边多了电阻对吧",
+      "music": 0.0
+    },
+    {
+      "from": 327.759,
+      "to": 329.399,
+      "sid": 108,
+      "location": 2,
+      "content": "形成了一个倒梯形",
+      "music": 0.0
+    },
+    {
+      "from": 329.399,
+      "to": 331.259,
+      "sid": 109,
+      "location": 2,
+      "content": "这是它的一个等效电阻",
+      "music": 0.0
+    },
+    {
+      "from": 331.259,
+      "to": 333.86,
+      "sid": 110,
+      "location": 2,
+      "content": "等效电阻啊",
+      "music": 0.0
+    },
+    {
+      "from": 335.5,
+      "to": 340.21,
+      "sid": 111,
+      "location": 2,
+      "content": "还有一个呢是全电流的一个da转换器啊",
+      "music": 0.0
+    },
+    {
+      "from": 340.21,
+      "to": 343.78,
+      "sid": 112,
+      "location": 2,
+      "content": "全电流的呢实际上就是将一个倒梯形的电阻",
+      "music": 0.0
+    },
+    {
+      "from": 343.78,
+      "to": 346.24,
+      "sid": 113,
+      "location": 2,
+      "content": "网络中的各支路的全电流啊",
+      "music": 0.0
+    },
+    {
+      "from": 346.24,
+      "to": 347.559,
+      "sid": 114,
+      "location": 2,
+      "content": "变成一个恒流源",
+      "music": 0.0
+    },
+    {
+      "from": 347.559,
+      "to": 349.359,
+      "sid": 115,
+      "location": 2,
+      "content": "看就把它变成一个红了",
+      "music": 0.0
+    },
+    {
+      "from": 349.359,
+      "to": 351.039,
+      "sid": 116,
+      "location": 2,
+      "content": "原来这边是电阻对吧",
+      "music": 0.0
+    },
+    {
+      "from": 351.039,
+      "to": 353.02,
+      "sid": 117,
+      "location": 2,
+      "content": "变成横梁元嗯",
+      "music": 0.0
+    },
+    {
+      "from": 353.02,
+      "to": 353.5,
+      "sid": 118,
+      "location": 2,
+      "content": "这样呢",
+      "music": 0.0
+    },
+    {
+      "from": 353.5,
+      "to": 355.06,
+      "sid": 119,
+      "location": 2,
+      "content": "每个恒流源的电流大小",
+      "music": 0.0
+    },
+    {
+      "from": 355.06,
+      "to": 357.56,
+      "sid": 120,
+      "location": 2,
+      "content": "依次是前一个的1/2",
+      "music": 0.0
+    },
+    {
+      "from": 357.56,
+      "to": 358.88,
+      "sid": 121,
+      "location": 2,
+      "content": "因为它是二的零次方",
+      "music": 0.0
+    },
+    {
+      "from": 358.88,
+      "to": 359.42,
+      "sid": 122,
+      "location": 2,
+      "content": "二的一次方",
+      "music": 0.0
+    },
+    {
+      "from": 359.42,
+      "to": 360.83,
+      "sid": 123,
+      "location": 2,
+      "content": "二的二次方嘛对吧",
+      "music": 0.0
+    },
+    {
+      "from": 360.83,
+      "to": 361.94,
+      "sid": 124,
+      "location": 2,
+      "content": "那样过来的",
+      "music": 0.0
+    },
+    {
+      "from": 361.94,
+      "to": 363.74,
+      "sid": 125,
+      "location": 2,
+      "content": "从而使每个电路的电流",
+      "music": 0.0
+    },
+    {
+      "from": 363.74,
+      "to": 367.4,
+      "sid": 126,
+      "location": 2,
+      "content": "与其对应的输入二进制的代码的全成正比",
+      "music": 0.0
+    },
+    {
+      "from": 367.4,
+      "to": 372.67,
+      "sid": 127,
+      "location": 2,
+      "content": "这样就构成了全电流的一个啊数模转换器",
+      "music": 0.0
+    },
+    {
+      "from": 372.67,
+      "to": 375.94,
+      "sid": 128,
+      "location": 2,
+      "content": "这就是它的一个基本的一些实现方法",
+      "music": 0.0
+    },
+    {
+      "from": 375.94,
+      "to": 378.62,
+      "sid": 129,
+      "location": 2,
+      "content": "这个大家了解一下就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 379.039,
+      "to": 381.739,
+      "sid": 130,
+      "location": 2,
+      "content": "我们来看一下它的一个技术指标",
+      "music": 0.0
+    },
+    {
+      "from": 381.739,
+      "to": 385.93,
+      "sid": 131,
+      "location": 2,
+      "content": "技术指标呢通常会有转换精度和转换速度两种",
+      "music": 0.0
+    },
+    {
+      "from": 385.93,
+      "to": 390.86,
+      "sid": 132,
+      "location": 2,
+      "content": "转换精度里边通常是用分辨率和转换误差来啊",
+      "music": 0.0
+    },
+    {
+      "from": 390.86,
+      "to": 393.32,
+      "sid": 133,
+      "location": 2,
+      "content": "确定它的一个转换精度啊",
+      "music": 0.0
+    },
+    {
+      "from": 393.32,
+      "to": 394.34,
+      "sid": 134,
+      "location": 2,
+      "content": "分辨率是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 394.34,
+      "to": 396.8,
+      "sid": 135,
+      "location": 2,
+      "content": "分辨率一般用输入数字量的一个",
+      "music": 0.0
+    },
+    {
+      "from": 396.8,
+      "to": 398.96,
+      "sid": 136,
+      "location": 2,
+      "content": "二进制代码的位数来表示",
+      "music": 0.0
+    },
+    {
+      "from": 399.58,
+      "to": 402.82,
+      "sid": 137,
+      "location": 2,
+      "content": "也可以用这个数模转换器呀",
+      "music": 0.0
+    },
+    {
+      "from": 402.82,
+      "to": 406.58,
+      "sid": 138,
+      "location": 2,
+      "content": "能够分辨出最小的一个输出电压与输入电",
+      "music": 0.0
+    },
+    {
+      "from": 406.58,
+      "to": 409.82,
+      "sid": 139,
+      "location": 2,
+      "content": "最大输出电压的比值来表示啊",
+      "music": 0.0
+    },
+    {
+      "from": 409.82,
+      "to": 411.47,
+      "sid": 140,
+      "location": 2,
+      "content": "这是它的一个计算公式",
+      "music": 0.0
+    },
+    {
+      "from": 411.47,
+      "to": 413.81,
+      "sid": 141,
+      "location": 2,
+      "content": "那么还有一个转换误差",
+      "music": 0.0
+    },
+    {
+      "from": 413.81,
+      "to": 416.81,
+      "sid": 142,
+      "location": 2,
+      "content": "转换误差是指一个数模转换器",
+      "music": 0.0
+    },
+    {
+      "from": 416.81,
+      "to": 418.43,
+      "sid": 143,
+      "location": 2,
+      "content": "实际输出的模拟电压",
+      "music": 0.0
+    },
+    {
+      "from": 418.43,
+      "to": 420.88,
+      "sid": 144,
+      "location": 2,
+      "content": "与理想值之间的一个最大偏差",
+      "music": 0.0
+    },
+    {
+      "from": 420.88,
+      "to": 423.65,
+      "sid": 145,
+      "location": 2,
+      "content": "转换误差包括好几种啊",
+      "music": 0.0
+    },
+    {
+      "from": 423.65,
+      "to": 425.33,
+      "sid": 146,
+      "location": 2,
+      "content": "比如说非线性误差呀",
+      "music": 0.0
+    },
+    {
+      "from": 425.33,
+      "to": 426.35,
+      "sid": 147,
+      "location": 2,
+      "content": "漂移误差呀",
+      "music": 0.0
+    },
+    {
+      "from": 426.35,
+      "to": 427.92,
+      "sid": 148,
+      "location": 2,
+      "content": "增益误差等等",
+      "music": 0.0
+    },
+    {
+      "from": 428.02,
+      "to": 429.52,
+      "sid": 149,
+      "location": 2,
+      "content": "这个转换误差",
+      "music": 0.0
+    },
+    {
+      "from": 429.52,
+      "to": 436.52,
+      "sid": 150,
+      "location": 2,
+      "content": "一般用最大偏差于这个s f s f s r之比",
+      "music": 0.0
+    },
+    {
+      "from": 436.52,
+      "to": 437.63,
+      "sid": 151,
+      "location": 2,
+      "content": "的百分数",
+      "music": 0.0
+    },
+    {
+      "from": 437.63,
+      "to": 444.6,
+      "sid": 152,
+      "location": 2,
+      "content": "或者是最低有效位s l b a l sb的倍数来表示",
+      "music": 0.0
+    },
+    {
+      "from": 446.34,
+      "to": 449.67,
+      "sid": 153,
+      "location": 2,
+      "content": "然后还有一个技术指标就是转换速度",
+      "music": 0.0
+    },
+    {
+      "from": 449.67,
+      "to": 451.11,
+      "sid": 154,
+      "location": 2,
+      "content": "转换速度还是用什么用",
+      "music": 0.0
+    },
+    {
+      "from": 451.11,
+      "to": 454.7,
+      "sid": 155,
+      "location": 2,
+      "content": "建立时间就是他这个数模转换器的建立时间",
+      "music": 0.0
+    },
+    {
+      "from": 454.7,
+      "to": 458.84,
+      "sid": 156,
+      "location": 2,
+      "content": "一般从输入数字量从全零变为全一开始的",
+      "music": 0.0
+    },
+    {
+      "from": 458.84,
+      "to": 461.74,
+      "sid": 157,
+      "location": 2,
+      "content": "到输出模拟电压达到稳定值啊",
+      "music": 0.0
+    },
+    {
+      "from": 461.74,
+      "to": 463.09,
+      "sid": 158,
+      "location": 2,
+      "content": "相差规定的一个误",
+      "music": 0.0
+    },
+    {
+      "from": 463.09,
+      "to": 466.6,
+      "sid": 159,
+      "location": 2,
+      "content": "误差带位置所需要的一个间隔时间啊",
+      "music": 0.0
+    },
+    {
+      "from": 466.6,
+      "to": 467.44,
+      "sid": 160,
+      "location": 2,
+      "content": "我们来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 467.44,
+      "to": 469.66,
+      "sid": 161,
+      "location": 2,
+      "content": "这就是它的一个建立时间对吧",
+      "music": 0.0
+    },
+    {
+      "from": 472.319,
+      "to": 475.159,
+      "sid": 162,
+      "location": 2,
+      "content": "用它呢来衡量转换速度的一个快慢",
+      "music": 0.0
+    },
+    {
+      "from": 475.159,
+      "to": 478.49,
+      "sid": 163,
+      "location": 2,
+      "content": "用建立时间来来衡量转换速度的一个快慢",
+      "music": 0.0
+    },
+    {
+      "from": 478.49,
+      "to": 481.83,
+      "sid": 164,
+      "location": 2,
+      "content": "这就是它的一个呃基本的一个技术指标",
+      "music": 0.0
+    },
+    {
+      "from": 481.83,
+      "to": 483.72,
+      "sid": 165,
+      "location": 2,
+      "content": "那么对于数模转换器",
+      "music": 0.0
+    },
+    {
+      "from": 483.72,
+      "to": 486.15,
+      "sid": 166,
+      "location": 2,
+      "content": "它有一些常见的型号器件",
+      "music": 0.0
+    },
+    {
+      "from": 486.15,
+      "to": 487.71,
+      "sid": 167,
+      "location": 2,
+      "content": "我们来了解一下",
+      "music": 0.0
+    },
+    {
+      "from": 487.71,
+      "to": 491.04,
+      "sid": 168,
+      "location": 2,
+      "content": "比如说像呃倒梯形的电阻网络和全电流",
+      "music": 0.0
+    },
+    {
+      "from": 491.04,
+      "to": 492.64,
+      "sid": 169,
+      "location": 2,
+      "content": "两种类型的电路呀",
+      "music": 0.0
+    },
+    {
+      "from": 494.74,
+      "to": 495.96,
+      "sid": 170,
+      "location": 2,
+      "content": "他们有什么呀",
+      "music": 0.0
+    },
+    {
+      "from": 495.96,
+      "to": 497.82,
+      "sid": 171,
+      "location": 2,
+      "content": "倒梯形的有这些对吧",
+      "music": 0.0
+    },
+    {
+      "from": 497.82,
+      "to": 498.84,
+      "sid": 172,
+      "location": 2,
+      "content": "我经常用的哎",
+      "music": 0.0
+    },
+    {
+      "from": 498.84,
+      "to": 501.59,
+      "sid": 173,
+      "location": 2,
+      "content": "全电流行的呢主要有这些啊",
+      "music": 0.0
+    },
+    {
+      "from": 501.59,
+      "to": 504.71,
+      "sid": 174,
+      "location": 2,
+      "content": "这些呢大家可以下去看一下他们的data shade",
+      "music": 0.0
+    },
+    {
+      "from": 504.71,
+      "to": 506.14,
+      "sid": 175,
+      "location": 2,
+      "content": "做一下具体的了解",
+      "music": 0.0
+    },
+    {
+      "from": 508.4,
+      "to": 510.94,
+      "sid": 176,
+      "location": 2,
+      "content": "然后呢我们来看一下魔术转换器",
+      "music": 0.0
+    },
+    {
+      "from": 510.94,
+      "to": 512.38,
+      "sid": 177,
+      "location": 2,
+      "content": "其实魔术转换器啊",
+      "music": 0.0
+    },
+    {
+      "from": 512.38,
+      "to": 515.86,
+      "sid": 178,
+      "location": 2,
+      "content": "它相对于数模转换器来说可能稍微要复杂一点",
+      "music": 0.0
+    },
+    {
+      "from": 515.86,
+      "to": 520.139,
+      "sid": 179,
+      "location": 2,
+      "content": "因为呃将输入的模拟量转化成与之成比例的",
+      "music": 0.0
+    },
+    {
+      "from": 520.139,
+      "to": 522.119,
+      "sid": 180,
+      "location": 2,
+      "content": "二进制数字量输出的电路啊",
+      "music": 0.0
+    },
+    {
+      "from": 522.119,
+      "to": 528.77,
+      "sid": 181,
+      "location": 2,
+      "content": "它嗯它稍微的要呃呃步骤要要复杂一些",
+      "music": 0.0
+    },
+    {
+      "from": 528.77,
+      "to": 531.29,
+      "sid": 182,
+      "location": 2,
+      "content": "由于这个模拟量在时间和幅值上",
+      "music": 0.0
+    },
+    {
+      "from": 531.29,
+      "to": 532.37,
+      "sid": 183,
+      "location": 2,
+      "content": "它都是连续的嘛",
+      "music": 0.0
+    },
+    {
+      "from": 532.37,
+      "to": 534.83,
+      "sid": 184,
+      "location": 2,
+      "content": "而数字量你是要求他们是离散的",
+      "music": 0.0
+    },
+    {
+      "from": 534.83,
+      "to": 537.39,
+      "sid": 185,
+      "location": 2,
+      "content": "所以在进行这个魔术转换的时候",
+      "music": 0.0
+    },
+    {
+      "from": 537.39,
+      "to": 540.63,
+      "sid": 186,
+      "location": 2,
+      "content": "首先就要按照一定的这个时间间隔啊",
+      "music": 0.0
+    },
+    {
+      "from": 540.63,
+      "to": 542.24,
+      "sid": 187,
+      "location": 2,
+      "content": "对它进行取样",
+      "music": 0.0
+    },
+    {
+      "from": 542.42,
+      "to": 545.93,
+      "sid": 188,
+      "location": 2,
+      "content": "然后使它在时间上变成离散的信号",
+      "music": 0.0
+    },
+    {
+      "from": 545.93,
+      "to": 547.13,
+      "sid": 189,
+      "location": 2,
+      "content": "然后呢",
+      "music": 0.0
+    },
+    {
+      "from": 547.13,
+      "to": 550.49,
+      "sid": 190,
+      "location": 2,
+      "content": "再将这个取样后的这个模拟量保持一段时间",
+      "music": 0.0
+    },
+    {
+      "from": 550.49,
+      "to": 552.62,
+      "sid": 191,
+      "location": 2,
+      "content": "使这个取样值量化",
+      "music": 0.0
+    },
+    {
+      "from": 553.54,
+      "to": 555.9,
+      "sid": 192,
+      "location": 2,
+      "content": "变成这个数值上的离散的信号",
+      "music": 0.0
+    },
+    {
+      "from": 555.9,
+      "to": 556.98,
+      "sid": 193,
+      "location": 2,
+      "content": "再通过编码",
+      "music": 0.0
+    },
+    {
+      "from": 556.98,
+      "to": 559.2,
+      "sid": 194,
+      "location": 2,
+      "content": "将这些量化后的离散信号",
+      "music": 0.0
+    },
+    {
+      "from": 559.2,
+      "to": 561.459,
+      "sid": 195,
+      "location": 2,
+      "content": "转换成一个数字量输出",
+      "music": 0.0
+    },
+    {
+      "from": 561.76,
+      "to": 564.82,
+      "sid": 196,
+      "location": 2,
+      "content": "你看这个时间上和量上都是连续的",
+      "music": 0.0
+    },
+    {
+      "from": 564.82,
+      "to": 566.2,
+      "sid": 197,
+      "location": 2,
+      "content": "所以它是模拟信号吗",
+      "music": 0.0
+    },
+    {
+      "from": 566.2,
+      "to": 567.69,
+      "sid": 198,
+      "location": 2,
+      "content": "模拟信号进行取样",
+      "music": 0.0
+    },
+    {
+      "from": 567.69,
+      "to": 570.09,
+      "sid": 199,
+      "location": 2,
+      "content": "使得实际上是离散的信号",
+      "music": 0.0
+    },
+    {
+      "from": 570.09,
+      "to": 571.53,
+      "sid": 200,
+      "location": 2,
+      "content": "然后呢在量值上",
+      "music": 0.0
+    },
+    {
+      "from": 571.53,
+      "to": 573.6,
+      "sid": 201,
+      "location": 2,
+      "content": "在时间上和量值上都隔离",
+      "music": 0.0
+    },
+    {
+      "from": 573.6,
+      "to": 576.06,
+      "sid": 202,
+      "location": 2,
+      "content": "隔离之后要保持量化对吧",
+      "music": 0.0
+    },
+    {
+      "from": 576.06,
+      "to": 578.16,
+      "sid": 203,
+      "location": 2,
+      "content": "量在量子上也隔离信号",
+      "music": 0.0
+    },
+    {
+      "from": 578.16,
+      "to": 582.4,
+      "sid": 204,
+      "location": 2,
+      "content": "然后最后是编码得出这样一个数字信号了",
+      "music": 0.0
+    },
+    {
+      "from": 583.7,
+      "to": 585.64,
+      "sid": 205,
+      "location": 2,
+      "content": "那么根据这个图",
+      "music": 0.0
+    },
+    {
+      "from": 585.64,
+      "to": 589.329,
+      "sid": 206,
+      "location": 2,
+      "content": "实际上我们也知道了它的过程主要是取样",
+      "music": 0.0
+    },
+    {
+      "from": 589.329,
+      "to": 593.31,
+      "sid": 207,
+      "location": 2,
+      "content": "然后呢保持量化以及编码四个过程",
+      "music": 0.0
+    },
+    {
+      "from": 593.31,
+      "to": 595.77,
+      "sid": 208,
+      "location": 2,
+      "content": "它也有几种实现类型",
+      "music": 0.0
+    },
+    {
+      "from": 595.77,
+      "to": 598.05,
+      "sid": 209,
+      "location": 2,
+      "content": "比如说并联比较型ad转换器",
+      "music": 0.0
+    },
+    {
+      "from": 598.05,
+      "to": 600.819,
+      "sid": 210,
+      "location": 2,
+      "content": "这就是一个并联比较型ad转换器",
+      "music": 0.0
+    },
+    {
+      "from": 603.88,
+      "to": 606.16,
+      "sid": 211,
+      "location": 2,
+      "content": "这是它的一个内部结构图",
+      "music": 0.0
+    },
+    {
+      "from": 606.36,
+      "to": 609.45,
+      "sid": 212,
+      "location": 2,
+      "content": "呃对于这种啊它有一些特点",
+      "music": 0.0
+    },
+    {
+      "from": 609.45,
+      "to": 613.31,
+      "sid": 213,
+      "location": 2,
+      "content": "比如说他的那个速度比较快啊",
+      "music": 0.0
+    },
+    {
+      "from": 613.31,
+      "to": 614.42,
+      "sid": 214,
+      "location": 2,
+      "content": "精度比较高",
+      "music": 0.0
+    },
+    {
+      "from": 614.42,
+      "to": 616.61,
+      "sid": 215,
+      "location": 2,
+      "content": "有存储器啊",
+      "music": 0.0
+    },
+    {
+      "from": 616.61,
+      "to": 620.9,
+      "sid": 216,
+      "location": 2,
+      "content": "它的电路规模呢是嗯如果说是n位的话",
+      "music": 0.0
+    },
+    {
+      "from": 620.9,
+      "to": 623.72,
+      "sid": 217,
+      "location": 2,
+      "content": "只需要2n减一个比较器和触发器啊",
+      "music": 0.0
+    },
+    {
+      "from": 623.72,
+      "to": 625.78,
+      "sid": 218,
+      "location": 2,
+      "content": "它是用比较器和触发器组成的呢",
+      "music": 0.0
+    },
+    {
+      "from": 625.78,
+      "to": 628.9,
+      "sid": 219,
+      "location": 2,
+      "content": "所以说呢这个还是比较有特点的",
+      "music": 0.0
+    },
+    {
+      "from": 628.9,
+      "to": 632.38,
+      "sid": 220,
+      "location": 2,
+      "content": "这就是一个并联比较型的一个a d转换器",
+      "music": 0.0
+    },
+    {
+      "from": 633.64,
+      "to": 637.56,
+      "sid": 221,
+      "location": 2,
+      "content": "下面呢是一个反馈比较型的一个ad转换器",
+      "music": 0.0
+    },
+    {
+      "from": 637.56,
+      "to": 639.869,
+      "sid": 222,
+      "location": 2,
+      "content": "对于反馈比较型ad转换器",
+      "music": 0.0
+    },
+    {
+      "from": 639.869,
+      "to": 642.569,
+      "sid": 223,
+      "location": 2,
+      "content": "它实际上就是一种直接的a d转换器",
+      "music": 0.0
+    },
+    {
+      "from": 642.569,
+      "to": 649.36,
+      "sid": 224,
+      "location": 2,
+      "content": "就是将一个数字量如果加到这个模数字数",
+      "music": 0.0
+    },
+    {
+      "from": 649.36,
+      "to": 651.28,
+      "sid": 225,
+      "location": 2,
+      "content": "模转换器的数段的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 651.28,
+      "to": 652.42,
+      "sid": 226,
+      "location": 2,
+      "content": "如果将模拟量",
+      "music": 0.0
+    },
+    {
+      "from": 652.42,
+      "to": 655.62,
+      "sid": 227,
+      "location": 2,
+      "content": "如果将一个数字量转化成加到这个",
+      "music": 0.0
+    },
+    {
+      "from": 655.62,
+      "to": 659.22,
+      "sid": 228,
+      "location": 2,
+      "content": "如果将一个数字量加到一个数模转换器的",
+      "music": 0.0
+    },
+    {
+      "from": 659.22,
+      "to": 660.96,
+      "sid": 229,
+      "location": 2,
+      "content": "一个输出的输入端的时候",
+      "music": 0.0
+    },
+    {
+      "from": 660.96,
+      "to": 662.1,
+      "sid": 230,
+      "location": 2,
+      "content": "那么它的输出端呢",
+      "music": 0.0
+    },
+    {
+      "from": 662.1,
+      "to": 665.339,
+      "sid": 231,
+      "location": 2,
+      "content": "可以得到一个与输入数字量相对应的",
+      "music": 0.0
+    },
+    {
+      "from": 665.339,
+      "to": 666.569,
+      "sid": 232,
+      "location": 2,
+      "content": "一个模拟电压",
+      "music": 0.0
+    },
+    {
+      "from": 666.569,
+      "to": 668.279,
+      "sid": 233,
+      "location": 2,
+      "content": "如果将这个模拟电压",
+      "music": 0.0
+    },
+    {
+      "from": 668.279,
+      "to": 671.579,
+      "sid": 234,
+      "location": 2,
+      "content": "跟这个输入的这个模拟电压相比较的话",
+      "music": 0.0
+    },
+    {
+      "from": 674.72,
+      "to": 676.439,
+      "sid": 235,
+      "location": 2,
+      "content": "如果两者不相等",
+      "music": 0.0
+    },
+    {
+      "from": 676.9,
+      "to": 679.84,
+      "sid": 236,
+      "location": 2,
+      "content": "那就需要调整所取得这个数字量的大小",
+      "music": 0.0
+    },
+    {
+      "from": 679.84,
+      "to": 680.8,
+      "sid": 237,
+      "location": 2,
+      "content": "只啊",
+      "music": 0.0
+    },
+    {
+      "from": 680.8,
+      "to": 685.78,
+      "sid": 238,
+      "location": 2,
+      "content": "直到经过这个这个呃",
+      "music": 0.0
+    },
+    {
+      "from": 685.78,
+      "to": 687.52,
+      "sid": 239,
+      "location": 2,
+      "content": "数模转换器的这个模拟电压",
+      "music": 0.0
+    },
+    {
+      "from": 687.52,
+      "to": 689.44,
+      "sid": 240,
+      "location": 2,
+      "content": "和输入电压完全相等为止",
+      "music": 0.0
+    },
+    {
+      "from": 689.44,
+      "to": 691.78,
+      "sid": 241,
+      "location": 2,
+      "content": "也就是说最后所取的这个数字量",
+      "music": 0.0
+    },
+    {
+      "from": 691.78,
+      "to": 695.66,
+      "sid": 242,
+      "location": 2,
+      "content": "就是跟这个输入电压相对应的一个输出量",
+      "music": 0.0
+    },
+    {
+      "from": 697.14,
+      "to": 699.56,
+      "sid": 243,
+      "location": 2,
+      "content": "这是它的一个技术",
+      "music": 0.0
+    },
+    {
+      "from": 699.56,
+      "to": 701.48,
+      "sid": 244,
+      "location": 2,
+      "content": "一个原理原理图啊",
+      "music": 0.0
+    },
+    {
+      "from": 701.48,
+      "to": 702.62,
+      "sid": 245,
+      "location": 2,
+      "content": "技术型的原理图",
+      "music": 0.0
+    },
+    {
+      "from": 702.62,
+      "to": 705.67,
+      "sid": 246,
+      "location": 2,
+      "content": "输入电压模拟量经过它",
+      "music": 0.0
+    },
+    {
+      "from": 705.67,
+      "to": 707.35,
+      "sid": 247,
+      "location": 2,
+      "content": "这是一个脉冲源",
+      "music": 0.0
+    },
+    {
+      "from": 707.35,
+      "to": 711.79,
+      "sid": 248,
+      "location": 2,
+      "content": "就是控制信号在这儿呢嗯经过计数器对吧",
+      "music": 0.0
+    },
+    {
+      "from": 711.79,
+      "to": 713.23,
+      "sid": 249,
+      "location": 2,
+      "content": "这边经过它",
+      "music": 0.0
+    },
+    {
+      "from": 713.23,
+      "to": 715.84,
+      "sid": 250,
+      "location": 2,
+      "content": "然后输出寄存器",
+      "music": 0.0
+    },
+    {
+      "from": 715.84,
+      "to": 718.88,
+      "sid": 251,
+      "location": 2,
+      "content": "最终输出一个数字数字量",
+      "music": 0.0
+    },
+    {
+      "from": 720.72,
+      "to": 722.9,
+      "sid": 252,
+      "location": 2,
+      "content": "那么还有一种实现方法呢",
+      "music": 0.0
+    },
+    {
+      "from": 722.9,
+      "to": 725.41,
+      "sid": 253,
+      "location": 2,
+      "content": "就是一个逐次渐进性",
+      "music": 0.0
+    },
+    {
+      "from": 725.41,
+      "to": 726.67,
+      "sid": 254,
+      "location": 2,
+      "content": "逐次渐进行",
+      "music": 0.0
+    },
+    {
+      "from": 726.67,
+      "to": 728.47,
+      "sid": 255,
+      "location": 2,
+      "content": "跟他看哪里不同呢",
+      "music": 0.0
+    },
+    {
+      "from": 728.47,
+      "to": 729.67,
+      "sid": 256,
+      "location": 2,
+      "content": "主要在这一块啊",
+      "music": 0.0
+    },
+    {
+      "from": 729.67,
+      "to": 731.56,
+      "sid": 257,
+      "location": 2,
+      "content": "这块有所不同",
+      "music": 0.0
+    },
+    {
+      "from": 736.48,
+      "to": 742.05,
+      "sid": 258,
+      "location": 2,
+      "content": "还有一种是双击分型的一个呃数模转啊",
+      "music": 0.0
+    },
+    {
+      "from": 742.05,
+      "to": 744.02,
+      "sid": 259,
+      "location": 2,
+      "content": "是魔术转换器",
+      "music": 0.0
+    },
+    {
+      "from": 744.7,
+      "to": 747.18,
+      "sid": 260,
+      "location": 2,
+      "content": "双积分型的一个魔术转换器呢",
+      "music": 0.0
+    },
+    {
+      "from": 747.18,
+      "to": 750.48,
+      "sid": 261,
+      "location": 2,
+      "content": "是电压时间变化性的一个魔术转换器",
+      "music": 0.0
+    },
+    {
+      "from": 750.48,
+      "to": 753.24,
+      "sid": 262,
+      "location": 2,
+      "content": "它首先把输入的这个模拟电压呀",
+      "music": 0.0
+    },
+    {
+      "from": 753.68,
+      "to": 755.51,
+      "sid": 263,
+      "location": 2,
+      "content": "输入的这个模拟电压",
+      "music": 0.0
+    },
+    {
+      "from": 755.51,
+      "to": 759.98,
+      "sid": 264,
+      "location": 2,
+      "content": "转换成跟这个模拟电压成正比的啊",
+      "music": 0.0
+    },
+    {
+      "from": 759.98,
+      "to": 761.459,
+      "sid": 265,
+      "location": 2,
+      "content": "时间间隔t",
+      "music": 0.0
+    },
+    {
+      "from": 761.54,
+      "to": 763.22,
+      "sid": 266,
+      "location": 2,
+      "content": "然后在这个间隔里边",
+      "music": 0.0
+    },
+    {
+      "from": 763.22,
+      "to": 765.68,
+      "sid": 267,
+      "location": 2,
+      "content": "对固定频率的时钟脉冲进行计数",
+      "music": 0.0
+    },
+    {
+      "from": 765.68,
+      "to": 769.16,
+      "sid": 268,
+      "location": 2,
+      "content": "计数的结果就是正比于这个输入模拟电压的",
+      "music": 0.0
+    },
+    {
+      "from": 769.16,
+      "to": 770.53,
+      "sid": 269,
+      "location": 2,
+      "content": "这个数字信号吗",
+      "music": 0.0
+    },
+    {
+      "from": 770.53,
+      "to": 774.07,
+      "sid": 270,
+      "location": 2,
+      "content": "所以说这个双积分型的这个魔术转换器",
+      "music": 0.0
+    },
+    {
+      "from": 774.07,
+      "to": 776.35,
+      "sid": 271,
+      "location": 2,
+      "content": "也是一种间接的一个魔术转换器",
+      "music": 0.0
+    },
+    {
+      "from": 776.35,
+      "to": 778.39,
+      "sid": 272,
+      "location": 2,
+      "content": "这是一个双积分型的魔术转换器",
+      "music": 0.0
+    },
+    {
+      "from": 778.39,
+      "to": 782.23,
+      "sid": 273,
+      "location": 2,
+      "content": "原理对这个事件看",
+      "music": 0.0
+    },
+    {
+      "from": 782.23,
+      "to": 783.52,
+      "sid": 274,
+      "location": 2,
+      "content": "最终是",
+      "music": 0.0
+    },
+    {
+      "from": 785.92,
+      "to": 787.76,
+      "sid": 275,
+      "location": 2,
+      "content": "转换成数字脸啊",
+      "music": 0.0
+    },
+    {
+      "from": 788.42,
+      "to": 793.14,
+      "sid": 276,
+      "location": 2,
+      "content": "还有一个呢就是vf变换形一个魔术转换器",
+      "music": 0.0
+    },
+    {
+      "from": 793.22,
+      "to": 796.88,
+      "sid": 277,
+      "location": 2,
+      "content": "那么它就是一个电压频率变换形的模式转换器",
+      "music": 0.0
+    },
+    {
+      "from": 796.88,
+      "to": 802.06,
+      "sid": 278,
+      "location": 2,
+      "content": "它首先将这个输入的模拟电压转换成跟它相呃",
+      "music": 0.0
+    },
+    {
+      "from": 802.06,
+      "to": 804.79,
+      "sid": 279,
+      "location": 2,
+      "content": "呃相比成正比的一个频率信号",
+      "music": 0.0
+    },
+    {
+      "from": 804.79,
+      "to": 807.829,
+      "sid": 280,
+      "location": 2,
+      "content": "然后再把一个固定的时间间隔里",
+      "music": 0.0
+    },
+    {
+      "from": 807.829,
+      "to": 811.02,
+      "sid": 281,
+      "location": 2,
+      "content": "得到的频率信号进行计数啊",
+      "music": 0.0
+    },
+    {
+      "from": 811.02,
+      "to": 815.94,
+      "sid": 282,
+      "location": 2,
+      "content": "计数最后呢通过这个二进制计数器呀",
+      "music": 0.0
+    },
+    {
+      "from": 815.94,
+      "to": 817.02,
+      "sid": 283,
+      "location": 2,
+      "content": "输出寄存器啊",
+      "music": 0.0
+    },
+    {
+      "from": 817.02,
+      "to": 818.54,
+      "sid": 284,
+      "location": 2,
+      "content": "得出一个数字量",
+      "music": 0.0
+    },
+    {
+      "from": 819.44,
+      "to": 821.44,
+      "sid": 285,
+      "location": 2,
+      "content": "那么计数的结果呢",
+      "music": 0.0
+    },
+    {
+      "from": 821.44,
+      "to": 824.68,
+      "sid": 286,
+      "location": 2,
+      "content": "就是正比于输入模拟电压的一个数字信号",
+      "music": 0.0
+    },
+    {
+      "from": 824.68,
+      "to": 825.92,
+      "sid": 287,
+      "location": 2,
+      "content": "到这儿了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 826.34,
+      "to": 828.62,
+      "sid": 288,
+      "location": 2,
+      "content": "呃实际上可以看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 828.62,
+      "to": 831.38,
+      "sid": 289,
+      "location": 2,
+      "content": "他们这些的原理的话",
+      "music": 0.0
+    },
+    {
+      "from": 831.38,
+      "to": 832.459,
+      "sid": 290,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 832.52,
+      "to": 834.67,
+      "sid": 291,
+      "location": 2,
+      "content": "实现方法类型呀",
+      "music": 0.0
+    },
+    {
+      "from": 834.67,
+      "to": 838.45,
+      "sid": 292,
+      "location": 2,
+      "content": "其实在实现的原理上基本上是相同的",
+      "music": 0.0
+    },
+    {
+      "from": 838.45,
+      "to": 842.02,
+      "sid": 293,
+      "location": 2,
+      "content": "只不过是只不过是在实现的一些步骤上面",
+      "music": 0.0
+    },
+    {
+      "from": 842.02,
+      "to": 843.46,
+      "sid": 294,
+      "location": 2,
+      "content": "稍微有些差异",
+      "music": 0.0
+    },
+    {
+      "from": 843.46,
+      "to": 845.38,
+      "sid": 295,
+      "location": 2,
+      "content": "大家了解一下就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 845.38,
+      "to": 847.9,
+      "sid": 296,
+      "location": 2,
+      "content": "那么对于他的一个技术指标呢",
+      "music": 0.0
+    },
+    {
+      "from": 848.58,
+      "to": 850.7,
+      "sid": 297,
+      "location": 2,
+      "content": "跟前面相似",
+      "music": 0.0
+    },
+    {
+      "from": 850.7,
+      "to": 853.48,
+      "sid": 298,
+      "location": 2,
+      "content": "我们就不再多说了",
+      "music": 0.0
+    },
+    {
+      "from": 853.48,
+      "to": 855.1,
+      "sid": 299,
+      "location": 2,
+      "content": "也是从这个分辨率呀",
+      "music": 0.0
+    },
+    {
+      "from": 855.1,
+      "to": 856.39,
+      "sid": 300,
+      "location": 2,
+      "content": "转换误差呀",
+      "music": 0.0
+    },
+    {
+      "from": 856.39,
+      "to": 859.079,
+      "sid": 301,
+      "location": 2,
+      "content": "转换时间呀上面来讲的",
+      "music": 0.0
+    },
+    {
+      "from": 861.52,
+      "to": 863.82,
+      "sid": 302,
+      "location": 2,
+      "content": "呃看一下这个转换时间啊",
+      "music": 0.0
+    },
+    {
+      "from": 863.82,
+      "to": 866.46,
+      "sid": 303,
+      "location": 2,
+      "content": "转换时间实际上是指这个a d转换器",
+      "music": 0.0
+    },
+    {
+      "from": 866.46,
+      "to": 869.27,
+      "sid": 304,
+      "location": 2,
+      "content": "从转换控制信号到来开始",
+      "music": 0.0
+    },
+    {
+      "from": 869.27,
+      "to": 874.12,
+      "sid": 305,
+      "location": 2,
+      "content": "到输出端得到稳定的数字信号所经过的时间啊",
+      "music": 0.0
+    },
+    {
+      "from": 874.5,
+      "to": 878.67,
+      "sid": 306,
+      "location": 2,
+      "content": "它的这个转换时间跟转换电路的类型有关",
+      "music": 0.0
+    },
+    {
+      "from": 879.39,
+      "to": 883.49,
+      "sid": 307,
+      "location": 2,
+      "content": "不同的转换类型的速度啊有差别",
+      "music": 0.0
+    },
+    {
+      "from": 883.49,
+      "to": 885.71,
+      "sid": 308,
+      "location": 2,
+      "content": "比如说我们刚才说的那个并行的那个",
+      "music": 0.0
+    },
+    {
+      "from": 885.71,
+      "to": 886.49,
+      "sid": 309,
+      "location": 2,
+      "content": "他那个转换速度",
+      "music": 0.0
+    },
+    {
+      "from": 886.49,
+      "to": 887.51,
+      "sid": 310,
+      "location": 2,
+      "content": "他刚才我们说了",
+      "music": 0.0
+    },
+    {
+      "from": 887.51,
+      "to": 889.92,
+      "sid": 311,
+      "location": 2,
+      "content": "它的一个特点就是速度快嘛对吧",
+      "music": 0.0
+    },
+    {
+      "from": 890.02,
+      "to": 890.68,
+      "sid": 312,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 890.68,
+      "to": 893.68,
+      "sid": 313,
+      "location": 2,
+      "content": "像八位二进制输出的单片机",
+      "music": 0.0
+    },
+    {
+      "from": 893.68,
+      "to": 895.3,
+      "sid": 314,
+      "location": 2,
+      "content": "集成的一个a d转换器",
+      "music": 0.0
+    },
+    {
+      "from": 895.3,
+      "to": 898.31,
+      "sid": 315,
+      "location": 2,
+      "content": "转换时间就是可以达到50纳秒之内",
+      "music": 0.0
+    },
+    {
+      "from": 898.31,
+      "to": 901.91,
+      "sid": 316,
+      "location": 2,
+      "content": "而这个逐次比较型的一个魔术转换器呢",
+      "music": 0.0
+    },
+    {
+      "from": 901.91,
+      "to": 902.99,
+      "sid": 317,
+      "location": 2,
+      "content": "就稍微慢一点",
+      "music": 0.0
+    },
+    {
+      "from": 902.99,
+      "to": 907.87,
+      "sid": 318,
+      "location": 2,
+      "content": "它是在10~50秒以内间接的就更慢了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 907.87,
+      "to": 908.77,
+      "sid": 319,
+      "location": 2,
+      "content": "在几十",
+      "music": 0.0
+    },
+    {
+      "from": 908.77,
+      "to": 910.09,
+      "sid": 320,
+      "location": 2,
+      "content": "还有这个双积分",
+      "music": 0.0
+    },
+    {
+      "from": 910.09,
+      "to": 914.4,
+      "sid": 321,
+      "location": 2,
+      "content": "a d转换器的转换时间在几十毫秒到几百毫",
+      "music": 0.0
+    },
+    {
+      "from": 915.48,
+      "to": 918.02,
+      "sid": 322,
+      "location": 2,
+      "content": "那么在实际性在实际应用当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 918.02,
+      "to": 922.05,
+      "sid": 323,
+      "location": 2,
+      "content": "我们要综合啊从这几方面啊",
+      "music": 0.0
+    },
+    {
+      "from": 922.05,
+      "to": 925.11,
+      "sid": 324,
+      "location": 2,
+      "content": "从这个系统数据总的位数呀",
+      "music": 0.0
+    },
+    {
+      "from": 925.11,
+      "to": 926.01,
+      "sid": 325,
+      "location": 2,
+      "content": "精度要求啊",
+      "music": 0.0
+    },
+    {
+      "from": 926.01,
+      "to": 927.85,
+      "sid": 326,
+      "location": 2,
+      "content": "输入模拟信号的范围呀",
+      "music": 0.0
+    },
+    {
+      "from": 927.85,
+      "to": 932.11,
+      "sid": 327,
+      "location": 2,
+      "content": "以及输入信号啊即兴方面等等做综合的考虑",
+      "music": 0.0
+    },
+    {
+      "from": 932.11,
+      "to": 934.33,
+      "sid": 328,
+      "location": 2,
+      "content": "然后从这个考虑方面来进行",
+      "music": 0.0
+    },
+    {
+      "from": 934.33,
+      "to": 937.64,
+      "sid": 329,
+      "location": 2,
+      "content": "a d转换器的一个选型呃",
+      "music": 0.0
+    },
+    {
+      "from": 937.64,
+      "to": 943.14,
+      "sid": 330,
+      "location": 2,
+      "content": "这些呢主要就是我们所讲的一个啊数模模",
+      "music": 0.0
+    },
+    {
+      "from": 943.14,
+      "to": 944.1,
+      "sid": 331,
+      "location": 2,
+      "content": "数转换器了",
+      "music": 0.0
+    },
+    {
+      "from": 944.1,
+      "to": 947.7,
+      "sid": 332,
+      "location": 2,
+      "content": "最后呢就给大家留一个小小的思考题啊",
+      "music": 0.0
+    },
+    {
+      "from": 947.7,
+      "to": 954.64,
+      "sid": 333,
+      "location": 2,
+      "content": "这个呢就是四位的一个全电阻网络啊",
+      "music": 0.0
+    },
+    {
+      "from": 954.64,
+      "to": 956.35,
+      "sid": 334,
+      "location": 2,
+      "content": "数模转换器",
+      "music": 0.0
+    },
+    {
+      "from": 956.35,
+      "to": 958.72,
+      "sid": 335,
+      "location": 2,
+      "content": "如果我们设这个基准电压啊",
+      "music": 0.0
+    },
+    {
+      "from": 958.72,
+      "to": 960.31,
+      "sid": 336,
+      "location": 2,
+      "content": "它是一个-8伏",
+      "music": 0.0
+    },
+    {
+      "from": 960.31,
+      "to": 964.68,
+      "sid": 337,
+      "location": 2,
+      "content": "然后把这个r f设成二分之r",
+      "music": 0.0
+    },
+    {
+      "from": 964.8,
+      "to": 968.22,
+      "sid": 338,
+      "location": 2,
+      "content": "那么我们要求输出电压的范围",
+      "music": 0.0
+    },
+    {
+      "from": 968.22,
+      "to": 971.26,
+      "sid": 339,
+      "location": 2,
+      "content": "以及当输入数字量第四",
+      "music": 0.0
+    },
+    {
+      "from": 971.3,
+      "to": 974.15,
+      "sid": 340,
+      "location": 2,
+      "content": "等于1010时的一个输出电压值",
+      "music": 0.0
+    },
+    {
+      "from": 974.15,
+      "to": 976.94,
+      "sid": 341,
+      "location": 2,
+      "content": "这个呢作为一个思考题留给大家",
+      "music": 0.0
+    },
+    {
+      "from": 976.94,
+      "to": 979.92,
+      "sid": 342,
+      "location": 2,
+      "content": "希望大家在课后呢能够做一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 979.92,
+      "to": 981.36,
+      "sid": 343,
+      "location": 2,
+      "content": "关于数模模数转换器呢",
+      "music": 0.0
+    },
+    {
+      "from": 981.36,
+      "to": 983.42,
+      "sid": 344,
+      "location": 2,
+      "content": "我们就先讲到这",
+      "music": 0.0
+    },
+    {
+      "from": 985.7,
+      "to": 989.92,
+      "sid": 345,
+      "location": 2,
+      "content": "嗯下面我们来看一下数模模数转换器",
+      "music": 0.0
+    },
+    {
+      "from": 989.92,
+      "to": 992.02,
+      "sid": 346,
+      "location": 2,
+      "content": "为什么要有这种元器件呢",
+      "music": 0.0
+    },
+    {
+      "from": 992.02,
+      "to": 996.92,
+      "sid": 347,
+      "location": 2,
+      "content": "因为在我们实际的一些啊控制理论当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 996.92,
+      "to": 1000.96,
+      "sid": 348,
+      "location": 2,
+      "content": "我们需要把一些模拟量转化成数字量去啊",
+      "music": 0.0
+    },
+    {
+      "from": 1000.96,
+      "to": 1002.64,
+      "sid": 349,
+      "location": 2,
+      "content": "给到我们的单片机啊",
+      "music": 0.0
+    },
+    {
+      "from": 1002.64,
+      "to": 1005.4,
+      "sid": 350,
+      "location": 2,
+      "content": "或者是给到我们的计算机啊进行一个处理",
+      "music": 0.0
+    },
+    {
+      "from": 1005.4,
+      "to": 1008.1,
+      "sid": 351,
+      "location": 2,
+      "content": "然后呢再转换成模拟信号",
+      "music": 0.0
+    },
+    {
+      "from": 1008.1,
+      "to": 1011.43,
+      "sid": 352,
+      "location": 2,
+      "content": "然后在输出为我们的电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 1011.43,
+      "to": 1013.68,
+      "sid": 353,
+      "location": 2,
+      "content": "因此呢在这个转换过程中",
+      "music": 0.0
+    },
+    {
+      "from": 1013.68,
+      "to": 1017.349,
+      "sid": 354,
+      "location": 2,
+      "content": "我们就会用到用到了一些数模模数转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1017.349,
+      "to": 1018.669,
+      "sid": 355,
+      "location": 2,
+      "content": "在这一部分呢",
+      "music": 0.0
+    },
+    {
+      "from": 1018.669,
+      "to": 1022.029,
+      "sid": 356,
+      "location": 2,
+      "content": "我们首先来讲解一下它的基本知识",
+      "music": 0.0
+    },
+    {
+      "from": 1022.029,
+      "to": 1025.74,
+      "sid": 357,
+      "location": 2,
+      "content": "然后分别对数模模数转换器的一个工作原理呀",
+      "music": 0.0
+    },
+    {
+      "from": 1025.74,
+      "to": 1029.04,
+      "sid": 358,
+      "location": 2,
+      "content": "实现步骤啊进行一下讲解啊",
+      "music": 0.0
+    },
+    {
+      "from": 1029.04,
+      "to": 1031.419,
+      "sid": 359,
+      "location": 2,
+      "content": "我们先来看一下它的基本概念",
+      "music": 0.0
+    },
+    {
+      "from": 1033.36,
+      "to": 1034.72,
+      "sid": 360,
+      "location": 2,
+      "content": "对于这个",
+      "music": 0.0
+    },
+    {
+      "from": 1038.18,
+      "to": 1042.34,
+      "sid": 361,
+      "location": 2,
+      "content": "数数模转换器呢通常就是数字信啊",
+      "music": 0.0
+    },
+    {
+      "from": 1042.34,
+      "to": 1043.75,
+      "sid": 362,
+      "location": 2,
+      "content": "经过数字处理",
+      "music": 0.0
+    },
+    {
+      "from": 1043.75,
+      "to": 1047.66,
+      "sid": 363,
+      "location": 2,
+      "content": "经过数字系统处理后的一个数字量啊",
+      "music": 0.0
+    },
+    {
+      "from": 1047.66,
+      "to": 1049.46,
+      "sid": 364,
+      "location": 2,
+      "content": "有时又要求转化成模拟量",
+      "music": 0.0
+    },
+    {
+      "from": 1049.46,
+      "to": 1050.6,
+      "sid": 365,
+      "location": 2,
+      "content": "以便实际使用",
+      "music": 0.0
+    },
+    {
+      "from": 1050.6,
+      "to": 1052.75,
+      "sid": 366,
+      "location": 2,
+      "content": "这种转换就成为数模转换",
+      "music": 0.0
+    },
+    {
+      "from": 1052.75,
+      "to": 1055.69,
+      "sid": 367,
+      "location": 2,
+      "content": "那么能完成这种数模转换的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1055.69,
+      "to": 1057.97,
+      "sid": 368,
+      "location": 2,
+      "content": "电路呀就叫数模转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1057.97,
+      "to": 1060.94,
+      "sid": 369,
+      "location": 2,
+      "content": "或者是呃一种简单的一个芯片",
+      "music": 0.0
+    },
+    {
+      "from": 1060.94,
+      "to": 1062.05,
+      "sid": 370,
+      "location": 2,
+      "content": "对吧啊",
+      "music": 0.0
+    },
+    {
+      "from": 1062.05,
+      "to": 1064.69,
+      "sid": 371,
+      "location": 2,
+      "content": "还有一个呢就是将模拟量转换成数字量的过程",
+      "music": 0.0
+    },
+    {
+      "from": 1064.69,
+      "to": 1066.26,
+      "sid": 372,
+      "location": 2,
+      "content": "称为是魔术转换",
+      "music": 0.0
+    },
+    {
+      "from": 1067.42,
+      "to": 1073.64,
+      "sid": 373,
+      "location": 2,
+      "content": "咱们来看一下它实际应用的一个啊一个一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 1073.64,
+      "to": 1074.42,
+      "sid": 374,
+      "location": 2,
+      "content": "分析框图",
+      "music": 0.0
+    },
+    {
+      "from": 1074.42,
+      "to": 1076.77,
+      "sid": 375,
+      "location": 2,
+      "content": "这是一个多路数据采集的系统",
+      "music": 0.0
+    },
+    {
+      "from": 1076.77,
+      "to": 1081.21,
+      "sid": 376,
+      "location": 2,
+      "content": "我们通过传感器把一些模拟信号啊采采集过来",
+      "music": 0.0
+    },
+    {
+      "from": 1081.21,
+      "to": 1085.14,
+      "sid": 377,
+      "location": 2,
+      "content": "通过放大器滤波器对这些信号进行处理",
+      "music": 0.0
+    },
+    {
+      "from": 1085.14,
+      "to": 1089.08,
+      "sid": 378,
+      "location": 2,
+      "content": "然后呢给到一个多路模拟开关当中",
+      "music": 0.0
+    },
+    {
+      "from": 1090.12,
+      "to": 1093.17,
+      "sid": 379,
+      "location": 2,
+      "content": "经过多路模拟开关的这些模拟信号",
+      "music": 0.0
+    },
+    {
+      "from": 1093.17,
+      "to": 1096.6,
+      "sid": 380,
+      "location": 2,
+      "content": "然后再经过一个魔术转换器啊",
+      "music": 0.0
+    },
+    {
+      "from": 1096.6,
+      "to": 1098.52,
+      "sid": 381,
+      "location": 2,
+      "content": "把模拟信号转换成数字信号的",
+      "music": 0.0
+    },
+    {
+      "from": 1098.52,
+      "to": 1100.71,
+      "sid": 382,
+      "location": 2,
+      "content": "这样一个魔术转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1100.71,
+      "to": 1103.6,
+      "sid": 383,
+      "location": 2,
+      "content": "最终呢送给计算机啊",
+      "music": 0.0
+    },
+    {
+      "from": 1103.6,
+      "to": 1105.8,
+      "sid": 384,
+      "location": 2,
+      "content": "作为一个处理信号",
+      "music": 0.0
+    },
+    {
+      "from": 1105.96,
+      "to": 1107.7,
+      "sid": 385,
+      "location": 2,
+      "content": "这就是多路系统",
+      "music": 0.0
+    },
+    {
+      "from": 1107.7,
+      "to": 1108.18,
+      "sid": 386,
+      "location": 2,
+      "content": "采",
+      "music": 0.0
+    },
+    {
+      "from": 1108.18,
+      "to": 1112.02,
+      "sid": 387,
+      "location": 2,
+      "content": "多路数据采集系统的这样一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 1112.02,
+      "to": 1113.34,
+      "sid": 388,
+      "location": 2,
+      "content": "实现的一个过程",
+      "music": 0.0
+    },
+    {
+      "from": 1113.34,
+      "to": 1115.65,
+      "sid": 389,
+      "location": 2,
+      "content": "或者是说它实现了一个框图",
+      "music": 0.0
+    },
+    {
+      "from": 1115.65,
+      "to": 1117.18,
+      "sid": 390,
+      "location": 2,
+      "content": "那么另外一个呢",
+      "music": 0.0
+    },
+    {
+      "from": 1117.18,
+      "to": 1119.96,
+      "sid": 391,
+      "location": 2,
+      "content": "在计算机d d c控制系统当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 1121.24,
+      "to": 1123.899,
+      "sid": 392,
+      "location": 2,
+      "content": "在一个反馈的一个环路当中",
+      "music": 0.0
+    },
+    {
+      "from": 1124.7,
+      "to": 1126.55,
+      "sid": 393,
+      "location": 2,
+      "content": "它也有很重要的作用",
+      "music": 0.0
+    },
+    {
+      "from": 1126.55,
+      "to": 1129.76,
+      "sid": 394,
+      "location": 2,
+      "content": "比如说啊对于我控制控制对象",
+      "music": 0.0
+    },
+    {
+      "from": 1129.76,
+      "to": 1132.3,
+      "sid": 395,
+      "location": 2,
+      "content": "通过传感器传回来的一个信号",
+      "music": 0.0
+    },
+    {
+      "from": 1132.3,
+      "to": 1137.72,
+      "sid": 396,
+      "location": 2,
+      "content": "那么它会跟一个给定的信号进行啊比较",
+      "music": 0.0
+    },
+    {
+      "from": 1137.72,
+      "to": 1138.84,
+      "sid": 397,
+      "location": 2,
+      "content": "更正对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1138.84,
+      "to": 1140.34,
+      "sid": 398,
+      "location": 2,
+      "content": "有一个反馈嘛对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1140.34,
+      "to": 1142.08,
+      "sid": 399,
+      "location": 2,
+      "content": "这相当于反馈回来的信号",
+      "music": 0.0
+    },
+    {
+      "from": 1142.08,
+      "to": 1144.989,
+      "sid": 400,
+      "location": 2,
+      "content": "跟给定信号进行啊比较",
+      "music": 0.0
+    },
+    {
+      "from": 1144.989,
+      "to": 1149.429,
+      "sid": 401,
+      "location": 2,
+      "content": "然后呢比较的信号要进入一个模数转换器当中",
+      "music": 0.0
+    },
+    {
+      "from": 1149.429,
+      "to": 1152.79,
+      "sid": 402,
+      "location": 2,
+      "content": "把这些模拟量转换成数字量给到计算机",
+      "music": 0.0
+    },
+    {
+      "from": 1152.79,
+      "to": 1155.25,
+      "sid": 403,
+      "location": 2,
+      "content": "或者是我们的单片机进行处理",
+      "music": 0.0
+    },
+    {
+      "from": 1155.25,
+      "to": 1156.9,
+      "sid": 404,
+      "location": 2,
+      "content": "然后处理的数据呢",
+      "music": 0.0
+    },
+    {
+      "from": 1156.9,
+      "to": 1160.19,
+      "sid": 405,
+      "location": 2,
+      "content": "再转换成通过一个数模转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1160.19,
+      "to": 1163.51,
+      "sid": 406,
+      "location": 2,
+      "content": "再转换成一个模拟信号给到我们的控制对象",
+      "music": 0.0
+    },
+    {
+      "from": 1163.51,
+      "to": 1167.79,
+      "sid": 407,
+      "location": 2,
+      "content": "从而能达到控制我们这些呃控制对象",
+      "music": 0.0
+    },
+    {
+      "from": 1167.79,
+      "to": 1173.26,
+      "sid": 408,
+      "location": 2,
+      "content": "使它的这个输出值符合我们啊理想的",
+      "music": 0.0
+    },
+    {
+      "from": 1173.26,
+      "to": 1174.88,
+      "sid": 409,
+      "location": 2,
+      "content": "要控制的一个范围",
+      "music": 0.0
+    },
+    {
+      "from": 1174.88,
+      "to": 1178.49,
+      "sid": 410,
+      "location": 2,
+      "content": "这就是他在计算机控制系统当中的一个应用",
+      "music": 0.0
+    },
+    {
+      "from": 1178.49,
+      "to": 1181.37,
+      "sid": 411,
+      "location": 2,
+      "content": "所以说这个数模模数转换器啊",
+      "music": 0.0
+    },
+    {
+      "from": 1181.37,
+      "to": 1185.48,
+      "sid": 412,
+      "location": 2,
+      "content": "他们在实际的应用中还是用的用的挺广泛的",
+      "music": 0.0
+    },
+    {
+      "from": 1185.48,
+      "to": 1189.139,
+      "sid": 413,
+      "location": 2,
+      "content": "我们先来看一下比较简单的一个数模转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1190.28,
+      "to": 1193.399,
+      "sid": 414,
+      "location": 2,
+      "content": "看一下它的工作原理以及实现步骤",
+      "music": 0.0
+    },
+    {
+      "from": 1194.14,
+      "to": 1195.36,
+      "sid": 415,
+      "location": 2,
+      "content": "首先来看啊",
+      "music": 0.0
+    },
+    {
+      "from": 1195.36,
+      "to": 1198.84,
+      "sid": 416,
+      "location": 2,
+      "content": "这个是这个数模转换器呢",
+      "music": 0.0
+    },
+    {
+      "from": 1198.84,
+      "to": 1201.18,
+      "sid": 417,
+      "location": 2,
+      "content": "他就把数字量转换成模拟量嘛",
+      "music": 0.0
+    },
+    {
+      "from": 1201.18,
+      "to": 1204.63,
+      "sid": 418,
+      "location": 2,
+      "content": "然后它通常是由一些开关啊",
+      "music": 0.0
+    },
+    {
+      "from": 1204.63,
+      "to": 1206.7,
+      "sid": 419,
+      "location": 2,
+      "content": "加一些电阻来实现的",
+      "music": 0.0
+    },
+    {
+      "from": 1206.7,
+      "to": 1210.06,
+      "sid": 420,
+      "location": 2,
+      "content": "比如说它以一个n位的二进制数",
+      "music": 0.0
+    },
+    {
+      "from": 1210.06,
+      "to": 1214.67,
+      "sid": 421,
+      "location": 2,
+      "content": "它就可以用这样的来这样的一个公式来表示啊",
+      "music": 0.0
+    },
+    {
+      "from": 1214.67,
+      "to": 1218.45,
+      "sid": 422,
+      "location": 2,
+      "content": "这前面的这些呢实际上就是它的二进制",
+      "music": 0.0
+    },
+    {
+      "from": 1218.45,
+      "to": 1220.12,
+      "sid": 423,
+      "location": 2,
+      "content": "个位的一个系数",
+      "music": 0.0
+    },
+    {
+      "from": 1221.6,
+      "to": 1224.02,
+      "sid": 424,
+      "location": 2,
+      "content": "后面呢比如说二的n减一次方",
+      "music": 0.0
+    },
+    {
+      "from": 1224.02,
+      "to": 1225.1,
+      "sid": 425,
+      "location": 2,
+      "content": "二的n减二次方",
+      "music": 0.0
+    },
+    {
+      "from": 1225.1,
+      "to": 1225.82,
+      "sid": 426,
+      "location": 2,
+      "content": "二的一次方",
+      "music": 0.0
+    },
+    {
+      "from": 1225.82,
+      "to": 1227.19,
+      "sid": 427,
+      "location": 2,
+      "content": "二的零次方等等",
+      "music": 0.0
+    },
+    {
+      "from": 1227.19,
+      "to": 1231.46,
+      "sid": 428,
+      "location": 2,
+      "content": "这些呢是各位二进制数的一个全啊",
+      "music": 0.0
+    },
+    {
+      "from": 1231.66,
+      "to": 1233.85,
+      "sid": 429,
+      "location": 2,
+      "content": "为了表示方便呢",
+      "music": 0.0
+    },
+    {
+      "from": 1233.85,
+      "to": 1237.68,
+      "sid": 430,
+      "location": 2,
+      "content": "嗯看它下面还有另外一种表示方法",
+      "music": 0.0
+    },
+    {
+      "from": 1238.82,
+      "to": 1243.13,
+      "sid": 431,
+      "location": 2,
+      "content": "二进制的每一个代码都有一定的全职啊",
+      "music": 0.0
+    },
+    {
+      "from": 1243.13,
+      "to": 1245.83,
+      "sid": 432,
+      "location": 2,
+      "content": "如果将每一位的代码按照其全职的代号",
+      "music": 0.0
+    },
+    {
+      "from": 1245.83,
+      "to": 1247.51,
+      "sid": 433,
+      "location": 2,
+      "content": "转化成相应的模拟量",
+      "music": 0.0
+    },
+    {
+      "from": 1247.51,
+      "to": 1250.36,
+      "sid": 434,
+      "location": 2,
+      "content": "再将这些模拟量呢进行相加",
+      "music": 0.0
+    },
+    {
+      "from": 1250.36,
+      "to": 1253.86,
+      "sid": 435,
+      "location": 2,
+      "content": "就可以得到与数字量成正比的一个模拟量",
+      "music": 0.0
+    },
+    {
+      "from": 1253.86,
+      "to": 1257.36,
+      "sid": 436,
+      "location": 2,
+      "content": "而从而实现数字量相模拟量的一个转换",
+      "music": 0.0
+    },
+    {
+      "from": 1257.36,
+      "to": 1261.32,
+      "sid": 437,
+      "location": 2,
+      "content": "那么它的实现步骤呢主要有下面这几这几步",
+      "music": 0.0
+    },
+    {
+      "from": 1261.32,
+      "to": 1267.0,
+      "sid": 438,
+      "location": 2,
+      "content": "一个是嗯由这个数码寄存器啊",
+      "music": 0.0
+    },
+    {
+      "from": 1267.0,
+      "to": 1268.44,
+      "sid": 439,
+      "location": 2,
+      "content": "先寄存数据对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1268.44,
+      "to": 1270.84,
+      "sid": 440,
+      "location": 2,
+      "content": "然后用a v的模拟开关呀",
+      "music": 0.0
+    },
+    {
+      "from": 1270.84,
+      "to": 1273.28,
+      "sid": 441,
+      "location": 2,
+      "content": "然后用解码网络啊",
+      "music": 0.0
+    },
+    {
+      "from": 1273.58,
+      "to": 1277.9,
+      "sid": 442,
+      "location": 2,
+      "content": "最后呢是求和运算电路和基准电源啊",
+      "music": 0.0
+    },
+    {
+      "from": 1277.9,
+      "to": 1279.37,
+      "sid": 443,
+      "location": 2,
+      "content": "这样实现的",
+      "music": 0.0
+    },
+    {
+      "from": 1279.37,
+      "to": 1281.96,
+      "sid": 444,
+      "location": 2,
+      "content": "它的实现方法是有多种的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1281.96,
+      "to": 1285.32,
+      "sid": 445,
+      "location": 2,
+      "content": "啊有全电阻网络啊",
+      "music": 0.0
+    },
+    {
+      "from": 1285.32,
+      "to": 1289.339,
+      "sid": 446,
+      "location": 2,
+      "content": "全电阻网络看它就是利用一些电阻和一些开关",
+      "music": 0.0
+    },
+    {
+      "from": 1289.339,
+      "to": 1290.959,
+      "sid": 447,
+      "location": 2,
+      "content": "来实现的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1290.959,
+      "to": 1294.1,
+      "sid": 448,
+      "location": 2,
+      "content": "他们的首先要把他们的全电流计算出来",
+      "music": 0.0
+    },
+    {
+      "from": 1294.1,
+      "to": 1296.38,
+      "sid": 449,
+      "location": 2,
+      "content": "当哪一个是开通的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1296.38,
+      "to": 1298.27,
+      "sid": 450,
+      "location": 2,
+      "content": "然后根据这些进行计算",
+      "music": 0.0
+    },
+    {
+      "from": 1298.27,
+      "to": 1305.05,
+      "sid": 451,
+      "location": 2,
+      "content": "然后呢还有一个倒倒t形电阻网络da转换器嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1305.05,
+      "to": 1308.38,
+      "sid": 452,
+      "location": 2,
+      "content": "看一下这个呢跟它有所不同的是",
+      "music": 0.0
+    },
+    {
+      "from": 1308.38,
+      "to": 1310.2,
+      "sid": 453,
+      "location": 2,
+      "content": "这边多了电阻对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1311.84,
+      "to": 1313.51,
+      "sid": 454,
+      "location": 2,
+      "content": "形成了一个倒梯形",
+      "music": 0.0
+    },
+    {
+      "from": 1313.51,
+      "to": 1315.4,
+      "sid": 455,
+      "location": 2,
+      "content": "这是它的一个等效电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1315.4,
+      "to": 1317.98,
+      "sid": 456,
+      "location": 2,
+      "content": "等效电阻啊",
+      "music": 0.0
+    },
+    {
+      "from": 1319.64,
+      "to": 1324.36,
+      "sid": 457,
+      "location": 2,
+      "content": "还有一个呢是全电流的一个da转换器啊",
+      "music": 0.0
+    },
+    {
+      "from": 1324.36,
+      "to": 1325.38,
+      "sid": 458,
+      "location": 2,
+      "content": "全电流的呢",
+      "music": 0.0
+    },
+    {
+      "from": 1325.38,
+      "to": 1328.83,
+      "sid": 459,
+      "location": 2,
+      "content": "实际上就是将一个倒梯形的电阻网络中的",
+      "music": 0.0
+    },
+    {
+      "from": 1328.83,
+      "to": 1330.36,
+      "sid": 460,
+      "location": 2,
+      "content": "各支路的全电流啊",
+      "music": 0.0
+    },
+    {
+      "from": 1330.36,
+      "to": 1331.7,
+      "sid": 461,
+      "location": 2,
+      "content": "变成一个恒流源",
+      "music": 0.0
+    },
+    {
+      "from": 1331.7,
+      "to": 1333.5,
+      "sid": 462,
+      "location": 2,
+      "content": "看就把它变成一个红了",
+      "music": 0.0
+    },
+    {
+      "from": 1333.5,
+      "to": 1335.18,
+      "sid": 463,
+      "location": 2,
+      "content": "原来这边是电阻对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1335.18,
+      "to": 1337.14,
+      "sid": 464,
+      "location": 2,
+      "content": "变成横梁元嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1337.14,
+      "to": 1337.68,
+      "sid": 465,
+      "location": 2,
+      "content": "这样呢",
+      "music": 0.0
+    },
+    {
+      "from": 1337.68,
+      "to": 1339.18,
+      "sid": 466,
+      "location": 2,
+      "content": "每个恒流源的电流大小",
+      "music": 0.0
+    },
+    {
+      "from": 1339.18,
+      "to": 1341.699,
+      "sid": 467,
+      "location": 2,
+      "content": "依次是前一个的1/2",
+      "music": 0.0
+    },
+    {
+      "from": 1341.699,
+      "to": 1343.019,
+      "sid": 468,
+      "location": 2,
+      "content": "因为它是二的零次方",
+      "music": 0.0
+    },
+    {
+      "from": 1343.019,
+      "to": 1343.559,
+      "sid": 469,
+      "location": 2,
+      "content": "二的一次方",
+      "music": 0.0
+    },
+    {
+      "from": 1343.559,
+      "to": 1344.969,
+      "sid": 470,
+      "location": 2,
+      "content": "二的二次方嘛对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1344.969,
+      "to": 1346.07,
+      "sid": 471,
+      "location": 2,
+      "content": "那样过来的",
+      "music": 0.0
+    },
+    {
+      "from": 1346.07,
+      "to": 1347.87,
+      "sid": 472,
+      "location": 2,
+      "content": "从而使每个电路的电流",
+      "music": 0.0
+    },
+    {
+      "from": 1347.87,
+      "to": 1351.53,
+      "sid": 473,
+      "location": 2,
+      "content": "与其对应的输入二进制的代码的全成正比",
+      "music": 0.0
+    },
+    {
+      "from": 1351.53,
+      "to": 1356.79,
+      "sid": 474,
+      "location": 2,
+      "content": "这样就构成了全电流的一个啊数模转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1356.79,
+      "to": 1360.09,
+      "sid": 475,
+      "location": 2,
+      "content": "这就是它的一个基本的一些实现方法",
+      "music": 0.0
+    },
+    {
+      "from": 1360.09,
+      "to": 1362.74,
+      "sid": 476,
+      "location": 2,
+      "content": "这个大家了解一下就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 1363.18,
+      "to": 1365.88,
+      "sid": 477,
+      "location": 2,
+      "content": "我们来看一下它的一个技术指标",
+      "music": 0.0
+    },
+    {
+      "from": 1365.88,
+      "to": 1370.07,
+      "sid": 478,
+      "location": 2,
+      "content": "技术指标呢通常会有转换精度和转换速度两种",
+      "music": 0.0
+    },
+    {
+      "from": 1370.07,
+      "to": 1374.99,
+      "sid": 479,
+      "location": 2,
+      "content": "转换精度里边通常是用分辨率和转换误差来啊",
+      "music": 0.0
+    },
+    {
+      "from": 1374.99,
+      "to": 1376.919,
+      "sid": 480,
+      "location": 2,
+      "content": "确定它的一个转换精度",
+      "music": 0.0
+    },
+    {
+      "from": 1377.16,
+      "to": 1378.48,
+      "sid": 481,
+      "location": 2,
+      "content": "分辨率是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 1378.48,
+      "to": 1380.94,
+      "sid": 482,
+      "location": 2,
+      "content": "分辨率一般用输入数字量的一个",
+      "music": 0.0
+    },
+    {
+      "from": 1380.94,
+      "to": 1383.1,
+      "sid": 483,
+      "location": 2,
+      "content": "二进制代码的位数来表示",
+      "music": 0.0
+    },
+    {
+      "from": 1383.44,
+      "to": 1386.93,
+      "sid": 484,
+      "location": 2,
+      "content": "也可以用这个数模转换器呀",
+      "music": 0.0
+    },
+    {
+      "from": 1386.93,
+      "to": 1390.69,
+      "sid": 485,
+      "location": 2,
+      "content": "能够分辨出最小的一个输出电压与输入电",
+      "music": 0.0
+    },
+    {
+      "from": 1390.69,
+      "to": 1393.93,
+      "sid": 486,
+      "location": 2,
+      "content": "最大输出电压的比值来表示啊",
+      "music": 0.0
+    },
+    {
+      "from": 1393.93,
+      "to": 1395.6,
+      "sid": 487,
+      "location": 2,
+      "content": "这是它的一个计算公式",
+      "music": 0.0
+    },
+    {
+      "from": 1395.6,
+      "to": 1397.94,
+      "sid": 488,
+      "location": 2,
+      "content": "那么还有一个转换误差",
+      "music": 0.0
+    },
+    {
+      "from": 1397.94,
+      "to": 1400.94,
+      "sid": 489,
+      "location": 2,
+      "content": "转换误差是指一个数模转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1400.94,
+      "to": 1403.28,
+      "sid": 490,
+      "location": 2,
+      "content": "实际输出的模拟电压与理想值",
+      "music": 0.0
+    },
+    {
+      "from": 1403.28,
+      "to": 1405.02,
+      "sid": 491,
+      "location": 2,
+      "content": "之间的一个最大偏差",
+      "music": 0.0
+    },
+    {
+      "from": 1405.02,
+      "to": 1407.78,
+      "sid": 492,
+      "location": 2,
+      "content": "转换误差包括好几种啊",
+      "music": 0.0
+    },
+    {
+      "from": 1407.78,
+      "to": 1409.46,
+      "sid": 493,
+      "location": 2,
+      "content": "比如说非线性误差呀",
+      "music": 0.0
+    },
+    {
+      "from": 1409.46,
+      "to": 1410.48,
+      "sid": 494,
+      "location": 2,
+      "content": "漂移误差呀",
+      "music": 0.0
+    },
+    {
+      "from": 1410.48,
+      "to": 1412.06,
+      "sid": 495,
+      "location": 2,
+      "content": "增益误差等等",
+      "music": 0.0
+    },
+    {
+      "from": 1412.16,
+      "to": 1419.56,
+      "sid": 496,
+      "location": 2,
+      "content": "这个转换误差一般用最大偏差于这个s f s f",
+      "music": 0.0
+    },
+    {
+      "from": 1419.56,
+      "to": 1421.75,
+      "sid": 497,
+      "location": 2,
+      "content": "s r之比的百分数",
+      "music": 0.0
+    },
+    {
+      "from": 1421.75,
+      "to": 1428.72,
+      "sid": 498,
+      "location": 2,
+      "content": "或者是最低有效位s l b按l sb的倍数来表示",
+      "music": 0.0
+    },
+    {
+      "from": 1430.46,
+      "to": 1433.81,
+      "sid": 499,
+      "location": 2,
+      "content": "然后还有一个技术指标就是转换速度",
+      "music": 0.0
+    },
+    {
+      "from": 1433.81,
+      "to": 1435.25,
+      "sid": 500,
+      "location": 2,
+      "content": "转换速度还是用什么用",
+      "music": 0.0
+    },
+    {
+      "from": 1435.25,
+      "to": 1438.839,
+      "sid": 501,
+      "location": 2,
+      "content": "建立时间就是他这个数模转换器的建立时间",
+      "music": 0.0
+    },
+    {
+      "from": 1438.839,
+      "to": 1442.98,
+      "sid": 502,
+      "location": 2,
+      "content": "一般从输入数字量从全零变为权益开始的",
+      "music": 0.0
+    },
+    {
+      "from": 1442.98,
+      "to": 1445.849,
+      "sid": 503,
+      "location": 2,
+      "content": "到输出模拟电压达到稳定值啊",
+      "music": 0.0
+    },
+    {
+      "from": 1445.849,
+      "to": 1447.349,
+      "sid": 504,
+      "location": 2,
+      "content": "相差规定的一个误",
+      "music": 0.0
+    },
+    {
+      "from": 1447.349,
+      "to": 1450.439,
+      "sid": 505,
+      "location": 2,
+      "content": "误差带位置所需要的一个间隔时间",
+      "music": 0.0
+    },
+    {
+      "from": 1450.439,
+      "to": 1451.549,
+      "sid": 506,
+      "location": 2,
+      "content": "让我们来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 1451.549,
+      "to": 1453.8,
+      "sid": 507,
+      "location": 2,
+      "content": "这就是它的一个建立时间对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1456.44,
+      "to": 1459.28,
+      "sid": 508,
+      "location": 2,
+      "content": "用它呢来衡量转换速度的快慢",
+      "music": 0.0
+    },
+    {
+      "from": 1459.28,
+      "to": 1462.63,
+      "sid": 509,
+      "location": 2,
+      "content": "用建立时间来来衡量转换速度的快慢",
+      "music": 0.0
+    },
+    {
+      "from": 1462.63,
+      "to": 1465.96,
+      "sid": 510,
+      "location": 2,
+      "content": "这就是它的一个呃基本的一个技术指标",
+      "music": 0.0
+    },
+    {
+      "from": 1465.96,
+      "to": 1467.85,
+      "sid": 511,
+      "location": 2,
+      "content": "那么对于数模转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1467.85,
+      "to": 1470.28,
+      "sid": 512,
+      "location": 2,
+      "content": "它有一些常见的型号器件",
+      "music": 0.0
+    },
+    {
+      "from": 1470.28,
+      "to": 1471.84,
+      "sid": 513,
+      "location": 2,
+      "content": "我们来了解一下",
+      "music": 0.0
+    },
+    {
+      "from": 1471.84,
+      "to": 1475.2,
+      "sid": 514,
+      "location": 2,
+      "content": "比如说像倒梯形的电阻网络和全电流",
+      "music": 0.0
+    },
+    {
+      "from": 1475.2,
+      "to": 1476.78,
+      "sid": 515,
+      "location": 2,
+      "content": "两种类型的电路呀",
+      "music": 0.0
+    },
+    {
+      "from": 1478.88,
+      "to": 1480.1,
+      "sid": 516,
+      "location": 2,
+      "content": "他们有什么呀",
+      "music": 0.0
+    },
+    {
+      "from": 1480.1,
+      "to": 1481.96,
+      "sid": 517,
+      "location": 2,
+      "content": "倒梯形的有这些对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1481.96,
+      "to": 1482.98,
+      "sid": 518,
+      "location": 2,
+      "content": "你经常用的哎",
+      "music": 0.0
+    },
+    {
+      "from": 1482.98,
+      "to": 1485.75,
+      "sid": 519,
+      "location": 2,
+      "content": "全电流行的呢主要有这些嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1485.75,
+      "to": 1488.75,
+      "sid": 520,
+      "location": 2,
+      "content": "这些呢大家可以下去看一下他们的data sh",
+      "music": 0.0
+    },
+    {
+      "from": 1488.75,
+      "to": 1490.28,
+      "sid": 521,
+      "location": 2,
+      "content": "做一下具体的了解",
+      "music": 0.0
+    },
+    {
+      "from": 1492.54,
+      "to": 1495.08,
+      "sid": 522,
+      "location": 2,
+      "content": "然后呢我们来看一下魔术转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1495.08,
+      "to": 1496.46,
+      "sid": 523,
+      "location": 2,
+      "content": "其实魔术转换器啊",
+      "music": 0.0
+    },
+    {
+      "from": 1496.46,
+      "to": 1500.0,
+      "sid": 524,
+      "location": 2,
+      "content": "它相对于数模转换器来说可能稍微要复杂一点",
+      "music": 0.0
+    },
+    {
+      "from": 1500.0,
+      "to": 1504.32,
+      "sid": 525,
+      "location": 2,
+      "content": "因为呃将输入的模拟量转换成与之成比例的",
+      "music": 0.0
+    },
+    {
+      "from": 1504.32,
+      "to": 1506.24,
+      "sid": 526,
+      "location": 2,
+      "content": "二进制数字量输出的电路啊",
+      "music": 0.0
+    },
+    {
+      "from": 1506.24,
+      "to": 1512.899,
+      "sid": 527,
+      "location": 2,
+      "content": "它嗯它稍微的要呃呃步骤要要复杂一些",
+      "music": 0.0
+    },
+    {
+      "from": 1512.9,
+      "to": 1515.42,
+      "sid": 528,
+      "location": 2,
+      "content": "由于这个模拟量在时间和幅值上",
+      "music": 0.0
+    },
+    {
+      "from": 1515.42,
+      "to": 1516.5,
+      "sid": 529,
+      "location": 2,
+      "content": "它都是连续的嘛",
+      "music": 0.0
+    },
+    {
+      "from": 1516.5,
+      "to": 1518.96,
+      "sid": 530,
+      "location": 2,
+      "content": "而数字量你是要求他们是离散的",
+      "music": 0.0
+    },
+    {
+      "from": 1518.96,
+      "to": 1521.52,
+      "sid": 531,
+      "location": 2,
+      "content": "所以在进行这个魔术转换的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1521.52,
+      "to": 1524.76,
+      "sid": 532,
+      "location": 2,
+      "content": "首先就要按照一定的这个时间间隔啊",
+      "music": 0.0
+    },
+    {
+      "from": 1524.76,
+      "to": 1526.36,
+      "sid": 533,
+      "location": 2,
+      "content": "对它进行取样",
+      "music": 0.0
+    },
+    {
+      "from": 1526.54,
+      "to": 1530.06,
+      "sid": 534,
+      "location": 2,
+      "content": "然后使它在时间上变成离散的信号",
+      "music": 0.0
+    },
+    {
+      "from": 1530.06,
+      "to": 1531.26,
+      "sid": 535,
+      "location": 2,
+      "content": "然后呢",
+      "music": 0.0
+    },
+    {
+      "from": 1531.26,
+      "to": 1534.62,
+      "sid": 536,
+      "location": 2,
+      "content": "再将这个取样后的这个模拟量保持一段时间",
+      "music": 0.0
+    },
+    {
+      "from": 1534.62,
+      "to": 1536.76,
+      "sid": 537,
+      "location": 2,
+      "content": "使这个取样值量化",
+      "music": 0.0
+    },
+    {
+      "from": 1537.66,
+      "to": 1540.02,
+      "sid": 538,
+      "location": 2,
+      "content": "变成这个数值上的离散的信号",
+      "music": 0.0
+    },
+    {
+      "from": 1540.02,
+      "to": 1541.13,
+      "sid": 539,
+      "location": 2,
+      "content": "再通过编码",
+      "music": 0.0
+    },
+    {
+      "from": 1541.13,
+      "to": 1543.32,
+      "sid": 540,
+      "location": 2,
+      "content": "将这些量化后的离散信号",
+      "music": 0.0
+    },
+    {
+      "from": 1543.32,
+      "to": 1545.58,
+      "sid": 541,
+      "location": 2,
+      "content": "转化成一个数字量输出",
+      "music": 0.0
+    },
+    {
+      "from": 1545.9,
+      "to": 1548.96,
+      "sid": 542,
+      "location": 2,
+      "content": "你看这个时间上和量上都是连续的",
+      "music": 0.0
+    },
+    {
+      "from": 1548.96,
+      "to": 1550.34,
+      "sid": 543,
+      "location": 2,
+      "content": "所以它是模拟信号",
+      "music": 0.0
+    },
+    {
+      "from": 1550.34,
+      "to": 1551.84,
+      "sid": 544,
+      "location": 2,
+      "content": "模拟信号进行取样",
+      "music": 0.0
+    },
+    {
+      "from": 1551.84,
+      "to": 1554.139,
+      "sid": 545,
+      "location": 2,
+      "content": "使得实际上是离散的信号",
+      "music": 0.0
+    },
+    {
+      "from": 1554.139,
+      "to": 1555.699,
+      "sid": 546,
+      "location": 2,
+      "content": "然后呢在量值上",
+      "music": 0.0
+    },
+    {
+      "from": 1555.699,
+      "to": 1557.73,
+      "sid": 547,
+      "location": 2,
+      "content": "在时间上和量值上都隔离",
+      "music": 0.0
+    },
+    {
+      "from": 1557.73,
+      "to": 1560.19,
+      "sid": 548,
+      "location": 2,
+      "content": "隔离之后要保持量化对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1560.19,
+      "to": 1562.29,
+      "sid": 549,
+      "location": 2,
+      "content": "量在量子上也隔离信号",
+      "music": 0.0
+    },
+    {
+      "from": 1562.29,
+      "to": 1566.54,
+      "sid": 550,
+      "location": 2,
+      "content": "然后最后是编码得出这样一个数字信号了",
+      "music": 0.0
+    },
+    {
+      "from": 1567.82,
+      "to": 1569.76,
+      "sid": 551,
+      "location": 2,
+      "content": "那么根据这个图",
+      "music": 0.0
+    },
+    {
+      "from": 1569.76,
+      "to": 1571.2,
+      "sid": 552,
+      "location": 2,
+      "content": "实际上我们也知道了",
+      "music": 0.0
+    },
+    {
+      "from": 1571.2,
+      "to": 1573.47,
+      "sid": 553,
+      "location": 2,
+      "content": "它的过程主要是取样",
+      "music": 0.0
+    },
+    {
+      "from": 1573.47,
+      "to": 1577.44,
+      "sid": 554,
+      "location": 2,
+      "content": "然后呢保持量化以及编码四个过程",
+      "music": 0.0
+    },
+    {
+      "from": 1577.44,
+      "to": 1579.9,
+      "sid": 555,
+      "location": 2,
+      "content": "它也有几种实现类型",
+      "music": 0.0
+    },
+    {
+      "from": 1579.9,
+      "to": 1582.18,
+      "sid": 556,
+      "location": 2,
+      "content": "比如说并联比较型ad转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1582.18,
+      "to": 1584.96,
+      "sid": 557,
+      "location": 2,
+      "content": "这就是一个并联比较型ad转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1588.02,
+      "to": 1591.04,
+      "sid": 558,
+      "location": 2,
+      "content": "这是它的一个内部结构图啊",
+      "music": 0.0
+    },
+    {
+      "from": 1591.04,
+      "to": 1593.62,
+      "sid": 559,
+      "location": 2,
+      "content": "对于这种啊它有一些特点",
+      "music": 0.0
+    },
+    {
+      "from": 1593.62,
+      "to": 1597.44,
+      "sid": 560,
+      "location": 2,
+      "content": "比如说他的那个呃速度比较快啊",
+      "music": 0.0
+    },
+    {
+      "from": 1597.44,
+      "to": 1598.55,
+      "sid": 561,
+      "location": 2,
+      "content": "精度比较高",
+      "music": 0.0
+    },
+    {
+      "from": 1598.55,
+      "to": 1600.74,
+      "sid": 562,
+      "location": 2,
+      "content": "有存储器啊",
+      "music": 0.0
+    },
+    {
+      "from": 1600.74,
+      "to": 1605.04,
+      "sid": 563,
+      "location": 2,
+      "content": "它的电路规模呢是嗯如果说是n位的话",
+      "music": 0.0
+    },
+    {
+      "from": 1605.04,
+      "to": 1607.86,
+      "sid": 564,
+      "location": 2,
+      "content": "只需要2n减一个比较器和触发器啊",
+      "music": 0.0
+    },
+    {
+      "from": 1607.86,
+      "to": 1609.88,
+      "sid": 565,
+      "location": 2,
+      "content": "它是用比较器和触发器组成的吗",
+      "music": 0.0
+    },
+    {
+      "from": 1609.88,
+      "to": 1613.03,
+      "sid": 566,
+      "location": 2,
+      "content": "所以说呢这个还是比较有特点的",
+      "music": 0.0
+    },
+    {
+      "from": 1613.03,
+      "to": 1616.52,
+      "sid": 567,
+      "location": 2,
+      "content": "这就是一个并联比较型的一个a d转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1617.78,
+      "to": 1621.7,
+      "sid": 568,
+      "location": 2,
+      "content": "下面呢是一个反馈比较型的一个ad转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1621.7,
+      "to": 1624.0,
+      "sid": 569,
+      "location": 2,
+      "content": "对于反馈比较型ad转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1624.0,
+      "to": 1626.64,
+      "sid": 570,
+      "location": 2,
+      "content": "它实际上就是一种直接的a d转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1626.64,
+      "to": 1633.32,
+      "sid": 571,
+      "location": 2,
+      "content": "就是将一个数字量如果加到这个好摸数字啊",
+      "music": 0.0
+    },
+    {
+      "from": 1633.32,
+      "to": 1635.42,
+      "sid": 572,
+      "location": 2,
+      "content": "数模转换器的数段的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 1635.42,
+      "to": 1636.56,
+      "sid": 573,
+      "location": 2,
+      "content": "如果将模拟量",
+      "music": 0.0
+    },
+    {
+      "from": 1636.56,
+      "to": 1639.75,
+      "sid": 574,
+      "location": 2,
+      "content": "如果将一个数字量转化成加到这个",
+      "music": 0.0
+    },
+    {
+      "from": 1639.75,
+      "to": 1643.35,
+      "sid": 575,
+      "location": 2,
+      "content": "如果将一个数字量加到一个数模转换器的",
+      "music": 0.0
+    },
+    {
+      "from": 1643.35,
+      "to": 1645.09,
+      "sid": 576,
+      "location": 2,
+      "content": "一个输出的输入端的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1645.09,
+      "to": 1646.23,
+      "sid": 577,
+      "location": 2,
+      "content": "那么它的输出端呢",
+      "music": 0.0
+    },
+    {
+      "from": 1646.23,
+      "to": 1649.47,
+      "sid": 578,
+      "location": 2,
+      "content": "可以得到一个与输入数字量相对应的",
+      "music": 0.0
+    },
+    {
+      "from": 1649.47,
+      "to": 1650.7,
+      "sid": 579,
+      "location": 2,
+      "content": "一个模拟电压",
+      "music": 0.0
+    },
+    {
+      "from": 1650.7,
+      "to": 1652.47,
+      "sid": 580,
+      "location": 2,
+      "content": "如果将这个模拟电压",
+      "music": 0.0
+    },
+    {
+      "from": 1652.47,
+      "to": 1655.72,
+      "sid": 581,
+      "location": 2,
+      "content": "跟这个输入的这个模拟电压相比较的话",
+      "music": 0.0
+    },
+    {
+      "from": 1658.86,
+      "to": 1660.58,
+      "sid": 582,
+      "location": 2,
+      "content": "如果两者不相等",
+      "music": 0.0
+    },
+    {
+      "from": 1661.04,
+      "to": 1663.92,
+      "sid": 583,
+      "location": 2,
+      "content": "那就需要调整所取得这个数字量的大小",
+      "music": 0.0
+    },
+    {
+      "from": 1663.92,
+      "to": 1664.94,
+      "sid": 584,
+      "location": 2,
+      "content": "只啊",
+      "music": 0.0
+    },
+    {
+      "from": 1664.94,
+      "to": 1669.92,
+      "sid": 585,
+      "location": 2,
+      "content": "直到经过这个这个呃",
+      "music": 0.0
+    },
+    {
+      "from": 1669.92,
+      "to": 1671.66,
+      "sid": 586,
+      "location": 2,
+      "content": "数模转换器的这个模拟电压",
+      "music": 0.0
+    },
+    {
+      "from": 1671.66,
+      "to": 1673.58,
+      "sid": 587,
+      "location": 2,
+      "content": "和输入电压完全相等为止",
+      "music": 0.0
+    },
+    {
+      "from": 1673.58,
+      "to": 1675.92,
+      "sid": 588,
+      "location": 2,
+      "content": "也就是说最后所取的这个数字量",
+      "music": 0.0
+    },
+    {
+      "from": 1675.92,
+      "to": 1679.8,
+      "sid": 589,
+      "location": 2,
+      "content": "就是跟这个输入电压相对应的一个输出量",
+      "music": 0.0
+    },
+    {
+      "from": 1681.28,
+      "to": 1683.7,
+      "sid": 590,
+      "location": 2,
+      "content": "这是它的一个技术",
+      "music": 0.0
+    },
+    {
+      "from": 1683.7,
+      "to": 1685.62,
+      "sid": 591,
+      "location": 2,
+      "content": "一个原理原理图啊",
+      "music": 0.0
+    },
+    {
+      "from": 1685.62,
+      "to": 1686.73,
+      "sid": 592,
+      "location": 2,
+      "content": "技术型的原理图",
+      "music": 0.0
+    },
+    {
+      "from": 1686.73,
+      "to": 1689.79,
+      "sid": 593,
+      "location": 2,
+      "content": "输入电压模拟量经过它",
+      "music": 0.0
+    },
+    {
+      "from": 1689.79,
+      "to": 1691.5,
+      "sid": 594,
+      "location": 2,
+      "content": "这是一个脉冲源",
+      "music": 0.0
+    },
+    {
+      "from": 1691.5,
+      "to": 1695.93,
+      "sid": 595,
+      "location": 2,
+      "content": "就是控制信号在这儿呢嗯经过计数器对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1695.93,
+      "to": 1697.4,
+      "sid": 596,
+      "location": 2,
+      "content": "这边经过它",
+      "music": 0.0
+    },
+    {
+      "from": 1697.4,
+      "to": 1699.92,
+      "sid": 597,
+      "location": 2,
+      "content": "然后输出寄存器",
+      "music": 0.0
+    },
+    {
+      "from": 1699.92,
+      "to": 1703.0,
+      "sid": 598,
+      "location": 2,
+      "content": "最终输出一个数字数字量",
+      "music": 0.0
+    },
+    {
+      "from": 1704.88,
+      "to": 1707.06,
+      "sid": 599,
+      "location": 2,
+      "content": "那么还有一种实现方法呢",
+      "music": 0.0
+    },
+    {
+      "from": 1707.06,
+      "to": 1709.55,
+      "sid": 600,
+      "location": 2,
+      "content": "就是一个逐次渐进行",
+      "music": 0.0
+    },
+    {
+      "from": 1709.55,
+      "to": 1710.81,
+      "sid": 601,
+      "location": 2,
+      "content": "逐次渐进性",
+      "music": 0.0
+    },
+    {
+      "from": 1710.81,
+      "to": 1712.61,
+      "sid": 602,
+      "location": 2,
+      "content": "跟他看哪里不同呢",
+      "music": 0.0
+    },
+    {
+      "from": 1712.61,
+      "to": 1713.81,
+      "sid": 603,
+      "location": 2,
+      "content": "主要在这一块啊",
+      "music": 0.0
+    },
+    {
+      "from": 1713.81,
+      "to": 1715.68,
+      "sid": 604,
+      "location": 2,
+      "content": "这块有所不同",
+      "music": 0.0
+    },
+    {
+      "from": 1720.66,
+      "to": 1726.2,
+      "sid": 605,
+      "location": 2,
+      "content": "还有一种是双击分型的一个呃数模转啊",
+      "music": 0.0
+    },
+    {
+      "from": 1726.2,
+      "to": 1728.159,
+      "sid": 606,
+      "location": 2,
+      "content": "是魔术转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1728.84,
+      "to": 1731.32,
+      "sid": 607,
+      "location": 2,
+      "content": "双积分型的一个魔术转换器呢",
+      "music": 0.0
+    },
+    {
+      "from": 1731.32,
+      "to": 1734.62,
+      "sid": 608,
+      "location": 2,
+      "content": "是电压时间变化性的一个魔术转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1734.62,
+      "to": 1737.399,
+      "sid": 609,
+      "location": 2,
+      "content": "它首先把输入的这个模拟电压呀",
+      "music": 0.0
+    },
+    {
+      "from": 1737.8,
+      "to": 1739.63,
+      "sid": 610,
+      "location": 2,
+      "content": "输入的这个模拟电压",
+      "music": 0.0
+    },
+    {
+      "from": 1739.63,
+      "to": 1744.12,
+      "sid": 611,
+      "location": 2,
+      "content": "转换成跟这个模拟电压成正比的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1744.12,
+      "to": 1745.6,
+      "sid": 612,
+      "location": 2,
+      "content": "时间间隔t",
+      "music": 0.0
+    },
+    {
+      "from": 1745.68,
+      "to": 1747.36,
+      "sid": 613,
+      "location": 2,
+      "content": "然后在这个间隔里边",
+      "music": 0.0
+    },
+    {
+      "from": 1747.36,
+      "to": 1749.82,
+      "sid": 614,
+      "location": 2,
+      "content": "对固定频率的时钟脉冲进行计数",
+      "music": 0.0
+    },
+    {
+      "from": 1749.82,
+      "to": 1750.54,
+      "sid": 615,
+      "location": 2,
+      "content": "计数的结果",
+      "music": 0.0
+    },
+    {
+      "from": 1750.54,
+      "to": 1753.52,
+      "sid": 616,
+      "location": 2,
+      "content": "就是正比于这个输入模拟电压的一个",
+      "music": 0.0
+    },
+    {
+      "from": 1753.52,
+      "to": 1754.66,
+      "sid": 617,
+      "location": 2,
+      "content": "数字信号吗",
+      "music": 0.0
+    },
+    {
+      "from": 1754.66,
+      "to": 1758.2,
+      "sid": 618,
+      "location": 2,
+      "content": "所以说这个双积分型的这个魔术转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1758.2,
+      "to": 1760.48,
+      "sid": 619,
+      "location": 2,
+      "content": "也是一种间接的一个魔术转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1760.48,
+      "to": 1762.52,
+      "sid": 620,
+      "location": 2,
+      "content": "这是一个双积分型的魔术转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1762.52,
+      "to": 1766.38,
+      "sid": 621,
+      "location": 2,
+      "content": "原理对这个事件看",
+      "music": 0.0
+    },
+    {
+      "from": 1766.38,
+      "to": 1767.659,
+      "sid": 622,
+      "location": 2,
+      "content": "最终是",
+      "music": 0.0
+    },
+    {
+      "from": 1770.06,
+      "to": 1771.899,
+      "sid": 623,
+      "location": 2,
+      "content": "转换成数字量啊",
+      "music": 0.0
+    },
+    {
+      "from": 1772.56,
+      "to": 1777.28,
+      "sid": 624,
+      "location": 2,
+      "content": "还有一个呢就是vf变换型一个魔术转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1777.36,
+      "to": 1781.02,
+      "sid": 625,
+      "location": 2,
+      "content": "那么它就是一个电压频率变换形的模式转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1781.02,
+      "to": 1783.35,
+      "sid": 626,
+      "location": 2,
+      "content": "它首先将这个输入的模拟电压",
+      "music": 0.0
+    },
+    {
+      "from": 1783.35,
+      "to": 1788.93,
+      "sid": 627,
+      "location": 2,
+      "content": "转换成跟它相呃呃相比成正比的一个频率信号",
+      "music": 0.0
+    },
+    {
+      "from": 1788.93,
+      "to": 1791.97,
+      "sid": 628,
+      "location": 2,
+      "content": "然后再把一个固定的时间间隔里",
+      "music": 0.0
+    },
+    {
+      "from": 1791.97,
+      "to": 1795.2,
+      "sid": 629,
+      "location": 2,
+      "content": "得到的频率信号进行计数啊",
+      "music": 0.0
+    },
+    {
+      "from": 1795.2,
+      "to": 1800.06,
+      "sid": 630,
+      "location": 2,
+      "content": "计数最后呢通过这个二进制计数器呀",
+      "music": 0.0
+    },
+    {
+      "from": 1800.06,
+      "to": 1801.14,
+      "sid": 631,
+      "location": 2,
+      "content": "输出寄存器啊",
+      "music": 0.0
+    },
+    {
+      "from": 1801.14,
+      "to": 1802.68,
+      "sid": 632,
+      "location": 2,
+      "content": "得出一个数字量",
+      "music": 0.0
+    },
+    {
+      "from": 1803.58,
+      "to": 1805.58,
+      "sid": 633,
+      "location": 2,
+      "content": "那么计数的结果呢",
+      "music": 0.0
+    },
+    {
+      "from": 1805.58,
+      "to": 1808.82,
+      "sid": 634,
+      "location": 2,
+      "content": "就是正比于输入模拟电压的一个数字信号",
+      "music": 0.0
+    },
+    {
+      "from": 1808.82,
+      "to": 1809.36,
+      "sid": 635,
+      "location": 2,
+      "content": "到这儿了",
+      "music": 0.0
+    },
+    {
+      "from": 1809.36,
+      "to": 1811.1,
+      "sid": 636,
+      "location": 2,
+      "content": "对吧啊",
+      "music": 0.0
+    },
+    {
+      "from": 1811.1,
+      "to": 1812.72,
+      "sid": 637,
+      "location": 2,
+      "content": "实际上可以看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 1812.72,
+      "to": 1815.34,
+      "sid": 638,
+      "location": 2,
+      "content": "他们这些的原理的话",
+      "music": 0.0
+    },
+    {
+      "from": 1816.76,
+      "to": 1818.8,
+      "sid": 639,
+      "location": 2,
+      "content": "实现方法类型呀",
+      "music": 0.0
+    },
+    {
+      "from": 1818.8,
+      "to": 1822.58,
+      "sid": 640,
+      "location": 2,
+      "content": "其实在实现的原理上基本上是相同的",
+      "music": 0.0
+    },
+    {
+      "from": 1822.58,
+      "to": 1826.159,
+      "sid": 641,
+      "location": 2,
+      "content": "只不过是只不过是在实现的一些步骤上面",
+      "music": 0.0
+    },
+    {
+      "from": 1826.159,
+      "to": 1827.599,
+      "sid": 642,
+      "location": 2,
+      "content": "稍微有些差异",
+      "music": 0.0
+    },
+    {
+      "from": 1827.599,
+      "to": 1829.519,
+      "sid": 643,
+      "location": 2,
+      "content": "大家了解一下就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 1829.519,
+      "to": 1834.87,
+      "sid": 644,
+      "location": 2,
+      "content": "那么对于他的一个技术指标呢啊跟前面相似",
+      "music": 0.0
+    },
+    {
+      "from": 1834.87,
+      "to": 1837.56,
+      "sid": 645,
+      "location": 2,
+      "content": "我们就不再多说了",
+      "music": 0.0
+    },
+    {
+      "from": 1837.56,
+      "to": 1839.24,
+      "sid": 646,
+      "location": 2,
+      "content": "也是从这个分辨率呀",
+      "music": 0.0
+    },
+    {
+      "from": 1839.24,
+      "to": 1840.53,
+      "sid": 647,
+      "location": 2,
+      "content": "转换误差呀",
+      "music": 0.0
+    },
+    {
+      "from": 1840.53,
+      "to": 1843.22,
+      "sid": 648,
+      "location": 2,
+      "content": "转换时间呀上面来讲的",
+      "music": 0.0
+    },
+    {
+      "from": 1845.66,
+      "to": 1847.96,
+      "sid": 649,
+      "location": 2,
+      "content": "呃看一下这个转换时间啊",
+      "music": 0.0
+    },
+    {
+      "from": 1847.96,
+      "to": 1850.6,
+      "sid": 650,
+      "location": 2,
+      "content": "转换时间实际上是指这个a d转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1850.6,
+      "to": 1853.409,
+      "sid": 651,
+      "location": 2,
+      "content": "从转换控制信号到来开始",
+      "music": 0.0
+    },
+    {
+      "from": 1853.409,
+      "to": 1858.26,
+      "sid": 652,
+      "location": 2,
+      "content": "到输出端得到稳定的数字信号所经过的时间啊",
+      "music": 0.0
+    },
+    {
+      "from": 1858.64,
+      "to": 1862.81,
+      "sid": 653,
+      "location": 2,
+      "content": "他的这个转换时间跟转换电路的类型有关",
+      "music": 0.0
+    },
+    {
+      "from": 1863.53,
+      "to": 1867.57,
+      "sid": 654,
+      "location": 2,
+      "content": "不同的转换类型的速度啊有差别",
+      "music": 0.0
+    },
+    {
+      "from": 1867.57,
+      "to": 1869.79,
+      "sid": 655,
+      "location": 2,
+      "content": "比如说我们刚才说的那个并行的那个",
+      "music": 0.0
+    },
+    {
+      "from": 1869.79,
+      "to": 1870.63,
+      "sid": 656,
+      "location": 2,
+      "content": "他那个转换速度",
+      "music": 0.0
+    },
+    {
+      "from": 1870.63,
+      "to": 1871.65,
+      "sid": 657,
+      "location": 2,
+      "content": "他刚才我们说了",
+      "music": 0.0
+    },
+    {
+      "from": 1871.65,
+      "to": 1874.06,
+      "sid": 658,
+      "location": 2,
+      "content": "它的一个特点就是速度快嘛对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1874.16,
+      "to": 1874.82,
+      "sid": 659,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 1874.82,
+      "to": 1877.82,
+      "sid": 660,
+      "location": 2,
+      "content": "像八位二进制输出的单片机",
+      "music": 0.0
+    },
+    {
+      "from": 1877.82,
+      "to": 1879.44,
+      "sid": 661,
+      "location": 2,
+      "content": "集成的一个a d转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1879.44,
+      "to": 1882.45,
+      "sid": 662,
+      "location": 2,
+      "content": "转换时间就是可以达到50纳秒之内",
+      "music": 0.0
+    },
+    {
+      "from": 1882.45,
+      "to": 1886.05,
+      "sid": 663,
+      "location": 2,
+      "content": "而这个逐次比较型的一个魔术转换器呢",
+      "music": 0.0
+    },
+    {
+      "from": 1886.05,
+      "to": 1887.13,
+      "sid": 664,
+      "location": 2,
+      "content": "就稍微慢一点",
+      "music": 0.0
+    },
+    {
+      "from": 1887.13,
+      "to": 1889.32,
+      "sid": 665,
+      "location": 2,
+      "content": "它是在10~50秒以内",
+      "music": 0.0
+    },
+    {
+      "from": 1889.32,
+      "to": 1892.01,
+      "sid": 666,
+      "location": 2,
+      "content": "渐渐的就更慢了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1892.01,
+      "to": 1892.91,
+      "sid": 667,
+      "location": 2,
+      "content": "在几十",
+      "music": 0.0
+    },
+    {
+      "from": 1892.91,
+      "to": 1894.23,
+      "sid": 668,
+      "location": 2,
+      "content": "还有这个双积分",
+      "music": 0.0
+    },
+    {
+      "from": 1894.23,
+      "to": 1898.52,
+      "sid": 669,
+      "location": 2,
+      "content": "a d转换器的转换时间在几十毫秒到几百毫",
+      "music": 0.0
+    },
+    {
+      "from": 1899.56,
+      "to": 1902.16,
+      "sid": 670,
+      "location": 2,
+      "content": "那么在实际性在实际应用当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 1902.16,
+      "to": 1906.19,
+      "sid": 671,
+      "location": 2,
+      "content": "我们要综合啊从这几方面啊",
+      "music": 0.0
+    },
+    {
+      "from": 1906.19,
+      "to": 1909.19,
+      "sid": 672,
+      "location": 2,
+      "content": "从这个系统数据总的位数呀",
+      "music": 0.0
+    },
+    {
+      "from": 1909.19,
+      "to": 1910.15,
+      "sid": 673,
+      "location": 2,
+      "content": "精度要求啊",
+      "music": 0.0
+    },
+    {
+      "from": 1910.15,
+      "to": 1911.99,
+      "sid": 674,
+      "location": 2,
+      "content": "输入模拟信号的范围呀",
+      "music": 0.0
+    },
+    {
+      "from": 1911.99,
+      "to": 1916.19,
+      "sid": 675,
+      "location": 2,
+      "content": "以及输入信号啊即兴方面等等做综合的考虑",
+      "music": 0.0
+    },
+    {
+      "from": 1916.19,
+      "to": 1918.47,
+      "sid": 676,
+      "location": 2,
+      "content": "然后从这个考虑方面来进行",
+      "music": 0.0
+    },
+    {
+      "from": 1918.47,
+      "to": 1921.75,
+      "sid": 677,
+      "location": 2,
+      "content": "a d转换器的一个选型呃",
+      "music": 0.0
+    },
+    {
+      "from": 1921.75,
+      "to": 1927.28,
+      "sid": 678,
+      "location": 2,
+      "content": "这些呢主要就是我们所讲的一个啊数模模",
+      "music": 0.0
+    },
+    {
+      "from": 1927.28,
+      "to": 1928.24,
+      "sid": 679,
+      "location": 2,
+      "content": "数转换器了",
+      "music": 0.0
+    },
+    {
+      "from": 1928.24,
+      "to": 1931.84,
+      "sid": 680,
+      "location": 2,
+      "content": "最后呢就给大家留一个小小的思考题啊",
+      "music": 0.0
+    },
+    {
+      "from": 1931.84,
+      "to": 1938.78,
+      "sid": 681,
+      "location": 2,
+      "content": "这个呢就是四位的一个全电阻网络啊",
+      "music": 0.0
+    },
+    {
+      "from": 1938.78,
+      "to": 1940.46,
+      "sid": 682,
+      "location": 2,
+      "content": "数模转换器",
+      "music": 0.0
+    },
+    {
+      "from": 1940.46,
+      "to": 1942.86,
+      "sid": 683,
+      "location": 2,
+      "content": "如果我们设这个基准电压啊",
+      "music": 0.0
+    },
+    {
+      "from": 1942.86,
+      "to": 1944.45,
+      "sid": 684,
+      "location": 2,
+      "content": "它是一个-8伏",
+      "music": 0.0
+    },
+    {
+      "from": 1944.45,
+      "to": 1948.82,
+      "sid": 685,
+      "location": 2,
+      "content": "然后把这个r f设成二分之r",
+      "music": 0.0
+    },
+    {
+      "from": 1948.94,
+      "to": 1952.36,
+      "sid": 686,
+      "location": 2,
+      "content": "那么我们要求输出电压的范围",
+      "music": 0.0
+    },
+    {
+      "from": 1952.36,
+      "to": 1955.379,
+      "sid": 687,
+      "location": 2,
+      "content": "以及当输入数字量第四",
+      "music": 0.0
+    },
+    {
+      "from": 1955.42,
+      "to": 1958.3,
+      "sid": 688,
+      "location": 2,
+      "content": "等于1010时的一个输出电压值",
+      "music": 0.0
+    },
+    {
+      "from": 1958.3,
+      "to": 1961.06,
+      "sid": 689,
+      "location": 2,
+      "content": "这个呢作为一个思考题留给大家",
+      "music": 0.0
+    },
+    {
+      "from": 1961.06,
+      "to": 1964.06,
+      "sid": 690,
+      "location": 2,
+      "content": "希望大家在课后呢能够做一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 1964.06,
+      "to": 1965.5,
+      "sid": 691,
+      "location": 2,
+      "content": "关于数模模数转换器呢",
+      "music": 0.0
+    },
+    {
+      "from": 1965.5,
+      "to": 1967.26,
+      "sid": 692,
+      "location": 2,
+      "content": "我们就先讲到这",
+      "music": 0.0
+    }
+  ]
+}

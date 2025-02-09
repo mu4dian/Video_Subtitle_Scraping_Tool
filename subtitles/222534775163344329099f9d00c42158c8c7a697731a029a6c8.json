@@ -1,0 +1,2660 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 2.36,
+      "to": 6.07,
+      "sid": 1,
+      "location": 2,
+      "content": "接下来呢我们来了解一下电压基准源",
+      "music": 0.0
+    },
+    {
+      "from": 6.43,
+      "to": 10.92,
+      "sid": 2,
+      "location": 2,
+      "content": "电压基准源呢也是我们在电子产品当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 10.92,
+      "to": 13.76,
+      "sid": 3,
+      "location": 2,
+      "content": "非常常见的一种器件",
+      "music": 0.0
+    },
+    {
+      "from": 13.76,
+      "to": 16.35,
+      "sid": 4,
+      "location": 2,
+      "content": "我们首先来看一下它的定义",
+      "music": 0.0
+    },
+    {
+      "from": 16.35,
+      "to": 18.63,
+      "sid": 5,
+      "location": 2,
+      "content": "什么是电压基准源",
+      "music": 0.0
+    },
+    {
+      "from": 18.63,
+      "to": 22.65,
+      "sid": 6,
+      "location": 2,
+      "content": "是当代模拟集成电路当中比较重要的组成部分",
+      "music": 0.0
+    },
+    {
+      "from": 22.65,
+      "to": 25.84,
+      "sid": 7,
+      "location": 2,
+      "content": "它为串联使用稳压电路啊",
+      "music": 0.0
+    },
+    {
+      "from": 25.84,
+      "to": 29.86,
+      "sid": 8,
+      "location": 2,
+      "content": "模数数模转换器提供基准电压",
+      "music": 0.0
+    },
+    {
+      "from": 29.86,
+      "to": 33.46,
+      "sid": 9,
+      "location": 2,
+      "content": "也是大多数传感器的稳压供电电源",
+      "music": 0.0
+    },
+    {
+      "from": 33.46,
+      "to": 35.2,
+      "sid": 10,
+      "location": 2,
+      "content": "或者是激励源",
+      "music": 0.0
+    },
+    {
+      "from": 35.54,
+      "to": 37.42,
+      "sid": 11,
+      "location": 2,
+      "content": "实际上这个电压基准源",
+      "music": 0.0
+    },
+    {
+      "from": 37.42,
+      "to": 40.73,
+      "sid": 12,
+      "location": 2,
+      "content": "几乎在所有先进的电子产品中都能够找到",
+      "music": 0.0
+    },
+    {
+      "from": 40.73,
+      "to": 43.65,
+      "sid": 13,
+      "location": 2,
+      "content": "他们有可能是独立的一个基准源",
+      "music": 0.0
+    },
+    {
+      "from": 43.65,
+      "to": 47.4,
+      "sid": 14,
+      "location": 2,
+      "content": "也有可能呢是集成在更多功能的器件当中",
+      "music": 0.0
+    },
+    {
+      "from": 47.4,
+      "to": 50.02,
+      "sid": 15,
+      "location": 2,
+      "content": "比如说我们说的那个数据转换器",
+      "music": 0.0
+    },
+    {
+      "from": 50.02,
+      "to": 51.38,
+      "sid": 16,
+      "location": 2,
+      "content": "这个基准源呀",
+      "music": 0.0
+    },
+    {
+      "from": 51.38,
+      "to": 53.54,
+      "sid": 17,
+      "location": 2,
+      "content": "就在里面提供了一个绝对电压",
+      "music": 0.0
+    },
+    {
+      "from": 53.54,
+      "to": 59.37,
+      "sid": 18,
+      "location": 2,
+      "content": "使这个使这个电压呢与输入电压进行比较嗯",
+      "music": 0.0
+    },
+    {
+      "from": 59.37,
+      "to": 64.71,
+      "sid": 19,
+      "location": 2,
+      "content": "然后呢得出确适当的那个数字数字量输出",
+      "music": 0.0
+    },
+    {
+      "from": 64.71,
+      "to": 67.07,
+      "sid": 20,
+      "location": 2,
+      "content": "还有在这个电压调节器当中",
+      "music": 0.0
+    },
+    {
+      "from": 67.07,
+      "to": 69.9,
+      "sid": 21,
+      "location": 2,
+      "content": "基准源也提供了一个已知的电压值",
+      "music": 0.0
+    },
+    {
+      "from": 69.9,
+      "to": 72.04,
+      "sid": 22,
+      "location": 2,
+      "content": "用它跟输出做比较",
+      "music": 0.0
+    },
+    {
+      "from": 72.04,
+      "to": 75.71,
+      "sid": 23,
+      "location": 2,
+      "content": "得到一个用于调节输出电压的一个反馈值",
+      "music": 0.0
+    },
+    {
+      "from": 75.71,
+      "to": 78.97,
+      "sid": 24,
+      "location": 2,
+      "content": "另外比如说在那个电压检测器当中",
+      "music": 0.0
+    },
+    {
+      "from": 78.97,
+      "to": 82.85,
+      "sid": 25,
+      "location": 2,
+      "content": "急诊员被当做一个设置处罚点的门线",
+      "music": 0.0
+    },
+    {
+      "from": 82.85,
+      "to": 84.49,
+      "sid": 26,
+      "location": 2,
+      "content": "你看这边也说了",
+      "music": 0.0
+    },
+    {
+      "from": 84.49,
+      "to": 89.55,
+      "sid": 27,
+      "location": 2,
+      "content": "这个基本嗯基准源可以作为标准电池呀",
+      "music": 0.0
+    },
+    {
+      "from": 89.55,
+      "to": 91.93,
+      "sid": 28,
+      "location": 2,
+      "content": "仪器表头的刻度标准呀",
+      "music": 0.0
+    },
+    {
+      "from": 91.93,
+      "to": 93.76,
+      "sid": 29,
+      "location": 2,
+      "content": "精密电流源等等",
+      "music": 0.0
+    },
+    {
+      "from": 93.76,
+      "to": 97.38,
+      "sid": 30,
+      "location": 2,
+      "content": "说明这个基准源还是非常常见的",
+      "music": 0.0
+    },
+    {
+      "from": 97.38,
+      "to": 99.58,
+      "sid": 31,
+      "location": 2,
+      "content": "而且应用面非常广泛",
+      "music": 0.0
+    },
+    {
+      "from": 99.58,
+      "to": 103.85,
+      "sid": 32,
+      "location": 2,
+      "content": "我们来看一下基准源的类型以及实现方法",
+      "music": 0.0
+    },
+    {
+      "from": 104.37,
+      "to": 107.57,
+      "sid": 33,
+      "location": 2,
+      "content": "我们经常常见的两种基准源呢",
+      "music": 0.0
+    },
+    {
+      "from": 107.57,
+      "to": 108.93,
+      "sid": 34,
+      "location": 2,
+      "content": "一个是齐纳基准源",
+      "music": 0.0
+    },
+    {
+      "from": 108.93,
+      "to": 110.63,
+      "sid": 35,
+      "location": 2,
+      "content": "一个是带细基准源",
+      "music": 0.0
+    },
+    {
+      "from": 110.63,
+      "to": 114.39,
+      "sid": 36,
+      "location": 2,
+      "content": "齐纳基准源呢通常采用的是两端并联的拓扑",
+      "music": 0.0
+    },
+    {
+      "from": 114.39,
+      "to": 117.83,
+      "sid": 37,
+      "location": 2,
+      "content": "而代细基准源呢采用的是三端串联的拓扑",
+      "music": 0.0
+    },
+    {
+      "from": 117.83,
+      "to": 120.27,
+      "sid": 38,
+      "location": 2,
+      "content": "那么它们有哪些实现方法呢",
+      "music": 0.0
+    },
+    {
+      "from": 120.27,
+      "to": 122.11,
+      "sid": 39,
+      "location": 2,
+      "content": "我们来依次了解一下",
+      "music": 0.0
+    },
+    {
+      "from": 122.11,
+      "to": 124.13,
+      "sid": 40,
+      "location": 2,
+      "content": "首先比较常见的机理",
+      "music": 0.0
+    },
+    {
+      "from": 124.13,
+      "to": 125.27,
+      "sid": 41,
+      "location": 2,
+      "content": "基准源的方法",
+      "music": 0.0
+    },
+    {
+      "from": 125.27,
+      "to": 128.21,
+      "sid": 42,
+      "location": 2,
+      "content": "我们知道一个已知的电压可以通过",
+      "music": 0.0
+    },
+    {
+      "from": 128.21,
+      "to": 129.55,
+      "sid": 43,
+      "location": 2,
+      "content": "而已知的电压源",
+      "music": 0.0
+    },
+    {
+      "from": 129.55,
+      "to": 131.45,
+      "sid": 44,
+      "location": 2,
+      "content": "可以通过电阻分压的方式",
+      "music": 0.0
+    },
+    {
+      "from": 131.45,
+      "to": 136.48,
+      "sid": 45,
+      "location": 2,
+      "content": "来得到一个我们想要的一个呃电压基准",
+      "music": 0.0
+    },
+    {
+      "from": 136.48,
+      "to": 139.8,
+      "sid": 46,
+      "location": 2,
+      "content": "但是我们也知道像这种电压基准",
+      "music": 0.0
+    },
+    {
+      "from": 139.8,
+      "to": 142.76,
+      "sid": 47,
+      "location": 2,
+      "content": "它是依靠完全依靠于电源电压的",
+      "music": 0.0
+    },
+    {
+      "from": 142.76,
+      "to": 144.72,
+      "sid": 48,
+      "location": 2,
+      "content": "它本身并没有稳压的作用",
+      "music": 0.0
+    },
+    {
+      "from": 144.72,
+      "to": 148.42,
+      "sid": 49,
+      "location": 2,
+      "content": "电阻只是把那个电压啊",
+      "music": 0.0
+    },
+    {
+      "from": 148.42,
+      "to": 151.11,
+      "sid": 50,
+      "location": 2,
+      "content": "根据电阻的比例来进行分配",
+      "music": 0.0
+    },
+    {
+      "from": 151.11,
+      "to": 155.29,
+      "sid": 51,
+      "location": 2,
+      "content": "所以说呢它的一个不稳定性是它的一个缺点",
+      "music": 0.0
+    },
+    {
+      "from": 155.29,
+      "to": 158.88,
+      "sid": 52,
+      "location": 2,
+      "content": "第二个呢是普通的正向二极管",
+      "music": 0.0
+    },
+    {
+      "from": 158.88,
+      "to": 161.75,
+      "sid": 53,
+      "location": 2,
+      "content": "普通的正向二极管呢",
+      "music": 0.0
+    },
+    {
+      "from": 162.23,
+      "to": 165.48,
+      "sid": 54,
+      "location": 2,
+      "content": "它不它不依赖于电源电压",
+      "music": 0.0
+    },
+    {
+      "from": 165.48,
+      "to": 168.54,
+      "sid": 55,
+      "location": 2,
+      "content": "但是呢它的电压的稳定性也不高",
+      "music": 0.0
+    },
+    {
+      "from": 168.54,
+      "to": 171.549,
+      "sid": 56,
+      "location": 2,
+      "content": "而且呢它的温度系数是负的啊",
+      "music": 0.0
+    },
+    {
+      "from": 171.549,
+      "to": 176.78,
+      "sid": 57,
+      "location": 2,
+      "content": "它是每摄氏度二毫伏嗯",
+      "music": 0.0
+    },
+    {
+      "from": 177.14,
+      "to": 179.7,
+      "sid": 58,
+      "location": 2,
+      "content": "在下面呢就是齐纳二极管",
+      "music": 0.0
+    },
+    {
+      "from": 179.7,
+      "to": 181.14,
+      "sid": 59,
+      "location": 2,
+      "content": "齐纳二极管呢",
+      "music": 0.0
+    },
+    {
+      "from": 181.14,
+      "to": 185.94,
+      "sid": 60,
+      "location": 2,
+      "content": "他克服了正向二极管作为基准电压的一些缺点",
+      "music": 0.0
+    },
+    {
+      "from": 187.149,
+      "to": 189.829,
+      "sid": 61,
+      "location": 2,
+      "content": "嗯它的温度系数是正的",
+      "music": 0.0
+    },
+    {
+      "from": 189.829,
+      "to": 192.509,
+      "sid": 62,
+      "location": 2,
+      "content": "那么齐纳基准源的最大的好处呢",
+      "music": 0.0
+    },
+    {
+      "from": 192.509,
+      "to": 194.91,
+      "sid": 63,
+      "location": 2,
+      "content": "是它的电压范围比较宽泛",
+      "music": 0.0
+    },
+    {
+      "from": 194.91,
+      "to": 196.97,
+      "sid": 64,
+      "location": 2,
+      "content": "两伏到200伏",
+      "music": 0.0
+    },
+    {
+      "from": 196.97,
+      "to": 199.55,
+      "sid": 65,
+      "location": 2,
+      "content": "并且呢功率范围也比较宽泛",
+      "music": 0.0
+    },
+    {
+      "from": 199.55,
+      "to": 201.53,
+      "sid": 66,
+      "location": 2,
+      "content": "从几个毫瓦到几瓦",
+      "music": 0.0
+    },
+    {
+      "from": 201.53,
+      "to": 204.95,
+      "sid": 67,
+      "location": 2,
+      "content": "它的缺点也是精确度不高啊",
+      "music": 0.0
+    },
+    {
+      "from": 204.95,
+      "to": 206.67,
+      "sid": 68,
+      "location": 2,
+      "content": "功耗比较高一点",
+      "music": 0.0
+    },
+    {
+      "from": 206.67,
+      "to": 210.03,
+      "sid": 69,
+      "location": 2,
+      "content": "就是他难以胜任低功耗的要求",
+      "music": 0.0
+    },
+    {
+      "from": 213.06,
+      "to": 215.1,
+      "sid": 70,
+      "location": 2,
+      "content": "比齐纳二极管",
+      "music": 0.0
+    },
+    {
+      "from": 215.1,
+      "to": 220.46,
+      "sid": 71,
+      "location": 2,
+      "content": "再进一步的是温度补偿型齐纳二极管",
+      "music": 0.0
+    },
+    {
+      "from": 221.37,
+      "to": 223.13,
+      "sid": 72,
+      "location": 2,
+      "content": "从这个名字上看",
+      "music": 0.0
+    },
+    {
+      "from": 223.13,
+      "to": 229.25,
+      "sid": 73,
+      "location": 2,
+      "content": "它似乎比齐纳二极管的那个呃优点要多一点",
+      "music": 0.0
+    },
+    {
+      "from": 229.91,
+      "to": 231.25,
+      "sid": 74,
+      "location": 2,
+      "content": "咱们来看一下它啊",
+      "music": 0.0
+    },
+    {
+      "from": 231.25,
+      "to": 232.45,
+      "sid": 75,
+      "location": 2,
+      "content": "它是体积小",
+      "music": 0.0
+    },
+    {
+      "from": 232.45,
+      "to": 233.35,
+      "sid": 76,
+      "location": 2,
+      "content": "重量轻",
+      "music": 0.0
+    },
+    {
+      "from": 233.35,
+      "to": 235.84,
+      "sid": 77,
+      "location": 2,
+      "content": "结构简单便于集成",
+      "music": 0.0
+    },
+    {
+      "from": 235.84,
+      "to": 240.34,
+      "sid": 78,
+      "location": 2,
+      "content": "但是呢它通常还是同同时还是稳定性比较差",
+      "music": 0.0
+    },
+    {
+      "from": 240.34,
+      "to": 242.84,
+      "sid": 79,
+      "location": 2,
+      "content": "基准电压比较高",
+      "music": 0.0
+    },
+    {
+      "from": 242.88,
+      "to": 247.68,
+      "sid": 80,
+      "location": 2,
+      "content": "嗯它不适合便携式以电池供电的场合",
+      "music": 0.0
+    },
+    {
+      "from": 248.839,
+      "to": 252.099,
+      "sid": 81,
+      "location": 2,
+      "content": "最后一种呢就是代替基准源",
+      "music": 0.0
+    },
+    {
+      "from": 252.099,
+      "to": 253.439,
+      "sid": 82,
+      "location": 2,
+      "content": "代细基准源",
+      "music": 0.0
+    },
+    {
+      "from": 253.439,
+      "to": 257.8,
+      "sid": 83,
+      "location": 2,
+      "content": "通常是采用C帽子或者是TPL技术实现的",
+      "music": 0.0
+    },
+    {
+      "from": 259.239,
+      "to": 263.559,
+      "sid": 84,
+      "location": 2,
+      "content": "并联基准源和串联基准源的最大不同就是",
+      "music": 0.0
+    },
+    {
+      "from": 264.67,
+      "to": 267.75,
+      "sid": 85,
+      "location": 2,
+      "content": "这个分段串联式的电压基本一样",
+      "music": 0.0
+    },
+    {
+      "from": 267.75,
+      "to": 269.11,
+      "sid": 86,
+      "location": 2,
+      "content": "它不需要外部电阻",
+      "music": 0.0
+    },
+    {
+      "from": 269.11,
+      "to": 271.0,
+      "sid": 87,
+      "location": 2,
+      "content": "静态功耗比较小",
+      "music": 0.0
+    },
+    {
+      "from": 271.0,
+      "to": 275.21,
+      "sid": 88,
+      "location": 2,
+      "content": "比如说我们说的这个大戏级人员代替基准源呢",
+      "music": 0.0
+    },
+    {
+      "from": 275.21,
+      "to": 277.97,
+      "sid": 89,
+      "location": 2,
+      "content": "通常是啊提供两个电压",
+      "music": 0.0
+    },
+    {
+      "from": 277.97,
+      "to": 280.41,
+      "sid": 90,
+      "location": 2,
+      "content": "一个是具有正温度系数的",
+      "music": 0.0
+    },
+    {
+      "from": 280.41,
+      "to": 283.025,
+      "sid": 91,
+      "location": 2,
+      "content": "另一个是具有负温度系数的",
+      "music": 0.0
+    },
+    {
+      "from": 286.7,
+      "to": 288.26,
+      "sid": 92,
+      "location": 2,
+      "content": "在实际应用当中",
+      "music": 0.0
+    },
+    {
+      "from": 288.26,
+      "to": 292.5,
+      "sid": 93,
+      "location": 2,
+      "content": "两个温度系数之和并不精确为零",
+      "music": 0.0
+    },
+    {
+      "from": 293.49,
+      "to": 297.63,
+      "sid": 94,
+      "location": 2,
+      "content": "啊比如在IIC电路设计呀",
+      "music": 0.0
+    },
+    {
+      "from": 297.63,
+      "to": 299.99,
+      "sid": 95,
+      "location": 2,
+      "content": "装呀制造测试啊等等",
+      "music": 0.0
+    },
+    {
+      "from": 299.99,
+      "to": 303.11,
+      "sid": 96,
+      "location": 2,
+      "content": "这些设计细节都跟他们是相关的",
+      "music": 0.0
+    },
+    {
+      "from": 303.11,
+      "to": 306.59,
+      "sid": 97,
+      "location": 2,
+      "content": "所以我们在设计的时候还要注意这些",
+      "music": 0.0
+    },
+    {
+      "from": 307.51,
+      "to": 311.33,
+      "sid": 98,
+      "location": 2,
+      "content": "这就是基准源的一些类型以及实现方式",
+      "music": 0.0
+    },
+    {
+      "from": 311.33,
+      "to": 313.31,
+      "sid": 99,
+      "location": 2,
+      "content": "我们接下来来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 313.31,
+      "to": 318.87,
+      "sid": 100,
+      "location": 2,
+      "content": "就是系统设计的时候有哪些问题需要注意",
+      "music": 0.0
+    },
+    {
+      "from": 318.87,
+      "to": 320.33,
+      "sid": 101,
+      "location": 2,
+      "content": "并且在这些问题当中",
+      "music": 0.0
+    },
+    {
+      "from": 320.33,
+      "to": 322.63,
+      "sid": 102,
+      "location": 2,
+      "content": "这个机警员是如何选择的",
+      "music": 0.0
+    },
+    {
+      "from": 322.63,
+      "to": 324.11,
+      "sid": 103,
+      "location": 2,
+      "content": "首先我们来看啊",
+      "music": 0.0
+    },
+    {
+      "from": 324.11,
+      "to": 327.38,
+      "sid": 104,
+      "location": 2,
+      "content": "我们要考虑一个工号问题",
+      "music": 0.0
+    },
+    {
+      "from": 330.98,
+      "to": 336.04,
+      "sid": 105,
+      "location": 2,
+      "content": "如果说我们是设计一个中等中等精度的系统",
+      "music": 0.0
+    },
+    {
+      "from": 336.04,
+      "to": 339.74,
+      "sid": 106,
+      "location": 2,
+      "content": "比如说一个高效率的啊",
+      "music": 0.0
+    },
+    {
+      "from": 341.06,
+      "to": 346.18,
+      "sid": 107,
+      "location": 2,
+      "content": "需要很小功率的一个八位数据采用系统",
+      "music": 0.0
+    },
+    {
+      "from": 348.68,
+      "to": 352.32,
+      "sid": 108,
+      "location": 2,
+      "content": "那么我们就可以使用那个max6025",
+      "music": 0.0
+    },
+    {
+      "from": 352.32,
+      "to": 355.48,
+      "sid": 109,
+      "location": 2,
+      "content": "或者是max6192这类器件",
+      "music": 0.0
+    },
+    {
+      "from": 355.48,
+      "to": 359.86,
+      "sid": 110,
+      "location": 2,
+      "content": "那么这两个器械呢都是2.5伏的一个基准",
+      "music": 0.0
+    },
+    {
+      "from": 360.06,
+      "to": 361.5,
+      "sid": 111,
+      "location": 2,
+      "content": "给大家写一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 362.82,
+      "to": 364.64,
+      "sid": 112,
+      "location": 2,
+      "content": "M a x",
+      "music": 0.0
+    },
+    {
+      "from": 365.78,
+      "to": 370.38,
+      "sid": 113,
+      "location": 2,
+      "content": "M a x6025",
+      "music": 0.0
+    },
+    {
+      "from": 372.94,
+      "to": 375.5,
+      "sid": 114,
+      "location": 2,
+      "content": "或者是6192",
+      "music": 0.0
+    },
+    {
+      "from": 379.98,
+      "to": 381.78,
+      "sid": 115,
+      "location": 2,
+      "content": "这两个都是都是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 381.78,
+      "to": 384.66,
+      "sid": 116,
+      "location": 2,
+      "content": "这两个都是2.5伏的基准",
+      "music": 0.0
+    },
+    {
+      "from": 392.48,
+      "to": 396.58,
+      "sid": 117,
+      "location": 2,
+      "content": "它们的最大消耗电流为35微安",
+      "music": 0.0
+    },
+    {
+      "from": 396.86,
+      "to": 398.82,
+      "sid": 118,
+      "location": 2,
+      "content": "它们的输出阻抗也比较低",
+      "music": 0.0
+    },
+    {
+      "from": 398.82,
+      "to": 400.26,
+      "sid": 119,
+      "location": 2,
+      "content": "因此呢他们的基",
+      "music": 0.0
+    },
+    {
+      "from": 400.26,
+      "to": 405.18,
+      "sid": 120,
+      "location": 2,
+      "content": "它们的基准电压几乎不受这个输出电流的影响",
+      "music": 0.0
+    },
+    {
+      "from": 405.76,
+      "to": 412.56,
+      "sid": 121,
+      "location": 2,
+      "content": "第二个需要注意的问题呢就是供出和吸入电流",
+      "music": 0.0
+    },
+    {
+      "from": 415.52,
+      "to": 420.4,
+      "sid": 122,
+      "location": 2,
+      "content": "这个大多数应用啊都需要电压基准源为负载呀",
+      "music": 0.0
+    },
+    {
+      "from": 420.88,
+      "to": 422.4,
+      "sid": 123,
+      "location": 2,
+      "content": "宫殿",
+      "music": 0.0
+    },
+    {
+      "from": 423.279,
+      "to": 426.399,
+      "sid": 124,
+      "location": 2,
+      "content": "当然呢要求基准源有能力提供负载",
+      "music": 0.0
+    },
+    {
+      "from": 426.399,
+      "to": 428.19,
+      "sid": 125,
+      "location": 2,
+      "content": "所需要的电流",
+      "music": 0.0
+    },
+    {
+      "from": 428.51,
+      "to": 433.41,
+      "sid": 126,
+      "location": 2,
+      "content": "它还需要提供所有的电流偏置或者是漏电流",
+      "music": 0.0
+    },
+    {
+      "from": 433.41,
+      "to": 437.625,
+      "sid": 127,
+      "location": 2,
+      "content": "这些电流之和有时候会超过负载电流",
+      "music": 0.0
+    },
+    {
+      "from": 438.93,
+      "to": 441.45,
+      "sid": 128,
+      "location": 2,
+      "content": "比如说在一些呃",
+      "music": 0.0
+    },
+    {
+      "from": 441.45,
+      "to": 444.73,
+      "sid": 129,
+      "location": 2,
+      "content": "模数转换器或者是数模转换器当中",
+      "music": 0.0
+    },
+    {
+      "from": 444.73,
+      "to": 448.33,
+      "sid": 130,
+      "location": 2,
+      "content": "他们需要典型的基准基准源的电流啊",
+      "music": 0.0
+    },
+    {
+      "from": 448.33,
+      "to": 450.01,
+      "sid": 131,
+      "location": 2,
+      "content": "在几十微安",
+      "music": 0.0
+    },
+    {
+      "from": 458.94,
+      "to": 465.48,
+      "sid": 132,
+      "location": 2,
+      "content": "这时候呢我们可以选择这个MX60106",
+      "music": 0.0
+    },
+    {
+      "from": 465.48,
+      "to": 467.16,
+      "sid": 133,
+      "location": 2,
+      "content": "6101max",
+      "music": 0.0
+    },
+    {
+      "from": 467.16,
+      "to": 468.68,
+      "sid": 134,
+      "location": 2,
+      "content": "6101",
+      "music": 0.0
+    },
+    {
+      "from": 477.56,
+      "to": 479.16,
+      "sid": 135,
+      "location": 2,
+      "content": "这个系列的基准源啊",
+      "music": 0.0
+    },
+    {
+      "from": 479.16,
+      "to": 485.02,
+      "sid": 136,
+      "location": 2,
+      "content": "它提供的这个电流呢比较比较小",
+      "music": 0.0
+    },
+    {
+      "from": 485.02,
+      "to": 486.36,
+      "sid": 137,
+      "location": 2,
+      "content": "有5ma电流",
+      "music": 0.0
+    },
+    {
+      "from": 486.36,
+      "to": 488.06,
+      "sid": 138,
+      "location": 2,
+      "content": "吸入电流只有2ma",
+      "music": 0.0
+    },
+    {
+      "from": 488.06,
+      "to": 489.52,
+      "sid": 139,
+      "location": 2,
+      "content": "对于比较重的负载",
+      "music": 0.0
+    },
+    {
+      "from": 489.52,
+      "to": 492.63,
+      "sid": 140,
+      "location": 2,
+      "content": "可以选择MX6225系列",
+      "music": 0.0
+    },
+    {
+      "from": 492.63,
+      "to": 496.47,
+      "sid": 141,
+      "location": 2,
+      "content": "他们提供15ma的供出和吸入电流",
+      "music": 0.0
+    },
+    {
+      "from": 496.47,
+      "to": 498.95,
+      "sid": 142,
+      "location": 2,
+      "content": "就是在供出和吸入电流",
+      "music": 0.0
+    },
+    {
+      "from": 498.95,
+      "to": 501.05,
+      "sid": 143,
+      "location": 2,
+      "content": "这方面需要考虑的一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 501.05,
+      "to": 503.11,
+      "sid": 144,
+      "location": 2,
+      "content": "然后呢就是温漂",
+      "music": 0.0
+    },
+    {
+      "from": 503.11,
+      "to": 505.43,
+      "sid": 145,
+      "location": 2,
+      "content": "温漂呢是一个可以校准",
+      "music": 0.0
+    },
+    {
+      "from": 505.43,
+      "to": 507.11,
+      "sid": 146,
+      "location": 2,
+      "content": "可以校准的一个参数啊",
+      "music": 0.0
+    },
+    {
+      "from": 507.11,
+      "to": 511.01,
+      "sid": 147,
+      "location": 2,
+      "content": "它一般是呃可重复性的误差",
+      "music": 0.0
+    },
+    {
+      "from": 511.01,
+      "to": 515.319,
+      "sid": 148,
+      "location": 2,
+      "content": "通过校准或者是从以前得到的特性当中嗯",
+      "music": 0.0
+    },
+    {
+      "from": 515.319,
+      "to": 518.079,
+      "sid": 149,
+      "location": 2,
+      "content": "查找的它的一个取值",
+      "music": 0.0
+    },
+    {
+      "from": 518.079,
+      "to": 521.479,
+      "sid": 150,
+      "location": 2,
+      "content": "然后实现这一个误差的一个矫正",
+      "music": 0.0
+    },
+    {
+      "from": 522.259,
+      "to": 524.599,
+      "sid": 151,
+      "location": 2,
+      "content": "再者呢就是一个噪声",
+      "music": 0.0
+    },
+    {
+      "from": 524.599,
+      "to": 528.71,
+      "sid": 152,
+      "location": 2,
+      "content": "噪声通常是随机的噪声",
+      "music": 0.0
+    },
+    {
+      "from": 529.07,
+      "to": 533.27,
+      "sid": 153,
+      "location": 2,
+      "content": "随机热噪声生呢也可能包括就是闪烁噪声呀",
+      "music": 0.0
+    },
+    {
+      "from": 533.27,
+      "to": 535.83,
+      "sid": 154,
+      "location": 2,
+      "content": "或其他的寄生噪声源",
+      "music": 0.0
+    },
+    {
+      "from": 538.18,
+      "to": 541.64,
+      "sid": 155,
+      "location": 2,
+      "content": "下面一个是输出电压温度迟滞嗯",
+      "music": 0.0
+    },
+    {
+      "from": 541.64,
+      "to": 546.72,
+      "sid": 156,
+      "location": 2,
+      "content": "这个参数定义的是在参考温度下",
+      "music": 0.0
+    },
+    {
+      "from": 546.72,
+      "to": 547.8,
+      "sid": 157,
+      "location": 2,
+      "content": "通常是25度",
+      "music": 0.0
+    },
+    {
+      "from": 547.8,
+      "to": 549.46,
+      "sid": 158,
+      "location": 2,
+      "content": "由于温度连续偏移",
+      "music": 0.0
+    },
+    {
+      "from": 549.46,
+      "to": 550.86,
+      "sid": 159,
+      "location": 2,
+      "content": "比如说从热到冷",
+      "music": 0.0
+    },
+    {
+      "from": 550.86,
+      "to": 555.31,
+      "sid": 160,
+      "location": 2,
+      "content": "然后从冷到热所引起的输出电压的一些变化",
+      "music": 0.0
+    },
+    {
+      "from": 555.31,
+      "to": 558.87,
+      "sid": 161,
+      "location": 2,
+      "content": "这个效应呢当当导致负面的一个影响",
+      "music": 0.0
+    },
+    {
+      "from": 558.87,
+      "to": 562.4,
+      "sid": 162,
+      "location": 2,
+      "content": "因为它的腐值直接跟系统所处的环境",
+      "music": 0.0
+    },
+    {
+      "from": 562.68,
+      "to": 565.18,
+      "sid": 163,
+      "location": 2,
+      "content": "环境的温度偏差成比例",
+      "music": 0.0
+    },
+    {
+      "from": 565.18,
+      "to": 566.78,
+      "sid": 164,
+      "location": 2,
+      "content": "在许多系统当中",
+      "music": 0.0
+    },
+    {
+      "from": 566.78,
+      "to": 572.05,
+      "sid": 165,
+      "location": 2,
+      "content": "这种偏差或者是这种误差是不具有可重复性的",
+      "music": 0.0
+    },
+    {
+      "from": 572.05,
+      "to": 576.41,
+      "sid": 166,
+      "location": 2,
+      "content": "它受到IIC电路的设计以及封装的影响",
+      "music": 0.0
+    },
+    {
+      "from": 577.82,
+      "to": 578.64,
+      "sid": 167,
+      "location": 2,
+      "content": "举个例子",
+      "music": 0.0
+    },
+    {
+      "from": 578.64,
+      "to": 581.54,
+      "sid": 168,
+      "location": 2,
+      "content": "比如说三角三个引脚的SOTR",
+      "music": 0.0
+    },
+    {
+      "from": 581.54,
+      "to": 586.45,
+      "sid": 169,
+      "location": 2,
+      "content": "三封装的这个MAX6001啊",
+      "music": 0.0
+    },
+    {
+      "from": 586.45,
+      "to": 587.17,
+      "sid": 170,
+      "location": 2,
+      "content": "温度迟滞",
+      "music": 0.0
+    },
+    {
+      "from": 587.17,
+      "to": 590.7,
+      "sid": 171,
+      "location": 2,
+      "content": "典型值呢是137PM",
+      "music": 0.0
+    },
+    {
+      "from": 590.7,
+      "to": 594.27,
+      "sid": 172,
+      "location": 2,
+      "content": "如果采用尺寸更大的嗯",
+      "music": 0.0
+    },
+    {
+      "from": 594.27,
+      "to": 595.39,
+      "sid": 173,
+      "location": 2,
+      "content": "更稳定的分装",
+      "music": 0.0
+    },
+    {
+      "from": 595.39,
+      "to": 597.83,
+      "sid": 174,
+      "location": 2,
+      "content": "比如说SOO杠八封装",
+      "music": 0.0
+    },
+    {
+      "from": 597.83,
+      "to": 601.6,
+      "sid": 175,
+      "location": 2,
+      "content": "那么这个数值呢只有75PPM好",
+      "music": 0.0
+    },
+    {
+      "from": 601.6,
+      "to": 604.2,
+      "sid": 176,
+      "location": 2,
+      "content": "从这我们就可以看到看到啊",
+      "music": 0.0
+    },
+    {
+      "from": 604.2,
+      "to": 606.46,
+      "sid": 177,
+      "location": 2,
+      "content": "这个参数当中的一个变化",
+      "music": 0.0
+    },
+    {
+      "from": 606.46,
+      "to": 609.579,
+      "sid": 178,
+      "location": 2,
+      "content": "最后一个呢是一个长期稳定性",
+      "music": 0.0
+    },
+    {
+      "from": 609.579,
+      "to": 613.339,
+      "sid": 179,
+      "location": 2,
+      "content": "长期稳定性呢是电压随时间的变化",
+      "music": 0.0
+    },
+    {
+      "from": 613.339,
+      "to": 617.78,
+      "sid": 180,
+      "location": 2,
+      "content": "它主要是由封装或者是系列器件中的管经",
+      "music": 0.0
+    },
+    {
+      "from": 617.78,
+      "to": 623.14,
+      "sid": 181,
+      "location": 2,
+      "content": "管弦应力或者是离子迁移引起来的",
+      "music": 0.0
+    },
+    {
+      "from": 623.93,
+      "to": 628.83,
+      "sid": 182,
+      "location": 2,
+      "content": "因此呢我们要注意保持这个电路板的一个洁净",
+      "music": 0.0
+    },
+    {
+      "from": 629.11,
+      "to": 634.23,
+      "sid": 183,
+      "location": 2,
+      "content": "因为这是影响他长期稳定性的一个因素",
+      "music": 0.0
+    },
+    {
+      "from": 635.38,
+      "to": 635.96,
+      "sid": 184,
+      "location": 2,
+      "content": "好",
+      "music": 0.0
+    },
+    {
+      "from": 635.96,
+      "to": 640.88,
+      "sid": 185,
+      "location": 2,
+      "content": "那现在呢我们就把六个影响它的一个设计问题",
+      "music": 0.0
+    },
+    {
+      "from": 640.88,
+      "to": 642.92,
+      "sid": 186,
+      "location": 2,
+      "content": "的一个因素就都讲了",
+      "music": 0.0
+    },
+    {
+      "from": 642.92,
+      "to": 645.24,
+      "sid": 187,
+      "location": 2,
+      "content": "我们在选择基准源的时候",
+      "music": 0.0
+    },
+    {
+      "from": 645.24,
+      "to": 649.22,
+      "sid": 188,
+      "location": 2,
+      "content": "要注意这几方面的呃影响",
+      "music": 0.0
+    },
+    {
+      "from": 649.22,
+      "to": 653.34,
+      "sid": 189,
+      "location": 2,
+      "content": "同时呢对于基准源呢有一些常用的类型",
+      "music": 0.0
+    },
+    {
+      "from": 653.34,
+      "to": 659.75,
+      "sid": 190,
+      "location": 2,
+      "content": "我们下面通过一些嗯产生基准源的一个方法",
+      "music": 0.0
+    },
+    {
+      "from": 660.45,
+      "to": 663.57,
+      "sid": 191,
+      "location": 2,
+      "content": "讲一下常见的一个基准源的类型",
+      "music": 0.0
+    },
+    {
+      "from": 663.57,
+      "to": 666.93,
+      "sid": 192,
+      "location": 2,
+      "content": "方使大家在以后选择基准源的时候",
+      "music": 0.0
+    },
+    {
+      "from": 666.93,
+      "to": 669.329,
+      "sid": 193,
+      "location": 2,
+      "content": "会有一个更加明确的方向",
+      "music": 0.0
+    },
+    {
+      "from": 669.329,
+      "to": 673.649,
+      "sid": 194,
+      "location": 2,
+      "content": "嗯我们来看一下产生基准源有哪些方法",
+      "music": 0.0
+    },
+    {
+      "from": 675.46,
+      "to": 679.78,
+      "sid": 195,
+      "location": 2,
+      "content": "第一个呢是稳压管产生基准电压源",
+      "music": 0.0
+    },
+    {
+      "from": 682.7,
+      "to": 685.54,
+      "sid": 196,
+      "location": 2,
+      "content": "那么稳压管的电流调节作用呢",
+      "music": 0.0
+    },
+    {
+      "from": 685.54,
+      "to": 689.74,
+      "sid": 197,
+      "location": 2,
+      "content": "是这种稳压电路能够稳压的关键",
+      "music": 0.0
+    },
+    {
+      "from": 690.34,
+      "to": 692.06,
+      "sid": 198,
+      "location": 2,
+      "content": "这就是一个稳压管",
+      "music": 0.0
+    },
+    {
+      "from": 693.26,
+      "to": 695.4,
+      "sid": 199,
+      "location": 2,
+      "content": "利用稳压管端的电压",
+      "music": 0.0
+    },
+    {
+      "from": 695.4,
+      "to": 699.3,
+      "sid": 200,
+      "location": 2,
+      "content": "这个VC的一个微小变化",
+      "music": 0.0
+    },
+    {
+      "from": 699.3,
+      "to": 702.589,
+      "sid": 201,
+      "location": 2,
+      "content": "引起这个电流IZ较大的变化",
+      "music": 0.0
+    },
+    {
+      "from": 702.589,
+      "to": 706.069,
+      "sid": 202,
+      "location": 2,
+      "content": "那么通过R起的电压调节的作用",
+      "music": 0.0
+    },
+    {
+      "from": 706.069,
+      "to": 708.51,
+      "sid": 203,
+      "location": 2,
+      "content": "保证输出电压基本恒定",
+      "music": 0.0
+    },
+    {
+      "from": 708.83,
+      "to": 713.49,
+      "sid": 204,
+      "location": 2,
+      "content": "由于这个稳压管和这个负载电阻它是并联的",
+      "music": 0.0
+    },
+    {
+      "from": 713.49,
+      "to": 714.71,
+      "sid": 205,
+      "location": 2,
+      "content": "这种是并联的",
+      "music": 0.0
+    },
+    {
+      "from": 714.71,
+      "to": 718.055,
+      "sid": 206,
+      "location": 2,
+      "content": "因此这种电路呢叫做并联式稳压电路",
+      "music": 0.0
+    },
+    {
+      "from": 719.74,
+      "to": 724.04,
+      "sid": 207,
+      "location": 2,
+      "content": "那么常用的基准基准二极管呢有什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 724.04,
+      "to": 726.45,
+      "sid": 208,
+      "location": 2,
+      "content": "LSM385嗯",
+      "music": 0.0
+    },
+    {
+      "from": 726.45,
+      "to": 727.59,
+      "sid": 209,
+      "location": 2,
+      "content": "还有1.2伏",
+      "music": 0.0
+    },
+    {
+      "from": 727.59,
+      "to": 732.11,
+      "sid": 210,
+      "location": 2,
+      "content": "2.5伏的MMLM336也有2.5伏",
+      "music": 0.0
+    },
+    {
+      "from": 732.11,
+      "to": 733.579,
+      "sid": 211,
+      "location": 2,
+      "content": "有五伏的",
+      "music": 0.0
+    },
+    {
+      "from": 733.579,
+      "to": 736.599,
+      "sid": 212,
+      "location": 2,
+      "content": "他们有更小的动态电阻啊",
+      "music": 0.0
+    },
+    {
+      "from": 736.599,
+      "to": 741.769,
+      "sid": 213,
+      "location": 2,
+      "content": "还有3851欧的啊",
+      "music": 0.0
+    },
+    {
+      "from": 741.769,
+      "to": 743.109,
+      "sid": 214,
+      "location": 2,
+      "content": "0.6欧的",
+      "music": 0.0
+    },
+    {
+      "from": 743.109,
+      "to": 745.0,
+      "sid": 215,
+      "location": 2,
+      "content": "0.2欧的",
+      "music": 0.0
+    },
+    {
+      "from": 745.98,
+      "to": 748.82,
+      "sid": 216,
+      "location": 2,
+      "content": "这就是经常用的一个情况",
+      "music": 0.0
+    },
+    {
+      "from": 748.82,
+      "to": 755.71,
+      "sid": 217,
+      "location": 2,
+      "content": "就是经常用的产生基准电压源的一个方法",
+      "music": 0.0
+    },
+    {
+      "from": 756.71,
+      "to": 758.11,
+      "sid": 218,
+      "location": 2,
+      "content": "大家可以参考一下",
+      "music": 0.0
+    },
+    {
+      "from": 758.11,
+      "to": 760.35,
+      "sid": 219,
+      "location": 2,
+      "content": "以后再用到基准电压源的时候",
+      "music": 0.0
+    },
+    {
+      "from": 760.35,
+      "to": 762.65,
+      "sid": 220,
+      "location": 2,
+      "content": "可以从这些里面选择",
+      "music": 0.0
+    },
+    {
+      "from": 762.65,
+      "to": 766.25,
+      "sid": 221,
+      "location": 2,
+      "content": "那么第二个呢是集成块儿产生的",
+      "music": 0.0
+    },
+    {
+      "from": 766.25,
+      "to": 767.98,
+      "sid": 222,
+      "location": 2,
+      "content": "基准电压源电路",
+      "music": 0.0
+    },
+    {
+      "from": 767.98,
+      "to": 771.14,
+      "sid": 223,
+      "location": 2,
+      "content": "对于这个呢我们就非常多了",
+      "music": 0.0
+    },
+    {
+      "from": 771.14,
+      "to": 774.74,
+      "sid": 224,
+      "location": 2,
+      "content": "我们最常见的就是PL431",
+      "music": 0.0
+    },
+    {
+      "from": 775.37,
+      "to": 777.21,
+      "sid": 225,
+      "location": 2,
+      "content": "这个PL431系列",
+      "music": 0.0
+    },
+    {
+      "from": 777.21,
+      "to": 778.09,
+      "sid": 226,
+      "location": 2,
+      "content": "我们看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 778.09,
+      "to": 779.91,
+      "sid": 227,
+      "location": 2,
+      "content": "你看它有三个引脚",
+      "music": 0.0
+    },
+    {
+      "from": 779.91,
+      "to": 782.61,
+      "sid": 228,
+      "location": 2,
+      "content": "阴极阳极参考端",
+      "music": 0.0
+    },
+    {
+      "from": 783.16,
+      "to": 786.16,
+      "sid": 229,
+      "location": 2,
+      "content": "这是它的一个内部结构框图",
+      "music": 0.0
+    },
+    {
+      "from": 786.16,
+      "to": 789.64,
+      "sid": 230,
+      "location": 2,
+      "content": "这是它的在那个原理图当中的一个等效图",
+      "music": 0.0
+    },
+    {
+      "from": 789.64,
+      "to": 792.2,
+      "sid": 231,
+      "location": 2,
+      "content": "这是它的一个引脚图",
+      "music": 0.0
+    },
+    {
+      "from": 793.08,
+      "to": 795.44,
+      "sid": 232,
+      "location": 2,
+      "content": "这个T431系列芯片啊",
+      "music": 0.0
+    },
+    {
+      "from": 795.44,
+      "to": 798.0,
+      "sid": 233,
+      "location": 2,
+      "content": "具有良好的热稳定性",
+      "music": 0.0
+    },
+    {
+      "from": 799.07,
+      "to": 801.75,
+      "sid": 234,
+      "location": 2,
+      "content": "它的输出电压可以用两个电阻",
+      "music": 0.0
+    },
+    {
+      "from": 801.75,
+      "to": 806.31,
+      "sid": 235,
+      "location": 2,
+      "content": "就可以任意的从2.5伏到36伏",
+      "music": 0.0
+    },
+    {
+      "from": 808.08,
+      "to": 810.83,
+      "sid": 236,
+      "location": 2,
+      "content": "可以从这个范围里边设置",
+      "music": 0.0
+    },
+    {
+      "from": 811.31,
+      "to": 815.73,
+      "sid": 237,
+      "location": 2,
+      "content": "你看这个vi它是一个内部的",
+      "music": 0.0
+    },
+    {
+      "from": 815.73,
+      "to": 818.3,
+      "sid": 238,
+      "location": 2,
+      "content": "2.5伏的一个基准源",
+      "music": 0.0
+    },
+    {
+      "from": 818.3,
+      "to": 821.58,
+      "sid": 239,
+      "location": 2,
+      "content": "那么它接在运放的",
+      "music": 0.0
+    },
+    {
+      "from": 823.94,
+      "to": 828.94,
+      "sid": 240,
+      "location": 2,
+      "content": "还可以接下这个运放的那个反向输入端",
+      "music": 0.0
+    },
+    {
+      "from": 830.74,
+      "to": 832.14,
+      "sid": 241,
+      "location": 2,
+      "content": "我们知道啊",
+      "music": 0.0
+    },
+    {
+      "from": 832.14,
+      "to": 834.74,
+      "sid": 242,
+      "location": 2,
+      "content": "如果运放的反向输入端接一个基准源",
+      "music": 0.0
+    },
+    {
+      "from": 834.74,
+      "to": 836.02,
+      "sid": 243,
+      "location": 2,
+      "content": "2.5伏的时候",
+      "music": 0.0
+    },
+    {
+      "from": 836.02,
+      "to": 838.78,
+      "sid": 244,
+      "location": 2,
+      "content": "那么只有它当它的这个同向端的电压",
+      "music": 0.0
+    },
+    {
+      "from": 838.78,
+      "to": 840.68,
+      "sid": 245,
+      "location": 2,
+      "content": "非常接近2.5伏的时候",
+      "music": 0.0
+    },
+    {
+      "from": 840.68,
+      "to": 843.18,
+      "sid": 246,
+      "location": 2,
+      "content": "那么三极管当中才会有一个稳定的",
+      "music": 0.0
+    },
+    {
+      "from": 843.18,
+      "to": 845.23,
+      "sid": 247,
+      "location": 2,
+      "content": "非饱和电流流过",
+      "music": 0.0
+    },
+    {
+      "from": 845.63,
+      "to": 851.31,
+      "sid": 248,
+      "location": 2,
+      "content": "而且随着这个横向端的这个电压的微小变化",
+      "music": 0.0
+    },
+    {
+      "from": 851.31,
+      "to": 853.89,
+      "sid": 249,
+      "location": 2,
+      "content": "通过三极管的电流将会嗯",
+      "music": 0.0
+    },
+    {
+      "from": 853.89,
+      "to": 856.81,
+      "sid": 250,
+      "location": 2,
+      "content": "有一个比较大一点的变化",
+      "music": 0.0
+    },
+    {
+      "from": 859.74,
+      "to": 861.7,
+      "sid": 251,
+      "location": 2,
+      "content": "你看这就是一个实例",
+      "music": 0.0
+    },
+    {
+      "from": 861.7,
+      "to": 866.61,
+      "sid": 252,
+      "location": 2,
+      "content": "这是呃它构成五伏稳压管的一个典型例子",
+      "music": 0.0
+    },
+    {
+      "from": 866.61,
+      "to": 868.47,
+      "sid": 253,
+      "location": 2,
+      "content": "这是一个输入啊",
+      "music": 0.0
+    },
+    {
+      "from": 868.47,
+      "to": 870.569,
+      "sid": 254,
+      "location": 2,
+      "content": "这是一个2.5伏",
+      "music": 0.0
+    },
+    {
+      "from": 870.849,
+      "to": 871.829,
+      "sid": 255,
+      "location": 2,
+      "content": "1.5伏",
+      "music": 0.0
+    },
+    {
+      "from": 871.829,
+      "to": 874.609,
+      "sid": 256,
+      "location": 2,
+      "content": "两个相同的这个电阻并联",
+      "music": 0.0
+    },
+    {
+      "from": 874.609,
+      "to": 875.729,
+      "sid": 257,
+      "location": 2,
+      "content": "这是2.5伏",
+      "music": 0.0
+    },
+    {
+      "from": 875.729,
+      "to": 880.254,
+      "sid": 258,
+      "location": 2,
+      "content": "这边就VO就是一个输出五伏的一个稳压",
+      "music": 0.0
+    },
+    {
+      "from": 881.059,
+      "to": 883.859,
+      "sid": 259,
+      "location": 2,
+      "content": "那么还有一个呢器件是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 883.859,
+      "to": 887.569,
+      "sid": 260,
+      "location": 2,
+      "content": "第二个器件我们要介绍绍的就是MS6035",
+      "music": 0.0
+    },
+    {
+      "from": 887.569,
+      "to": 891.42,
+      "sid": 261,
+      "location": 2,
+      "content": "它是一个精密的集成稳压块",
+      "music": 0.0
+    },
+    {
+      "from": 892.58,
+      "to": 895.14,
+      "sid": 262,
+      "location": 2,
+      "content": "它是宽电压输入范围的",
+      "music": 0.0
+    },
+    {
+      "from": 895.14,
+      "to": 899.3,
+      "sid": 263,
+      "location": 2,
+      "content": "而且是比较精密的微功耗的一个电压基准",
+      "music": 0.0
+    },
+    {
+      "from": 900.32,
+      "to": 902.3,
+      "sid": 264,
+      "location": 2,
+      "content": "它也有2.5伏",
+      "music": 0.0
+    },
+    {
+      "from": 902.3,
+      "to": 905.96,
+      "sid": 265,
+      "location": 2,
+      "content": "三伏和五伏的电压输出选项",
+      "music": 0.0
+    },
+    {
+      "from": 910.04,
+      "to": 914.71,
+      "sid": 266,
+      "location": 2,
+      "content": "它通常采用的是三个引脚的sot23",
+      "music": 0.0
+    },
+    {
+      "from": 914.71,
+      "to": 918.45,
+      "sid": 267,
+      "location": 2,
+      "content": "和八个引脚的SOIC封装",
+      "music": 0.0
+    },
+    {
+      "from": 918.45,
+      "to": 920.11,
+      "sid": 268,
+      "location": 2,
+      "content": "就是它的一个电路图",
+      "music": 0.0
+    },
+    {
+      "from": 920.11,
+      "to": 924.41,
+      "sid": 269,
+      "location": 2,
+      "content": "看嗯其实他这个图连接也比较简单",
+      "music": 0.0
+    },
+    {
+      "from": 924.41,
+      "to": 927.55,
+      "sid": 270,
+      "location": 2,
+      "content": "就是SOT也是八音点的",
+      "music": 0.0
+    },
+    {
+      "from": 927.55,
+      "to": 931.43,
+      "sid": 271,
+      "location": 2,
+      "content": "SOOIC两种不同的封装",
+      "music": 0.0
+    },
+    {
+      "from": 932.1,
+      "to": 935.92,
+      "sid": 272,
+      "location": 2,
+      "content": "那么下面呢我们来看一下这个SL8069",
+      "music": 0.0
+    },
+    {
+      "from": 935.92,
+      "to": 937.5,
+      "sid": 273,
+      "location": 2,
+      "content": "精密集成的压块",
+      "music": 0.0
+    },
+    {
+      "from": 937.5,
+      "to": 939.5,
+      "sid": 274,
+      "location": 2,
+      "content": "就是另外一个系列对吧",
+      "music": 0.0
+    },
+    {
+      "from": 939.5,
+      "to": 942.28,
+      "sid": 275,
+      "location": 2,
+      "content": "这个系列看看它有什么嗯",
+      "music": 0.0
+    },
+    {
+      "from": 942.28,
+      "to": 943.24,
+      "sid": 276,
+      "location": 2,
+      "content": "它的性能参数",
+      "music": 0.0
+    },
+    {
+      "from": 943.24,
+      "to": 944.8,
+      "sid": 277,
+      "location": 2,
+      "content": "首先来看一下性能参数",
+      "music": 0.0
+    },
+    {
+      "from": 944.8,
+      "to": 947.92,
+      "sid": 278,
+      "location": 2,
+      "content": "它的基准电压典型值是1.23伏",
+      "music": 0.0
+    },
+    {
+      "from": 947.92,
+      "to": 950.56,
+      "sid": 279,
+      "location": 2,
+      "content": "最小值是1.2伏",
+      "music": 0.0
+    },
+    {
+      "from": 951.64,
+      "to": 953.4,
+      "sid": 280,
+      "location": 2,
+      "content": "最大值是1.25伏",
+      "music": 0.0
+    },
+    {
+      "from": 953.4,
+      "to": 956.24,
+      "sid": 281,
+      "location": 2,
+      "content": "它的最大工作电流是5ma",
+      "music": 0.0
+    },
+    {
+      "from": 956.24,
+      "to": 958.28,
+      "sid": 282,
+      "location": 2,
+      "content": "稳定性比较好",
+      "music": 0.0
+    },
+    {
+      "from": 958.28,
+      "to": 963.43,
+      "sid": 283,
+      "location": 2,
+      "content": "然后这是它的一个基本基本应用电路",
+      "music": 0.0
+    },
+    {
+      "from": 964.38,
+      "to": 967.98,
+      "sid": 284,
+      "location": 2,
+      "content": "对于这些基准电压源来说",
+      "music": 0.0
+    },
+    {
+      "from": 967.98,
+      "to": 971.06,
+      "sid": 285,
+      "location": 2,
+      "content": "他们的基本应用电路都比较简单",
+      "music": 0.0
+    },
+    {
+      "from": 971.45,
+      "to": 973.51,
+      "sid": 286,
+      "location": 2,
+      "content": "这是一个可调电阻啊",
+      "music": 0.0
+    },
+    {
+      "from": 973.51,
+      "to": 974.51,
+      "sid": 287,
+      "location": 2,
+      "content": "从这输出",
+      "music": 0.0
+    },
+    {
+      "from": 974.51,
+      "to": 977.72,
+      "sid": 288,
+      "location": 2,
+      "content": "这是一个VIF",
+      "music": 0.0
+    },
+    {
+      "from": 978.36,
+      "to": 980.12,
+      "sid": 289,
+      "location": 2,
+      "content": "这个呢是带缓冲的",
+      "music": 0.0
+    },
+    {
+      "from": 980.12,
+      "to": 983.4,
+      "sid": 290,
+      "location": 2,
+      "content": "十足的参考电源输出电路",
+      "music": 0.0
+    },
+    {
+      "from": 990.28,
+      "to": 992.6,
+      "sid": 291,
+      "location": 2,
+      "content": "再往下给大家介绍一下AD",
+      "music": 0.0
+    },
+    {
+      "from": 992.6,
+      "to": 996.2,
+      "sid": 292,
+      "location": 2,
+      "content": "584精密集成稳压块",
+      "music": 0.0
+    },
+    {
+      "from": 999.14,
+      "to": 1003.349,
+      "sid": 293,
+      "location": 2,
+      "content": "584是API公司",
+      "music": 0.0
+    },
+    {
+      "from": 1003.789,
+      "to": 1007.36,
+      "sid": 294,
+      "location": 2,
+      "content": "率先推出的一个可编程的基准电压源",
+      "music": 0.0
+    },
+    {
+      "from": 1007.36,
+      "to": 1009.5,
+      "sid": 295,
+      "location": 2,
+      "content": "还有比较优良的温度系数",
+      "music": 0.0
+    },
+    {
+      "from": 1009.5,
+      "to": 1011.74,
+      "sid": 296,
+      "location": 2,
+      "content": "在0~70度的温度范围内",
+      "music": 0.0
+    },
+    {
+      "from": 1011.74,
+      "to": 1016.16,
+      "sid": 297,
+      "location": 2,
+      "content": "温度系数最大为呃",
+      "music": 0.0
+    },
+    {
+      "from": 1017.92,
+      "to": 1022.2,
+      "sid": 298,
+      "location": 2,
+      "content": "嗯一度是5~6",
+      "music": 0.0
+    },
+    {
+      "from": 1022.91,
+      "to": 1025.55,
+      "sid": 299,
+      "location": 2,
+      "content": "那么它的静态电流消耗也比较小",
+      "music": 0.0
+    },
+    {
+      "from": 1025.55,
+      "to": 1027.39,
+      "sid": 300,
+      "location": 2,
+      "content": "一毫安",
+      "music": 0.0
+    },
+    {
+      "from": 1030.62,
+      "to": 1034.74,
+      "sid": 301,
+      "location": 2,
+      "content": "它不仅可以获得四种固定的基准电压制",
+      "music": 0.0
+    },
+    {
+      "from": 1034.74,
+      "to": 1039.079,
+      "sid": 302,
+      "location": 2,
+      "content": "而且还可以在这个2.5伏到十伏的范围内",
+      "music": 0.0
+    },
+    {
+      "from": 1039.559,
+      "to": 1043.399,
+      "sid": 303,
+      "location": 2,
+      "content": "任意设定所需要的一个基准电压值",
+      "music": 0.0
+    },
+    {
+      "from": 1044.65,
+      "to": 1046.95,
+      "sid": 304,
+      "location": 2,
+      "content": "这就是它的一个基本电路",
+      "music": 0.0
+    },
+    {
+      "from": 1046.95,
+      "to": 1051.04,
+      "sid": 305,
+      "location": 2,
+      "content": "然后这是它的一个五伏的参考电源输出电路",
+      "music": 0.0
+    },
+    {
+      "from": 1051.04,
+      "to": 1053.56,
+      "sid": 306,
+      "location": 2,
+      "content": "对于这种我们其实在用的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1053.56,
+      "to": 1056.24,
+      "sid": 307,
+      "location": 2,
+      "content": "对于这种已经相对成熟的这个参考电路",
+      "music": 0.0
+    },
+    {
+      "from": 1056.24,
+      "to": 1057.76,
+      "sid": 308,
+      "location": 2,
+      "content": "我们可以直接拿过来用",
+      "music": 0.0
+    },
+    {
+      "from": 1057.76,
+      "to": 1061.07,
+      "sid": 309,
+      "location": 2,
+      "content": "还有这个应该不",
+      "music": 0.0
+    },
+    {
+      "from": 1061.07,
+      "to": 1064.53,
+      "sid": 310,
+      "location": 2,
+      "content": "除非你这个输出值跟他的输出值不一样",
+      "music": 0.0
+    },
+    {
+      "from": 1065.09,
+      "to": 1068.44,
+      "sid": 311,
+      "location": 2,
+      "content": "应该不会做太多的一个改动",
+      "music": 0.0
+    },
+    {
+      "from": 1068.44,
+      "to": 1070.98,
+      "sid": 312,
+      "location": 2,
+      "content": "这就是产生基准源的一些方法",
+      "music": 0.0
+    },
+    {
+      "from": 1070.98,
+      "to": 1074.05,
+      "sid": 313,
+      "location": 2,
+      "content": "以及常见的一些基准嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1074.05,
+      "to": 1075.47,
+      "sid": 314,
+      "location": 2,
+      "content": "电压源芯片",
+      "music": 0.0
+    },
+    {
+      "from": 1075.47,
+      "to": 1077.97,
+      "sid": 315,
+      "location": 2,
+      "content": "或者是说基准电压源的一个集成",
+      "music": 0.0
+    },
+    {
+      "from": 1077.97,
+      "to": 1080.13,
+      "sid": 316,
+      "location": 2,
+      "content": "稳压块的一个显片",
+      "music": 0.0
+    },
+    {
+      "from": 1080.13,
+      "to": 1084.63,
+      "sid": 317,
+      "location": 2,
+      "content": "最后呢给大家啊留一个思考题",
+      "music": 0.0
+    },
+    {
+      "from": 1084.63,
+      "to": 1086.73,
+      "sid": 318,
+      "location": 2,
+      "content": "就是给大家找了一个电路",
+      "music": 0.0
+    },
+    {
+      "from": 1086.73,
+      "to": 1091.01,
+      "sid": 319,
+      "location": 2,
+      "content": "在这个电路当中呢有一个431",
+      "music": 0.0
+    },
+    {
+      "from": 1092.64,
+      "to": 1094.56,
+      "sid": 320,
+      "location": 2,
+      "content": "这是431的一个应用电路",
+      "music": 0.0
+    },
+    {
+      "from": 1094.56,
+      "to": 1098.38,
+      "sid": 321,
+      "location": 2,
+      "content": "用431制成的一个高精度稳压直流电源",
+      "music": 0.0
+    },
+    {
+      "from": 1098.38,
+      "to": 1099.72,
+      "sid": 322,
+      "location": 2,
+      "content": "他的文波比较小",
+      "music": 0.0
+    },
+    {
+      "from": 1099.72,
+      "to": 1100.68,
+      "sid": 323,
+      "location": 2,
+      "content": "精度比较高",
+      "music": 0.0
+    },
+    {
+      "from": 1100.68,
+      "to": 1104.199,
+      "sid": 324,
+      "location": 2,
+      "content": "可以给这个高精密的仪器供电啊",
+      "music": 0.0
+    },
+    {
+      "from": 1104.479,
+      "to": 1108.719,
+      "sid": 325,
+      "location": 2,
+      "content": "大家在这个课下啊来思考一下",
+      "music": 0.0
+    },
+    {
+      "from": 1108.719,
+      "to": 1109.799,
+      "sid": 326,
+      "location": 2,
+      "content": "在这个图当中",
+      "music": 0.0
+    },
+    {
+      "from": 1109.799,
+      "to": 1112.719,
+      "sid": 327,
+      "location": 2,
+      "content": "这个T431有什么作用",
+      "music": 0.0
+    },
+    {
+      "from": 1113.33,
+      "to": 1115.03,
+      "sid": 328,
+      "location": 2,
+      "content": "大家可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 1115.03,
+      "to": 1116.97,
+      "sid": 329,
+      "location": 2,
+      "content": "分析一下",
+      "music": 0.0
+    },
+    {
+      "from": 1117.57,
+      "to": 1120.33,
+      "sid": 330,
+      "location": 2,
+      "content": "那么对于这个电压基准源呢",
+      "music": 0.0
+    },
+    {
+      "from": 1120.33,
+      "to": 1122.0,
+      "sid": 331,
+      "location": 2,
+      "content": "就先讲到这里",
+      "music": 0.0
+    }
+  ]
+}

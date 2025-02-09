@@ -1,0 +1,1732 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 1.26,
+      "to": 4.349,
+      "sid": 1,
+      "location": 2,
+      "content": "下面呢我们来看一下精湛嗯",
+      "music": 0.0
+    },
+    {
+      "from": 4.349,
+      "to": 5.459,
+      "sid": 2,
+      "location": 2,
+      "content": "讲解精致的",
+      "music": 0.0
+    },
+    {
+      "from": 5.459,
+      "to": 8.73,
+      "sid": 3,
+      "location": 2,
+      "content": "主要是因为我们在单片机系统当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 8.73,
+      "to": 10.5,
+      "sid": 4,
+      "location": 2,
+      "content": "经常用到这种元器件",
+      "music": 0.0
+    },
+    {
+      "from": 10.5,
+      "to": 12.21,
+      "sid": 5,
+      "location": 2,
+      "content": "我们首先来了解一下",
+      "music": 0.0
+    },
+    {
+      "from": 12.21,
+      "to": 14.48,
+      "sid": 6,
+      "location": 2,
+      "content": "什么是精湛以及精湛的作用",
+      "music": 0.0
+    },
+    {
+      "from": 14.719,
+      "to": 18.18,
+      "sid": 7,
+      "location": 2,
+      "content": "那么精湛呢实际上是啊",
+      "music": 0.0
+    },
+    {
+      "from": 18.259,
+      "to": 22.489,
+      "sid": 8,
+      "location": 2,
+      "content": "能够把电能和机械能相互转化的一种晶体",
+      "music": 0.0
+    },
+    {
+      "from": 22.489,
+      "to": 24.589,
+      "sid": 9,
+      "location": 2,
+      "content": "在共振的状态下工作",
+      "music": 0.0
+    },
+    {
+      "from": 24.589,
+      "to": 28.95,
+      "sid": 10,
+      "location": 2,
+      "content": "以提供稳定精确的单凭震荡啊",
+      "music": 0.0
+    },
+    {
+      "from": 28.95,
+      "to": 32.029,
+      "sid": 11,
+      "location": 2,
+      "content": "它是从石英晶体上",
+      "music": 0.0
+    },
+    {
+      "from": 32.029,
+      "to": 34.879,
+      "sid": 12,
+      "location": 2,
+      "content": "按一定的方位角切下来的一个薄片",
+      "music": 0.0
+    },
+    {
+      "from": 34.879,
+      "to": 37.04,
+      "sid": 13,
+      "location": 2,
+      "content": "简称晶振啊",
+      "music": 0.0
+    },
+    {
+      "from": 37.8,
+      "to": 42.64,
+      "sid": 14,
+      "location": 2,
+      "content": "它能够提供比较精确的一个震荡频率",
+      "music": 0.0
+    },
+    {
+      "from": 47.94,
+      "to": 50.99,
+      "sid": 15,
+      "location": 2,
+      "content": "精致呢在电路当中的表示方法是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 50.99,
+      "to": 53.879,
+      "sid": 16,
+      "location": 2,
+      "content": "那么它的作用呢通常是啊",
+      "music": 0.0
+    },
+    {
+      "from": 55.08,
+      "to": 58.79,
+      "sid": 17,
+      "location": 2,
+      "content": "通常是用于各种电路当中产生震震荡频率",
+      "music": 0.0
+    },
+    {
+      "from": 58.79,
+      "to": 61.51,
+      "sid": 18,
+      "location": 2,
+      "content": "或者是啊配合其他元器件",
+      "music": 0.0
+    },
+    {
+      "from": 61.51,
+      "to": 63.91,
+      "sid": 19,
+      "location": 2,
+      "content": "产生标准的脉冲信号啊",
+      "music": 0.0
+    },
+    {
+      "from": 63.91,
+      "to": 64.87,
+      "sid": 20,
+      "location": 2,
+      "content": "用微处理器",
+      "music": 0.0
+    },
+    {
+      "from": 64.87,
+      "to": 68.29,
+      "sid": 21,
+      "location": 2,
+      "content": "用石英晶体振荡器",
+      "music": 0.0
+    },
+    {
+      "from": 68.29,
+      "to": 70.39,
+      "sid": 22,
+      "location": 2,
+      "content": "钟表用使用晶体振荡器",
+      "music": 0.0
+    },
+    {
+      "from": 70.39,
+      "to": 72.66,
+      "sid": 23,
+      "location": 2,
+      "content": "它主要是一个技术的作用",
+      "music": 0.0
+    },
+    {
+      "from": 72.66,
+      "to": 76.26,
+      "sid": 24,
+      "location": 2,
+      "content": "那么在晶振在单片机当中是什么作用呢",
+      "music": 0.0
+    },
+    {
+      "from": 76.26,
+      "to": 77.94,
+      "sid": 25,
+      "location": 2,
+      "content": "就是单片机当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 77.94,
+      "to": 79.56,
+      "sid": 26,
+      "location": 2,
+      "content": "实际上如果没有晶振呢",
+      "music": 0.0
+    },
+    {
+      "from": 79.56,
+      "to": 83.28,
+      "sid": 27,
+      "location": 2,
+      "content": "它就没有一个时钟周期啊",
+      "music": 0.0
+    },
+    {
+      "from": 83.28,
+      "to": 86.46,
+      "sid": 28,
+      "location": 2,
+      "content": "单片机在工作工作的时候呢啊",
+      "music": 0.0
+    },
+    {
+      "from": 86.46,
+      "to": 88.2,
+      "sid": 29,
+      "location": 2,
+      "content": "只是有有些内部啊",
+      "music": 0.0
+    },
+    {
+      "from": 88.2,
+      "to": 93.63,
+      "sid": 30,
+      "location": 2,
+      "content": "单片机内部会有一个单片机内部会有精湛啊",
+      "music": 0.0
+    },
+    {
+      "from": 93.63,
+      "to": 95.25,
+      "sid": 31,
+      "location": 2,
+      "content": "单片机工作的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 95.25,
+      "to": 98.7,
+      "sid": 32,
+      "location": 2,
+      "content": "实际上是一条一条从rom当中啊读取指令",
+      "music": 0.0
+    },
+    {
+      "from": 98.7,
+      "to": 100.88,
+      "sid": 33,
+      "location": 2,
+      "content": "然后再一步一步的执行",
+      "music": 0.0
+    },
+    {
+      "from": 101.32,
+      "to": 104.62,
+      "sid": 34,
+      "location": 2,
+      "content": "那么单片机访问一次存储存储器的时间呢",
+      "music": 0.0
+    },
+    {
+      "from": 104.62,
+      "to": 107.8,
+      "sid": 35,
+      "location": 2,
+      "content": "就成为一个机器机器周期啊",
+      "music": 0.0
+    },
+    {
+      "from": 107.8,
+      "to": 109.66,
+      "sid": 36,
+      "location": 2,
+      "content": "这是一个时间基准",
+      "music": 0.0
+    },
+    {
+      "from": 109.66,
+      "to": 112.54,
+      "sid": 37,
+      "location": 2,
+      "content": "那么一个机器周期呢包括12个时钟",
+      "music": 0.0
+    },
+    {
+      "from": 112.54,
+      "to": 113.73,
+      "sid": 38,
+      "location": 2,
+      "content": "时钟周期",
+      "music": 0.0
+    },
+    {
+      "from": 113.73,
+      "to": 118.41,
+      "sid": 39,
+      "location": 2,
+      "content": "如果一个单片机选择了一个12兆赫兹的精神",
+      "music": 0.0
+    },
+    {
+      "from": 118.41,
+      "to": 124.0,
+      "sid": 40,
+      "location": 2,
+      "content": "那么它的十周中期就是1/12啊微秒",
+      "music": 0.0
+    },
+    {
+      "from": 124.14,
+      "to": 129.06,
+      "sid": 41,
+      "location": 2,
+      "content": "那么它的一个机器周期就是12乘以",
+      "music": 0.0
+    },
+    {
+      "from": 129.06,
+      "to": 130.08,
+      "sid": 42,
+      "location": 2,
+      "content": "1/12微秒",
+      "music": 0.0
+    },
+    {
+      "from": 130.08,
+      "to": 131.38,
+      "sid": 43,
+      "location": 2,
+      "content": "也就是1微秒",
+      "music": 0.0
+    },
+    {
+      "from": 138.08,
+      "to": 141.1,
+      "sid": 44,
+      "location": 2,
+      "content": "那么就是所谓的指令周期呢",
+      "music": 0.0
+    },
+    {
+      "from": 141.1,
+      "to": 143.56,
+      "sid": 45,
+      "location": 2,
+      "content": "是执行一条指令的时间",
+      "music": 0.0
+    },
+    {
+      "from": 144.64,
+      "to": 149.83,
+      "sid": 46,
+      "location": 2,
+      "content": "刚才我们介绍的有机器周期对吧",
+      "music": 0.0
+    },
+    {
+      "from": 149.83,
+      "to": 151.69,
+      "sid": 47,
+      "location": 2,
+      "content": "有一个时钟周期",
+      "music": 0.0
+    },
+    {
+      "from": 151.69,
+      "to": 153.46,
+      "sid": 48,
+      "location": 2,
+      "content": "那么还有一个指定周期",
+      "music": 0.0
+    },
+    {
+      "from": 153.46,
+      "to": 159.22,
+      "sid": 49,
+      "location": 2,
+      "content": "我们就是在执行这一条指令所需要的时间",
+      "music": 0.0
+    },
+    {
+      "from": 159.22,
+      "to": 161.26,
+      "sid": 50,
+      "location": 2,
+      "content": "如果我要计算啊",
+      "music": 0.0
+    },
+    {
+      "from": 161.26,
+      "to": 165.359,
+      "sid": 51,
+      "location": 2,
+      "content": "这个完成某些指令所需要的这个时间呢",
+      "music": 0.0
+    },
+    {
+      "from": 165.359,
+      "to": 167.729,
+      "sid": 52,
+      "location": 2,
+      "content": "首先要知道这个真正的频率",
+      "music": 0.0
+    },
+    {
+      "from": 167.729,
+      "to": 170.7,
+      "sid": 53,
+      "location": 2,
+      "content": "用所使用所四",
+      "music": 0.0
+    },
+    {
+      "from": 170.7,
+      "to": 174.419,
+      "sid": 54,
+      "location": 2,
+      "content": "如果说我知道这个金正的这个频率呢",
+      "music": 0.0
+    },
+    {
+      "from": 174.419,
+      "to": 177.82,
+      "sid": 55,
+      "location": 2,
+      "content": "就知道它的一个呃周期的实践",
+      "music": 0.0
+    },
+    {
+      "from": 178.459,
+      "to": 180.639,
+      "sid": 56,
+      "location": 2,
+      "content": "就可以根据这个周期的时间",
+      "music": 0.0
+    },
+    {
+      "from": 180.639,
+      "to": 184.08,
+      "sid": 57,
+      "location": 2,
+      "content": "来确定我完成这个指令需要多长的时间",
+      "music": 0.0
+    },
+    {
+      "from": 186.44,
+      "to": 188.74,
+      "sid": 58,
+      "location": 2,
+      "content": "例如这个一个单片机",
+      "music": 0.0
+    },
+    {
+      "from": 188.74,
+      "to": 191.76,
+      "sid": 59,
+      "location": 2,
+      "content": "他选择了一个12兆赫兹的一个晶振啊",
+      "music": 0.0
+    },
+    {
+      "from": 191.76,
+      "to": 195.39,
+      "sid": 60,
+      "location": 2,
+      "content": "那么当这个定时器的数值加一的时候",
+      "music": 0.0
+    },
+    {
+      "from": 195.39,
+      "to": 197.82,
+      "sid": 61,
+      "location": 2,
+      "content": "那么实际经过",
+      "music": 0.0
+    },
+    {
+      "from": 198.72,
+      "to": 200.86,
+      "sid": 62,
+      "location": 2,
+      "content": "那么实际经过定时器",
+      "music": 0.0
+    },
+    {
+      "from": 204.44,
+      "to": 206.47,
+      "sid": 63,
+      "location": 2,
+      "content": "它的时间就是一个e为秒",
+      "music": 0.0
+    },
+    {
+      "from": 206.47,
+      "to": 208.9,
+      "sid": 64,
+      "location": 2,
+      "content": "那么这就是单片机的一个定时原理",
+      "music": 0.0
+    },
+    {
+      "from": 208.9,
+      "to": 211.9,
+      "sid": 65,
+      "location": 2,
+      "content": "那么精准的时间就是给单片机来定时的",
+      "music": 0.0
+    },
+    {
+      "from": 211.9,
+      "to": 213.28,
+      "sid": 66,
+      "location": 2,
+      "content": "这样一个器件",
+      "music": 0.0
+    },
+    {
+      "from": 216.02,
+      "to": 221.109,
+      "sid": 67,
+      "location": 2,
+      "content": "这就是晶振在单片机当中的一个作用嗯",
+      "music": 0.0
+    },
+    {
+      "from": 221.109,
+      "to": 223.88,
+      "sid": 68,
+      "location": 2,
+      "content": "他在这个单片机当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 224.179,
+      "to": 227.179,
+      "sid": 69,
+      "location": 2,
+      "content": "通常是和左相环电路配合使用的",
+      "music": 0.0
+    },
+    {
+      "from": 227.179,
+      "to": 231.14,
+      "sid": 70,
+      "location": 2,
+      "content": "v提供系统所需要的一个时钟频率",
+      "music": 0.0
+    },
+    {
+      "from": 231.14,
+      "to": 233.03,
+      "sid": 71,
+      "location": 2,
+      "content": "如果是不同的子系统的",
+      "music": 0.0
+    },
+    {
+      "from": 233.03,
+      "to": 235.01,
+      "sid": 72,
+      "location": 2,
+      "content": "需要不同频率的这个时钟信号",
+      "music": 0.0
+    },
+    {
+      "from": 235.01,
+      "to": 237.17,
+      "sid": 73,
+      "location": 2,
+      "content": "也可以用嗯",
+      "music": 0.0
+    },
+    {
+      "from": 237.17,
+      "to": 240.84,
+      "sid": 74,
+      "location": 2,
+      "content": "与同一个晶振相连的不同损耗环来提供",
+      "music": 0.0
+    },
+    {
+      "from": 243.559,
+      "to": 246.519,
+      "sid": 75,
+      "location": 2,
+      "content": "这就是在单片机当中的作用",
+      "music": 0.0
+    },
+    {
+      "from": 246.519,
+      "to": 249.939,
+      "sid": 76,
+      "location": 2,
+      "content": "那么精湛呢通常分为有源晶振和无源晶振",
+      "music": 0.0
+    },
+    {
+      "from": 249.939,
+      "to": 252.26,
+      "sid": 77,
+      "location": 2,
+      "content": "那么它们之间的区别是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 252.26,
+      "to": 254.78,
+      "sid": 78,
+      "location": 2,
+      "content": "对于这个有源和无源呀",
+      "music": 0.0
+    },
+    {
+      "from": 254.78,
+      "to": 256.4,
+      "sid": 79,
+      "location": 2,
+      "content": "这个无源晶振啊",
+      "music": 0.0
+    },
+    {
+      "from": 256.4,
+      "to": 259.04,
+      "sid": 80,
+      "location": 2,
+      "content": "它需要用单片机内部的振荡器",
+      "music": 0.0
+    },
+    {
+      "from": 259.099,
+      "to": 261.319,
+      "sid": 81,
+      "location": 2,
+      "content": "那么一般的单片机的data sheet",
+      "music": 0.0
+    },
+    {
+      "from": 261.319,
+      "to": 263.389,
+      "sid": 82,
+      "location": 2,
+      "content": "上面会有一个连接方法",
+      "music": 0.0
+    },
+    {
+      "from": 263.389,
+      "to": 266.539,
+      "sid": 83,
+      "location": 2,
+      "content": "这个无源晶振呢它没有一个电压的问题",
+      "music": 0.0
+    },
+    {
+      "from": 266.539,
+      "to": 268.5,
+      "sid": 84,
+      "location": 2,
+      "content": "它的信号电平是可变的",
+      "music": 0.0
+    },
+    {
+      "from": 269.36,
+      "to": 274.22,
+      "sid": 85,
+      "location": 2,
+      "content": "它的起振电路啊来决定的",
+      "music": 0.0
+    },
+    {
+      "from": 274.68,
+      "to": 278.25,
+      "sid": 86,
+      "location": 2,
+      "content": "所以说呢他一样的经济可以适应适应",
+      "music": 0.0
+    },
+    {
+      "from": 278.25,
+      "to": 280.06,
+      "sid": 87,
+      "location": 2,
+      "content": "适用于多种电压",
+      "music": 0.0
+    },
+    {
+      "from": 282.0,
+      "to": 284.3,
+      "sid": 88,
+      "location": 2,
+      "content": "但是呢就是无源晶体呢",
+      "music": 0.0
+    },
+    {
+      "from": 284.3,
+      "to": 285.95,
+      "sid": 89,
+      "location": 2,
+      "content": "它相对于精湛而言呢",
+      "music": 0.0
+    },
+    {
+      "from": 285.95,
+      "to": 287.74,
+      "sid": 90,
+      "location": 2,
+      "content": "它信号质量不好",
+      "music": 0.0
+    },
+    {
+      "from": 287.74,
+      "to": 292.58,
+      "sid": 91,
+      "location": 2,
+      "content": "通常需要精确的这个外围电路来进行匹配",
+      "music": 0.0
+    },
+    {
+      "from": 292.9,
+      "to": 295.96,
+      "sid": 92,
+      "location": 2,
+      "content": "更换不同频率的这个晶体时",
+      "music": 0.0
+    },
+    {
+      "from": 295.96,
+      "to": 299.58,
+      "sid": 93,
+      "location": 2,
+      "content": "周边配置的电路要做相应的调整",
+      "music": 0.0
+    },
+    {
+      "from": 299.58,
+      "to": 301.68,
+      "sid": 94,
+      "location": 2,
+      "content": "而对于有源晶振来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 301.68,
+      "to": 304.62,
+      "sid": 95,
+      "location": 2,
+      "content": "有源晶振它就不需要单片机的内部振荡器",
+      "music": 0.0
+    },
+    {
+      "from": 304.62,
+      "to": 306.06,
+      "sid": 96,
+      "location": 2,
+      "content": "它的信号质量比较好",
+      "music": 0.0
+    },
+    {
+      "from": 306.06,
+      "to": 307.01,
+      "sid": 97,
+      "location": 2,
+      "content": "比较稳定",
+      "music": 0.0
+    },
+    {
+      "from": 307.01,
+      "to": 310.44,
+      "sid": 98,
+      "location": 2,
+      "content": "而且呢连接方式相对要简单一点",
+      "music": 0.0
+    },
+    {
+      "from": 313.1,
+      "to": 317.52,
+      "sid": 99,
+      "location": 2,
+      "content": "啊如果有些单片机内部没有起振电路",
+      "music": 0.0
+    },
+    {
+      "from": 317.52,
+      "to": 319.9,
+      "sid": 100,
+      "location": 2,
+      "content": "只能是使用有源晶振",
+      "music": 0.0
+    },
+    {
+      "from": 319.92,
+      "to": 324.7,
+      "sid": 101,
+      "location": 2,
+      "content": "有源晶振的通常是比无源晶振的体积要大一点",
+      "music": 0.0
+    },
+    {
+      "from": 324.92,
+      "to": 327.32,
+      "sid": 102,
+      "location": 2,
+      "content": "但是现在的有源晶振呢",
+      "music": 0.0
+    },
+    {
+      "from": 327.32,
+      "to": 330.05,
+      "sid": 103,
+      "location": 2,
+      "content": "他那个封装形式也比较多样啊",
+      "music": 0.0
+    },
+    {
+      "from": 330.05,
+      "to": 332.74,
+      "sid": 104,
+      "location": 2,
+      "content": "体积也比原来有所变化",
+      "music": 0.0
+    },
+    {
+      "from": 334.24,
+      "to": 337.659,
+      "sid": 105,
+      "location": 2,
+      "content": "这就是晶振有源和无源的一个区别",
+      "music": 0.0
+    },
+    {
+      "from": 337.659,
+      "to": 340.179,
+      "sid": 106,
+      "location": 2,
+      "content": "那么我们在晶振设计电路的时候",
+      "music": 0.0
+    },
+    {
+      "from": 340.179,
+      "to": 341.799,
+      "sid": 107,
+      "location": 2,
+      "content": "需要注意哪些问题呢",
+      "music": 0.0
+    },
+    {
+      "from": 341.799,
+      "to": 343.179,
+      "sid": 108,
+      "location": 2,
+      "content": "我们来看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 343.179,
+      "to": 345.22,
+      "sid": 109,
+      "location": 2,
+      "content": "首先有几点嗯",
+      "music": 0.0
+    },
+    {
+      "from": 345.22,
+      "to": 348.25,
+      "sid": 110,
+      "location": 2,
+      "content": "需要备皮的单片就需要配置好pr了",
+      "music": 0.0
+    },
+    {
+      "from": 348.25,
+      "to": 349.69,
+      "sid": 111,
+      "location": 2,
+      "content": "周边的一个配置电路",
+      "music": 0.0
+    },
+    {
+      "from": 349.69,
+      "to": 353.38,
+      "sid": 112,
+      "location": 2,
+      "content": "主要是隔离呀和滤波这样的作用对吧",
+      "music": 0.0
+    },
+    {
+      "from": 353.38,
+      "to": 356.86,
+      "sid": 113,
+      "location": 2,
+      "content": "然后呢是20兆赫兹以下的这个晶体晶振",
+      "music": 0.04242424113865508
+    },
+    {
+      "from": 356.86,
+      "to": 360.71,
+      "sid": 114,
+      "location": 2,
+      "content": "基本上都是祭品的器件稳定度比较好",
+      "music": 0.0
+    },
+    {
+      "from": 360.71,
+      "to": 365.0,
+      "sid": 115,
+      "location": 2,
+      "content": "那么超过这个这个频段的呢",
+      "music": 0.0
+    },
+    {
+      "from": 365.0,
+      "to": 366.44,
+      "sid": 116,
+      "location": 2,
+      "content": "它一般都是斜坡啊",
+      "music": 0.0
+    },
+    {
+      "from": 366.44,
+      "to": 368.22,
+      "sid": 117,
+      "location": 2,
+      "content": "它的稳定度比较差",
+      "music": 0.0
+    },
+    {
+      "from": 369.0,
+      "to": 372.9,
+      "sid": 118,
+      "location": 2,
+      "content": "因此呢我们一般会用低频的器件啊",
+      "music": 0.0
+    },
+    {
+      "from": 372.9,
+      "to": 377.64,
+      "sid": 119,
+      "location": 2,
+      "content": "被屏的呢用背屏用的这个p r r电路需要配置",
+      "music": 0.0
+    },
+    {
+      "from": 377.64,
+      "to": 380.04,
+      "sid": 120,
+      "location": 2,
+      "content": "需要这个周边配置的主要是电容呀",
+      "music": 0.0
+    },
+    {
+      "from": 380.04,
+      "to": 380.64,
+      "sid": 121,
+      "location": 2,
+      "content": "电感呀",
+      "music": 0.0
+    },
+    {
+      "from": 380.64,
+      "to": 381.66,
+      "sid": 122,
+      "location": 2,
+      "content": "电阻呀",
+      "music": 0.0
+    },
+    {
+      "from": 383.06,
+      "to": 387.88,
+      "sid": 123,
+      "location": 2,
+      "content": "嗯它的稳定度和价格要好于这个晶体",
+      "music": 0.0
+    },
+    {
+      "from": 387.88,
+      "to": 389.34,
+      "sid": 124,
+      "location": 2,
+      "content": "晶振器",
+      "music": 0.0
+    },
+    {
+      "from": 389.34,
+      "to": 393.69,
+      "sid": 125,
+      "location": 2,
+      "content": "对于时钟信号的这个走线就要尽可能短",
+      "music": 0.0
+    },
+    {
+      "from": 393.69,
+      "to": 395.36,
+      "sid": 126,
+      "location": 2,
+      "content": "线宽尽可能大",
+      "music": 0.0
+    },
+    {
+      "from": 396.02,
+      "to": 397.96,
+      "sid": 127,
+      "location": 2,
+      "content": "实际上这些东西呢",
+      "music": 0.0
+    },
+    {
+      "from": 397.96,
+      "to": 401.17,
+      "sid": 128,
+      "location": 2,
+      "content": "是在我们用某一个单片机的时候",
+      "music": 0.0
+    },
+    {
+      "from": 401.17,
+      "to": 403.63,
+      "sid": 129,
+      "location": 2,
+      "content": "对于单片机精准的配置呀",
+      "music": 0.0
+    },
+    {
+      "from": 403.63,
+      "to": 405.01,
+      "sid": 130,
+      "location": 2,
+      "content": "如何选择呀",
+      "music": 0.0
+    },
+    {
+      "from": 405.01,
+      "to": 405.97,
+      "sid": 131,
+      "location": 2,
+      "content": "如何配置呀",
+      "music": 0.0
+    },
+    {
+      "from": 405.97,
+      "to": 407.77,
+      "sid": 132,
+      "location": 2,
+      "content": "走线有哪些注意事项呀",
+      "music": 0.0
+    },
+    {
+      "from": 407.77,
+      "to": 410.77,
+      "sid": 133,
+      "location": 2,
+      "content": "这个在我们用那个单片机",
+      "music": 0.0
+    },
+    {
+      "from": 410.77,
+      "to": 411.99,
+      "sid": 134,
+      "location": 2,
+      "content": "不同的单片机",
+      "music": 0.0
+    },
+    {
+      "from": 411.99,
+      "to": 414.99,
+      "sid": 135,
+      "location": 2,
+      "content": "他的那个data 里面会有一个不同的说明",
+      "music": 0.0
+    },
+    {
+      "from": 414.99,
+      "to": 417.15,
+      "sid": 136,
+      "location": 2,
+      "content": "大家在用的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 417.15,
+      "to": 418.78,
+      "sid": 137,
+      "location": 2,
+      "content": "注意一下就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 418.78,
+      "to": 421.0,
+      "sid": 138,
+      "location": 2,
+      "content": "那么最后面呢我们来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 421.0,
+      "to": 423.46,
+      "sid": 139,
+      "location": 2,
+      "content": "如何判断精准的一个好坏啊",
+      "music": 0.0
+    },
+    {
+      "from": 423.46,
+      "to": 425.41,
+      "sid": 140,
+      "location": 2,
+      "content": "我们在经常的使用当中",
+      "music": 0.0
+    },
+    {
+      "from": 425.41,
+      "to": 426.97,
+      "sid": 141,
+      "location": 2,
+      "content": "可能晶振不起",
+      "music": 0.0
+    },
+    {
+      "from": 426.97,
+      "to": 428.41,
+      "sid": 142,
+      "location": 2,
+      "content": "振不起振了",
+      "music": 0.0
+    },
+    {
+      "from": 428.41,
+      "to": 430.63,
+      "sid": 143,
+      "location": 2,
+      "content": "或者是不知道这个精神是不是好的",
+      "music": 0.0
+    },
+    {
+      "from": 430.63,
+      "to": 431.41,
+      "sid": 144,
+      "location": 2,
+      "content": "没有办法使用",
+      "music": 0.0
+    },
+    {
+      "from": 431.41,
+      "to": 432.89,
+      "sid": 145,
+      "location": 2,
+      "content": "我们如何来判断呢",
+      "music": 0.0
+    },
+    {
+      "from": 432.89,
+      "to": 435.53,
+      "sid": 146,
+      "location": 2,
+      "content": "首先就要看用那个数字电容表",
+      "music": 0.0
+    },
+    {
+      "from": 435.53,
+      "to": 437.909,
+      "sid": 147,
+      "location": 2,
+      "content": "来测量它的电容啊",
+      "music": 0.0
+    },
+    {
+      "from": 437.909,
+      "to": 439.799,
+      "sid": 148,
+      "location": 2,
+      "content": "一般损坏的这个晶振啊",
+      "music": 0.0
+    },
+    {
+      "from": 439.799,
+      "to": 441.84,
+      "sid": 149,
+      "location": 2,
+      "content": "容量明显的是减小的",
+      "music": 0.0
+    },
+    {
+      "from": 441.92,
+      "to": 445.04,
+      "sid": 150,
+      "location": 2,
+      "content": "好的呢一般都在几十到几百批发",
+      "music": 0.0
+    },
+    {
+      "from": 445.04,
+      "to": 447.02,
+      "sid": 151,
+      "location": 2,
+      "content": "第二个呢就是听声音啊",
+      "music": 0.0
+    },
+    {
+      "from": 447.02,
+      "to": 449.18,
+      "sid": 152,
+      "location": 2,
+      "content": "看声音是不是摇一下",
+      "music": 0.0
+    },
+    {
+      "from": 449.18,
+      "to": 451.1,
+      "sid": 153,
+      "location": 2,
+      "content": "看看里边的晶体是不是碎了",
+      "music": 0.0
+    },
+    {
+      "from": 451.1,
+      "to": 453.47,
+      "sid": 154,
+      "location": 2,
+      "content": "第三个呢就是测量输出脚的电压",
+      "music": 0.0
+    },
+    {
+      "from": 453.47,
+      "to": 455.39,
+      "sid": 155,
+      "location": 2,
+      "content": "一般正常的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 455.39,
+      "to": 457.88,
+      "sid": 156,
+      "location": 2,
+      "content": "输出脚电压是电源电压的一半",
+      "music": 0.0
+    },
+    {
+      "from": 459.639,
+      "to": 463.319,
+      "sid": 157,
+      "location": 2,
+      "content": "呃另外一个方面呢还得还想给大家多讲一点",
+      "music": 0.0
+    },
+    {
+      "from": 463.319,
+      "to": 466.27,
+      "sid": 158,
+      "location": 2,
+      "content": "就是晶振不起振的原因",
+      "music": 0.0
+    },
+    {
+      "from": 466.27,
+      "to": 467.38,
+      "sid": 159,
+      "location": 2,
+      "content": "一般有哪些",
+      "music": 0.0
+    },
+    {
+      "from": 467.38,
+      "to": 469.06,
+      "sid": 160,
+      "location": 2,
+      "content": "经振不起振的原因呢",
+      "music": 0.0
+    },
+    {
+      "from": 469.06,
+      "to": 471.97,
+      "sid": 161,
+      "location": 2,
+      "content": "主要我们如果遇到了精神不起战",
+      "music": 0.0
+    },
+    {
+      "from": 471.97,
+      "to": 474.64,
+      "sid": 162,
+      "location": 2,
+      "content": "我们可以从这几个方面来考虑啊",
+      "music": 0.0
+    },
+    {
+      "from": 474.64,
+      "to": 479.46,
+      "sid": 163,
+      "location": 2,
+      "content": "一个就是我们那个pcb布线是不是有错误啊",
+      "music": 0.0
+    },
+    {
+      "from": 479.46,
+      "to": 483.15,
+      "sid": 164,
+      "location": 2,
+      "content": "排如果排除了单片机是没有问题的",
+      "music": 0.0
+    },
+    {
+      "from": 483.15,
+      "to": 484.71,
+      "sid": 165,
+      "location": 2,
+      "content": "排除了我们单片机有问题",
+      "music": 0.0
+    },
+    {
+      "from": 484.71,
+      "to": 486.96,
+      "sid": 166,
+      "location": 2,
+      "content": "我们单片机是没有问题的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 486.96,
+      "to": 491.2,
+      "sid": 167,
+      "location": 2,
+      "content": "我们首先要看一下是不是我的pcb不屑啊",
+      "music": 0.0
+    },
+    {
+      "from": 491.2,
+      "to": 492.289,
+      "sid": 168,
+      "location": 2,
+      "content": "有没有错误",
+      "music": 0.0
+    },
+    {
+      "from": 492.289,
+      "to": 497.029,
+      "sid": 169,
+      "location": 2,
+      "content": "负载电容或者是匹配电容与精神是不是匹配",
+      "music": 0.0
+    },
+    {
+      "from": 497.029,
+      "to": 499.189,
+      "sid": 170,
+      "location": 2,
+      "content": "或者是我的电容有没有问题",
+      "music": 0.0
+    },
+    {
+      "from": 499.189,
+      "to": 500.68,
+      "sid": 171,
+      "location": 2,
+      "content": "这是第二个方面",
+      "music": 0.0
+    },
+    {
+      "from": 502.38,
+      "to": 505.88,
+      "sid": 172,
+      "location": 2,
+      "content": "还有呢就是我的晶振电路的走线是不是太长了",
+      "music": 0.0
+    },
+    {
+      "from": 505.88,
+      "to": 506.75,
+      "sid": 173,
+      "location": 2,
+      "content": "有干扰",
+      "music": 0.0
+    },
+    {
+      "from": 506.75,
+      "to": 510.73,
+      "sid": 174,
+      "location": 2,
+      "content": "或者是晶振两个引脚之间是不是有走线啊",
+      "music": 0.0
+    },
+    {
+      "from": 510.73,
+      "to": 512.53,
+      "sid": 175,
+      "location": 2,
+      "content": "这些都是一些影响因素",
+      "music": 0.0
+    },
+    {
+      "from": 512.53,
+      "to": 513.91,
+      "sid": 176,
+      "location": 2,
+      "content": "还有一个外围电路",
+      "music": 0.0
+    },
+    {
+      "from": 513.91,
+      "to": 515.71,
+      "sid": 177,
+      "location": 2,
+      "content": "外围电路对它有没有影响",
+      "music": 0.0
+    },
+    {
+      "from": 515.71,
+      "to": 516.799,
+      "sid": 178,
+      "location": 2,
+      "content": "有没有干扰",
+      "music": 0.0
+    },
+    {
+      "from": 517.82,
+      "to": 521.56,
+      "sid": 179,
+      "location": 2,
+      "content": "首先呢我们对于晶振不起振的有一个解决方案",
+      "music": 0.0
+    },
+    {
+      "from": 521.56,
+      "to": 525.77,
+      "sid": 180,
+      "location": 2,
+      "content": "就是我们首先要排排除这个电路电路是错误的",
+      "music": 0.0
+    },
+    {
+      "from": 525.77,
+      "to": 527.959,
+      "sid": 181,
+      "location": 2,
+      "content": "而要排除这种错误的可能性",
+      "music": 0.0
+    },
+    {
+      "from": 528.12,
+      "to": 531.0,
+      "sid": 182,
+      "location": 2,
+      "content": "嗯通常我们这个刚才也说了",
+      "music": 0.0
+    },
+    {
+      "from": 531.0,
+      "to": 534.24,
+      "sid": 183,
+      "location": 2,
+      "content": "这个单片机的data sheet里边会有一个推荐电路",
+      "music": 0.0
+    },
+    {
+      "from": 534.24,
+      "to": 535.56,
+      "sid": 184,
+      "location": 2,
+      "content": "如何选择精正",
+      "music": 0.0
+    },
+    {
+      "from": 535.56,
+      "to": 536.34,
+      "sid": 185,
+      "location": 2,
+      "content": "如何布线",
+      "music": 0.0
+    },
+    {
+      "from": 536.34,
+      "to": 538.47,
+      "sid": 186,
+      "location": 2,
+      "content": "如何啊进行配置",
+      "music": 0.0
+    },
+    {
+      "from": 538.47,
+      "to": 540.33,
+      "sid": 187,
+      "location": 2,
+      "content": "它都有一个推荐电路",
+      "music": 0.0
+    },
+    {
+      "from": 540.33,
+      "to": 543.33,
+      "sid": 188,
+      "location": 2,
+      "content": "我们要根据那个推荐电路来排除",
+      "music": 0.0
+    },
+    {
+      "from": 543.33,
+      "to": 547.36,
+      "sid": 189,
+      "location": 2,
+      "content": "我们经振不起振是由于我们的电路错误造成的",
+      "music": 0.0
+    },
+    {
+      "from": 547.36,
+      "to": 548.59,
+      "sid": 190,
+      "location": 2,
+      "content": "排除这个可能性",
+      "music": 0.0
+    },
+    {
+      "from": 548.59,
+      "to": 550.12,
+      "sid": 191,
+      "location": 2,
+      "content": "第二呢啊",
+      "music": 0.0
+    },
+    {
+      "from": 550.12,
+      "to": 554.34,
+      "sid": 192,
+      "location": 2,
+      "content": "他的这个精致的外围电路无非就是电阻电容啊",
+      "music": 0.0
+    },
+    {
+      "from": 554.34,
+      "to": 559.14,
+      "sid": 193,
+      "location": 2,
+      "content": "我们要排除是因为外围外围元器件的不良啊",
+      "music": 0.0
+    },
+    {
+      "from": 559.14,
+      "to": 560.7,
+      "sid": 194,
+      "location": 2,
+      "content": "造成的这个经振不起振",
+      "music": 0.0
+    },
+    {
+      "from": 560.7,
+      "to": 563.22,
+      "sid": 195,
+      "location": 2,
+      "content": "这个就比较容比较容易判断了",
+      "music": 0.0
+    },
+    {
+      "from": 563.22,
+      "to": 564.82,
+      "sid": 196,
+      "location": 2,
+      "content": "因为电阻电容啊",
+      "music": 0.0
+    },
+    {
+      "from": 564.82,
+      "to": 567.979,
+      "sid": 197,
+      "location": 2,
+      "content": "我们有办法判断他是不是好的",
+      "music": 0.0
+    },
+    {
+      "from": 569.88,
+      "to": 573.62,
+      "sid": 198,
+      "location": 2,
+      "content": "啊第三个呢我们可以测试一下",
+      "music": 0.0
+    },
+    {
+      "from": 573.62,
+      "to": 575.48,
+      "sid": 199,
+      "location": 2,
+      "content": "有可能让我们这金身是坏的",
+      "music": 0.0
+    },
+    {
+      "from": 575.48,
+      "to": 580.17,
+      "sid": 200,
+      "location": 2,
+      "content": "我们可以尝试着换一下这个晶振",
+      "music": 0.0
+    },
+    {
+      "from": 580.17,
+      "to": 581.16,
+      "sid": 201,
+      "location": 2,
+      "content": "还有一个呢",
+      "music": 0.0
+    },
+    {
+      "from": 581.16,
+      "to": 584.97,
+      "sid": 202,
+      "location": 2,
+      "content": "我们可以尝试着换一下晶振两端的电容啊",
+      "music": 0.0
+    },
+    {
+      "from": 584.97,
+      "to": 587.6,
+      "sid": 203,
+      "location": 2,
+      "content": "这个换下电容的大小",
+      "music": 0.0
+    },
+    {
+      "from": 587.6,
+      "to": 590.7,
+      "sid": 204,
+      "location": 2,
+      "content": "也许这个精神就起振了啊",
+      "music": 0.0
+    },
+    {
+      "from": 590.7,
+      "to": 593.58,
+      "sid": 205,
+      "location": 2,
+      "content": "最后一点呢也是需要跟大家强调的一点",
+      "music": 0.0
+    },
+    {
+      "from": 593.58,
+      "to": 595.8,
+      "sid": 206,
+      "location": 2,
+      "content": "就是我们在pcb布线的时候",
+      "music": 0.0
+    },
+    {
+      "from": 595.8,
+      "to": 598.62,
+      "sid": 207,
+      "location": 2,
+      "content": "这个晶振电路的走线要尽可能的短",
+      "music": 0.0
+    },
+    {
+      "from": 598.62,
+      "to": 601.17,
+      "sid": 208,
+      "location": 2,
+      "content": "并且尽可能的靠近ic",
+      "music": 0.0
+    },
+    {
+      "from": 601.17,
+      "to": 605.1,
+      "sid": 209,
+      "location": 2,
+      "content": "要杜绝在精湛的两个引脚之间走线啊",
+      "music": 0.0
+    },
+    {
+      "from": 605.1,
+      "to": 607.86,
+      "sid": 210,
+      "location": 2,
+      "content": "这是我们在使用晶振的时候",
+      "music": 0.0
+    },
+    {
+      "from": 607.86,
+      "to": 610.44,
+      "sid": 211,
+      "location": 2,
+      "content": "或者是说我们在测试电路的时候",
+      "music": 0.0
+    },
+    {
+      "from": 610.44,
+      "to": 614.49,
+      "sid": 212,
+      "location": 2,
+      "content": "对于晶振这方面的一个小小的一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 614.49,
+      "to": 616.83,
+      "sid": 213,
+      "location": 2,
+      "content": "故障的排除啊",
+      "music": 0.0
+    },
+    {
+      "from": 616.83,
+      "to": 620.28,
+      "sid": 214,
+      "location": 2,
+      "content": "还希望大家以后在测试的时候能引起注意啊",
+      "music": 0.0
+    },
+    {
+      "from": 620.28,
+      "to": 624.42,
+      "sid": 215,
+      "location": 2,
+      "content": "这就是我们这一节所要讲的真正的一些内容",
+      "music": 0.0
+    }
+  ]
+}

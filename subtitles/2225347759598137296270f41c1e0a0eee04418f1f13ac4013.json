@@ -1,0 +1,1532 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 1.44,
+      "to": 4.83,
+      "sid": 1,
+      "location": 2,
+      "content": "接下来呢给大家讲一下电源转换器件",
+      "music": 0.0
+    },
+    {
+      "from": 4.83,
+      "to": 9.81,
+      "sid": 2,
+      "location": 2,
+      "content": "电源转换器件呢呃在我们的电路设计当中",
+      "music": 0.0
+    },
+    {
+      "from": 9.81,
+      "to": 11.91,
+      "sid": 3,
+      "location": 2,
+      "content": "作为一个小的一个辅助器件",
+      "music": 0.0
+    },
+    {
+      "from": 11.91,
+      "to": 14.67,
+      "sid": 4,
+      "location": 2,
+      "content": "或者是作为一个小的辅助电源啊",
+      "music": 0.0
+    },
+    {
+      "from": 14.67,
+      "to": 16.64,
+      "sid": 5,
+      "location": 2,
+      "content": "应用也是非常广泛的",
+      "music": 0.0
+    },
+    {
+      "from": 17.0,
+      "to": 18.68,
+      "sid": 6,
+      "location": 2,
+      "content": "我们先来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 18.68,
+      "to": 21.47,
+      "sid": 7,
+      "location": 2,
+      "content": "这个为什么要用到这些电源转换器件",
+      "music": 0.0
+    },
+    {
+      "from": 21.47,
+      "to": 22.78,
+      "sid": 8,
+      "location": 2,
+      "content": "它有什么用途",
+      "music": 0.0
+    },
+    {
+      "from": 22.78,
+      "to": 25.009,
+      "sid": 9,
+      "location": 2,
+      "content": "这个电源转换器件是什么呀",
+      "music": 0.0
+    },
+    {
+      "from": 25.009,
+      "to": 27.589,
+      "sid": 10,
+      "location": 2,
+      "content": "啊通常是用于转换电压值",
+      "music": 0.0
+    },
+    {
+      "from": 27.589,
+      "to": 29.329,
+      "sid": 11,
+      "location": 2,
+      "content": "把高电压转换成低电压",
+      "music": 0.0
+    },
+    {
+      "from": 29.329,
+      "to": 31.699,
+      "sid": 12,
+      "location": 2,
+      "content": "或者是比把低电压转换成高电压",
+      "music": 0.0
+    },
+    {
+      "from": 31.699,
+      "to": 34.3,
+      "sid": 13,
+      "location": 2,
+      "content": "这个呢比如说我们在一个",
+      "music": 0.0
+    },
+    {
+      "from": 34.3,
+      "to": 37.03,
+      "sid": 14,
+      "location": 2,
+      "content": "而是在一个系统模块当中",
+      "music": 0.0
+    },
+    {
+      "from": 37.03,
+      "to": 39.55,
+      "sid": 15,
+      "location": 2,
+      "content": "我们的辅助电源只有12伏",
+      "music": 0.0
+    },
+    {
+      "from": 39.55,
+      "to": 42.07,
+      "sid": 16,
+      "location": 2,
+      "content": "然而我们在给单片机供电",
+      "music": 0.0
+    },
+    {
+      "from": 42.07,
+      "to": 44.95,
+      "sid": 17,
+      "location": 2,
+      "content": "或者是给一些小的ic供电的时候",
+      "music": 0.0
+    },
+    {
+      "from": 44.95,
+      "to": 48.18,
+      "sid": 18,
+      "location": 2,
+      "content": "它需要5伏或者是3.3伏的电压",
+      "music": 0.0
+    },
+    {
+      "from": 48.18,
+      "to": 51.57,
+      "sid": 19,
+      "location": 2,
+      "content": "这个时候呢我们就需要用到电源转换器间",
+      "music": 0.0
+    },
+    {
+      "from": 51.57,
+      "to": 53.87,
+      "sid": 20,
+      "location": 2,
+      "content": "电源转换期间啊",
+      "music": 0.0
+    },
+    {
+      "from": 53.87,
+      "to": 55.07,
+      "sid": 21,
+      "location": 2,
+      "content": "有板式的呀",
+      "music": 0.0
+    },
+    {
+      "from": 55.07,
+      "to": 56.81,
+      "sid": 22,
+      "location": 2,
+      "content": "或者是有插件型的呀",
+      "music": 0.0
+    },
+    {
+      "from": 56.81,
+      "to": 58.13,
+      "sid": 23,
+      "location": 2,
+      "content": "它占很小的空间",
+      "music": 0.0
+    },
+    {
+      "from": 58.13,
+      "to": 61.82,
+      "sid": 24,
+      "location": 2,
+      "content": "就可以把我的这个12伏转化成5伏",
+      "music": 0.0
+    },
+    {
+      "from": 61.82,
+      "to": 63.82,
+      "sid": 25,
+      "location": 2,
+      "content": "或者是3.3伏",
+      "music": 0.0
+    },
+    {
+      "from": 63.82,
+      "to": 67.6,
+      "sid": 26,
+      "location": 2,
+      "content": "解决我这个系统内电源转换的一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 67.6,
+      "to": 68.92,
+      "sid": 27,
+      "location": 2,
+      "content": "电压转换的一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 68.92,
+      "to": 73.2,
+      "sid": 28,
+      "location": 2,
+      "content": "这就是我用到电源转换器件的一个的一个方面",
+      "music": 0.0
+    },
+    {
+      "from": 73.2,
+      "to": 75.98,
+      "sid": 29,
+      "location": 2,
+      "content": "另外一方面呢就是用于稳压",
+      "music": 0.0
+    },
+    {
+      "from": 75.98,
+      "to": 78.8,
+      "sid": 30,
+      "location": 2,
+      "content": "使得我输出的电压值比较稳定",
+      "music": 0.0
+    },
+    {
+      "from": 78.8,
+      "to": 82.7,
+      "sid": 31,
+      "location": 2,
+      "content": "这个时候呢就是适用于单片机或者是pcb",
+      "music": 0.0
+    },
+    {
+      "from": 82.7,
+      "to": 88.38,
+      "sid": 32,
+      "location": 2,
+      "content": "其他的一个需要用稳定电源的地方使用嗯",
+      "music": 0.0
+    },
+    {
+      "from": 88.38,
+      "to": 90.36,
+      "sid": 33,
+      "location": 2,
+      "content": "它作为一个稳稳压的作用",
+      "music": 0.0
+    },
+    {
+      "from": 90.36,
+      "to": 92.42,
+      "sid": 34,
+      "location": 2,
+      "content": "第三个呢就是做隔离作用",
+      "music": 0.0
+    },
+    {
+      "from": 92.42,
+      "to": 96.13,
+      "sid": 35,
+      "location": 2,
+      "content": "在一些我们的一个产品设计当中",
+      "music": 0.0
+    },
+    {
+      "from": 96.13,
+      "to": 98.11,
+      "sid": 36,
+      "location": 2,
+      "content": "虽然是在一个电路板当中",
+      "music": 0.0
+    },
+    {
+      "from": 98.11,
+      "to": 100.03,
+      "sid": 37,
+      "location": 2,
+      "content": "但是有些时候我们这个电路板",
+      "music": 0.0
+    },
+    {
+      "from": 100.03,
+      "to": 102.46,
+      "sid": 38,
+      "location": 2,
+      "content": "由于我们的啊设计要求",
+      "music": 0.0
+    },
+    {
+      "from": 102.46,
+      "to": 104.8,
+      "sid": 39,
+      "location": 2,
+      "content": "或者是我的我们的芯片要求",
+      "music": 0.0
+    },
+    {
+      "from": 104.8,
+      "to": 107.56,
+      "sid": 40,
+      "location": 2,
+      "content": "需要我们两边啊d是不一样的",
+      "music": 0.0
+    },
+    {
+      "from": 107.56,
+      "to": 109.46,
+      "sid": 41,
+      "location": 2,
+      "content": "需要做一些隔离处理",
+      "music": 0.0
+    },
+    {
+      "from": 109.46,
+      "to": 112.88,
+      "sid": 42,
+      "location": 2,
+      "content": "但是呢我们在这个电路当中又不方便直接",
+      "music": 0.0
+    },
+    {
+      "from": 112.88,
+      "to": 116.08,
+      "sid": 43,
+      "location": 2,
+      "content": "比如说我们前面用到的用过有一些变压器",
+      "music": 0.0
+    },
+    {
+      "from": 116.08,
+      "to": 119.5,
+      "sid": 44,
+      "location": 2,
+      "content": "我们又不适合把一个大的变压器用在那儿",
+      "music": 0.0
+    },
+    {
+      "from": 119.5,
+      "to": 120.28,
+      "sid": 45,
+      "location": 2,
+      "content": "做隔离作用",
+      "music": 0.0
+    },
+    {
+      "from": 120.28,
+      "to": 123.63,
+      "sid": 46,
+      "location": 2,
+      "content": "这时候我们就可以用一些非常小的电源",
+      "music": 0.0
+    },
+    {
+      "from": 123.63,
+      "to": 127.6,
+      "sid": 47,
+      "location": 2,
+      "content": "转换器件来放到这里做一个隔离的作用",
+      "music": 0.0
+    },
+    {
+      "from": 128.399,
+      "to": 133.3,
+      "sid": 48,
+      "location": 2,
+      "content": "还有一些呢就是做转换正负电压来使用",
+      "music": 0.0
+    },
+    {
+      "from": 133.3,
+      "to": 137.02,
+      "sid": 49,
+      "location": 2,
+      "content": "这个呢也可以把它归结到第一个方面",
+      "music": 0.0
+    },
+    {
+      "from": 137.02,
+      "to": 138.85,
+      "sid": 50,
+      "location": 2,
+      "content": "就是转换电压值这一块儿",
+      "music": 0.0
+    },
+    {
+      "from": 138.85,
+      "to": 140.59,
+      "sid": 51,
+      "location": 2,
+      "content": "转换正负电压呢",
+      "music": 0.0
+    },
+    {
+      "from": 140.59,
+      "to": 142.09,
+      "sid": 52,
+      "location": 2,
+      "content": "实际上就是有一些芯片",
+      "music": 0.0
+    },
+    {
+      "from": 142.09,
+      "to": 145.15,
+      "sid": 53,
+      "location": 2,
+      "content": "比如说啊我可能会用到做比较使用",
+      "music": 0.0
+    },
+    {
+      "from": 145.15,
+      "to": 146.95,
+      "sid": 54,
+      "location": 2,
+      "content": "也会用到负伏",
+      "music": 0.0
+    },
+    {
+      "from": 146.95,
+      "to": 148.33,
+      "sid": 55,
+      "location": 2,
+      "content": "那么这个时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 148.33,
+      "to": 151.99,
+      "sid": 56,
+      "location": 2,
+      "content": "我们就会呃用这些电源转换的芯片呀",
+      "music": 0.0
+    },
+    {
+      "from": 151.99,
+      "to": 154.15,
+      "sid": 57,
+      "location": 2,
+      "content": "或者电源转换的一些小模块呀",
+      "music": 0.0
+    },
+    {
+      "from": 154.15,
+      "to": 156.17,
+      "sid": 58,
+      "location": 2,
+      "content": "把政府转换成-5伏",
+      "music": 0.0
+    },
+    {
+      "from": 156.17,
+      "to": 161.1,
+      "sid": 59,
+      "location": 2,
+      "content": "来给我们系统当中需要提供电源的地方来使用",
+      "music": 0.0
+    },
+    {
+      "from": 163.14,
+      "to": 167.43,
+      "sid": 60,
+      "location": 2,
+      "content": "下面我们来看一下电源转换器件有哪些",
+      "music": 0.0
+    },
+    {
+      "from": 167.43,
+      "to": 170.28,
+      "sid": 61,
+      "location": 2,
+      "content": "首先呢我们来看一下我们经常使用的",
+      "music": 0.0
+    },
+    {
+      "from": 170.28,
+      "to": 171.42,
+      "sid": 62,
+      "location": 2,
+      "content": "一个是七八系列",
+      "music": 0.0
+    },
+    {
+      "from": 171.42,
+      "to": 172.68,
+      "sid": 63,
+      "location": 2,
+      "content": "一个是七九系列",
+      "music": 0.0
+    },
+    {
+      "from": 172.76,
+      "to": 177.54,
+      "sid": 64,
+      "location": 2,
+      "content": "这个呢它主要作用就是变换电压以及稳压呃",
+      "music": 0.0
+    },
+    {
+      "from": 177.54,
+      "to": 178.98,
+      "sid": 65,
+      "location": 2,
+      "content": "在电子产品当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 178.98,
+      "to": 182.61,
+      "sid": 66,
+      "location": 2,
+      "content": "我们经常见到的这个三端稳压器啊",
+      "music": 0.0
+    },
+    {
+      "from": 182.61,
+      "to": 186.1,
+      "sid": 67,
+      "location": 2,
+      "content": "正电压输出的时间就是七八叉叉系列",
+      "music": 0.0
+    },
+    {
+      "from": 186.1,
+      "to": 188.56,
+      "sid": 68,
+      "location": 2,
+      "content": "比如说我们说的7805系列啊",
+      "music": 0.0
+    },
+    {
+      "from": 188.56,
+      "to": 189.7,
+      "sid": 69,
+      "location": 2,
+      "content": "7812系列",
+      "music": 0.0
+    },
+    {
+      "from": 189.7,
+      "to": 191.709,
+      "sid": 70,
+      "location": 2,
+      "content": "7818系列等等等等",
+      "music": 0.0
+    },
+    {
+      "from": 191.709,
+      "to": 195.159,
+      "sid": 71,
+      "location": 2,
+      "content": "负电压输出呢就是七九某某系列啊",
+      "music": 0.0
+    },
+    {
+      "from": 195.159,
+      "to": 198.12,
+      "sid": 72,
+      "location": 2,
+      "content": "这个七九呢实际上输出的是个负电压",
+      "music": 0.0
+    },
+    {
+      "from": 198.32,
+      "to": 200.06,
+      "sid": 73,
+      "location": 2,
+      "content": "这个三端c呀",
+      "music": 0.0
+    },
+    {
+      "from": 200.06,
+      "to": 201.44,
+      "sid": 74,
+      "location": 2,
+      "content": "它只是特别简单",
+      "music": 0.0
+    },
+    {
+      "from": 201.44,
+      "to": 202.64,
+      "sid": 75,
+      "location": 2,
+      "content": "只有三条引脚",
+      "music": 0.0
+    },
+    {
+      "from": 202.64,
+      "to": 204.44,
+      "sid": 76,
+      "location": 2,
+      "content": "所以说他们只有三个",
+      "music": 0.0
+    },
+    {
+      "from": 204.44,
+      "to": 205.43,
+      "sid": 77,
+      "location": 2,
+      "content": "比如说输入端",
+      "music": 0.0
+    },
+    {
+      "from": 205.43,
+      "to": 207.0,
+      "sid": 78,
+      "location": 2,
+      "content": "输出端还有一个d",
+      "music": 0.0
+    },
+    {
+      "from": 207.0,
+      "to": 208.2,
+      "sid": 79,
+      "location": 2,
+      "content": "只有三个引脚",
+      "music": 0.0
+    },
+    {
+      "from": 208.2,
+      "to": 209.93,
+      "sid": 80,
+      "location": 2,
+      "content": "来来来组成",
+      "music": 0.0
+    },
+    {
+      "from": 209.93,
+      "to": 211.97,
+      "sid": 81,
+      "location": 2,
+      "content": "他们的外围元器件比较少",
+      "music": 0.0
+    },
+    {
+      "from": 211.97,
+      "to": 215.75,
+      "sid": 82,
+      "location": 2,
+      "content": "只需要一些电容呀之类的来连接就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 215.75,
+      "to": 217.55,
+      "sid": 83,
+      "location": 2,
+      "content": "用起来非常的方便可靠",
+      "music": 0.0
+    },
+    {
+      "from": 217.55,
+      "to": 219.32,
+      "sid": 84,
+      "location": 2,
+      "content": "而且具有稳压的作用",
+      "music": 0.0
+    },
+    {
+      "from": 219.579,
+      "to": 222.879,
+      "sid": 85,
+      "location": 2,
+      "content": "所以说这种东西用起来还是蛮多的",
+      "music": 0.0
+    },
+    {
+      "from": 222.879,
+      "to": 226.239,
+      "sid": 86,
+      "location": 2,
+      "content": "呃下面呢是一些呃",
+      "music": 0.0
+    },
+    {
+      "from": 226.239,
+      "to": 228.579,
+      "sid": 87,
+      "location": 2,
+      "content": "就是我们经常用到的这个七八系列",
+      "music": 0.0
+    },
+    {
+      "from": 228.579,
+      "to": 230.859,
+      "sid": 88,
+      "location": 2,
+      "content": "以及七九系列的这个图",
+      "music": 0.0
+    },
+    {
+      "from": 230.859,
+      "to": 232.39,
+      "sid": 89,
+      "location": 2,
+      "content": "大家可以看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 232.39,
+      "to": 234.73,
+      "sid": 90,
+      "location": 2,
+      "content": "这个你看这是插件型的",
+      "music": 0.0
+    },
+    {
+      "from": 234.73,
+      "to": 235.57,
+      "sid": 91,
+      "location": 2,
+      "content": "插件型的",
+      "music": 0.0
+    },
+    {
+      "from": 235.57,
+      "to": 236.7,
+      "sid": 92,
+      "location": 2,
+      "content": "他们的呃",
+      "music": 0.0
+    },
+    {
+      "from": 236.7,
+      "to": 238.92,
+      "sid": 93,
+      "location": 2,
+      "content": "对于这下面这个引脚顺序啊",
+      "music": 0.0
+    },
+    {
+      "from": 238.92,
+      "to": 240.42,
+      "sid": 94,
+      "location": 2,
+      "content": "大家在具体用的时候",
+      "music": 0.0
+    },
+    {
+      "from": 240.42,
+      "to": 242.52,
+      "sid": 95,
+      "location": 2,
+      "content": "比如说我们用到7805系列",
+      "music": 0.0
+    },
+    {
+      "from": 242.52,
+      "to": 244.079,
+      "sid": 96,
+      "location": 2,
+      "content": "或者是7909系列",
+      "music": 0.0
+    },
+    {
+      "from": 244.079,
+      "to": 246.149,
+      "sid": 97,
+      "location": 2,
+      "content": "我们可以去查一下他的data sheet",
+      "music": 0.0
+    },
+    {
+      "from": 246.149,
+      "to": 249.3,
+      "sid": 98,
+      "location": 2,
+      "content": "来对它的引脚的定义来做一个确认",
+      "music": 0.0
+    },
+    {
+      "from": 249.899,
+      "to": 253.039,
+      "sid": 99,
+      "location": 2,
+      "content": "因为不同厂家出的这个这个系列",
+      "music": 0.0
+    },
+    {
+      "from": 253.039,
+      "to": 254.989,
+      "sid": 100,
+      "location": 2,
+      "content": "也有可能会有些不同",
+      "music": 0.0
+    },
+    {
+      "from": 254.989,
+      "to": 256.939,
+      "sid": 101,
+      "location": 2,
+      "content": "但是对于他们的命名方式",
+      "music": 0.0
+    },
+    {
+      "from": 256.939,
+      "to": 259.9,
+      "sid": 102,
+      "location": 2,
+      "content": "一般都是已经啊定型的了",
+      "music": 0.0
+    },
+    {
+      "from": 259.9,
+      "to": 260.98,
+      "sid": 103,
+      "location": 2,
+      "content": "比如说7806",
+      "music": 0.0
+    },
+    {
+      "from": 260.98,
+      "to": 264.04,
+      "sid": 104,
+      "location": 2,
+      "content": "他就表示它输出的是一个67909",
+      "music": 0.0
+    },
+    {
+      "from": 264.04,
+      "to": 266.99,
+      "sid": 105,
+      "location": 2,
+      "content": "它表示的输出的就是一个-9符啊",
+      "music": 0.0
+    },
+    {
+      "from": 266.99,
+      "to": 268.37,
+      "sid": 106,
+      "location": 2,
+      "content": "对于电路当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 268.37,
+      "to": 270.18,
+      "sid": 107,
+      "location": 2,
+      "content": "实际上我刚才也说了",
+      "music": 0.0
+    },
+    {
+      "from": 270.18,
+      "to": 271.08,
+      "sid": 108,
+      "location": 2,
+      "content": "它非常简单",
+      "music": 0.0
+    },
+    {
+      "from": 271.08,
+      "to": 274.44,
+      "sid": 109,
+      "location": 2,
+      "content": "只需要几个简单的电容来连接就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 274.44,
+      "to": 275.28,
+      "sid": 110,
+      "location": 2,
+      "content": "你看像这样",
+      "music": 0.0
+    },
+    {
+      "from": 275.28,
+      "to": 276.24,
+      "sid": 111,
+      "location": 2,
+      "content": "这是一个输入",
+      "music": 0.0
+    },
+    {
+      "from": 276.24,
+      "to": 277.96,
+      "sid": 112,
+      "location": 2,
+      "content": "比如这输入是交流",
+      "music": 0.0
+    },
+    {
+      "from": 277.96,
+      "to": 279.46,
+      "sid": 113,
+      "location": 2,
+      "content": "经过一个整流桥",
+      "music": 0.0
+    },
+    {
+      "from": 279.46,
+      "to": 280.06,
+      "sid": 114,
+      "location": 2,
+      "content": "整流",
+      "music": 0.0
+    },
+    {
+      "from": 280.06,
+      "to": 282.7,
+      "sid": 115,
+      "location": 2,
+      "content": "经过整流滤波",
+      "music": 0.0
+    },
+    {
+      "from": 282.7,
+      "to": 288.569,
+      "sid": 116,
+      "location": 2,
+      "content": "然后通过这个7805系列或者7809",
+      "music": 0.0
+    },
+    {
+      "from": 288.569,
+      "to": 291.8,
+      "sid": 117,
+      "location": 2,
+      "content": "这个七八系列的一个这个芯片",
+      "music": 0.0
+    },
+    {
+      "from": 291.8,
+      "to": 294.89,
+      "sid": 118,
+      "location": 2,
+      "content": "来输出一个稳定的一个电压值",
+      "music": 0.0
+    },
+    {
+      "from": 294.89,
+      "to": 296.87,
+      "sid": 119,
+      "location": 2,
+      "content": "不仅把电压进行了转化",
+      "music": 0.0
+    },
+    {
+      "from": 296.87,
+      "to": 300.579,
+      "sid": 120,
+      "location": 2,
+      "content": "而且对电压起到了一个稳定的作用啊",
+      "music": 0.0
+    },
+    {
+      "from": 300.579,
+      "to": 302.199,
+      "sid": 121,
+      "location": 2,
+      "content": "这是一个稳压嗯",
+      "music": 0.0
+    },
+    {
+      "from": 302.199,
+      "to": 303.879,
+      "sid": 122,
+      "location": 2,
+      "content": "他们俩的连接还是有区别的",
+      "music": 0.0
+    },
+    {
+      "from": 303.879,
+      "to": 305.32,
+      "sid": 123,
+      "location": 2,
+      "content": "大家可以看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 306.28,
+      "to": 309.699,
+      "sid": 124,
+      "location": 2,
+      "content": "这是因为他们的引脚不同啊",
+      "music": 0.0
+    },
+    {
+      "from": 309.699,
+      "to": 313.479,
+      "sid": 125,
+      "location": 2,
+      "content": "对于这个三端集成稳压器的输入输出和接地啊",
+      "music": 0.0
+    },
+    {
+      "from": 313.479,
+      "to": 315.399,
+      "sid": 126,
+      "location": 2,
+      "content": "这三个引脚大家要注意一下",
+      "music": 0.0
+    },
+    {
+      "from": 315.399,
+      "to": 316.599,
+      "sid": 127,
+      "location": 2,
+      "content": "不能够接错",
+      "music": 0.0
+    },
+    {
+      "from": 316.599,
+      "to": 317.96,
+      "sid": 128,
+      "location": 2,
+      "content": "如果你接错的话",
+      "music": 0.0
+    },
+    {
+      "from": 317.96,
+      "to": 319.46,
+      "sid": 129,
+      "location": 2,
+      "content": "嗯会烧坏",
+      "music": 0.0
+    },
+    {
+      "from": 319.46,
+      "to": 323.7,
+      "sid": 130,
+      "location": 2,
+      "content": "而且就是对电路会有一些实际的影响",
+      "music": 0.0
+    },
+    {
+      "from": 323.7,
+      "to": 327.18,
+      "sid": 131,
+      "location": 2,
+      "content": "对于一些电流比较大的这个三端稳压器啊",
+      "music": 0.0
+    },
+    {
+      "from": 327.18,
+      "to": 329.26,
+      "sid": 132,
+      "location": 2,
+      "content": "要加一些散热片",
+      "music": 0.0
+    },
+    {
+      "from": 330.139,
+      "to": 334.34,
+      "sid": 133,
+      "location": 2,
+      "content": "以防它这个温度比较高的时候对器件有损伤",
+      "music": 0.0
+    },
+    {
+      "from": 335.4,
+      "to": 338.21,
+      "sid": 134,
+      "location": 2,
+      "content": "大家注意这个散热片的这个连接",
+      "music": 0.0
+    },
+    {
+      "from": 338.21,
+      "to": 341.8,
+      "sid": 135,
+      "location": 2,
+      "content": "散热片总是和最低电位的引脚相连的",
+      "music": 0.0
+    },
+    {
+      "from": 341.8,
+      "to": 344.26,
+      "sid": 136,
+      "location": 2,
+      "content": "因此呢在七八系列当中",
+      "music": 0.0
+    },
+    {
+      "from": 344.26,
+      "to": 345.64,
+      "sid": 137,
+      "location": 2,
+      "content": "散热片是和d相连的",
+      "music": 0.0
+    },
+    {
+      "from": 345.64,
+      "to": 347.8,
+      "sid": 138,
+      "location": 2,
+      "content": "而在七九系列当中",
+      "music": 0.0
+    },
+    {
+      "from": 347.8,
+      "to": 350.53,
+      "sid": 139,
+      "location": 2,
+      "content": "散热片是和输入端相连的",
+      "music": 0.0
+    },
+    {
+      "from": 350.53,
+      "to": 351.73,
+      "sid": 140,
+      "location": 2,
+      "content": "因为你看七九系列",
+      "music": 0.0
+    },
+    {
+      "from": 351.73,
+      "to": 353.56,
+      "sid": 141,
+      "location": 2,
+      "content": "它的输入端实际上是一个负",
+      "music": 0.0
+    },
+    {
+      "from": 353.56,
+      "to": 356.46,
+      "sid": 142,
+      "location": 2,
+      "content": "所以说这个散热片是和七九相连的",
+      "music": 0.0
+    },
+    {
+      "from": 356.86,
+      "to": 358.669,
+      "sid": 143,
+      "location": 2,
+      "content": "在制作当中",
+      "music": 0.0
+    },
+    {
+      "from": 358.669,
+      "to": 362.389,
+      "sid": 144,
+      "location": 2,
+      "content": "如果需要一个1.5万以上的电流的稳压电源",
+      "music": 0.0
+    },
+    {
+      "from": 362.389,
+      "to": 367.0,
+      "sid": 145,
+      "location": 2,
+      "content": "通常是用这个三端稳压电路并联起来使用",
+      "music": 0.0
+    },
+    {
+      "from": 368.1,
+      "to": 372.74,
+      "sid": 146,
+      "location": 2,
+      "content": "嗯一般情况下我们会啊做一个估算啊",
+      "music": 0.0
+    },
+    {
+      "from": 372.74,
+      "to": 375.2,
+      "sid": 147,
+      "location": 2,
+      "content": "就是在电流小于一安的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 375.2,
+      "to": 377.58,
+      "sid": 148,
+      "location": 2,
+      "content": "用七八系列或者是七九系列",
+      "music": 0.0
+    },
+    {
+      "from": 378.24,
+      "to": 381.7,
+      "sid": 149,
+      "location": 2,
+      "content": "下面呢我们来看一下这个隔离电源转换",
+      "music": 0.0
+    },
+    {
+      "from": 385.079,
+      "to": 388.519,
+      "sid": 150,
+      "location": 2,
+      "content": "隔离电源转换呢它主要就是有一个隔离作用",
+      "music": 0.0
+    },
+    {
+      "from": 388.519,
+      "to": 390.199,
+      "sid": 151,
+      "location": 2,
+      "content": "还有电压转换作用",
+      "music": 0.0
+    },
+    {
+      "from": 390.199,
+      "to": 391.699,
+      "sid": 152,
+      "location": 2,
+      "content": "稳压啊",
+      "music": 0.0
+    },
+    {
+      "from": 391.699,
+      "to": 395.05,
+      "sid": 153,
+      "location": 2,
+      "content": "我们经常用的就是由金生涯的电源",
+      "music": 0.0
+    },
+    {
+      "from": 395.05,
+      "to": 396.49,
+      "sid": 154,
+      "location": 2,
+      "content": "还有周立波的电源模块",
+      "music": 0.0
+    },
+    {
+      "from": 398.53,
+      "to": 399.31,
+      "sid": 155,
+      "location": 2,
+      "content": "金升阳的",
+      "music": 0.0
+    },
+    {
+      "from": 399.31,
+      "to": 401.52,
+      "sid": 156,
+      "location": 2,
+      "content": "还有啊周立功的",
+      "music": 0.0
+    },
+    {
+      "from": 401.52,
+      "to": 403.2,
+      "sid": 157,
+      "location": 2,
+      "content": "他们的封装比较多样",
+      "music": 0.0
+    },
+    {
+      "from": 403.2,
+      "to": 404.04,
+      "sid": 158,
+      "location": 2,
+      "content": "使用方便",
+      "music": 0.0
+    },
+    {
+      "from": 404.04,
+      "to": 405.72,
+      "sid": 159,
+      "location": 2,
+      "content": "而且他那个模块特别小",
+      "music": 0.0
+    },
+    {
+      "from": 405.72,
+      "to": 407.64,
+      "sid": 160,
+      "location": 2,
+      "content": "而且做的特别稳定",
+      "music": 0.0
+    },
+    {
+      "from": 407.64,
+      "to": 410.8,
+      "sid": 161,
+      "location": 2,
+      "content": "我们看一下具体的那个实力",
+      "music": 0.0
+    },
+    {
+      "from": 411.46,
+      "to": 412.62,
+      "sid": 162,
+      "location": 2,
+      "content": "实际应用当中",
+      "music": 0.0
+    },
+    {
+      "from": 412.62,
+      "to": 415.16,
+      "sid": 163,
+      "location": 2,
+      "content": "这是呃截下来的一个图片",
+      "music": 0.0
+    },
+    {
+      "from": 415.16,
+      "to": 417.26,
+      "sid": 164,
+      "location": 2,
+      "content": "在我的电路图当中截下来的一个图片",
+      "music": 0.0
+    },
+    {
+      "from": 417.26,
+      "to": 419.82,
+      "sid": 165,
+      "location": 2,
+      "content": "这是因为我这个系统当中",
+      "music": 0.0
+    },
+    {
+      "from": 419.82,
+      "to": 421.92,
+      "sid": 166,
+      "location": 2,
+      "content": "只有一个12伏的电源",
+      "music": 0.0
+    },
+    {
+      "from": 421.92,
+      "to": 423.39,
+      "sid": 167,
+      "location": 2,
+      "content": "而我这个芯片呢",
+      "music": 0.0
+    },
+    {
+      "from": 423.39,
+      "to": 426.35,
+      "sid": 168,
+      "location": 2,
+      "content": "这个r3 r芯片需要一个5伏的电源",
+      "music": 0.0
+    },
+    {
+      "from": 426.35,
+      "to": 429.55,
+      "sid": 169,
+      "location": 2,
+      "content": "因此呢我就是通过一个7805",
+      "music": 0.0
+    },
+    {
+      "from": 429.55,
+      "to": 433.31,
+      "sid": 170,
+      "location": 2,
+      "content": "来转换一个5伏的电源供给我这个芯片来使用",
+      "music": 0.0
+    },
+    {
+      "from": 433.91,
+      "to": 436.67,
+      "sid": 171,
+      "location": 2,
+      "content": "还有一个呢就是我们用到的一个",
+      "music": 0.0
+    },
+    {
+      "from": 436.67,
+      "to": 440.45,
+      "sid": 172,
+      "location": 2,
+      "content": "这是一个呃6460401这个芯片",
+      "music": 0.0
+    },
+    {
+      "from": 440.45,
+      "to": 443.649,
+      "sid": 173,
+      "location": 2,
+      "content": "这个芯片呢是啊输入一个正五",
+      "music": 0.0
+    },
+    {
+      "from": 443.649,
+      "to": 446.679,
+      "sid": 174,
+      "location": 2,
+      "content": "输出一个-5负来进行的一个转换",
+      "music": 0.0
+    },
+    {
+      "from": 446.679,
+      "to": 449.88,
+      "sid": 175,
+      "location": 2,
+      "content": "实际上呢对于这节内容都比较简单",
+      "music": 0.0
+    },
+    {
+      "from": 450.219,
+      "to": 451.959,
+      "sid": 176,
+      "location": 2,
+      "content": "因为电源转换期间",
+      "music": 0.0
+    },
+    {
+      "from": 451.959,
+      "to": 454.85,
+      "sid": 177,
+      "location": 2,
+      "content": "它就是一个啊成型的一个小模块",
+      "music": 0.0
+    },
+    {
+      "from": 454.85,
+      "to": 457.25,
+      "sid": 178,
+      "location": 2,
+      "content": "有固定封装的一个小模块",
+      "music": 0.0
+    },
+    {
+      "from": 457.25,
+      "to": 461.0,
+      "sid": 179,
+      "location": 2,
+      "content": "它的呢输入输出引脚比较比较呃比较少",
+      "music": 0.0
+    },
+    {
+      "from": 461.0,
+      "to": 462.68,
+      "sid": 180,
+      "location": 2,
+      "content": "大家只要按照他的定义",
+      "music": 0.0
+    },
+    {
+      "from": 462.68,
+      "to": 465.53,
+      "sid": 181,
+      "location": 2,
+      "content": "去接入到登录当中就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 465.53,
+      "to": 467.78,
+      "sid": 182,
+      "location": 2,
+      "content": "给大家介绍这一部分的内容呢",
+      "music": 0.0
+    },
+    {
+      "from": 467.78,
+      "to": 471.43,
+      "sid": 183,
+      "location": 2,
+      "content": "是为了让大家就是在使用当中",
+      "music": 0.0
+    },
+    {
+      "from": 471.43,
+      "to": 475.52,
+      "sid": 184,
+      "location": 2,
+      "content": "不要忘记有这样的一部分器件给我们的啊",
+      "music": 0.0
+    },
+    {
+      "from": 475.52,
+      "to": 476.93,
+      "sid": 185,
+      "location": 2,
+      "content": "比如说单片机啊",
+      "music": 0.0
+    },
+    {
+      "from": 476.93,
+      "to": 479.69,
+      "sid": 186,
+      "location": 2,
+      "content": "或者是其他一些小的i ic器件啊",
+      "music": 0.0
+    },
+    {
+      "from": 479.69,
+      "to": 480.47,
+      "sid": 187,
+      "location": 2,
+      "content": "提供电源",
+      "music": 0.0
+    },
+    {
+      "from": 480.47,
+      "to": 484.02,
+      "sid": 188,
+      "location": 2,
+      "content": "并且起到了一个呃稳压隔离电",
+      "music": 0.0
+    },
+    {
+      "from": 484.02,
+      "to": 487.36,
+      "sid": 189,
+      "location": 2,
+      "content": "电压转换的这样一个作用啊",
+      "music": 0.0
+    },
+    {
+      "from": 487.36,
+      "to": 489.6,
+      "sid": 190,
+      "location": 2,
+      "content": "这一部分呢就先给大家讲到这",
+      "music": 0.0
+    }
+  ]
+}

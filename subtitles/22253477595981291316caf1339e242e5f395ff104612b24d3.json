@@ -1,0 +1,4940 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 1.1,
+      "to": 3.63,
+      "sid": 1,
+      "location": 2,
+      "content": "前面我们讲解了一些基础元器件",
+      "music": 0.0
+    },
+    {
+      "from": 3.63,
+      "to": 4.5,
+      "sid": 2,
+      "location": 2,
+      "content": "二极管",
+      "music": 0.0
+    },
+    {
+      "from": 4.5,
+      "to": 5.4,
+      "sid": 3,
+      "location": 2,
+      "content": "三极管",
+      "music": 0.0
+    },
+    {
+      "from": 5.4,
+      "to": 5.91,
+      "sid": 4,
+      "location": 2,
+      "content": "电阻",
+      "music": 0.0
+    },
+    {
+      "from": 5.91,
+      "to": 7.449,
+      "sid": 5,
+      "location": 2,
+      "content": "电容电感等等",
+      "music": 0.0
+    },
+    {
+      "from": 7.449,
+      "to": 10.899,
+      "sid": 6,
+      "location": 2,
+      "content": "那么接下来呢我们在讲解在这一部分当中",
+      "music": 0.0
+    },
+    {
+      "from": 10.899,
+      "to": 13.95,
+      "sid": 7,
+      "location": 2,
+      "content": "应用比较广泛的一些特殊的元器件",
+      "music": 0.0
+    },
+    {
+      "from": 13.95,
+      "to": 17.65,
+      "sid": 8,
+      "location": 2,
+      "content": "嗯首先呢我们来看一下电阻提高篇",
+      "music": 0.0
+    },
+    {
+      "from": 17.65,
+      "to": 19.45,
+      "sid": 9,
+      "location": 2,
+      "content": "在电阻提高篇当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 19.45,
+      "to": 21.61,
+      "sid": 10,
+      "location": 2,
+      "content": "我们今天主要讲解两部分",
+      "music": 0.0
+    },
+    {
+      "from": 21.61,
+      "to": 22.99,
+      "sid": 11,
+      "location": 2,
+      "content": "一个是压敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 22.99,
+      "to": 25.05,
+      "sid": 12,
+      "location": 2,
+      "content": "一个是热电偶传感器",
+      "music": 0.0
+    },
+    {
+      "from": 25.05,
+      "to": 28.77,
+      "sid": 13,
+      "location": 2,
+      "content": "那么首先压敏电阻呢我们在前面已经学习过",
+      "music": 0.0
+    },
+    {
+      "from": 28.77,
+      "to": 30.45,
+      "sid": 14,
+      "location": 2,
+      "content": "我们先来回顾一下",
+      "music": 0.0
+    },
+    {
+      "from": 30.45,
+      "to": 34.18,
+      "sid": 15,
+      "location": 2,
+      "content": "压敏电阻的一些基本原理和应用",
+      "music": 0.0
+    },
+    {
+      "from": 34.18,
+      "to": 35.68,
+      "sid": 16,
+      "location": 2,
+      "content": "那么压敏电阻呢",
+      "music": 0.0
+    },
+    {
+      "from": 35.68,
+      "to": 39.48,
+      "sid": 17,
+      "location": 2,
+      "content": "它是抑制瞬态电压的一种元器件啊",
+      "music": 0.0
+    },
+    {
+      "from": 40.98,
+      "to": 43.34,
+      "sid": 18,
+      "location": 2,
+      "content": "它是一种保护型元器件",
+      "music": 0.0
+    },
+    {
+      "from": 43.34,
+      "to": 47.28,
+      "sid": 19,
+      "location": 2,
+      "content": "通常呢在电路当中它是并联在电路中使用的",
+      "music": 0.0
+    },
+    {
+      "from": 47.28,
+      "to": 48.9,
+      "sid": 20,
+      "location": 2,
+      "content": "它的基本原理是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 48.9,
+      "to": 53.36,
+      "sid": 21,
+      "location": 2,
+      "content": "就是当它的电压瞬态高于某一个数值的时候",
+      "music": 0.0
+    },
+    {
+      "from": 53.36,
+      "to": 56.47,
+      "sid": 22,
+      "location": 2,
+      "content": "那么压敏电阻的阻值就迅速下降啊",
+      "music": 0.0
+    },
+    {
+      "from": 56.47,
+      "to": 58.0,
+      "sid": 23,
+      "location": 2,
+      "content": "导通大电流",
+      "music": 0.0
+    },
+    {
+      "from": 58.0,
+      "to": 59.26,
+      "sid": 24,
+      "location": 2,
+      "content": "这个时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 59.26,
+      "to": 64.33,
+      "sid": 25,
+      "location": 2,
+      "content": "亚美电阻通常是跟嗯保险是串联在一起使用的",
+      "music": 0.0
+    },
+    {
+      "from": 64.33,
+      "to": 66.43,
+      "sid": 26,
+      "location": 2,
+      "content": "当电流过大的时候",
+      "music": 0.0
+    },
+    {
+      "from": 66.43,
+      "to": 71.07,
+      "sid": 27,
+      "location": 2,
+      "content": "那么对于一个啊保险它就会动作",
+      "music": 0.0
+    },
+    {
+      "from": 71.07,
+      "to": 74.759,
+      "sid": 28,
+      "location": 2,
+      "content": "从而使这个电路啊受到了保护",
+      "music": 0.0
+    },
+    {
+      "from": 75.38,
+      "to": 79.96,
+      "sid": 29,
+      "location": 2,
+      "content": "不使后面的i c以及其他的电器设备受到影响",
+      "music": 0.0
+    },
+    {
+      "from": 79.96,
+      "to": 84.45,
+      "sid": 30,
+      "location": 2,
+      "content": "那么当电压低于压敏电阻的工作电压的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 84.45,
+      "to": 86.67,
+      "sid": 31,
+      "location": 2,
+      "content": "嗯也就是说正常电压的时候",
+      "music": 0.0
+    },
+    {
+      "from": 86.67,
+      "to": 88.95,
+      "sid": 32,
+      "location": 2,
+      "content": "压敏电阻值阻值是比较高的",
+      "music": 0.0
+    },
+    {
+      "from": 88.95,
+      "to": 91.93,
+      "sid": 33,
+      "location": 2,
+      "content": "那么它并联在电路当中就近乎于开路",
+      "music": 0.0
+    },
+    {
+      "from": 91.93,
+      "to": 93.67,
+      "sid": 34,
+      "location": 2,
+      "content": "所以也不会影响器件",
+      "music": 0.0
+    },
+    {
+      "from": 93.67,
+      "to": 95.71,
+      "sid": 35,
+      "location": 2,
+      "content": "或者是电器设备的正常工作",
+      "music": 0.0
+    },
+    {
+      "from": 95.71,
+      "to": 99.009,
+      "sid": 36,
+      "location": 2,
+      "content": "这就是压敏电阻的一个基本的工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 99.009,
+      "to": 102.08,
+      "sid": 37,
+      "location": 2,
+      "content": "那么下面我们来看一下它的一个应用",
+      "music": 0.0
+    },
+    {
+      "from": 102.08,
+      "to": 103.31,
+      "sid": 38,
+      "location": 2,
+      "content": "对于压敏电阻呢",
+      "music": 0.0
+    },
+    {
+      "from": 103.31,
+      "to": 105.29,
+      "sid": 39,
+      "location": 2,
+      "content": "它广泛应用于家家用电器",
+      "music": 0.0
+    },
+    {
+      "from": 105.29,
+      "to": 106.97,
+      "sid": 40,
+      "location": 2,
+      "content": "以及其他电子产品当中",
+      "music": 0.0
+    },
+    {
+      "from": 106.97,
+      "to": 108.91,
+      "sid": 41,
+      "location": 2,
+      "content": "因为它是一个保护型元器件",
+      "music": 0.0
+    },
+    {
+      "from": 108.91,
+      "to": 113.19,
+      "sid": 42,
+      "location": 2,
+      "content": "所以说呢它的应用是非常广泛的啊",
+      "music": 0.0
+    },
+    {
+      "from": 113.19,
+      "to": 114.66,
+      "sid": 43,
+      "location": 2,
+      "content": "他对过压保护呀",
+      "music": 0.0
+    },
+    {
+      "from": 114.66,
+      "to": 115.41,
+      "sid": 44,
+      "location": 2,
+      "content": "防雷呀",
+      "music": 0.0
+    },
+    {
+      "from": 115.41,
+      "to": 118.47,
+      "sid": 45,
+      "location": 2,
+      "content": "一直浪涌电流啊等等等等都有啊",
+      "music": 0.0
+    },
+    {
+      "from": 118.47,
+      "to": 121.03,
+      "sid": 46,
+      "location": 2,
+      "content": "非常呃广泛的应用",
+      "music": 0.0
+    },
+    {
+      "from": 121.03,
+      "to": 123.7,
+      "sid": 47,
+      "location": 2,
+      "content": "首先我们来看一下它这两个应用啊",
+      "music": 0.0
+    },
+    {
+      "from": 123.7,
+      "to": 125.32,
+      "sid": 48,
+      "location": 2,
+      "content": "应用原理图啊",
+      "music": 0.0
+    },
+    {
+      "from": 125.32,
+      "to": 127.75,
+      "sid": 49,
+      "location": 2,
+      "content": "这是并联在电路当中的",
+      "music": 0.0
+    },
+    {
+      "from": 127.75,
+      "to": 129.37,
+      "sid": 50,
+      "location": 2,
+      "content": "我们可以仔细看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 129.37,
+      "to": 132.97,
+      "sid": 51,
+      "location": 2,
+      "content": "当这个是交流220输入",
+      "music": 0.0
+    },
+    {
+      "from": 132.97,
+      "to": 136.24,
+      "sid": 52,
+      "location": 2,
+      "content": "当这个电压一旦过大的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 136.24,
+      "to": 138.61,
+      "sid": 53,
+      "location": 2,
+      "content": "关闭开关电压过大的时候",
+      "music": 0.0
+    },
+    {
+      "from": 138.61,
+      "to": 141.31,
+      "sid": 54,
+      "location": 2,
+      "content": "那么这个时候呢它的组织就会很小",
+      "music": 0.0
+    },
+    {
+      "from": 141.31,
+      "to": 143.26,
+      "sid": 55,
+      "location": 2,
+      "content": "这个压敏电阻的阻值就会很小",
+      "music": 0.0
+    },
+    {
+      "from": 143.26,
+      "to": 146.38,
+      "sid": 56,
+      "location": 2,
+      "content": "那么几乎这一块就是短路了",
+      "music": 0.0
+    },
+    {
+      "from": 146.459,
+      "to": 147.479,
+      "sid": 57,
+      "location": 2,
+      "content": "大电流",
+      "music": 0.0
+    },
+    {
+      "from": 147.479,
+      "to": 150.0,
+      "sid": 58,
+      "location": 2,
+      "content": "大电流就会使得这个保险动作",
+      "music": 0.0
+    },
+    {
+      "from": 150.0,
+      "to": 151.32,
+      "sid": 59,
+      "location": 2,
+      "content": "这样子的话",
+      "music": 0.0
+    },
+    {
+      "from": 151.32,
+      "to": 154.53,
+      "sid": 60,
+      "location": 2,
+      "content": "整个的电压就不会往往后传递对吧",
+      "music": 0.0
+    },
+    {
+      "from": 154.53,
+      "to": 158.04,
+      "sid": 61,
+      "location": 2,
+      "content": "对后面的器件以及电路就起到一个保护作用",
+      "music": 0.0
+    },
+    {
+      "from": 158.04,
+      "to": 161.74,
+      "sid": 62,
+      "location": 2,
+      "content": "那么这个压敏电阻呢它是串联在这个呃",
+      "music": 0.0
+    },
+    {
+      "from": 161.74,
+      "to": 163.99,
+      "sid": 63,
+      "location": 2,
+      "content": "它是并联在这个整流桥连段的",
+      "music": 0.0
+    },
+    {
+      "from": 163.99,
+      "to": 166.78,
+      "sid": 64,
+      "location": 2,
+      "content": "这是由二极管组成的一个整流桥",
+      "music": 0.0
+    },
+    {
+      "from": 166.78,
+      "to": 170.58,
+      "sid": 65,
+      "location": 2,
+      "content": "所以说它的作用跟上面实际上是一致的",
+      "music": 0.0
+    },
+    {
+      "from": 171.679,
+      "to": 176.199,
+      "sid": 66,
+      "location": 2,
+      "content": "对于压敏电阻跟那个在电路当中的连接啊",
+      "music": 0.0
+    },
+    {
+      "from": 176.199,
+      "to": 179.93,
+      "sid": 67,
+      "location": 2,
+      "content": "啊主要是电电路浪涌呀",
+      "music": 0.0
+    },
+    {
+      "from": 179.93,
+      "to": 183.05,
+      "sid": 68,
+      "location": 2,
+      "content": "顺便防护时的电路连接呀",
+      "music": 0.0
+    },
+    {
+      "from": 183.05,
+      "to": 186.16,
+      "sid": 69,
+      "location": 2,
+      "content": "这种那网上也有所归纳啊",
+      "music": 0.0
+    },
+    {
+      "from": 186.16,
+      "to": 188.44,
+      "sid": 70,
+      "location": 2,
+      "content": "主要是归纳为四种类型",
+      "music": 0.0
+    },
+    {
+      "from": 188.44,
+      "to": 191.68,
+      "sid": 71,
+      "location": 2,
+      "content": "首先第一种呢就是电源线之间",
+      "music": 0.0
+    },
+    {
+      "from": 191.68,
+      "to": 194.2,
+      "sid": 72,
+      "location": 2,
+      "content": "和电源线和大地之间的连接",
+      "music": 0.0
+    },
+    {
+      "from": 194.2,
+      "to": 197.53,
+      "sid": 73,
+      "location": 2,
+      "content": "就是压敏电阻是并联在电源线和电源线之间",
+      "music": 0.0
+    },
+    {
+      "from": 197.53,
+      "to": 199.92,
+      "sid": 74,
+      "location": 2,
+      "content": "或者是并联在电源线和大地之间",
+      "music": 0.0
+    },
+    {
+      "from": 199.92,
+      "to": 202.86,
+      "sid": 75,
+      "location": 2,
+      "content": "这时候呢它主要是因为什么呀",
+      "music": 0.0
+    },
+    {
+      "from": 202.86,
+      "to": 208.74,
+      "sid": 76,
+      "location": 2,
+      "content": "书主要是嗯因为这个电源线跟电源线之间啊",
+      "music": 0.0
+    },
+    {
+      "from": 208.74,
+      "to": 210.57,
+      "sid": 77,
+      "location": 2,
+      "content": "或者是电源线跟大地之间",
+      "music": 0.0
+    },
+    {
+      "from": 210.57,
+      "to": 213.13,
+      "sid": 78,
+      "location": 2,
+      "content": "通常会有感应感应脉冲",
+      "music": 0.0
+    },
+    {
+      "from": 213.13,
+      "to": 215.83,
+      "sid": 79,
+      "location": 2,
+      "content": "这个板感应脉冲一旦很大的时候",
+      "music": 0.0
+    },
+    {
+      "from": 215.83,
+      "to": 218.41,
+      "sid": 80,
+      "location": 2,
+      "content": "我们这个让我们这个呃亚美电阻",
+      "music": 0.0
+    },
+    {
+      "from": 218.41,
+      "to": 219.79,
+      "sid": 81,
+      "location": 2,
+      "content": "就会对这个浪有脉冲啊",
+      "music": 0.0
+    },
+    {
+      "from": 219.79,
+      "to": 221.209,
+      "sid": 82,
+      "location": 2,
+      "content": "有很好的吸收作用",
+      "music": 0.0
+    },
+    {
+      "from": 221.209,
+      "to": 222.709,
+      "sid": 83,
+      "location": 2,
+      "content": "它通常是用在哪儿",
+      "music": 0.0
+    },
+    {
+      "from": 222.709,
+      "to": 227.019,
+      "sid": 84,
+      "location": 2,
+      "content": "是用在就是电源线或者是长距离传输的一个",
+      "music": 0.0
+    },
+    {
+      "from": 227.019,
+      "to": 228.76,
+      "sid": 85,
+      "location": 2,
+      "content": "信号线里边啊",
+      "music": 0.0
+    },
+    {
+      "from": 228.76,
+      "to": 230.65,
+      "sid": 86,
+      "location": 2,
+      "content": "他遇到雷击的时候",
+      "music": 0.0
+    },
+    {
+      "from": 230.65,
+      "to": 234.22,
+      "sid": 87,
+      "location": 2,
+      "content": "它这个电源线或者是长距离传输的信号线",
+      "music": 0.0
+    },
+    {
+      "from": 234.22,
+      "to": 235.56,
+      "sid": 88,
+      "location": 2,
+      "content": "就会有浪涌脉冲",
+      "music": 0.0
+    },
+    {
+      "from": 236.32,
+      "to": 238.62,
+      "sid": 89,
+      "location": 2,
+      "content": "这个是这个大家可以想一下",
+      "music": 0.0
+    },
+    {
+      "from": 238.62,
+      "to": 240.36,
+      "sid": 90,
+      "location": 2,
+      "content": "实际上在我们的电源模块",
+      "music": 0.0
+    },
+    {
+      "from": 240.36,
+      "to": 241.98,
+      "sid": 91,
+      "location": 2,
+      "content": "电源模块的输入端",
+      "music": 0.0
+    },
+    {
+      "from": 241.98,
+      "to": 246.659,
+      "sid": 92,
+      "location": 2,
+      "content": "通常会有这样一个啊压敏电阻器是这样用的",
+      "music": 0.0
+    },
+    {
+      "from": 246.659,
+      "to": 247.559,
+      "sid": 93,
+      "location": 2,
+      "content": "大家可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 247.559,
+      "to": 248.939,
+      "sid": 94,
+      "location": 2,
+      "content": "我这边有一个电路图",
+      "music": 0.0
+    },
+    {
+      "from": 248.939,
+      "to": 252.359,
+      "sid": 95,
+      "location": 2,
+      "content": "这就是我们一个呃充电充电装置",
+      "music": 0.0
+    },
+    {
+      "from": 252.359,
+      "to": 255.34,
+      "sid": 96,
+      "location": 2,
+      "content": "最前端的一个充电装置",
+      "music": 0.0
+    },
+    {
+      "from": 255.34,
+      "to": 258.83,
+      "sid": 97,
+      "location": 2,
+      "content": "最前端的一个e m i的部分",
+      "music": 0.0
+    },
+    {
+      "from": 258.83,
+      "to": 260.18,
+      "sid": 98,
+      "location": 2,
+      "content": "那么大家可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 260.18,
+      "to": 261.53,
+      "sid": 99,
+      "location": 2,
+      "content": "在这一部分当中",
+      "music": 0.0
+    },
+    {
+      "from": 261.53,
+      "to": 264.2,
+      "sid": 100,
+      "location": 2,
+      "content": "实际上你看这是交流单向",
+      "music": 0.0
+    },
+    {
+      "from": 264.2,
+      "to": 268.09,
+      "sid": 101,
+      "location": 2,
+      "content": "单向的交流220输入输入情况下",
+      "music": 0.0
+    },
+    {
+      "from": 268.09,
+      "to": 269.23,
+      "sid": 102,
+      "location": 2,
+      "content": "这是一个保险",
+      "music": 0.0
+    },
+    {
+      "from": 269.23,
+      "to": 270.67,
+      "sid": 103,
+      "location": 2,
+      "content": "那么这就是一个压敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 270.67,
+      "to": 273.43,
+      "sid": 104,
+      "location": 2,
+      "content": "这个压敏电阻实际上是并在线与线之间",
+      "music": 0.0
+    },
+    {
+      "from": 273.43,
+      "to": 274.1,
+      "sid": 105,
+      "location": 2,
+      "content": "是不是",
+      "music": 0.0
+    },
+    {
+      "from": 274.1,
+      "to": 275.96,
+      "sid": 106,
+      "location": 2,
+      "content": "然后这边的压敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 275.96,
+      "to": 276.92,
+      "sid": 107,
+      "location": 2,
+      "content": "这两个压敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 276.92,
+      "to": 281.08,
+      "sid": 108,
+      "location": 2,
+      "content": "实际上是并在这个线和大地之间",
+      "music": 0.0
+    },
+    {
+      "from": 281.9,
+      "to": 285.28,
+      "sid": 109,
+      "location": 2,
+      "content": "这就是跟刚才我们所说的这个第一类的",
+      "music": 0.0
+    },
+    {
+      "from": 285.28,
+      "to": 286.24,
+      "sid": 110,
+      "location": 2,
+      "content": "这个压敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 286.24,
+      "to": 287.66,
+      "sid": 111,
+      "location": 2,
+      "content": "第一类的应用方法",
+      "music": 0.0
+    },
+    {
+      "from": 288.4,
+      "to": 292.26,
+      "sid": 112,
+      "location": 2,
+      "content": "那么第二类呢它是在复合中的连接",
+      "music": 0.0
+    },
+    {
+      "from": 292.26,
+      "to": 296.219,
+      "sid": 113,
+      "location": 2,
+      "content": "它主要是后面接感性负载的时候嗯",
+      "music": 0.0
+    },
+    {
+      "from": 296.219,
+      "to": 299.039,
+      "sid": 114,
+      "location": 2,
+      "content": "感性负载如果突然开启或关闭",
+      "music": 0.0
+    },
+    {
+      "from": 299.039,
+      "to": 300.39,
+      "sid": 115,
+      "location": 2,
+      "content": "会引起感应脉冲",
+      "music": 0.0
+    },
+    {
+      "from": 300.39,
+      "to": 302.67,
+      "sid": 116,
+      "location": 2,
+      "content": "感应脉冲呢如果不进行吸收",
+      "music": 0.0
+    },
+    {
+      "from": 302.67,
+      "to": 304.53,
+      "sid": 117,
+      "location": 2,
+      "content": "就会使得元器件受到破坏",
+      "music": 0.0
+    },
+    {
+      "from": 304.53,
+      "to": 307.32,
+      "sid": 118,
+      "location": 2,
+      "content": "那么这时候呢我在这个感应负载前端",
+      "music": 0.0
+    },
+    {
+      "from": 307.32,
+      "to": 311.07,
+      "sid": 119,
+      "location": 2,
+      "content": "并上一个那个压敏电阻就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 311.07,
+      "to": 314.19,
+      "sid": 120,
+      "location": 2,
+      "content": "当然他这边还说可以考虑rc啊",
+      "music": 0.0
+    },
+    {
+      "from": 314.19,
+      "to": 315.919,
+      "sid": 121,
+      "location": 2,
+      "content": "串联吸收电路合用啊",
+      "music": 0.0
+    },
+    {
+      "from": 315.919,
+      "to": 318.889,
+      "sid": 122,
+      "location": 2,
+      "content": "这个大家以后在用的时候也可以考虑一下",
+      "music": 0.0
+    },
+    {
+      "from": 318.889,
+      "to": 322.66,
+      "sid": 123,
+      "location": 2,
+      "content": "第三点呢就是在节点之间的连接啊",
+      "music": 0.0
+    },
+    {
+      "from": 322.66,
+      "to": 325.18,
+      "sid": 124,
+      "location": 2,
+      "content": "如果说我这个节点突然开启或关闭",
+      "music": 0.0
+    },
+    {
+      "from": 325.18,
+      "to": 326.86,
+      "sid": 125,
+      "location": 2,
+      "content": "会有电弧啊",
+      "music": 0.0
+    },
+    {
+      "from": 326.86,
+      "to": 329.64,
+      "sid": 126,
+      "location": 2,
+      "content": "引起啊期间的烧坏",
+      "music": 0.0
+    },
+    {
+      "from": 329.64,
+      "to": 332.46,
+      "sid": 127,
+      "location": 2,
+      "content": "这时候我我也可以在它这个这个节点",
+      "music": 0.0
+    },
+    {
+      "from": 332.46,
+      "to": 334.86,
+      "sid": 128,
+      "location": 2,
+      "content": "这定一个压敏电阻啊",
+      "music": 0.0
+    },
+    {
+      "from": 334.86,
+      "to": 336.93,
+      "sid": 129,
+      "location": 2,
+      "content": "会对电路起到一个保护作用",
+      "music": 0.0
+    },
+    {
+      "from": 336.93,
+      "to": 338.88,
+      "sid": 130,
+      "location": 2,
+      "content": "第四种类型也是非常常见",
+      "music": 0.0
+    },
+    {
+      "from": 338.88,
+      "to": 341.56,
+      "sid": 131,
+      "location": 2,
+      "content": "它是用于半导体器件的保护连接",
+      "music": 0.0
+    },
+    {
+      "from": 341.86,
+      "to": 343.72,
+      "sid": 132,
+      "location": 2,
+      "content": "比如说我们的可控硅呀",
+      "music": 0.0
+    },
+    {
+      "from": 343.72,
+      "to": 346.18,
+      "sid": 133,
+      "location": 2,
+      "content": "大功率三极管啊等等等等",
+      "music": 0.0
+    },
+    {
+      "from": 346.18,
+      "to": 349.37,
+      "sid": 134,
+      "location": 2,
+      "content": "通常情况下它是限制电压啊",
+      "music": 0.0
+    },
+    {
+      "from": 349.37,
+      "to": 350.06,
+      "sid": 135,
+      "location": 2,
+      "content": "限制电压",
+      "music": 0.0
+    },
+    {
+      "from": 350.06,
+      "to": 350.96,
+      "sid": 136,
+      "location": 2,
+      "content": "电压过高的时候",
+      "music": 0.0
+    },
+    {
+      "from": 350.96,
+      "to": 352.82,
+      "sid": 137,
+      "location": 2,
+      "content": "我就对这个器件",
+      "music": 0.0
+    },
+    {
+      "from": 352.82,
+      "to": 354.56,
+      "sid": 138,
+      "location": 2,
+      "content": "因为这个可控硅什么的",
+      "music": 0.0
+    },
+    {
+      "from": 354.56,
+      "to": 359.11,
+      "sid": 139,
+      "location": 2,
+      "content": "它都有一个呃电压电那个耐压等级嘛",
+      "music": 0.0
+    },
+    {
+      "from": 359.11,
+      "to": 361.48,
+      "sid": 140,
+      "location": 2,
+      "content": "所以说要对这个器件进行保护的时候",
+      "music": 0.0
+    },
+    {
+      "from": 361.48,
+      "to": 366.26,
+      "sid": 141,
+      "location": 2,
+      "content": "我可以就是在它上面并联一个这个压敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 366.26,
+      "to": 369.84,
+      "sid": 142,
+      "location": 2,
+      "content": "这样的话就会对这个器件起到一个保护作用",
+      "music": 0.0
+    },
+    {
+      "from": 369.96,
+      "to": 372.78,
+      "sid": 143,
+      "location": 2,
+      "content": "这就是压敏电阻我们之前学的",
+      "music": 0.0
+    },
+    {
+      "from": 372.78,
+      "to": 375.87,
+      "sid": 144,
+      "location": 2,
+      "content": "然后我们现在又进行了一个回顾和归纳总结",
+      "music": 0.0
+    },
+    {
+      "from": 375.87,
+      "to": 377.22,
+      "sid": 145,
+      "location": 2,
+      "content": "那么我们来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 377.22,
+      "to": 381.51,
+      "sid": 146,
+      "location": 2,
+      "content": "压敏电阻在实际的应用啊中有什么样的例子呢",
+      "music": 0.0
+    },
+    {
+      "from": 381.51,
+      "to": 384.66,
+      "sid": 147,
+      "location": 2,
+      "content": "我们看一下这个压敏电阻在电视机当中的应用",
+      "music": 0.0
+    },
+    {
+      "from": 384.66,
+      "to": 388.64,
+      "sid": 148,
+      "location": 2,
+      "content": "首先我们在啊找了一个图",
+      "music": 0.0
+    },
+    {
+      "from": 390.2,
+      "to": 391.76,
+      "sid": 149,
+      "location": 2,
+      "content": "我们先来了解一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 391.76,
+      "to": 394.83,
+      "sid": 150,
+      "location": 2,
+      "content": "这个电视剧当中为什么要用压敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 394.83,
+      "to": 397.66,
+      "sid": 151,
+      "location": 2,
+      "content": "非常非常的那个有一个常识啊",
+      "music": 0.0
+    },
+    {
+      "from": 397.66,
+      "to": 399.61,
+      "sid": 152,
+      "location": 2,
+      "content": "大家都都都非常了解",
+      "music": 0.0
+    },
+    {
+      "from": 399.61,
+      "to": 403.15,
+      "sid": 153,
+      "location": 2,
+      "content": "就是说我们一般不主张在雷电天就是看电视",
+      "music": 0.0
+    },
+    {
+      "from": 403.15,
+      "to": 403.69,
+      "sid": 154,
+      "location": 2,
+      "content": "为什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 403.69,
+      "to": 408.72,
+      "sid": 155,
+      "location": 2,
+      "content": "因为这个雷电天呀通常会遇到这个雷击的状况",
+      "music": 0.0
+    },
+    {
+      "from": 409.56,
+      "to": 413.3,
+      "sid": 156,
+      "location": 2,
+      "content": "这个雷击是怎么对电视机进行破坏的",
+      "music": 0.0
+    },
+    {
+      "from": 413.3,
+      "to": 414.5,
+      "sid": 157,
+      "location": 2,
+      "content": "通常是有两种状况",
+      "music": 0.0
+    },
+    {
+      "from": 414.5,
+      "to": 417.199,
+      "sid": 158,
+      "location": 2,
+      "content": "一个是雷电通过室外天线啊",
+      "music": 0.0
+    },
+    {
+      "from": 417.199,
+      "to": 419.6,
+      "sid": 159,
+      "location": 2,
+      "content": "一个是雷电通过电视机的电源线",
+      "music": 0.0
+    },
+    {
+      "from": 419.86,
+      "to": 422.65,
+      "sid": 160,
+      "location": 2,
+      "content": "通常就会对这个电视机有损坏",
+      "music": 0.0
+    },
+    {
+      "from": 422.65,
+      "to": 425.68,
+      "sid": 161,
+      "location": 2,
+      "content": "那么我们要对电视机的电视机有一个保护",
+      "music": 0.0
+    },
+    {
+      "from": 425.68,
+      "to": 429.199,
+      "sid": 162,
+      "location": 2,
+      "content": "就是呃尽量的预防这种情况",
+      "music": 0.0
+    },
+    {
+      "from": 429.199,
+      "to": 430.459,
+      "sid": 163,
+      "location": 2,
+      "content": "我们会怎么做呢",
+      "music": 0.0
+    },
+    {
+      "from": 430.459,
+      "to": 431.959,
+      "sid": 164,
+      "location": 2,
+      "content": "比如说这有一个示意图",
+      "music": 0.0
+    },
+    {
+      "from": 431.959,
+      "to": 434.04,
+      "sid": 165,
+      "location": 2,
+      "content": "这是一个电视机上面有天线",
+      "music": 0.0
+    },
+    {
+      "from": 435.319,
+      "to": 441.039,
+      "sid": 166,
+      "location": 2,
+      "content": "那么哦我们通过把天线跟大地之间啊",
+      "music": 0.0
+    },
+    {
+      "from": 441.039,
+      "to": 443.92,
+      "sid": 167,
+      "location": 2,
+      "content": "连上这个压敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 446.18,
+      "to": 447.88,
+      "sid": 168,
+      "location": 2,
+      "content": "当有感应雷的时候",
+      "music": 0.0
+    },
+    {
+      "from": 448.9,
+      "to": 449.59,
+      "sid": 169,
+      "location": 2,
+      "content": "然后呢",
+      "music": 0.0
+    },
+    {
+      "from": 449.59,
+      "to": 457.06,
+      "sid": 170,
+      "location": 2,
+      "content": "他就会对这个电视起到一个保护的作用啊",
+      "music": 0.0
+    },
+    {
+      "from": 457.06,
+      "to": 459.46,
+      "sid": 171,
+      "location": 2,
+      "content": "过电压的时候直接就短路了啊",
+      "music": 0.0
+    },
+    {
+      "from": 459.46,
+      "to": 460.76,
+      "sid": 172,
+      "location": 2,
+      "content": "顺着这就过来了",
+      "music": 0.0
+    },
+    {
+      "from": 462.22,
+      "to": 464.58,
+      "sid": 173,
+      "location": 2,
+      "content": "这就是感应雷的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 464.58,
+      "to": 466.02,
+      "sid": 174,
+      "location": 2,
+      "content": "为什么说是感应雷呢",
+      "music": 0.0
+    },
+    {
+      "from": 466.02,
+      "to": 467.94,
+      "sid": 175,
+      "location": 2,
+      "content": "大家可能不太了解感应雷是什么",
+      "music": 0.0
+    },
+    {
+      "from": 467.94,
+      "to": 468.36,
+      "sid": 176,
+      "location": 2,
+      "content": "感应雷",
+      "music": 0.0
+    },
+    {
+      "from": 468.36,
+      "to": 471.67,
+      "sid": 177,
+      "location": 2,
+      "content": "实际上是静电感应或电磁感应呃",
+      "music": 0.0
+    },
+    {
+      "from": 471.67,
+      "to": 475.63,
+      "sid": 178,
+      "location": 2,
+      "content": "引起的一个呃引起的一个静电电压",
+      "music": 0.0
+    },
+    {
+      "from": 475.63,
+      "to": 476.87,
+      "sid": 179,
+      "location": 2,
+      "content": "或者是感应电压",
+      "music": 0.0
+    },
+    {
+      "from": 476.87,
+      "to": 480.17,
+      "sid": 180,
+      "location": 2,
+      "content": "这个呢会对我们的啊电子设备呀",
+      "music": 0.0
+    },
+    {
+      "from": 480.17,
+      "to": 482.15,
+      "sid": 181,
+      "location": 2,
+      "content": "造成干扰或者是破坏",
+      "music": 0.0
+    },
+    {
+      "from": 482.15,
+      "to": 484.95,
+      "sid": 182,
+      "location": 2,
+      "content": "这就是呃一个感应雷",
+      "music": 0.0
+    },
+    {
+      "from": 484.95,
+      "to": 486.09,
+      "sid": 183,
+      "location": 2,
+      "content": "那么对于直击雷",
+      "music": 0.0
+    },
+    {
+      "from": 486.09,
+      "to": 489.69,
+      "sid": 184,
+      "location": 2,
+      "content": "我们就没有办法用那个压敏电阻来进行保护类",
+      "music": 0.0
+    },
+    {
+      "from": 489.69,
+      "to": 493.66,
+      "sid": 185,
+      "location": 2,
+      "content": "因为直击雷的电流和高压特别电流特别大",
+      "music": 0.0
+    },
+    {
+      "from": 493.66,
+      "to": 494.5,
+      "sid": 186,
+      "location": 2,
+      "content": "高压特别高",
+      "music": 0.0
+    },
+    {
+      "from": 494.5,
+      "to": 497.1,
+      "sid": 187,
+      "location": 2,
+      "content": "那么压敏电阻呢其实也没有办法承受",
+      "music": 0.0
+    },
+    {
+      "from": 497.1,
+      "to": 501.41,
+      "sid": 188,
+      "location": 2,
+      "content": "这只是说我们在普通的那个感应雷的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 501.41,
+      "to": 505.19,
+      "sid": 189,
+      "location": 2,
+      "content": "这个亚美电阻是对电视机有一个保护作用的",
+      "music": 0.0
+    },
+    {
+      "from": 506.33,
+      "to": 509.64,
+      "sid": 190,
+      "location": 2,
+      "content": "嗯这是压敏电阻的一个应用",
+      "music": 0.0
+    },
+    {
+      "from": 509.64,
+      "to": 512.46,
+      "sid": 191,
+      "location": 2,
+      "content": "那么下面我们来看一下热电偶传感器",
+      "music": 0.0
+    },
+    {
+      "from": 512.46,
+      "to": 514.2,
+      "sid": 192,
+      "location": 2,
+      "content": "热电偶传感器呢讲",
+      "music": 0.0
+    },
+    {
+      "from": 514.2,
+      "to": 520.06,
+      "sid": 193,
+      "location": 2,
+      "content": "这主要是基于我们前面讲了一个嗯热敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 520.06,
+      "to": 523.54,
+      "sid": 194,
+      "location": 2,
+      "content": "只是想想把这个热电偶传感器拿过来呢",
+      "music": 0.0
+    },
+    {
+      "from": 523.54,
+      "to": 526.68,
+      "sid": 195,
+      "location": 2,
+      "content": "和热敏电阻进入进行一下比较啊",
+      "music": 0.0
+    },
+    {
+      "from": 526.68,
+      "to": 529.71,
+      "sid": 196,
+      "location": 2,
+      "content": "大家以后在应用的应用的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 529.71,
+      "to": 532.8,
+      "sid": 197,
+      "location": 2,
+      "content": "心里边也有一个有一定的了解呃",
+      "music": 0.0
+    },
+    {
+      "from": 532.8,
+      "to": 535.2,
+      "sid": 198,
+      "location": 2,
+      "content": "首先我们来看一下什么是热电偶",
+      "music": 0.0
+    },
+    {
+      "from": 535.2,
+      "to": 536.86,
+      "sid": 199,
+      "location": 2,
+      "content": "热电偶的原理是什么",
+      "music": 0.0
+    },
+    {
+      "from": 536.86,
+      "to": 540.52,
+      "sid": 200,
+      "location": 2,
+      "content": "这个热电偶呢实际上大家可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 540.52,
+      "to": 544.37,
+      "sid": 201,
+      "location": 2,
+      "content": "热电偶实际上经常应用于一些测温仪表当中",
+      "music": 0.0
+    },
+    {
+      "from": 544.37,
+      "to": 546.57,
+      "sid": 202,
+      "location": 2,
+      "content": "测量仪器当中嗯",
+      "music": 0.0
+    },
+    {
+      "from": 546.57,
+      "to": 549.0,
+      "sid": 203,
+      "location": 2,
+      "content": "这就是一个热电偶回路",
+      "music": 0.0
+    },
+    {
+      "from": 549.0,
+      "to": 549.96,
+      "sid": 204,
+      "location": 2,
+      "content": "热电偶呢",
+      "music": 0.0
+    },
+    {
+      "from": 549.96,
+      "to": 553.93,
+      "sid": 205,
+      "location": 2,
+      "content": "它是由两种不同成分的均质导体形成的回路",
+      "music": 0.0
+    },
+    {
+      "from": 553.93,
+      "to": 555.91,
+      "sid": 206,
+      "location": 2,
+      "content": "那么这个是测量端",
+      "music": 0.0
+    },
+    {
+      "from": 555.91,
+      "to": 559.21,
+      "sid": 207,
+      "location": 2,
+      "content": "测量端实际上叫这个是测量端",
+      "music": 0.0
+    },
+    {
+      "from": 559.21,
+      "to": 564.08,
+      "sid": 208,
+      "location": 2,
+      "content": "然后这边呢这个接线的这两段呢叫做参比段",
+      "music": 0.0
+    },
+    {
+      "from": 564.08,
+      "to": 567.26,
+      "sid": 209,
+      "location": 2,
+      "content": "那么这这这两个头实际上是不同的",
+      "music": 0.0
+    },
+    {
+      "from": 567.26,
+      "to": 568.93,
+      "sid": 210,
+      "location": 2,
+      "content": "那个均值导体",
+      "music": 0.0
+    },
+    {
+      "from": 568.93,
+      "to": 573.28,
+      "sid": 211,
+      "location": 2,
+      "content": "那么当测量端跟参比端存在温差的时候",
+      "music": 0.0
+    },
+    {
+      "from": 573.28,
+      "to": 575.71,
+      "sid": 212,
+      "location": 2,
+      "content": "那么整个回路中就会产生电流",
+      "music": 0.0
+    },
+    {
+      "from": 575.71,
+      "to": 580.5,
+      "sid": 213,
+      "location": 2,
+      "content": "那么两端之间就会产生一个塞贝克热电式啊",
+      "music": 0.0
+    },
+    {
+      "from": 580.5,
+      "to": 581.76,
+      "sid": 214,
+      "location": 2,
+      "content": "热电式的大小啊",
+      "music": 0.0
+    },
+    {
+      "from": 581.76,
+      "to": 583.74,
+      "sid": 215,
+      "location": 2,
+      "content": "实际上是跟这个温度相关的啊",
+      "music": 0.0
+    },
+    {
+      "from": 583.74,
+      "to": 586.79,
+      "sid": 216,
+      "location": 2,
+      "content": "根据这个热备室热热",
+      "music": 0.0
+    },
+    {
+      "from": 586.79,
+      "to": 588.44,
+      "sid": 217,
+      "location": 2,
+      "content": "根据这个热电视",
+      "music": 0.0
+    },
+    {
+      "from": 588.44,
+      "to": 591.0,
+      "sid": 218,
+      "location": 2,
+      "content": "我们就可以求出它的那个温度了",
+      "music": 0.0
+    },
+    {
+      "from": 591.2,
+      "to": 593.42,
+      "sid": 219,
+      "location": 2,
+      "content": "这是他的一个简单的测试电路",
+      "music": 0.0
+    },
+    {
+      "from": 593.42,
+      "to": 596.57,
+      "sid": 220,
+      "location": 2,
+      "content": "这是测量端参比端连接啊",
+      "music": 0.0
+    },
+    {
+      "from": 596.57,
+      "to": 600.529,
+      "sid": 221,
+      "location": 2,
+      "content": "过了这可以看成是一个简单的测量啊",
+      "music": 0.0
+    },
+    {
+      "from": 602.149,
+      "to": 604.73,
+      "sid": 222,
+      "location": 2,
+      "content": "就是电压的一个电压表",
+      "music": 0.0
+    },
+    {
+      "from": 604.73,
+      "to": 608.27,
+      "sid": 223,
+      "location": 2,
+      "content": "实际上这个热电偶的这个测试电路啊",
+      "music": 0.0
+    },
+    {
+      "from": 608.27,
+      "to": 610.79,
+      "sid": 224,
+      "location": 2,
+      "content": "或者说热电偶的结构是非常简单的",
+      "music": 0.0
+    },
+    {
+      "from": 610.79,
+      "to": 612.71,
+      "sid": 225,
+      "location": 2,
+      "content": "而且他那个是用温度",
+      "music": 0.0
+    },
+    {
+      "from": 612.71,
+      "to": 614.27,
+      "sid": 226,
+      "location": 2,
+      "content": "它的温度范围特别广",
+      "music": 0.0
+    },
+    {
+      "from": 614.27,
+      "to": 617.12,
+      "sid": 227,
+      "location": 2,
+      "content": "所以说他在这些仪器仪表呀",
+      "music": 0.0
+    },
+    {
+      "from": 617.12,
+      "to": 620.45,
+      "sid": 228,
+      "location": 2,
+      "content": "或者是环境比较恶劣的地方呀",
+      "music": 0.0
+    },
+    {
+      "from": 620.45,
+      "to": 622.5,
+      "sid": 229,
+      "location": 2,
+      "content": "应用还是比较广泛的",
+      "music": 0.0
+    },
+    {
+      "from": 623.26,
+      "to": 625.14,
+      "sid": 230,
+      "location": 2,
+      "content": "但是啊它有一个缺点",
+      "music": 0.0
+    },
+    {
+      "from": 625.14,
+      "to": 626.1,
+      "sid": 231,
+      "location": 2,
+      "content": "就是说什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 626.1,
+      "to": 627.96,
+      "sid": 232,
+      "location": 2,
+      "content": "说这个热电偶啊",
+      "music": 0.0
+    },
+    {
+      "from": 627.96,
+      "to": 630.42,
+      "sid": 233,
+      "location": 2,
+      "content": "它的信号输出灵敏度比较低",
+      "music": 0.0
+    },
+    {
+      "from": 630.42,
+      "to": 635.099,
+      "sid": 234,
+      "location": 2,
+      "content": "容易受到环境干扰和前置放大器",
+      "music": 0.0
+    },
+    {
+      "from": 636.06,
+      "to": 637.82,
+      "sid": 235,
+      "location": 2,
+      "content": "温度漂移的影响",
+      "music": 0.0
+    },
+    {
+      "from": 637.82,
+      "to": 640.24,
+      "sid": 236,
+      "location": 2,
+      "content": "不适合测量微小的温度变化",
+      "music": 0.0
+    },
+    {
+      "from": 641.24,
+      "to": 644.08,
+      "sid": 237,
+      "location": 2,
+      "content": "这个我们可以看一下它啊",
+      "music": 0.0
+    },
+    {
+      "from": 644.08,
+      "to": 644.98,
+      "sid": 238,
+      "location": 2,
+      "content": "测量温度",
+      "music": 0.0
+    },
+    {
+      "from": 644.98,
+      "to": 646.42,
+      "sid": 239,
+      "location": 2,
+      "content": "测量低温的时候",
+      "music": 0.0
+    },
+    {
+      "from": 646.42,
+      "to": 651.9,
+      "sid": 240,
+      "location": 2,
+      "content": "或者是啊温度精度量精度比较高的时候",
+      "music": 0.0
+    },
+    {
+      "from": 651.9,
+      "to": 655.02,
+      "sid": 241,
+      "location": 2,
+      "content": "我们可以用什么什么来代替啊",
+      "music": 0.0
+    },
+    {
+      "from": 655.02,
+      "to": 657.04,
+      "sid": 242,
+      "location": 2,
+      "content": "给大家留一个小小的疑问",
+      "music": 0.0
+    },
+    {
+      "from": 657.04,
+      "to": 658.45,
+      "sid": 243,
+      "location": 2,
+      "content": "这是热电偶",
+      "music": 0.0
+    },
+    {
+      "from": 658.45,
+      "to": 662.08,
+      "sid": 244,
+      "location": 2,
+      "content": "那我们来看一下我们之前讲过这个热敏电阻啊",
+      "music": 0.0
+    },
+    {
+      "from": 662.08,
+      "to": 663.31,
+      "sid": 245,
+      "location": 2,
+      "content": "进行热敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 663.31,
+      "to": 665.08,
+      "sid": 246,
+      "location": 2,
+      "content": "我们先来回顾一下热敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 665.08,
+      "to": 665.98,
+      "sid": 247,
+      "location": 2,
+      "content": "我们前面讲过",
+      "music": 0.0
+    },
+    {
+      "from": 665.98,
+      "to": 667.59,
+      "sid": 248,
+      "location": 2,
+      "content": "他是啊",
+      "music": 0.0
+    },
+    {
+      "from": 667.59,
+      "to": 672.28,
+      "sid": 249,
+      "location": 2,
+      "content": "由于这个本身材质的问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 672.28,
+      "to": 674.8,
+      "sid": 250,
+      "location": 2,
+      "content": "它分为正温度系数的热敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 674.8,
+      "to": 676.93,
+      "sid": 251,
+      "location": 2,
+      "content": "和负温度系数的热敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 676.93,
+      "to": 679.88,
+      "sid": 252,
+      "location": 2,
+      "content": "那么呢对于正温度系数的热敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 679.88,
+      "to": 681.5,
+      "sid": 253,
+      "location": 2,
+      "content": "根据温度升高",
+      "music": 0.0
+    },
+    {
+      "from": 681.5,
+      "to": 682.959,
+      "sid": 254,
+      "location": 2,
+      "content": "然后他的那个",
+      "music": 0.0
+    },
+    {
+      "from": 684.58,
+      "to": 686.92,
+      "sid": 255,
+      "location": 2,
+      "content": "组织也会有变化",
+      "music": 0.0
+    },
+    {
+      "from": 686.92,
+      "to": 688.33,
+      "sid": 256,
+      "location": 2,
+      "content": "温度越高",
+      "music": 0.0
+    },
+    {
+      "from": 688.33,
+      "to": 689.95,
+      "sid": 257,
+      "location": 2,
+      "content": "然后阻值也就越大",
+      "music": 0.0
+    },
+    {
+      "from": 689.95,
+      "to": 692.08,
+      "sid": 258,
+      "location": 2,
+      "content": "对于负温度系数的热敏电阻呢",
+      "music": 0.0
+    },
+    {
+      "from": 692.08,
+      "to": 693.22,
+      "sid": 259,
+      "location": 2,
+      "content": "就是温度越高",
+      "music": 0.0
+    },
+    {
+      "from": 693.22,
+      "to": 694.29,
+      "sid": 260,
+      "location": 2,
+      "content": "阻值越小",
+      "music": 0.0
+    },
+    {
+      "from": 694.29,
+      "to": 698.79,
+      "sid": 261,
+      "location": 2,
+      "content": "那么对于热敏电阻呢和这个热电偶电阻啊",
+      "music": 0.0
+    },
+    {
+      "from": 698.79,
+      "to": 702.199,
+      "sid": 262,
+      "location": 2,
+      "content": "他们就是有不同的那个特点",
+      "music": 0.0
+    },
+    {
+      "from": 703.58,
+      "to": 704.86,
+      "sid": 263,
+      "location": 2,
+      "content": "简单来讲呢",
+      "music": 0.0
+    },
+    {
+      "from": 704.86,
+      "to": 710.12,
+      "sid": 264,
+      "location": 2,
+      "content": "其实这是我们在啊一些教材当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 710.12,
+      "to": 710.84,
+      "sid": 265,
+      "location": 2,
+      "content": "搜集到的",
+      "music": 0.0
+    },
+    {
+      "from": 710.84,
+      "to": 714.78,
+      "sid": 266,
+      "location": 2,
+      "content": "对这个热电偶电阻和温热热",
+      "music": 0.0
+    },
+    {
+      "from": 714.78,
+      "to": 718.57,
+      "sid": 267,
+      "location": 2,
+      "content": "热电偶那个传感器和热敏电阻的传感器的",
+      "music": 0.0
+    },
+    {
+      "from": 718.57,
+      "to": 720.71,
+      "sid": 268,
+      "location": 2,
+      "content": "一个啊特点的总结",
+      "music": 0.0
+    },
+    {
+      "from": 720.71,
+      "to": 723.26,
+      "sid": 269,
+      "location": 2,
+      "content": "在这我就不给大家一一讲解了",
+      "music": 0.0
+    },
+    {
+      "from": 723.26,
+      "to": 724.79,
+      "sid": 270,
+      "location": 2,
+      "content": "那么总体来讲呢",
+      "music": 0.0
+    },
+    {
+      "from": 724.79,
+      "to": 726.8,
+      "sid": 271,
+      "location": 2,
+      "content": "它们是有哪些不同的",
+      "music": 0.0
+    },
+    {
+      "from": 728.26,
+      "to": 730.89,
+      "sid": 272,
+      "location": 2,
+      "content": "就是不同的地方呢",
+      "music": 0.0
+    },
+    {
+      "from": 730.89,
+      "to": 733.62,
+      "sid": 273,
+      "location": 2,
+      "content": "首先来说这个是原理不一样",
+      "music": 0.0
+    },
+    {
+      "from": 733.62,
+      "to": 734.7,
+      "sid": 274,
+      "location": 2,
+      "content": "就是热电偶呢",
+      "music": 0.0
+    },
+    {
+      "from": 734.7,
+      "to": 739.58,
+      "sid": 275,
+      "location": 2,
+      "content": "它是两种不同的导体连接连接在一起",
+      "music": 0.0
+    },
+    {
+      "from": 739.58,
+      "to": 741.74,
+      "sid": 276,
+      "location": 2,
+      "content": "然后形成了一个回路",
+      "music": 0.0
+    },
+    {
+      "from": 741.82,
+      "to": 745.51,
+      "sid": 277,
+      "location": 2,
+      "content": "那么对于呃热敏电阻呢",
+      "music": 0.0
+    },
+    {
+      "from": 745.51,
+      "to": 748.52,
+      "sid": 278,
+      "location": 2,
+      "content": "它实际上就是温度不同",
+      "music": 0.0
+    },
+    {
+      "from": 748.52,
+      "to": 750.62,
+      "sid": 279,
+      "location": 2,
+      "content": "导体系数不同对吧",
+      "music": 0.0
+    },
+    {
+      "from": 750.62,
+      "to": 752.39,
+      "sid": 280,
+      "location": 2,
+      "content": "它就是因为导体不同",
+      "music": 0.0
+    },
+    {
+      "from": 752.39,
+      "to": 755.94,
+      "sid": 281,
+      "location": 2,
+      "content": "它产生的那个温度曲线也不一样",
+      "music": 0.0
+    },
+    {
+      "from": 755.94,
+      "to": 757.47,
+      "sid": 282,
+      "location": 2,
+      "content": "它分正温度系数呀",
+      "music": 0.0
+    },
+    {
+      "from": 757.47,
+      "to": 758.97,
+      "sid": 283,
+      "location": 2,
+      "content": "负温度系数啊等等",
+      "music": 0.0
+    },
+    {
+      "from": 758.97,
+      "to": 761.91,
+      "sid": 284,
+      "location": 2,
+      "content": "这方面就是他俩的原理是不一样的",
+      "music": 0.0
+    },
+    {
+      "from": 761.91,
+      "to": 763.53,
+      "sid": 285,
+      "location": 2,
+      "content": "另外一点来讲呢",
+      "music": 0.0
+    },
+    {
+      "from": 763.53,
+      "to": 766.59,
+      "sid": 286,
+      "location": 2,
+      "content": "就是一般情况下在应用的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 766.59,
+      "to": 768.66,
+      "sid": 287,
+      "location": 2,
+      "content": "因为这个热电偶呢",
+      "music": 0.0
+    },
+    {
+      "from": 768.66,
+      "to": 773.34,
+      "sid": 288,
+      "location": 2,
+      "content": "它实际上测量的温度范围是比较广泛的呃",
+      "music": 0.0
+    },
+    {
+      "from": 773.34,
+      "to": 775.14,
+      "sid": 289,
+      "location": 2,
+      "content": "对于高温的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 775.14,
+      "to": 778.38,
+      "sid": 290,
+      "location": 2,
+      "content": "我们一般都是用热电偶来进行检测的",
+      "music": 0.0
+    },
+    {
+      "from": 778.38,
+      "to": 780.0,
+      "sid": 291,
+      "location": 2,
+      "content": "对于低温的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 780.0,
+      "to": 782.67,
+      "sid": 292,
+      "location": 2,
+      "content": "我们一般都用热敏电阻呃",
+      "music": 0.0
+    },
+    {
+      "from": 782.67,
+      "to": 785.7,
+      "sid": 293,
+      "location": 2,
+      "content": "热敏电阻呢实际上它非常方便的体积小",
+      "music": 0.0
+    },
+    {
+      "from": 785.7,
+      "to": 788.91,
+      "sid": 294,
+      "location": 2,
+      "content": "比如说我们在一个电路板当中",
+      "music": 0.0
+    },
+    {
+      "from": 788.91,
+      "to": 792.86,
+      "sid": 295,
+      "location": 2,
+      "content": "随便想测某一个元器件的这个温度",
+      "music": 0.0
+    },
+    {
+      "from": 792.86,
+      "to": 795.26,
+      "sid": 296,
+      "location": 2,
+      "content": "我们这个热敏电阻实际上塞到一个",
+      "music": 0.0
+    },
+    {
+      "from": 795.26,
+      "to": 797.15,
+      "sid": 297,
+      "location": 2,
+      "content": "哪怕一个很小的缝隙里边",
+      "music": 0.0
+    },
+    {
+      "from": 797.15,
+      "to": 798.62,
+      "sid": 298,
+      "location": 2,
+      "content": "它都可以测量到",
+      "music": 0.0
+    },
+    {
+      "from": 799.5,
+      "to": 802.94,
+      "sid": 299,
+      "location": 2,
+      "content": "所以说热敏电阻它还是比较方便的",
+      "music": 0.0
+    },
+    {
+      "from": 802.94,
+      "to": 804.079,
+      "sid": 300,
+      "location": 2,
+      "content": "体积比较小",
+      "music": 0.0
+    },
+    {
+      "from": 804.1,
+      "to": 806.5,
+      "sid": 301,
+      "location": 2,
+      "content": "主要是他们的应用领域",
+      "music": 0.0
+    },
+    {
+      "from": 806.5,
+      "to": 809.719,
+      "sid": 302,
+      "location": 2,
+      "content": "也也有很多的相同点和不同点",
+      "music": 0.0
+    },
+    {
+      "from": 812.44,
+      "to": 815.57,
+      "sid": 303,
+      "location": 2,
+      "content": "你看这个热敏电阻啊",
+      "music": 0.0
+    },
+    {
+      "from": 815.57,
+      "to": 817.7,
+      "sid": 304,
+      "location": 2,
+      "content": "它可以作为测量元器件",
+      "music": 0.0
+    },
+    {
+      "from": 817.7,
+      "to": 819.35,
+      "sid": 305,
+      "location": 2,
+      "content": "还可以作为控制元器件",
+      "music": 0.0
+    },
+    {
+      "from": 819.35,
+      "to": 820.88,
+      "sid": 306,
+      "location": 2,
+      "content": "比如说热敏开关呀",
+      "music": 0.0
+    },
+    {
+      "from": 820.88,
+      "to": 822.079,
+      "sid": 307,
+      "location": 2,
+      "content": "限流器呀",
+      "music": 0.0
+    },
+    {
+      "from": 822.14,
+      "to": 826.32,
+      "sid": 308,
+      "location": 2,
+      "content": "电路补偿呀啊等一下给大家看一些例子啊",
+      "music": 0.0
+    },
+    {
+      "from": 826.32,
+      "to": 827.76,
+      "sid": 309,
+      "location": 2,
+      "content": "大家可能从例子当中",
+      "music": 0.0
+    },
+    {
+      "from": 827.76,
+      "to": 831.62,
+      "sid": 310,
+      "location": 2,
+      "content": "会对这两种这个电阻的区别啊",
+      "music": 0.0
+    },
+    {
+      "from": 831.62,
+      "to": 833.42,
+      "sid": 311,
+      "location": 2,
+      "content": "会有更多的那个了解",
+      "music": 0.0
+    },
+    {
+      "from": 833.42,
+      "to": 835.88,
+      "sid": 312,
+      "location": 2,
+      "content": "我们在下面的例子当中",
+      "music": 0.0
+    },
+    {
+      "from": 835.88,
+      "to": 837.26,
+      "sid": 313,
+      "location": 2,
+      "content": "咱们先来看一下例子吧",
+      "music": 0.0
+    },
+    {
+      "from": 837.26,
+      "to": 837.9,
+      "sid": 314,
+      "location": 2,
+      "content": "好吧",
+      "music": 0.0
+    },
+    {
+      "from": 838.82,
+      "to": 841.14,
+      "sid": 315,
+      "location": 2,
+      "content": "看一下我们的实例分析",
+      "music": 0.0
+    },
+    {
+      "from": 842.64,
+      "to": 846.2,
+      "sid": 316,
+      "location": 2,
+      "content": "我们先来看一下负温度系数的热敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 846.2,
+      "to": 849.34,
+      "sid": 317,
+      "location": 2,
+      "content": "在电冰箱温度控制当中的应用",
+      "music": 0.0
+    },
+    {
+      "from": 849.34,
+      "to": 853.01,
+      "sid": 318,
+      "location": 2,
+      "content": "我们先来看一下下面的这个图纸啊",
+      "music": 0.0
+    },
+    {
+      "from": 853.01,
+      "to": 856.19,
+      "sid": 319,
+      "location": 2,
+      "content": "这个图纸呢我们来看一下热敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 856.19,
+      "to": 858.95,
+      "sid": 320,
+      "location": 2,
+      "content": "在这里我们要通过这个热敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 858.95,
+      "to": 862.07,
+      "sid": 321,
+      "location": 2,
+      "content": "这边连接的是电冰箱的压缩机",
+      "music": 0.0
+    },
+    {
+      "from": 862.07,
+      "to": 864.83,
+      "sid": 322,
+      "location": 2,
+      "content": "我们要通过这一部分来控制这一部分",
+      "music": 0.0
+    },
+    {
+      "from": 864.83,
+      "to": 868.099,
+      "sid": 323,
+      "location": 2,
+      "content": "我们来看一下它整体的思路是怎么样的",
+      "music": 0.0
+    },
+    {
+      "from": 868.32,
+      "to": 872.04,
+      "sid": 324,
+      "location": 2,
+      "content": "如果我们要控制这个定金三的工作与否",
+      "music": 0.0
+    },
+    {
+      "from": 872.04,
+      "to": 874.86,
+      "sid": 325,
+      "location": 2,
+      "content": "也就是控制控制压缩机的工作与否",
+      "music": 0.0
+    },
+    {
+      "from": 874.86,
+      "to": 879.1,
+      "sid": 326,
+      "location": 2,
+      "content": "首先我们要控制这个继电器的开启与关闭",
+      "music": 0.0
+    },
+    {
+      "from": 879.1,
+      "to": 880.96,
+      "sid": 327,
+      "location": 2,
+      "content": "继电器的开启与关闭",
+      "music": 0.0
+    },
+    {
+      "from": 880.96,
+      "to": 884.89,
+      "sid": 328,
+      "location": 2,
+      "content": "是由这个三极管来控制的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 884.89,
+      "to": 886.48,
+      "sid": 329,
+      "location": 2,
+      "content": "三极管的导通与否",
+      "music": 0.0
+    },
+    {
+      "from": 886.48,
+      "to": 888.43,
+      "sid": 330,
+      "location": 2,
+      "content": "是由三极管这一端的一个",
+      "music": 0.0
+    },
+    {
+      "from": 888.43,
+      "to": 892.06,
+      "sid": 331,
+      "location": 2,
+      "content": "这一点的电压高低来控制的",
+      "music": 0.0
+    },
+    {
+      "from": 892.06,
+      "to": 896.46,
+      "sid": 332,
+      "location": 2,
+      "content": "实际上是由这一点来控制",
+      "music": 0.0
+    },
+    {
+      "from": 896.46,
+      "to": 899.26,
+      "sid": 333,
+      "location": 2,
+      "content": "这个电冰箱的这个压缩机的",
+      "music": 0.0
+    },
+    {
+      "from": 899.62,
+      "to": 902.44,
+      "sid": 334,
+      "location": 2,
+      "content": "那么再往前看嗯",
+      "music": 0.0
+    },
+    {
+      "from": 902.44,
+      "to": 907.05,
+      "sid": 335,
+      "location": 2,
+      "content": "这一点和这个热敏电阻的关系",
+      "music": 0.0
+    },
+    {
+      "from": 907.05,
+      "to": 908.91,
+      "sid": 336,
+      "location": 2,
+      "content": "通过温度的改变",
+      "music": 0.0
+    },
+    {
+      "from": 908.91,
+      "to": 911.579,
+      "sid": 337,
+      "location": 2,
+      "content": "热敏电阻的阻值进行改变",
+      "music": 0.0
+    },
+    {
+      "from": 911.6,
+      "to": 914.24,
+      "sid": 338,
+      "location": 2,
+      "content": "从而由热敏电阻来控制",
+      "music": 0.0
+    },
+    {
+      "from": 914.24,
+      "to": 917.859,
+      "sid": 339,
+      "location": 2,
+      "content": "这一点就可以控制地平线了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 918.24,
+      "to": 920.34,
+      "sid": 340,
+      "location": 2,
+      "content": "这是它整体的一个思路",
+      "music": 0.0
+    },
+    {
+      "from": 920.34,
+      "to": 925.719,
+      "sid": 341,
+      "location": 2,
+      "content": "下面我们来看具体的v c v c是一个电源",
+      "music": 0.0
+    },
+    {
+      "from": 925.9,
+      "to": 931.36,
+      "sid": 342,
+      "location": 2,
+      "content": "那么vc连接的这个r1 r2 和r p一啊",
+      "music": 0.0
+    },
+    {
+      "from": 931.36,
+      "to": 935.03,
+      "sid": 343,
+      "location": 2,
+      "content": "这是通过电阻分压来给这个a2 ",
+      "music": 0.0
+    },
+    {
+      "from": 935.03,
+      "to": 938.07,
+      "sid": 344,
+      "location": 2,
+      "content": "这个比较器一个基准值",
+      "music": 0.0
+    },
+    {
+      "from": 938.07,
+      "to": 941.979,
+      "sid": 345,
+      "location": 2,
+      "content": "比如说它反向反向输入端的一个基准值",
+      "music": 0.0
+    },
+    {
+      "from": 943.52,
+      "to": 946.59,
+      "sid": 346,
+      "location": 2,
+      "content": "那么对于这个电路压",
+      "music": 0.0
+    },
+    {
+      "from": 946.59,
+      "to": 950.04,
+      "sid": 347,
+      "location": 2,
+      "content": "热敏电阻r一和热敏电阻r3 ",
+      "music": 0.0
+    },
+    {
+      "from": 950.04,
+      "to": 952.65,
+      "sid": 348,
+      "location": 2,
+      "content": "这应该是r3 对啊",
+      "music": 0.0
+    },
+    {
+      "from": 952.65,
+      "to": 954.56,
+      "sid": 349,
+      "location": 2,
+      "content": "他们俩通过分压",
+      "music": 0.0
+    },
+    {
+      "from": 954.86,
+      "to": 958.58,
+      "sid": 350,
+      "location": 2,
+      "content": "给到这个a2 的一个同向输入端",
+      "music": 0.0
+    },
+    {
+      "from": 958.58,
+      "to": 962.18,
+      "sid": 351,
+      "location": 2,
+      "content": "同时这个a2 同向输入端和a一的反向输入端",
+      "music": 0.0
+    },
+    {
+      "from": 962.18,
+      "to": 965.219,
+      "sid": 352,
+      "location": 2,
+      "content": "是一个等电位点",
+      "music": 0.0
+    },
+    {
+      "from": 965.22,
+      "to": 967.95,
+      "sid": 353,
+      "location": 2,
+      "content": "他们俩之间的那个电压是相同的",
+      "music": 0.0
+    },
+    {
+      "from": 967.95,
+      "to": 969.96,
+      "sid": 354,
+      "location": 2,
+      "content": "那么r4 和r5 ",
+      "music": 0.0
+    },
+    {
+      "from": 969.96,
+      "to": 975.02,
+      "sid": 355,
+      "location": 2,
+      "content": "通过电阻分压给到a11 个基准电压值",
+      "music": 0.0
+    },
+    {
+      "from": 975.36,
+      "to": 980.04,
+      "sid": 356,
+      "location": 2,
+      "content": "也就是说通过我这个外面温度的改变",
+      "music": 0.0
+    },
+    {
+      "from": 980.26,
+      "to": 984.0,
+      "sid": 357,
+      "location": 2,
+      "content": "来控制哪一点的来控制ui 2",
+      "music": 0.0
+    },
+    {
+      "from": 985.84,
+      "to": 989.859,
+      "sid": 358,
+      "location": 2,
+      "content": "ui 2这一点电压值的变化",
+      "music": 0.0
+    },
+    {
+      "from": 990.88,
+      "to": 992.67,
+      "sid": 359,
+      "location": 2,
+      "content": "这一点电压值一变化",
+      "music": 0.0
+    },
+    {
+      "from": 992.67,
+      "to": 995.28,
+      "sid": 360,
+      "location": 2,
+      "content": "这个整个的输出就改变了",
+      "music": 0.0
+    },
+    {
+      "from": 995.5,
+      "to": 998.08,
+      "sid": 361,
+      "location": 2,
+      "content": "我们来看一下它是如何变化的",
+      "music": 0.0
+    },
+    {
+      "from": 998.08,
+      "to": 1000.12,
+      "sid": 362,
+      "location": 2,
+      "content": "那么这个4011呢",
+      "music": 0.0
+    },
+    {
+      "from": 1000.12,
+      "to": 1004.959,
+      "sid": 363,
+      "location": 2,
+      "content": "它是一个与非与非门构成的",
+      "music": 0.0
+    },
+    {
+      "from": 1005.16,
+      "to": 1006.99,
+      "sid": 364,
+      "location": 2,
+      "content": "我们来看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 1006.99,
+      "to": 1010.59,
+      "sid": 365,
+      "location": 2,
+      "content": "当我这个外界温度升高的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 1010.59,
+      "to": 1014.079,
+      "sid": 366,
+      "location": 2,
+      "content": "我这个r一的阻值是减小的",
+      "music": 0.0
+    },
+    {
+      "from": 1014.76,
+      "to": 1016.73,
+      "sid": 367,
+      "location": 2,
+      "content": "r一的阻值减小",
+      "music": 0.0
+    },
+    {
+      "from": 1016.73,
+      "to": 1018.12,
+      "sid": 368,
+      "location": 2,
+      "content": "我这一点",
+      "music": 0.0
+    },
+    {
+      "from": 1018.26,
+      "to": 1023.0,
+      "sid": 369,
+      "location": 2,
+      "content": "也就是说我r3 上分得的电压值是增加的",
+      "music": 0.0
+    },
+    {
+      "from": 1023.0,
+      "to": 1027.5,
+      "sid": 370,
+      "location": 2,
+      "content": "也就是说我ui 2是增加的u i2 ",
+      "music": 0.0
+    },
+    {
+      "from": 1027.5,
+      "to": 1031.61,
+      "sid": 371,
+      "location": 2,
+      "content": "增加这个u i3 这一点他们是等的电位电",
+      "music": 0.0
+    },
+    {
+      "from": 1031.61,
+      "to": 1033.2,
+      "sid": 372,
+      "location": 2,
+      "content": "这点的电压是增加的",
+      "music": 0.0
+    },
+    {
+      "from": 1033.2,
+      "to": 1034.79,
+      "sid": 373,
+      "location": 2,
+      "content": "这个基准是不变的",
+      "music": 0.0
+    },
+    {
+      "from": 1034.79,
+      "to": 1036.62,
+      "sid": 374,
+      "location": 2,
+      "content": "它的电压值增加",
+      "music": 0.0
+    },
+    {
+      "from": 1036.62,
+      "to": 1039.3,
+      "sid": 375,
+      "location": 2,
+      "content": "我们可以简单的认为啊",
+      "music": 0.0
+    },
+    {
+      "from": 1039.68,
+      "to": 1042.899,
+      "sid": 376,
+      "location": 2,
+      "content": "他这个输出是一个一对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1043.18,
+      "to": 1044.92,
+      "sid": 377,
+      "location": 2,
+      "content": "这一点的电压值升高",
+      "music": 0.0
+    },
+    {
+      "from": 1044.92,
+      "to": 1046.42,
+      "sid": 378,
+      "location": 2,
+      "content": "也说这一点的电压值升高",
+      "music": 0.0
+    },
+    {
+      "from": 1046.42,
+      "to": 1047.56,
+      "sid": 379,
+      "location": 2,
+      "content": "这是一个基准点",
+      "music": 0.0
+    },
+    {
+      "from": 1047.56,
+      "to": 1048.64,
+      "sid": 380,
+      "location": 2,
+      "content": "它是不会变化的",
+      "music": 0.0
+    },
+    {
+      "from": 1048.64,
+      "to": 1050.26,
+      "sid": 381,
+      "location": 2,
+      "content": "它升高反向输入端升高",
+      "music": 0.0
+    },
+    {
+      "from": 1050.26,
+      "to": 1052.62,
+      "sid": 382,
+      "location": 2,
+      "content": "我们可以认为它输出的是一个零",
+      "music": 0.0
+    },
+    {
+      "from": 1054.24,
+      "to": 1057.2,
+      "sid": 383,
+      "location": 2,
+      "content": "那么对于一个与非门与非门",
+      "music": 0.0
+    },
+    {
+      "from": 1057.2,
+      "to": 1060.77,
+      "sid": 384,
+      "location": 2,
+      "content": "一旦有一个值输输入的是零的话",
+      "music": 0.0
+    },
+    {
+      "from": 1060.77,
+      "to": 1061.82,
+      "sid": 385,
+      "location": 2,
+      "content": "它相与",
+      "music": 0.0
+    },
+    {
+      "from": 1061.82,
+      "to": 1063.56,
+      "sid": 386,
+      "location": 2,
+      "content": "那么这一点就应该是零",
+      "music": 0.0
+    },
+    {
+      "from": 1063.56,
+      "to": 1066.86,
+      "sid": 387,
+      "location": 2,
+      "content": "那么再经过非这一点输出的就是一",
+      "music": 0.0
+    },
+    {
+      "from": 1067.22,
+      "to": 1068.54,
+      "sid": 388,
+      "location": 2,
+      "content": "我们来推算一下",
+      "music": 0.0
+    },
+    {
+      "from": 1068.54,
+      "to": 1070.19,
+      "sid": 389,
+      "location": 2,
+      "content": "看看它是不是对的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1070.19,
+      "to": 1073.88,
+      "sid": 390,
+      "location": 2,
+      "content": "嗯这一点是一输入到这一端",
+      "music": 0.0
+    },
+    {
+      "from": 1073.88,
+      "to": 1074.87,
+      "sid": 391,
+      "location": 2,
+      "content": "也就是他的头像",
+      "music": 0.0
+    },
+    {
+      "from": 1074.87,
+      "to": 1078.69,
+      "sid": 392,
+      "location": 2,
+      "content": "这一端也是一一和一与是一",
+      "music": 0.0
+    },
+    {
+      "from": 1078.69,
+      "to": 1082.06,
+      "sid": 393,
+      "location": 2,
+      "content": "然后经过非是零来到这一段是零",
+      "music": 0.0
+    },
+    {
+      "from": 1082.06,
+      "to": 1083.35,
+      "sid": 394,
+      "location": 2,
+      "content": "零与零",
+      "music": 0.0
+    },
+    {
+      "from": 1083.35,
+      "to": 1084.88,
+      "sid": 395,
+      "location": 2,
+      "content": "看这样是对的",
+      "music": 0.0
+    },
+    {
+      "from": 1084.88,
+      "to": 1086.32,
+      "sid": 396,
+      "location": 2,
+      "content": "零与零与是零",
+      "music": 0.0
+    },
+    {
+      "from": 1086.32,
+      "to": 1087.88,
+      "sid": 397,
+      "location": 2,
+      "content": "然后经过非是一",
+      "music": 0.0
+    },
+    {
+      "from": 1087.88,
+      "to": 1090.28,
+      "sid": 398,
+      "location": 2,
+      "content": "也就是说我这一点输出是高电平",
+      "music": 0.0
+    },
+    {
+      "from": 1090.28,
+      "to": 1092.62,
+      "sid": 399,
+      "location": 2,
+      "content": "但我这一点输出是高电平的话",
+      "music": 0.0
+    },
+    {
+      "from": 1092.62,
+      "to": 1094.74,
+      "sid": 400,
+      "location": 2,
+      "content": "我这个三极管是导通的",
+      "music": 0.0
+    },
+    {
+      "from": 1094.74,
+      "to": 1097.74,
+      "sid": 401,
+      "location": 2,
+      "content": "我这边c和压缩继续工作了",
+      "music": 0.0
+    },
+    {
+      "from": 1099.22,
+      "to": 1101.04,
+      "sid": 402,
+      "location": 2,
+      "content": "我们重新看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 1101.04,
+      "to": 1103.13,
+      "sid": 403,
+      "location": 2,
+      "content": "也就是说我温度升高",
+      "music": 0.0
+    },
+    {
+      "from": 1103.13,
+      "to": 1105.47,
+      "sid": 404,
+      "location": 2,
+      "content": "压敏电阻值减小",
+      "music": 0.0
+    },
+    {
+      "from": 1105.47,
+      "to": 1108.14,
+      "sid": 405,
+      "location": 2,
+      "content": "这一点的分压值升高",
+      "music": 0.0
+    },
+    {
+      "from": 1108.14,
+      "to": 1112.73,
+      "sid": 406,
+      "location": 2,
+      "content": "升高的话使得我这个经过一个比较器",
+      "music": 0.0
+    },
+    {
+      "from": 1112.73,
+      "to": 1114.52,
+      "sid": 407,
+      "location": 2,
+      "content": "经过一个与非门",
+      "music": 0.0
+    },
+    {
+      "from": 1114.52,
+      "to": 1117.4,
+      "sid": 408,
+      "location": 2,
+      "content": "我这一点得到的是一个高电平三极管",
+      "music": 0.0
+    },
+    {
+      "from": 1117.4,
+      "to": 1120.19,
+      "sid": 409,
+      "location": 2,
+      "content": "导通继电器吸和压缩机工作",
+      "music": 0.0
+    },
+    {
+      "from": 1120.19,
+      "to": 1123.19,
+      "sid": 410,
+      "location": 2,
+      "content": "一旦我这个电压是降低的",
+      "music": 0.0
+    },
+    {
+      "from": 1123.19,
+      "to": 1125.6,
+      "sid": 411,
+      "location": 2,
+      "content": "温度是降低的",
+      "music": 0.0
+    },
+    {
+      "from": 1125.88,
+      "to": 1129.96,
+      "sid": 412,
+      "location": 2,
+      "content": "我的这个压敏电阻值升高",
+      "music": 0.0
+    },
+    {
+      "from": 1130.1,
+      "to": 1131.96,
+      "sid": 413,
+      "location": 2,
+      "content": "压敏电阻值升高",
+      "music": 0.0
+    },
+    {
+      "from": 1131.96,
+      "to": 1133.97,
+      "sid": 414,
+      "location": 2,
+      "content": "我这个分压值这一点",
+      "music": 0.0
+    },
+    {
+      "from": 1133.97,
+      "to": 1136.67,
+      "sid": 415,
+      "location": 2,
+      "content": "这一点以及这一点的分压值就降",
+      "music": 0.0
+    },
+    {
+      "from": 1136.67,
+      "to": 1140.65,
+      "sid": 416,
+      "location": 2,
+      "content": "降低这个点的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1140.65,
+      "to": 1142.39,
+      "sid": 417,
+      "location": 2,
+      "content": "分压值降低的话",
+      "music": 0.0
+    },
+    {
+      "from": 1142.39,
+      "to": 1144.4,
+      "sid": 418,
+      "location": 2,
+      "content": "你看啊对于这个比较器来说",
+      "music": 0.0
+    },
+    {
+      "from": 1144.4,
+      "to": 1148.08,
+      "sid": 419,
+      "location": 2,
+      "content": "它输出的就是一个一对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1148.08,
+      "to": 1149.34,
+      "sid": 420,
+      "location": 2,
+      "content": "这个输出的是零",
+      "music": 0.0
+    },
+    {
+      "from": 1149.34,
+      "to": 1152.28,
+      "sid": 421,
+      "location": 2,
+      "content": "那么它俩相倒换这个输出的是零",
+      "music": 0.0
+    },
+    {
+      "from": 1152.28,
+      "to": 1153.0,
+      "sid": 422,
+      "location": 2,
+      "content": "零的话",
+      "music": 0.0
+    },
+    {
+      "from": 1153.0,
+      "to": 1156.12,
+      "sid": 423,
+      "location": 2,
+      "content": "这边应该就是零零",
+      "music": 0.0
+    },
+    {
+      "from": 1156.12,
+      "to": 1157.32,
+      "sid": 424,
+      "location": 2,
+      "content": "这是一",
+      "music": 0.0
+    },
+    {
+      "from": 1157.32,
+      "to": 1159.39,
+      "sid": 425,
+      "location": 2,
+      "content": "那么这输出的是一",
+      "music": 0.0
+    },
+    {
+      "from": 1159.39,
+      "to": 1163.8,
+      "sid": 426,
+      "location": 2,
+      "content": "这是一与与之后还是一",
+      "music": 0.0
+    },
+    {
+      "from": 1163.8,
+      "to": 1164.97,
+      "sid": 427,
+      "location": 2,
+      "content": "然后非是零",
+      "music": 0.0
+    },
+    {
+      "from": 1164.97,
+      "to": 1166.44,
+      "sid": 428,
+      "location": 2,
+      "content": "那么这输入是零",
+      "music": 0.0
+    },
+    {
+      "from": 1166.44,
+      "to": 1168.54,
+      "sid": 429,
+      "location": 2,
+      "content": "也就是说它温度降低",
+      "music": 0.0
+    },
+    {
+      "from": 1168.54,
+      "to": 1170.619,
+      "sid": 430,
+      "location": 2,
+      "content": "分压值降得到的",
+      "music": 0.0
+    },
+    {
+      "from": 1170.619,
+      "to": 1173.979,
+      "sid": 431,
+      "location": 2,
+      "content": "通过这个与非门得到是一个低电平三极管",
+      "music": 0.0
+    },
+    {
+      "from": 1173.979,
+      "to": 1175.059,
+      "sid": 432,
+      "location": 2,
+      "content": "不导通继电器",
+      "music": 0.0
+    },
+    {
+      "from": 1175.059,
+      "to": 1176.78,
+      "sid": 433,
+      "location": 2,
+      "content": "不吸合压缩机不工作",
+      "music": 0.0
+    },
+    {
+      "from": 1176.78,
+      "to": 1180.02,
+      "sid": 434,
+      "location": 2,
+      "content": "这就是负温度系数的热敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1180.02,
+      "to": 1183.2,
+      "sid": 435,
+      "location": 2,
+      "content": "在电冰箱温度控制系统当中的应用",
+      "music": 0.0
+    },
+    {
+      "from": 1186.58,
+      "to": 1189.09,
+      "sid": 436,
+      "location": 2,
+      "content": "下面我们来再看一下其他的例子",
+      "music": 0.0
+    },
+    {
+      "from": 1189.09,
+      "to": 1193.31,
+      "sid": 437,
+      "location": 2,
+      "content": "就是热敏电阻在led当led灯当中的应用",
+      "music": 0.0
+    },
+    {
+      "from": 1193.31,
+      "to": 1196.49,
+      "sid": 438,
+      "location": 2,
+      "content": "那么led灯当中为什么要用热敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1196.49,
+      "to": 1200.87,
+      "sid": 439,
+      "location": 2,
+      "content": "因为这个我们都知道led灯它节能省电对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1200.87,
+      "to": 1206.19,
+      "sid": 440,
+      "location": 2,
+      "content": "然后呢呃光的亮度是和它的呃里边的电流",
+      "music": 0.0
+    },
+    {
+      "from": 1206.19,
+      "to": 1207.72,
+      "sid": 441,
+      "location": 2,
+      "content": "电流是相关的",
+      "music": 0.0
+    },
+    {
+      "from": 1207.72,
+      "to": 1210.36,
+      "sid": 442,
+      "location": 2,
+      "content": "但是我们知道led灯非常非常",
+      "music": 0.0
+    },
+    {
+      "from": 1210.36,
+      "to": 1212.92,
+      "sid": 443,
+      "location": 2,
+      "content": "就是有一个有一个特点",
+      "music": 0.0
+    },
+    {
+      "from": 1212.92,
+      "to": 1214.48,
+      "sid": 444,
+      "location": 2,
+      "content": "它就特别容易发热",
+      "music": 0.0
+    },
+    {
+      "from": 1214.48,
+      "to": 1216.31,
+      "sid": 445,
+      "location": 2,
+      "content": "一旦它发热的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 1216.31,
+      "to": 1217.39,
+      "sid": 446,
+      "location": 2,
+      "content": "如果不加以控制",
+      "music": 0.0
+    },
+    {
+      "from": 1217.39,
+      "to": 1221.78,
+      "sid": 447,
+      "location": 2,
+      "content": "就会对这个led灯的寿命有影响",
+      "music": 0.0
+    },
+    {
+      "from": 1221.78,
+      "to": 1223.58,
+      "sid": 448,
+      "location": 2,
+      "content": "甚至会损坏这个led灯",
+      "music": 0.0
+    },
+    {
+      "from": 1223.58,
+      "to": 1226.1,
+      "sid": 449,
+      "location": 2,
+      "content": "所以我们在设计led灯的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1226.1,
+      "to": 1230.22,
+      "sid": 450,
+      "location": 2,
+      "content": "一定要考虑它的一个热散热散热问题",
+      "music": 0.0
+    },
+    {
+      "from": 1231.04,
+      "to": 1232.56,
+      "sid": 451,
+      "location": 2,
+      "content": "我们来看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 1232.56,
+      "to": 1234.639,
+      "sid": 452,
+      "location": 2,
+      "content": "我找到一个就是",
+      "music": 0.0
+    },
+    {
+      "from": 1236.78,
+      "to": 1240.26,
+      "sid": 453,
+      "location": 2,
+      "content": "这是做的一个小实验",
+      "music": 0.0
+    },
+    {
+      "from": 1240.44,
+      "to": 1244.37,
+      "sid": 454,
+      "location": 2,
+      "content": "是在那个网上找的一个做的一个小实验",
+      "music": 0.0
+    },
+    {
+      "from": 1244.37,
+      "to": 1246.26,
+      "sid": 455,
+      "location": 2,
+      "content": "这是五个led灯",
+      "music": 0.0
+    },
+    {
+      "from": 1246.26,
+      "to": 1251.56,
+      "sid": 456,
+      "location": 2,
+      "content": "我们在led灯的下边呢分别配置了一个啊加热器",
+      "music": 0.0
+    },
+    {
+      "from": 1251.56,
+      "to": 1252.85,
+      "sid": 457,
+      "location": 2,
+      "content": "加热器是干什么的",
+      "music": 0.0
+    },
+    {
+      "from": 1252.85,
+      "to": 1259.08,
+      "sid": 458,
+      "location": 2,
+      "content": "就是模拟这个led灯产生过热情况的那个现象",
+      "music": 0.0
+    },
+    {
+      "from": 1259.22,
+      "to": 1263.96,
+      "sid": 459,
+      "location": 2,
+      "content": "当我对这个135进行加热的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1263.96,
+      "to": 1269.38,
+      "sid": 460,
+      "location": 2,
+      "content": "就说我这几个led灯如果是温度过高的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 1269.38,
+      "to": 1273.8,
+      "sid": 461,
+      "location": 2,
+      "content": "那么我们可以看出来它的这个光量值是降低的",
+      "music": 0.0
+    },
+    {
+      "from": 1274.76,
+      "to": 1275.32,
+      "sid": 462,
+      "location": 2,
+      "content": "对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1275.32,
+      "to": 1276.1,
+      "sid": 463,
+      "location": 2,
+      "content": "为什么呀",
+      "music": 0.0
+    },
+    {
+      "from": 1276.1,
+      "to": 1278.89,
+      "sid": 464,
+      "location": 2,
+      "content": "是因为我在led灯的设计当中",
+      "music": 0.0
+    },
+    {
+      "from": 1278.89,
+      "to": 1282.79,
+      "sid": 465,
+      "location": 2,
+      "content": "我啊设计的有这样的一个功能",
+      "music": 0.0
+    },
+    {
+      "from": 1282.79,
+      "to": 1285.13,
+      "sid": 466,
+      "location": 2,
+      "content": "就是当我的温度过高的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 1285.13,
+      "to": 1287.65,
+      "sid": 467,
+      "location": 2,
+      "content": "我会限制led灯的电流",
+      "music": 0.0
+    },
+    {
+      "from": 1287.65,
+      "to": 1290.42,
+      "sid": 468,
+      "location": 2,
+      "content": "从而限制led灯等亮度",
+      "music": 0.0
+    },
+    {
+      "from": 1290.42,
+      "to": 1291.62,
+      "sid": 469,
+      "location": 2,
+      "content": "限制它的电流",
+      "music": 0.0
+    },
+    {
+      "from": 1291.62,
+      "to": 1298.52,
+      "sid": 470,
+      "location": 2,
+      "content": "实际上就是使得这个led灯避免了进一步的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1298.52,
+      "to": 1299.42,
+      "sid": 471,
+      "location": 2,
+      "content": "温度上升",
+      "music": 0.0
+    },
+    {
+      "from": 1299.42,
+      "to": 1304.72,
+      "sid": 472,
+      "location": 2,
+      "content": "或者是从根本上来说减少它的热量的",
+      "music": 0.0
+    },
+    {
+      "from": 1304.72,
+      "to": 1309.13,
+      "sid": 473,
+      "location": 2,
+      "content": "在在此这热量散发的那个严重性",
+      "music": 0.0
+    },
+    {
+      "from": 1309.13,
+      "to": 1313.96,
+      "sid": 474,
+      "location": 2,
+      "content": "从而呢我们就可以就是从一定程度上避免啊",
+      "music": 0.0
+    },
+    {
+      "from": 1313.96,
+      "to": 1315.52,
+      "sid": 475,
+      "location": 2,
+      "content": "它会发生一些",
+      "music": 0.0
+    },
+    {
+      "from": 1315.52,
+      "to": 1320.59,
+      "sid": 476,
+      "location": 2,
+      "content": "比如说啊过热燃烧啊等等这种这种事情的发生",
+      "music": 0.0
+    },
+    {
+      "from": 1320.59,
+      "to": 1325.349,
+      "sid": 477,
+      "location": 2,
+      "content": "这就是我们对于普通的led灯的这个散热的一个",
+      "music": 0.0
+    },
+    {
+      "from": 1325.349,
+      "to": 1329.27,
+      "sid": 478,
+      "location": 2,
+      "content": "模拟的一个实验过程",
+      "music": 0.0
+    },
+    {
+      "from": 1329.27,
+      "to": 1333.36,
+      "sid": 479,
+      "location": 2,
+      "content": "那么下面我们来看一下这个具体的一个电路",
+      "music": 0.0
+    },
+    {
+      "from": 1337.84,
+      "to": 1339.15,
+      "sid": 480,
+      "location": 2,
+      "content": "我们看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 1339.15,
+      "to": 1342.36,
+      "sid": 481,
+      "location": 2,
+      "content": "这是由五个led灯并联组成的",
+      "music": 0.0
+    },
+    {
+      "from": 1346.28,
+      "to": 1349.42,
+      "sid": 482,
+      "location": 2,
+      "content": "我们给它外加一个电源",
+      "music": 0.0
+    },
+    {
+      "from": 1351.72,
+      "to": 1353.21,
+      "sid": 483,
+      "location": 2,
+      "content": "外加一个电源",
+      "music": 0.0
+    },
+    {
+      "from": 1353.21,
+      "to": 1355.78,
+      "sid": 484,
+      "location": 2,
+      "content": "那么我通过控制a点",
+      "music": 0.0
+    },
+    {
+      "from": 1356.06,
+      "to": 1359.58,
+      "sid": 485,
+      "location": 2,
+      "content": "来控制这个led灯的光的亮度",
+      "music": 0.0
+    },
+    {
+      "from": 1360.18,
+      "to": 1362.09,
+      "sid": 486,
+      "location": 2,
+      "content": "这是一个普通的电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1362.09,
+      "to": 1364.24,
+      "sid": 487,
+      "location": 2,
+      "content": "这是我的一个热敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1368.38,
+      "to": 1372.379,
+      "sid": 488,
+      "location": 2,
+      "content": "当我a点给到一个高电平的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1372.6,
+      "to": 1374.94,
+      "sid": 489,
+      "location": 2,
+      "content": "当我a点给到一个高电平的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1374.94,
+      "to": 1376.38,
+      "sid": 490,
+      "location": 2,
+      "content": "我们可以看出啊",
+      "music": 0.0
+    },
+    {
+      "from": 1376.38,
+      "to": 1379.38,
+      "sid": 491,
+      "location": 2,
+      "content": "这个三极管导通导通的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 1379.38,
+      "to": 1382.04,
+      "sid": 492,
+      "location": 2,
+      "content": "这个这这是一个通路",
+      "music": 0.0
+    },
+    {
+      "from": 1382.18,
+      "to": 1387.86,
+      "sid": 493,
+      "location": 2,
+      "content": "我只啊需要调节这个电阻和这个热敏",
+      "music": 0.0
+    },
+    {
+      "from": 1387.86,
+      "to": 1388.82,
+      "sid": 494,
+      "location": 2,
+      "content": "电阻的阻值",
+      "music": 0.0
+    },
+    {
+      "from": 1388.82,
+      "to": 1393.22,
+      "sid": 495,
+      "location": 2,
+      "content": "就可以控制整个回路当中的一个电流的大小",
+      "music": 0.0
+    },
+    {
+      "from": 1393.22,
+      "to": 1397.3,
+      "sid": 496,
+      "location": 2,
+      "content": "从而控制这个led灯的一个光的亮度",
+      "music": 0.0
+    },
+    {
+      "from": 1398.92,
+      "to": 1403.22,
+      "sid": 497,
+      "location": 2,
+      "content": "当我这个电路当中的温度",
+      "music": 0.0
+    },
+    {
+      "from": 1403.22,
+      "to": 1405.89,
+      "sid": 498,
+      "location": 2,
+      "content": "比如温度比较高的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 1405.89,
+      "to": 1412.419,
+      "sid": 499,
+      "location": 2,
+      "content": "我这个啊我这个这个热敏电阻的阻值",
+      "music": 0.0
+    },
+    {
+      "from": 1413.14,
+      "to": 1415.86,
+      "sid": 500,
+      "location": 2,
+      "content": "这是用了一个正温度系数的热敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1415.86,
+      "to": 1416.94,
+      "sid": 501,
+      "location": 2,
+      "content": "温度值过高",
+      "music": 0.0
+    },
+    {
+      "from": 1416.94,
+      "to": 1419.51,
+      "sid": 502,
+      "location": 2,
+      "content": "然后它的它的阻值就会变大",
+      "music": 0.0
+    },
+    {
+      "from": 1419.51,
+      "to": 1422.39,
+      "sid": 503,
+      "location": 2,
+      "content": "一旦我的温度值很高了",
+      "music": 0.0
+    },
+    {
+      "from": 1422.39,
+      "to": 1424.219,
+      "sid": 504,
+      "location": 2,
+      "content": "那么我的阻值就会变大",
+      "music": 0.0
+    },
+    {
+      "from": 1424.219,
+      "to": 1425.179,
+      "sid": 505,
+      "location": 2,
+      "content": "阻值变大",
+      "music": 0.0
+    },
+    {
+      "from": 1425.179,
+      "to": 1427.159,
+      "sid": 506,
+      "location": 2,
+      "content": "从而使这个整个回路当中的",
+      "music": 0.0
+    },
+    {
+      "from": 1427.159,
+      "to": 1429.08,
+      "sid": 507,
+      "location": 2,
+      "content": "这个电流值就变小了",
+      "music": 0.0
+    },
+    {
+      "from": 1430.14,
+      "to": 1432.08,
+      "sid": 508,
+      "location": 2,
+      "content": "电流值变小了",
+      "music": 0.0
+    },
+    {
+      "from": 1432.08,
+      "to": 1435.98,
+      "sid": 509,
+      "location": 2,
+      "content": "那么电流值变小的同时",
+      "music": 0.0
+    },
+    {
+      "from": 1435.98,
+      "to": 1439.26,
+      "sid": 510,
+      "location": 2,
+      "content": "led灯的这个亮度实际上就减小了",
+      "music": 0.0
+    },
+    {
+      "from": 1440.4,
+      "to": 1444.14,
+      "sid": 511,
+      "location": 2,
+      "content": "同时他的这个由电流过大引起的",
+      "music": 0.0
+    },
+    {
+      "from": 1444.14,
+      "to": 1446.6,
+      "sid": 512,
+      "location": 2,
+      "content": "这个热也变小了",
+      "music": 0.0
+    },
+    {
+      "from": 1446.6,
+      "to": 1447.14,
+      "sid": 513,
+      "location": 2,
+      "content": "所以说呢",
+      "music": 0.0
+    },
+    {
+      "from": 1447.14,
+      "to": 1451.24,
+      "sid": 514,
+      "location": 2,
+      "content": "这从一定程度上就是抑制了这个led灯",
+      "music": 0.0
+    },
+    {
+      "from": 1451.24,
+      "to": 1454.9,
+      "sid": 515,
+      "location": 2,
+      "content": "因过热问题而产生的种种损坏",
+      "music": 0.0
+    },
+    {
+      "from": 1454.9,
+      "to": 1458.28,
+      "sid": 516,
+      "location": 2,
+      "content": "这就是一个热敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1458.28,
+      "to": 1461.82,
+      "sid": 517,
+      "location": 2,
+      "content": "正温度系数的热敏电阻在led灯当中的应用",
+      "music": 0.0
+    },
+    {
+      "from": 1461.82,
+      "to": 1466.379,
+      "sid": 518,
+      "location": 2,
+      "content": "这是一些热敏电阻的一个外观贴片的插件",
+      "music": 0.0
+    },
+    {
+      "from": 1471.0,
+      "to": 1475.0,
+      "sid": 519,
+      "location": 2,
+      "content": "这是实际的一个曲线图啊",
+      "music": 0.0
+    },
+    {
+      "from": 1475.0,
+      "to": 1479.62,
+      "sid": 520,
+      "location": 2,
+      "content": "这条曲线是那个刚才我们所说的这个热敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1479.62,
+      "to": 1484.56,
+      "sid": 521,
+      "location": 2,
+      "content": "和这个电阻值加起来的一个等效电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1484.56,
+      "to": 1486.18,
+      "sid": 522,
+      "location": 2,
+      "content": "这个是热敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1486.18,
+      "to": 1487.54,
+      "sid": 523,
+      "location": 2,
+      "content": "我们可以看到啊",
+      "music": 0.0
+    },
+    {
+      "from": 1487.58,
+      "to": 1488.9,
+      "sid": 524,
+      "location": 2,
+      "content": "这是温度",
+      "music": 0.0
+    },
+    {
+      "from": 1488.9,
+      "to": 1490.4,
+      "sid": 525,
+      "location": 2,
+      "content": "这是它的一个电流",
+      "music": 0.0
+    },
+    {
+      "from": 1490.4,
+      "to": 1492.44,
+      "sid": 526,
+      "location": 2,
+      "content": "当然随着温度的升高啊",
+      "music": 0.0
+    },
+    {
+      "from": 1492.44,
+      "to": 1495.05,
+      "sid": 527,
+      "location": 2,
+      "content": "它的电流时间上是逐渐减小的",
+      "music": 0.0
+    },
+    {
+      "from": 1495.05,
+      "to": 1496.36,
+      "sid": 528,
+      "location": 2,
+      "content": "看到了吗",
+      "music": 0.0
+    },
+    {
+      "from": 1496.4,
+      "to": 1499.64,
+      "sid": 529,
+      "location": 2,
+      "content": "实际上是这样的一条温度曲线啊",
+      "music": 0.0
+    },
+    {
+      "from": 1499.64,
+      "to": 1503.74,
+      "sid": 530,
+      "location": 2,
+      "content": "这就是热敏电阻在led当当中的一个应用",
+      "music": 0.0
+    },
+    {
+      "from": 1503.74,
+      "to": 1505.72,
+      "sid": 531,
+      "location": 2,
+      "content": "我们下来下面再看一下",
+      "music": 0.0
+    },
+    {
+      "from": 1505.72,
+      "to": 1508.659,
+      "sid": 532,
+      "location": 2,
+      "content": "下面一个热敏电阻式的液位传感器",
+      "music": 0.0
+    },
+    {
+      "from": 1509.04,
+      "to": 1511.23,
+      "sid": 533,
+      "location": 2,
+      "content": "这个非常有意思啊",
+      "music": 0.0
+    },
+    {
+      "from": 1511.23,
+      "to": 1515.139,
+      "sid": 534,
+      "location": 2,
+      "content": "我觉得大家应该都对这个东西感兴趣",
+      "music": 0.0
+    },
+    {
+      "from": 1515.58,
+      "to": 1517.56,
+      "sid": 535,
+      "location": 2,
+      "content": "它主要是用在哪呢",
+      "music": 0.0
+    },
+    {
+      "from": 1517.56,
+      "to": 1521.67,
+      "sid": 536,
+      "location": 2,
+      "content": "它主要是用在一些汽车上的这个页面包",
+      "music": 0.0
+    },
+    {
+      "from": 1521.67,
+      "to": 1524.52,
+      "sid": 537,
+      "location": 2,
+      "content": "就是那个燃油",
+      "music": 0.0
+    },
+    {
+      "from": 1524.84,
+      "to": 1530.48,
+      "sid": 538,
+      "location": 2,
+      "content": "就是啊这个我记得好像是说那个丰田汽车吧",
+      "music": 0.0
+    },
+    {
+      "from": 1530.48,
+      "to": 1534.25,
+      "sid": 539,
+      "location": 2,
+      "content": "丰田汽车有一个啊油面的一个报警器",
+      "music": 0.0
+    },
+    {
+      "from": 1534.25,
+      "to": 1539.34,
+      "sid": 540,
+      "location": 2,
+      "content": "就是当我的这个油面就是低于某一个值的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1540.78,
+      "to": 1543.5,
+      "sid": 541,
+      "location": 2,
+      "content": "它就会报警",
+      "music": 0.0
+    },
+    {
+      "from": 1543.5,
+      "to": 1545.48,
+      "sid": 542,
+      "location": 2,
+      "content": "它的主要原理主要是这样的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1545.48,
+      "to": 1548.48,
+      "sid": 543,
+      "location": 2,
+      "content": "这个是那个热敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1548.64,
+      "to": 1550.77,
+      "sid": 544,
+      "location": 2,
+      "content": "这是那个里边是油",
+      "music": 0.0
+    },
+    {
+      "from": 1550.77,
+      "to": 1554.84,
+      "sid": 545,
+      "location": 2,
+      "content": "假如说这是一个装有热敏电阻的一个装置",
+      "music": 0.0
+    },
+    {
+      "from": 1555.68,
+      "to": 1557.58,
+      "sid": 546,
+      "location": 2,
+      "content": "外加一个电源",
+      "music": 0.0
+    },
+    {
+      "from": 1560.24,
+      "to": 1563.14,
+      "sid": 547,
+      "location": 2,
+      "content": "当我这个热敏电阻在油里边的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1563.14,
+      "to": 1567.07,
+      "sid": 548,
+      "location": 2,
+      "content": "因为知道热敏电阻给它加上电源通电",
+      "music": 0.0
+    },
+    {
+      "from": 1567.07,
+      "to": 1570.31,
+      "sid": 549,
+      "location": 2,
+      "content": "热敏电阻里边如果有电流通过的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 1570.31,
+      "to": 1571.899,
+      "sid": 550,
+      "location": 2,
+      "content": "就会产生热量",
+      "music": 0.0
+    },
+    {
+      "from": 1571.98,
+      "to": 1574.02,
+      "sid": 551,
+      "location": 2,
+      "content": "一旦它产生了热量",
+      "music": 0.0
+    },
+    {
+      "from": 1574.02,
+      "to": 1577.11,
+      "sid": 552,
+      "location": 2,
+      "content": "它在油里边它的热量是很容易散发的",
+      "music": 0.0
+    },
+    {
+      "from": 1577.11,
+      "to": 1581.02,
+      "sid": 553,
+      "location": 2,
+      "content": "所以说这个它的电阻值",
+      "music": 0.0
+    },
+    {
+      "from": 1581.02,
+      "to": 1585.04,
+      "sid": 554,
+      "location": 2,
+      "content": "不会随着这个热度的积累阻值而变小",
+      "music": 0.0
+    },
+    {
+      "from": 1585.04,
+      "to": 1588.5,
+      "sid": 555,
+      "location": 2,
+      "content": "这个时候呢这个灯是不会发光的",
+      "music": 0.0
+    },
+    {
+      "from": 1588.5,
+      "to": 1591.02,
+      "sid": 556,
+      "location": 2,
+      "content": "一旦这个油面降低的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 1591.02,
+      "to": 1593.42,
+      "sid": 557,
+      "location": 2,
+      "content": "这个热敏电阻暴露在空气当中",
+      "music": 0.0
+    },
+    {
+      "from": 1593.42,
+      "to": 1595.04,
+      "sid": 558,
+      "location": 2,
+      "content": "这时候再给它通电压",
+      "music": 0.0
+    },
+    {
+      "from": 1595.04,
+      "to": 1596.7,
+      "sid": 559,
+      "location": 2,
+      "content": "上面有电流的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 1597.1,
+      "to": 1601.42,
+      "sid": 560,
+      "location": 2,
+      "content": "那么这个时候它会随着那个热敏电阻值",
+      "music": 0.0
+    },
+    {
+      "from": 1601.42,
+      "to": 1603.52,
+      "sid": 561,
+      "location": 2,
+      "content": "是会随着它上面有温度",
+      "music": 0.0
+    },
+    {
+      "from": 1603.52,
+      "to": 1605.11,
+      "sid": 562,
+      "location": 2,
+      "content": "会随着温度的升高",
+      "music": 0.0
+    },
+    {
+      "from": 1605.11,
+      "to": 1606.25,
+      "sid": 563,
+      "location": 2,
+      "content": "组织而变小",
+      "music": 0.0
+    },
+    {
+      "from": 1606.25,
+      "to": 1607.96,
+      "sid": 564,
+      "location": 2,
+      "content": "一旦它的阻值变小了",
+      "music": 0.0
+    },
+    {
+      "from": 1607.96,
+      "to": 1609.85,
+      "sid": 565,
+      "location": 2,
+      "content": "那么它串联在这个电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 1609.85,
+      "to": 1612.05,
+      "sid": 566,
+      "location": 2,
+      "content": "电路当中的电流就会变大",
+      "music": 0.0
+    },
+    {
+      "from": 1612.05,
+      "to": 1614.03,
+      "sid": 567,
+      "location": 2,
+      "content": "电流过大的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 1614.03,
+      "to": 1616.6,
+      "sid": 568,
+      "location": 2,
+      "content": "就会使得这个灯发亮",
+      "music": 0.0
+    },
+    {
+      "from": 1616.6,
+      "to": 1617.98,
+      "sid": 569,
+      "location": 2,
+      "content": "也就是这这个灯",
+      "music": 0.0
+    },
+    {
+      "from": 1617.98,
+      "to": 1620.38,
+      "sid": 570,
+      "location": 2,
+      "content": "实际上就是我们在这个仪器仪表中",
+      "music": 0.0
+    },
+    {
+      "from": 1620.38,
+      "to": 1622.36,
+      "sid": 571,
+      "location": 2,
+      "content": "可能显示的一个led灯啊",
+      "music": 0.0
+    },
+    {
+      "from": 1622.36,
+      "to": 1624.96,
+      "sid": 572,
+      "location": 2,
+      "content": "或者是报警灯啊之类的",
+      "music": 0.0
+    },
+    {
+      "from": 1625.08,
+      "to": 1626.85,
+      "sid": 573,
+      "location": 2,
+      "content": "这个时候我们就知道啊",
+      "music": 0.0
+    },
+    {
+      "from": 1626.85,
+      "to": 1629.58,
+      "sid": 574,
+      "location": 2,
+      "content": "页面已经低了啊",
+      "music": 0.0
+    },
+    {
+      "from": 1629.58,
+      "to": 1634.08,
+      "sid": 575,
+      "location": 2,
+      "content": "这这就是一个简单的就是这个",
+      "music": 0.0
+    },
+    {
+      "from": 1636.68,
+      "to": 1639.08,
+      "sid": 576,
+      "location": 2,
+      "content": "液位传感器的一个应用",
+      "music": 0.0
+    },
+    {
+      "from": 1640.26,
+      "to": 1643.4,
+      "sid": 577,
+      "location": 2,
+      "content": "实际上在那个汽车里边儿",
+      "music": 0.0
+    },
+    {
+      "from": 1643.4,
+      "to": 1645.84,
+      "sid": 578,
+      "location": 2,
+      "content": "它的图是这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 1646.26,
+      "to": 1648.06,
+      "sid": 579,
+      "location": 2,
+      "content": "在汽车里边是这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 1648.06,
+      "to": 1649.41,
+      "sid": 580,
+      "location": 2,
+      "content": "这有一个开关",
+      "music": 0.0
+    },
+    {
+      "from": 1649.41,
+      "to": 1650.22,
+      "sid": 581,
+      "location": 2,
+      "content": "点火开关",
+      "music": 0.0
+    },
+    {
+      "from": 1650.22,
+      "to": 1651.96,
+      "sid": 582,
+      "location": 2,
+      "content": "点火开关实际上是一个继电器",
+      "music": 0.0
+    },
+    {
+      "from": 1651.96,
+      "to": 1655.05,
+      "sid": 583,
+      "location": 2,
+      "content": "就是说当我这个刚才我们讲到",
+      "music": 0.0
+    },
+    {
+      "from": 1655.05,
+      "to": 1656.31,
+      "sid": 584,
+      "location": 2,
+      "content": "一开始这个图的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1656.31,
+      "to": 1659.26,
+      "sid": 585,
+      "location": 2,
+      "content": "就是说当它暴露在空气当中",
+      "music": 0.0
+    },
+    {
+      "from": 1660.68,
+      "to": 1662.2,
+      "sid": 586,
+      "location": 2,
+      "content": "它的组织就会减小",
+      "music": 0.0
+    },
+    {
+      "from": 1662.2,
+      "to": 1663.58,
+      "sid": 587,
+      "location": 2,
+      "content": "然后电流就会变大",
+      "music": 0.0
+    },
+    {
+      "from": 1663.58,
+      "to": 1664.899,
+      "sid": 588,
+      "location": 2,
+      "content": "就会使这个灯",
+      "music": 0.0
+    },
+    {
+      "from": 1665.36,
+      "to": 1667.96,
+      "sid": 589,
+      "location": 2,
+      "content": "最后使这个灯变亮啊",
+      "music": 0.0
+    },
+    {
+      "from": 1668.22,
+      "to": 1670.14,
+      "sid": 590,
+      "location": 2,
+      "content": "实际上它是用在这的",
+      "music": 0.0
+    },
+    {
+      "from": 1670.14,
+      "to": 1673.24,
+      "sid": 591,
+      "location": 2,
+      "content": "这这是实际的一个呃",
+      "music": 0.0
+    },
+    {
+      "from": 1673.24,
+      "to": 1676.84,
+      "sid": 592,
+      "location": 2,
+      "content": "就是汽车里边的一个液位传感器的一个指示图",
+      "music": 0.0
+    },
+    {
+      "from": 1676.84,
+      "to": 1678.82,
+      "sid": 593,
+      "location": 2,
+      "content": "这是一个点点火开关",
+      "music": 0.0
+    },
+    {
+      "from": 1678.82,
+      "to": 1682.04,
+      "sid": 594,
+      "location": 2,
+      "content": "它应该是由一个继电器来组成的",
+      "music": 0.0
+    },
+    {
+      "from": 1684.92,
+      "to": 1688.84,
+      "sid": 595,
+      "location": 2,
+      "content": "其实这个热敏电阻它用的情况还是蛮多的",
+      "music": 0.0
+    },
+    {
+      "from": 1688.84,
+      "to": 1692.389,
+      "sid": 596,
+      "location": 2,
+      "content": "也是我们在设计当中经常使用的一个东西",
+      "music": 0.0
+    },
+    {
+      "from": 1692.389,
+      "to": 1695.98,
+      "sid": 597,
+      "location": 2,
+      "content": "就是大家给大家留一个小小的思考题啊",
+      "music": 0.0
+    },
+    {
+      "from": 1695.98,
+      "to": 1699.57,
+      "sid": 598,
+      "location": 2,
+      "content": "大家可以下去在网上搜索一下这个热敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1699.57,
+      "to": 1702.15,
+      "sid": 599,
+      "location": 2,
+      "content": "现在比较比较比较火的",
+      "music": 0.0
+    },
+    {
+      "from": 1702.15,
+      "to": 1704.36,
+      "sid": 600,
+      "location": 2,
+      "content": "就是那个电子手环呀",
+      "music": 0.0
+    },
+    {
+      "from": 1704.74,
+      "to": 1707.44,
+      "sid": 601,
+      "location": 2,
+      "content": "啊等一些就是那种电子设备",
+      "music": 0.0
+    },
+    {
+      "from": 1707.44,
+      "to": 1710.02,
+      "sid": 602,
+      "location": 2,
+      "content": "其实这个热敏电阻在上面也有应用",
+      "music": 0.0
+    },
+    {
+      "from": 1710.02,
+      "to": 1714.1,
+      "sid": 603,
+      "location": 2,
+      "content": "它通过这个人的体温啊",
+      "music": 0.0
+    },
+    {
+      "from": 1714.1,
+      "to": 1719.44,
+      "sid": 604,
+      "location": 2,
+      "content": "或者是通过呃人的这个在跑步的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1719.44,
+      "to": 1724.3,
+      "sid": 605,
+      "location": 2,
+      "content": "这个呼吸量呀来哎来进行一下计算啊",
+      "music": 0.0
+    },
+    {
+      "from": 1724.3,
+      "to": 1725.68,
+      "sid": 606,
+      "location": 2,
+      "content": "在这个电子手环当中",
+      "music": 0.0
+    },
+    {
+      "from": 1725.68,
+      "to": 1727.18,
+      "sid": 607,
+      "location": 2,
+      "content": "这个应用其实是非常广泛的",
+      "music": 0.0
+    },
+    {
+      "from": 1727.18,
+      "to": 1728.38,
+      "sid": 608,
+      "location": 2,
+      "content": "这给大家一个思考题",
+      "music": 0.0
+    },
+    {
+      "from": 1728.38,
+      "to": 1732.46,
+      "sid": 609,
+      "location": 2,
+      "content": "以及在那个婴婴幼儿的那个体温表里边",
+      "music": 0.0
+    },
+    {
+      "from": 1732.46,
+      "to": 1734.2,
+      "sid": 610,
+      "location": 2,
+      "content": "也用到过热敏电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1734.2,
+      "to": 1736.51,
+      "sid": 611,
+      "location": 2,
+      "content": "大家可以在网上搜一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 1736.51,
+      "to": 1739.87,
+      "sid": 612,
+      "location": 2,
+      "content": "对这个热敏电阻在这些设备当中的应用",
+      "music": 0.0
+    },
+    {
+      "from": 1739.87,
+      "to": 1742.33,
+      "sid": 613,
+      "location": 2,
+      "content": "做一个简单的那个了解",
+      "music": 0.0
+    },
+    {
+      "from": 1742.33,
+      "to": 1745.76,
+      "sid": 614,
+      "location": 2,
+      "content": "也是相当于对我们这节课的一个总结",
+      "music": 0.0
+    },
+    {
+      "from": 1745.94,
+      "to": 1748.34,
+      "sid": 615,
+      "location": 2,
+      "content": "热敏电阻呢就给讲到这儿",
+      "music": 0.0
+    },
+    {
+      "from": 1748.34,
+      "to": 1750.28,
+      "sid": 616,
+      "location": 2,
+      "content": "电阻提高篇里就讲这些",
+      "music": 0.0
+    }
+  ]
+}

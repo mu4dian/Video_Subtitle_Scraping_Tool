@@ -1,0 +1,3212 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 6.4,
+      "to": 9.28,
+      "sid": 1,
+      "location": 2,
+      "content": "嗯咱们再接着看一下二极管",
+      "music": 0.0
+    },
+    {
+      "from": 9.739,
+      "to": 12.619,
+      "sid": 2,
+      "location": 2,
+      "content": "二极管也是一个非常基础的元器件",
+      "music": 0.0
+    },
+    {
+      "from": 12.619,
+      "to": 15.379,
+      "sid": 3,
+      "location": 2,
+      "content": "在我们电路当中应用非常多",
+      "music": 0.0
+    },
+    {
+      "from": 15.379,
+      "to": 18.36,
+      "sid": 4,
+      "location": 2,
+      "content": "我们先来看一下一些二极管的图片",
+      "music": 0.0
+    },
+    {
+      "from": 19.8,
+      "to": 21.62,
+      "sid": 5,
+      "location": 2,
+      "content": "这是一些贴片二极管",
+      "music": 0.0
+    },
+    {
+      "from": 23.18,
+      "to": 25.96,
+      "sid": 6,
+      "location": 2,
+      "content": "这是不同封装形式的各种二极管",
+      "music": 0.0
+    },
+    {
+      "from": 27.859,
+      "to": 30.759,
+      "sid": 7,
+      "location": 2,
+      "content": "这是一个led发光二极管",
+      "music": 0.0
+    },
+    {
+      "from": 31.959,
+      "to": 33.98,
+      "sid": 8,
+      "location": 2,
+      "content": "这是一些厂家二极管",
+      "music": 0.0
+    },
+    {
+      "from": 36.78,
+      "to": 39.56,
+      "sid": 9,
+      "location": 2,
+      "content": "那么我们在了解二极管的时候",
+      "music": 0.0
+    },
+    {
+      "from": 39.56,
+      "to": 44.18,
+      "sid": 10,
+      "location": 2,
+      "content": "我们呃就就像问什么是二极管啊",
+      "music": 0.0
+    },
+    {
+      "from": 44.18,
+      "to": 47.12,
+      "sid": 11,
+      "location": 2,
+      "content": "实际上二极管就是由偏结啊",
+      "music": 0.0
+    },
+    {
+      "from": 47.12,
+      "to": 50.599,
+      "sid": 12,
+      "location": 2,
+      "content": "加上一些外壳加上引线来组成的",
+      "music": 0.0
+    },
+    {
+      "from": 50.78,
+      "to": 52.97,
+      "sid": 13,
+      "location": 2,
+      "content": "那么什么是pn结呢",
+      "music": 0.0
+    },
+    {
+      "from": 52.97,
+      "to": 57.23,
+      "sid": 14,
+      "location": 2,
+      "content": "拼音节呢实际上就是由我们看一下这个图",
+      "music": 0.0
+    },
+    {
+      "from": 57.23,
+      "to": 60.17,
+      "sid": 15,
+      "location": 2,
+      "content": "它是由p区和n区嗯",
+      "music": 0.0
+    },
+    {
+      "from": 60.17,
+      "to": 63.86,
+      "sid": 16,
+      "location": 2,
+      "content": "p区呢就是硅晶体加入了三架原子硼",
+      "music": 0.0
+    },
+    {
+      "from": 64.679,
+      "to": 67.789,
+      "sid": 17,
+      "location": 2,
+      "content": "它里边有一个多数载流子是空穴",
+      "music": 0.0
+    },
+    {
+      "from": 67.789,
+      "to": 70.489,
+      "sid": 18,
+      "location": 2,
+      "content": "还有一个少数载流子是电子",
+      "music": 0.0
+    },
+    {
+      "from": 70.489,
+      "to": 72.139,
+      "sid": 19,
+      "location": 2,
+      "content": "那么在n区呢",
+      "music": 0.0
+    },
+    {
+      "from": 72.139,
+      "to": 75.6,
+      "sid": 20,
+      "location": 2,
+      "content": "n区是硅或者是锗晶体",
+      "music": 0.0
+    },
+    {
+      "from": 75.6,
+      "to": 78.18,
+      "sid": 21,
+      "location": 2,
+      "content": "加入了少量的五价原子磷",
+      "music": 0.0
+    },
+    {
+      "from": 78.18,
+      "to": 80.52,
+      "sid": 22,
+      "location": 2,
+      "content": "它的多数载流子是电子",
+      "music": 0.0
+    },
+    {
+      "from": 80.52,
+      "to": 82.82,
+      "sid": 23,
+      "location": 2,
+      "content": "而少数载流子是空穴",
+      "music": 0.0
+    },
+    {
+      "from": 83.8,
+      "to": 86.97,
+      "sid": 24,
+      "location": 2,
+      "content": "当p区和n区结合在一起的时候",
+      "music": 0.0
+    },
+    {
+      "from": 86.97,
+      "to": 91.08,
+      "sid": 25,
+      "location": 2,
+      "content": "那么它的交界处就存在着载流子浓度的差异",
+      "music": 0.0
+    },
+    {
+      "from": 91.44,
+      "to": 96.24,
+      "sid": 26,
+      "location": 2,
+      "content": "电子和空穴都要朝着浓度低的方向去扩散",
+      "music": 0.0
+    },
+    {
+      "from": 96.24,
+      "to": 98.04,
+      "sid": 27,
+      "location": 2,
+      "content": "但是二者呢又都带电",
+      "music": 0.0
+    },
+    {
+      "from": 98.04,
+      "to": 101.64,
+      "sid": 28,
+      "location": 2,
+      "content": "结果就使得p区而失去空穴",
+      "music": 0.0
+    },
+    {
+      "from": 101.64,
+      "to": 103.98,
+      "sid": 29,
+      "location": 2,
+      "content": "而留下不能移动的负离子",
+      "music": 0.0
+    },
+    {
+      "from": 104.04,
+      "to": 109.96,
+      "sid": 30,
+      "location": 2,
+      "content": "而n区失去电子而留下不能移动的正电正离子",
+      "music": 0.0
+    },
+    {
+      "from": 109.96,
+      "to": 112.84,
+      "sid": 31,
+      "location": 2,
+      "content": "这些不能移动的带电的正负离子",
+      "music": 0.0
+    },
+    {
+      "from": 112.84,
+      "to": 115.88,
+      "sid": 32,
+      "location": 2,
+      "content": "就集中在拼音交界",
+      "music": 0.0
+    },
+    {
+      "from": 115.88,
+      "to": 117.74,
+      "sid": 33,
+      "location": 2,
+      "content": "地处交界的地方",
+      "music": 0.0
+    },
+    {
+      "from": 117.74,
+      "to": 119.06,
+      "sid": 34,
+      "location": 2,
+      "content": "形成了拼音结",
+      "music": 0.0
+    },
+    {
+      "from": 121.86,
+      "to": 124.7,
+      "sid": 35,
+      "location": 2,
+      "content": "这是它的一个呃缩略图",
+      "music": 0.0
+    },
+    {
+      "from": 126.56,
+      "to": 132.339,
+      "sid": 36,
+      "location": 2,
+      "content": "当我们在拼音节给它加上正向电压的时候",
+      "music": 0.0
+    },
+    {
+      "from": 132.339,
+      "to": 133.959,
+      "sid": 37,
+      "location": 2,
+      "content": "看这这是一个正极啊",
+      "music": 0.0
+    },
+    {
+      "from": 133.959,
+      "to": 134.739,
+      "sid": 38,
+      "location": 2,
+      "content": "这是一个负极",
+      "music": 0.0
+    },
+    {
+      "from": 134.739,
+      "to": 136.989,
+      "sid": 39,
+      "location": 2,
+      "content": "当我们给它加上正向电压的时候",
+      "music": 0.0
+    },
+    {
+      "from": 136.989,
+      "to": 140.42,
+      "sid": 40,
+      "location": 2,
+      "content": "那么p区的电位就高于n区的电位",
+      "music": 0.0
+    },
+    {
+      "from": 140.42,
+      "to": 143.58,
+      "sid": 41,
+      "location": 2,
+      "content": "那么电流就从p区流到n区",
+      "music": 0.0
+    },
+    {
+      "from": 145.959,
+      "to": 147.959,
+      "sid": 42,
+      "location": 2,
+      "content": "拼音节就成低阻性",
+      "music": 0.0
+    },
+    {
+      "from": 147.959,
+      "to": 152.76,
+      "sid": 43,
+      "location": 2,
+      "content": "所以呢拼音节就会呃有大电流通过电流大",
+      "music": 0.0
+    },
+    {
+      "from": 152.76,
+      "to": 155.25,
+      "sid": 44,
+      "location": 2,
+      "content": "当我们加一个反向电压的时候",
+      "music": 0.0
+    },
+    {
+      "from": 155.25,
+      "to": 156.33,
+      "sid": 45,
+      "location": 2,
+      "content": "反向电压的时候",
+      "music": 0.0
+    },
+    {
+      "from": 156.33,
+      "to": 159.68,
+      "sid": 46,
+      "location": 2,
+      "content": "那么p区的电位就会低于n区",
+      "music": 0.0
+    },
+    {
+      "from": 159.68,
+      "to": 163.96,
+      "sid": 47,
+      "location": 2,
+      "content": "那么拼音节呢就会呈高阻态而截止",
+      "music": 0.0
+    },
+    {
+      "from": 166.64,
+      "to": 169.72,
+      "sid": 48,
+      "location": 2,
+      "content": "因此拼音节是具有单向导电性的",
+      "music": 0.0
+    },
+    {
+      "from": 170.04,
+      "to": 172.68,
+      "sid": 49,
+      "location": 2,
+      "content": "而我们的二极管是由一个拼音",
+      "music": 0.0
+    },
+    {
+      "from": 172.68,
+      "to": 174.3,
+      "sid": 50,
+      "location": 2,
+      "content": "在外面加上一个外壳",
+      "music": 0.0
+    },
+    {
+      "from": 174.3,
+      "to": 176.97,
+      "sid": 51,
+      "location": 2,
+      "content": "然后加上这种导线来形成的",
+      "music": 0.0
+    },
+    {
+      "from": 176.97,
+      "to": 179.91,
+      "sid": 52,
+      "location": 2,
+      "content": "所以呢我们的二极管和pn结一样",
+      "music": 0.0
+    },
+    {
+      "from": 179.91,
+      "to": 182.27,
+      "sid": 53,
+      "location": 2,
+      "content": "它也是具有单向导电性的",
+      "music": 0.0
+    },
+    {
+      "from": 182.27,
+      "to": 186.05,
+      "sid": 54,
+      "location": 2,
+      "content": "这呢就是二极管在我们原理图当中的一个",
+      "music": 0.0
+    },
+    {
+      "from": 187.13,
+      "to": 188.36,
+      "sid": 55,
+      "location": 2,
+      "content": "表示方法",
+      "music": 0.0
+    },
+    {
+      "from": 191.8,
+      "to": 195.72,
+      "sid": 56,
+      "location": 2,
+      "content": "我们来看一下这个二极管有哪些特性",
+      "music": 0.0
+    },
+    {
+      "from": 195.72,
+      "to": 197.16,
+      "sid": 57,
+      "location": 2,
+      "content": "二极管有两个特性",
+      "music": 0.0
+    },
+    {
+      "from": 197.16,
+      "to": 198.36,
+      "sid": 58,
+      "location": 2,
+      "content": "一个是伏安特性",
+      "music": 0.0
+    },
+    {
+      "from": 198.36,
+      "to": 199.98,
+      "sid": 59,
+      "location": 2,
+      "content": "一个是温度特性",
+      "music": 0.0
+    },
+    {
+      "from": 200.06,
+      "to": 201.38,
+      "sid": 60,
+      "location": 2,
+      "content": "说到伏安特性",
+      "music": 0.0
+    },
+    {
+      "from": 201.38,
+      "to": 205.059,
+      "sid": 61,
+      "location": 2,
+      "content": "我们在讲在讲电阻的时候",
+      "music": 0.0
+    },
+    {
+      "from": 205.059,
+      "to": 207.4,
+      "sid": 62,
+      "location": 2,
+      "content": "也介绍过电阻的伏安特性",
+      "music": 0.0
+    },
+    {
+      "from": 207.44,
+      "to": 210.26,
+      "sid": 63,
+      "location": 2,
+      "content": "那么二极管的伏安特性呢",
+      "music": 0.0
+    },
+    {
+      "from": 210.26,
+      "to": 216.269,
+      "sid": 64,
+      "location": 2,
+      "content": "实际上就是在这个二极管上面加上嗯",
+      "music": 0.0
+    },
+    {
+      "from": 216.269,
+      "to": 218.34,
+      "sid": 65,
+      "location": 2,
+      "content": "加上电压",
+      "music": 0.0
+    },
+    {
+      "from": 219.58,
+      "to": 222.54,
+      "sid": 66,
+      "location": 2,
+      "content": "二极管上面的电压和流过二极管的电流",
+      "music": 0.0
+    },
+    {
+      "from": 222.54,
+      "to": 223.5,
+      "sid": 67,
+      "location": 2,
+      "content": "之间的关系",
+      "music": 0.0
+    },
+    {
+      "from": 223.5,
+      "to": 226.74,
+      "sid": 68,
+      "location": 2,
+      "content": "就构成了它的一个伏安特性",
+      "music": 0.0
+    },
+    {
+      "from": 227.499,
+      "to": 231.199,
+      "sid": 69,
+      "location": 2,
+      "content": "加上一看一下这个伏安特性曲线",
+      "music": 0.0
+    },
+    {
+      "from": 231.199,
+      "to": 236.61,
+      "sid": 70,
+      "location": 2,
+      "content": "这是以硅管和锗管为例做出来的一个伏安特性",
+      "music": 0.0
+    },
+    {
+      "from": 236.61,
+      "to": 238.47,
+      "sid": 71,
+      "location": 2,
+      "content": "对于这个伏安特性呢",
+      "music": 0.0
+    },
+    {
+      "from": 238.47,
+      "to": 241.54,
+      "sid": 72,
+      "location": 2,
+      "content": "我们可以分成三段来看",
+      "music": 0.0
+    },
+    {
+      "from": 241.839,
+      "to": 245.559,
+      "sid": 73,
+      "location": 2,
+      "content": "我们以硅管为例来看嘛",
+      "music": 0.0
+    },
+    {
+      "from": 245.559,
+      "to": 247.239,
+      "sid": 74,
+      "location": 2,
+      "content": "以硅管为例来看",
+      "music": 0.0
+    },
+    {
+      "from": 247.239,
+      "to": 248.619,
+      "sid": 75,
+      "location": 2,
+      "content": "把它分成三段",
+      "music": 0.0
+    },
+    {
+      "from": 248.619,
+      "to": 250.74,
+      "sid": 76,
+      "location": 2,
+      "content": "第一段呢就是这块",
+      "music": 0.0
+    },
+    {
+      "from": 251.86,
+      "to": 256.33,
+      "sid": 77,
+      "location": 2,
+      "content": "这一块就是正向正向导通的这一块",
+      "music": 0.0
+    },
+    {
+      "from": 256.33,
+      "to": 258.61,
+      "sid": 78,
+      "location": 2,
+      "content": "这个硅管我们可以看出",
+      "music": 0.0
+    },
+    {
+      "from": 258.61,
+      "to": 260.56,
+      "sid": 79,
+      "location": 2,
+      "content": "当它的电压在一定范围之内",
+      "music": 0.0
+    },
+    {
+      "from": 260.56,
+      "to": 263.25,
+      "sid": 80,
+      "location": 2,
+      "content": "它的电流是零对吧",
+      "music": 0.0
+    },
+    {
+      "from": 263.25,
+      "to": 266.25,
+      "sid": 81,
+      "location": 2,
+      "content": "当它的电压达到一定值之后",
+      "music": 0.0
+    },
+    {
+      "from": 266.25,
+      "to": 269.2,
+      "sid": 82,
+      "location": 2,
+      "content": "它的电流迅速上升",
+      "music": 0.0
+    },
+    {
+      "from": 270.56,
+      "to": 274.42,
+      "sid": 83,
+      "location": 2,
+      "content": "那么假设我们把它这个电流迅速上升的",
+      "music": 0.0
+    },
+    {
+      "from": 274.42,
+      "to": 277.12,
+      "sid": 84,
+      "location": 2,
+      "content": "这个转折点画到这儿的话",
+      "music": 0.0
+    },
+    {
+      "from": 282.639,
+      "to": 284.609,
+      "sid": 85,
+      "location": 2,
+      "content": "这这对应的这个电压",
+      "music": 0.0
+    },
+    {
+      "from": 284.609,
+      "to": 289.04,
+      "sid": 86,
+      "location": 2,
+      "content": "实际上就是这个硅管的一个死区电压",
+      "music": 0.0
+    },
+    {
+      "from": 289.04,
+      "to": 291.17,
+      "sid": 87,
+      "location": 2,
+      "content": "或者是把它叫做开启电压",
+      "music": 0.0
+    },
+    {
+      "from": 291.17,
+      "to": 292.96,
+      "sid": 88,
+      "location": 2,
+      "content": "也就是超过这个电压值",
+      "music": 0.0
+    },
+    {
+      "from": 292.96,
+      "to": 296.5,
+      "sid": 89,
+      "location": 2,
+      "content": "硅管就会它的电流就会迅速上升",
+      "music": 0.0
+    },
+    {
+      "from": 296.5,
+      "to": 299.5,
+      "sid": 90,
+      "location": 2,
+      "content": "迅速上升的迅速上升的时候",
+      "music": 0.0
+    },
+    {
+      "from": 299.5,
+      "to": 301.66,
+      "sid": 91,
+      "location": 2,
+      "content": "它的电压几乎是恒定不变的",
+      "music": 0.0
+    },
+    {
+      "from": 301.66,
+      "to": 304.4,
+      "sid": 92,
+      "location": 2,
+      "content": "就是导通之后它的电压是不变的",
+      "music": 0.0
+    },
+    {
+      "from": 306.8,
+      "to": 309.82,
+      "sid": 93,
+      "location": 2,
+      "content": "这是它的一个正向正向的一个曲线",
+      "music": 0.0
+    },
+    {
+      "from": 309.82,
+      "to": 310.78,
+      "sid": 94,
+      "location": 2,
+      "content": "可以看出来啊",
+      "music": 0.0
+    },
+    {
+      "from": 310.78,
+      "to": 313.79,
+      "sid": 95,
+      "location": 2,
+      "content": "这个硅管的死区电压是0.7伏",
+      "music": 0.0
+    },
+    {
+      "from": 313.79,
+      "to": 316.44,
+      "sid": 96,
+      "location": 2,
+      "content": "而这个折管的死区电压是0.1伏",
+      "music": 0.0
+    },
+    {
+      "from": 317.18,
+      "to": 319.4,
+      "sid": 97,
+      "location": 2,
+      "content": "那么我们再来看一下反向",
+      "music": 0.0
+    },
+    {
+      "from": 319.62,
+      "to": 323.31,
+      "sid": 98,
+      "location": 2,
+      "content": "在反向的时候加反向电压",
+      "music": 0.0
+    },
+    {
+      "from": 323.31,
+      "to": 324.63,
+      "sid": 99,
+      "location": 2,
+      "content": "我们看到啊",
+      "music": 0.0
+    },
+    {
+      "from": 324.63,
+      "to": 326.22,
+      "sid": 100,
+      "location": 2,
+      "content": "反向的时候",
+      "music": 0.0
+    },
+    {
+      "from": 326.56,
+      "to": 331.69,
+      "sid": 101,
+      "location": 2,
+      "content": "它会处于一个就是当它的电压小于一定值时",
+      "music": 0.0
+    },
+    {
+      "from": 331.69,
+      "to": 334.46,
+      "sid": 102,
+      "location": 2,
+      "content": "加一定的加一定的电压值",
+      "music": 0.0
+    },
+    {
+      "from": 335.18,
+      "to": 337.42,
+      "sid": 103,
+      "location": 2,
+      "content": "它的电流几乎是不变的",
+      "music": 0.0
+    },
+    {
+      "from": 337.42,
+      "to": 339.31,
+      "sid": 104,
+      "location": 2,
+      "content": "也有呈饱和状态",
+      "music": 0.0
+    },
+    {
+      "from": 339.31,
+      "to": 343.54,
+      "sid": 105,
+      "location": 2,
+      "content": "因此呢这个称为一个反向饱和电流",
+      "music": 0.0
+    },
+    {
+      "from": 343.54,
+      "to": 344.44,
+      "sid": 106,
+      "location": 2,
+      "content": "这是一",
+      "music": 0.0
+    },
+    {
+      "from": 344.44,
+      "to": 349.86,
+      "sid": 107,
+      "location": 2,
+      "content": "这是这是这个二极管的一个反向饱和电流",
+      "music": 0.0
+    },
+    {
+      "from": 350.94,
+      "to": 352.97,
+      "sid": 108,
+      "location": 2,
+      "content": "这个反向饱和电流",
+      "music": 0.0
+    },
+    {
+      "from": 352.97,
+      "to": 358.48,
+      "sid": 109,
+      "location": 2,
+      "content": "我们通常也是二极管的一个重要的参数啊",
+      "music": 0.0
+    },
+    {
+      "from": 358.48,
+      "to": 360.76,
+      "sid": 110,
+      "location": 2,
+      "content": "我们通过这两段就可以看出来",
+      "music": 0.0
+    },
+    {
+      "from": 360.76,
+      "to": 364.48,
+      "sid": 111,
+      "location": 2,
+      "content": "这个二极管实际上它是有一个正向导通性的",
+      "music": 0.0
+    },
+    {
+      "from": 364.48,
+      "to": 365.42,
+      "sid": 112,
+      "location": 2,
+      "content": "对吧",
+      "music": 0.0
+    },
+    {
+      "from": 366.16,
+      "to": 367.41,
+      "sid": 113,
+      "location": 2,
+      "content": "然后我们再来看",
+      "music": 0.0
+    },
+    {
+      "from": 367.41,
+      "to": 370.23,
+      "sid": 114,
+      "location": 2,
+      "content": "当我们这个反向电压继续加大的时候",
+      "music": 0.0
+    },
+    {
+      "from": 370.23,
+      "to": 375.36,
+      "sid": 115,
+      "location": 2,
+      "content": "它就会有一个反向击穿状态",
+      "music": 0.0
+    },
+    {
+      "from": 375.36,
+      "to": 376.44,
+      "sid": 116,
+      "location": 2,
+      "content": "反向击穿状态",
+      "music": 0.0
+    },
+    {
+      "from": 376.44,
+      "to": 377.37,
+      "sid": 117,
+      "location": 2,
+      "content": "比如说这个值",
+      "music": 0.0
+    },
+    {
+      "from": 377.37,
+      "to": 380.96,
+      "sid": 118,
+      "location": 2,
+      "content": "这个值我们通常把它标记成u b r",
+      "music": 0.0
+    },
+    {
+      "from": 380.96,
+      "to": 383.66,
+      "sid": 119,
+      "location": 2,
+      "content": "它是一个二极管的一个反向击穿电压",
+      "music": 0.0
+    },
+    {
+      "from": 383.66,
+      "to": 385.56,
+      "sid": 120,
+      "location": 2,
+      "content": "这个反向击穿电压",
+      "music": 0.0
+    },
+    {
+      "from": 386.62,
+      "to": 389.04,
+      "sid": 121,
+      "location": 2,
+      "content": "达到这个反向击穿电压值之后",
+      "music": 0.0
+    },
+    {
+      "from": 389.04,
+      "to": 394.34,
+      "sid": 122,
+      "location": 2,
+      "content": "这个二极管它就失去了单向导电性",
+      "music": 0.0
+    },
+    {
+      "from": 396.259,
+      "to": 401.46,
+      "sid": 123,
+      "location": 2,
+      "content": "看这个它的电电流反向又呈现一个最大值嗯",
+      "music": 0.0
+    },
+    {
+      "from": 401.46,
+      "to": 403.26,
+      "sid": 124,
+      "location": 2,
+      "content": "需要提醒大家注意的就是",
+      "music": 0.0
+    },
+    {
+      "from": 403.26,
+      "to": 405.84,
+      "sid": 125,
+      "location": 2,
+      "content": "这个这个击穿属于一个电击穿",
+      "music": 0.0
+    },
+    {
+      "from": 405.84,
+      "to": 408.0,
+      "sid": 126,
+      "location": 2,
+      "content": "它并不是一个永久性的击穿",
+      "music": 0.0
+    },
+    {
+      "from": 408.039,
+      "to": 410.859,
+      "sid": 127,
+      "location": 2,
+      "content": "当我们这个电压撤去之后",
+      "music": 0.0
+    },
+    {
+      "from": 410.859,
+      "to": 412.78,
+      "sid": 128,
+      "location": 2,
+      "content": "它还是可以恢复的",
+      "music": 0.0
+    },
+    {
+      "from": 414.579,
+      "to": 418.74,
+      "sid": 129,
+      "location": 2,
+      "content": "我们来看一个这就是a区就化成是一个导通区",
+      "music": 0.0
+    },
+    {
+      "from": 418.74,
+      "to": 421.53,
+      "sid": 130,
+      "location": 2,
+      "content": "导通区这个b区b区是一个死去",
+      "music": 0.0
+    },
+    {
+      "from": 421.53,
+      "to": 424.88,
+      "sid": 131,
+      "location": 2,
+      "content": "然后这个也就是我们所说的一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 424.88,
+      "to": 426.73,
+      "sid": 132,
+      "location": 2,
+      "content": "死区电压是吧",
+      "music": 0.0
+    },
+    {
+      "from": 426.73,
+      "to": 429.13,
+      "sid": 133,
+      "location": 2,
+      "content": "然后这个呢是反向截止区",
+      "music": 0.0
+    },
+    {
+      "from": 429.13,
+      "to": 433.03,
+      "sid": 134,
+      "location": 2,
+      "content": "也就是说我的有一个反向饱和电流的",
+      "music": 0.0
+    },
+    {
+      "from": 433.03,
+      "to": 438.88,
+      "sid": 135,
+      "location": 2,
+      "content": "这个这个这个这个区域这边呢就是反向击穿区",
+      "music": 0.0
+    },
+    {
+      "from": 438.979,
+      "to": 440.779,
+      "sid": 136,
+      "location": 2,
+      "content": "也有达到这个电池之后",
+      "music": 0.0
+    },
+    {
+      "from": 440.779,
+      "to": 442.459,
+      "sid": 137,
+      "location": 2,
+      "content": "我就失去了反向",
+      "music": 0.0
+    },
+    {
+      "from": 442.459,
+      "to": 444.499,
+      "sid": 138,
+      "location": 2,
+      "content": "失去了那个单向导通性",
+      "music": 0.0
+    },
+    {
+      "from": 444.499,
+      "to": 446.32,
+      "sid": 139,
+      "location": 2,
+      "content": "有一个反向击穿",
+      "music": 0.0
+    },
+    {
+      "from": 447.079,
+      "to": 449.99,
+      "sid": 140,
+      "location": 2,
+      "content": "这就是二极管的一个特性",
+      "music": 0.0
+    },
+    {
+      "from": 449.99,
+      "to": 450.95,
+      "sid": 141,
+      "location": 2,
+      "content": "伏安特性",
+      "music": 0.0
+    },
+    {
+      "from": 450.95,
+      "to": 454.49,
+      "sid": 142,
+      "location": 2,
+      "content": "下面我们再来看一下二极管的一个温度特性",
+      "music": 0.0
+    },
+    {
+      "from": 454.49,
+      "to": 457.18,
+      "sid": 143,
+      "location": 2,
+      "content": "二极管受温度的影响也是有的",
+      "music": 0.0
+    },
+    {
+      "from": 457.18,
+      "to": 459.37,
+      "sid": 144,
+      "location": 2,
+      "content": "嗯我们以这个例子来看",
+      "music": 0.0
+    },
+    {
+      "from": 459.37,
+      "to": 461.5,
+      "sid": 145,
+      "location": 2,
+      "content": "当它是20度的时候",
+      "music": 0.0
+    },
+    {
+      "from": 461.5,
+      "to": 463.69,
+      "sid": 146,
+      "location": 2,
+      "content": "20度升高到80度的时候",
+      "music": 0.0
+    },
+    {
+      "from": 463.69,
+      "to": 468.38,
+      "sid": 147,
+      "location": 2,
+      "content": "可以看出来它的正向曲线是向左移动的",
+      "music": 0.0
+    },
+    {
+      "from": 468.58,
+      "to": 471.88,
+      "sid": 148,
+      "location": 2,
+      "content": "而当它的那个反向曲线",
+      "music": 0.0
+    },
+    {
+      "from": 471.88,
+      "to": 474.04,
+      "sid": 149,
+      "location": 2,
+      "content": "由20度变为80度的时候",
+      "music": 0.0
+    },
+    {
+      "from": 474.04,
+      "to": 475.36,
+      "sid": 150,
+      "location": 2,
+      "content": "它是向下移动的",
+      "music": 0.0
+    },
+    {
+      "from": 475.36,
+      "to": 479.04,
+      "sid": 151,
+      "location": 2,
+      "content": "也就是说它的饱和电流是变大的",
+      "music": 0.0
+    },
+    {
+      "from": 480.259,
+      "to": 484.62,
+      "sid": 152,
+      "location": 2,
+      "content": "嗯我们从这一点上也也可以看出",
+      "music": 0.0
+    },
+    {
+      "from": 484.62,
+      "to": 486.54,
+      "sid": 153,
+      "location": 2,
+      "content": "我们在选择二极管的时候",
+      "music": 0.0
+    },
+    {
+      "from": 486.54,
+      "to": 490.6,
+      "sid": 154,
+      "location": 2,
+      "content": "也要考虑这个温度对于二极管的一个影响",
+      "music": 0.0
+    },
+    {
+      "from": 491.259,
+      "to": 493.88,
+      "sid": 155,
+      "location": 2,
+      "content": "这就是二极管的两个特性",
+      "music": 0.0
+    },
+    {
+      "from": 496.079,
+      "to": 497.959,
+      "sid": 156,
+      "location": 2,
+      "content": "讲完了二极管的特性",
+      "music": 0.0
+    },
+    {
+      "from": 497.959,
+      "to": 500.419,
+      "sid": 157,
+      "location": 2,
+      "content": "我们就来看一下二极管有哪些分类",
+      "music": 0.0
+    },
+    {
+      "from": 500.419,
+      "to": 502.44,
+      "sid": 158,
+      "location": 2,
+      "content": "以及它的应用分别是什么",
+      "music": 0.0
+    },
+    {
+      "from": 502.44,
+      "to": 503.4,
+      "sid": 159,
+      "location": 2,
+      "content": "二极管呢",
+      "music": 0.0
+    },
+    {
+      "from": 503.4,
+      "to": 506.88,
+      "sid": 160,
+      "location": 2,
+      "content": "根据不同的用途也可以分为很多的类别啊",
+      "music": 0.0
+    },
+    {
+      "from": 506.88,
+      "to": 509.62,
+      "sid": 161,
+      "location": 2,
+      "content": "比如说我根据刚才我们讲的",
+      "music": 0.0
+    },
+    {
+      "from": 509.62,
+      "to": 513.07,
+      "sid": 162,
+      "location": 2,
+      "content": "根据半导体材质分为折二极管和硅二极管",
+      "music": 0.0
+    },
+    {
+      "from": 513.07,
+      "to": 514.78,
+      "sid": 163,
+      "location": 2,
+      "content": "折二极管和硅二极管",
+      "music": 0.0
+    },
+    {
+      "from": 514.78,
+      "to": 519.56,
+      "sid": 164,
+      "location": 2,
+      "content": "他们的死去电压和和导通死区",
+      "music": 0.0
+    },
+    {
+      "from": 519.56,
+      "to": 521.84,
+      "sid": 165,
+      "location": 2,
+      "content": "电压和导通电压都是不一样的",
+      "music": 0.0
+    },
+    {
+      "from": 521.84,
+      "to": 523.099,
+      "sid": 166,
+      "location": 2,
+      "content": "我们看一下",
+      "music": 0.0
+    },
+    {
+      "from": 525.7,
+      "to": 526.92,
+      "sid": 167,
+      "location": 2,
+      "content": "导通电压",
+      "music": 0.0
+    },
+    {
+      "from": 526.92,
+      "to": 531.06,
+      "sid": 168,
+      "location": 2,
+      "content": "导通电压硅二极管是0.7伏",
+      "music": 0.0
+    },
+    {
+      "from": 531.06,
+      "to": 533.14,
+      "sid": 169,
+      "location": 2,
+      "content": "主要二极管是0.5伏",
+      "music": 0.0
+    },
+    {
+      "from": 533.14,
+      "to": 536.08,
+      "sid": 170,
+      "location": 2,
+      "content": "而死区电压只要二极管是0.1伏",
+      "music": 0.0
+    },
+    {
+      "from": 536.08,
+      "to": 537.4,
+      "sid": 171,
+      "location": 2,
+      "content": "硅二极管是0.7伏",
+      "music": 0.0
+    },
+    {
+      "from": 537.4,
+      "to": 539.16,
+      "sid": 172,
+      "location": 2,
+      "content": "这个刚才我们已经说过了",
+      "music": 0.0
+    },
+    {
+      "from": 540.78,
+      "to": 542.86,
+      "sid": 173,
+      "location": 2,
+      "content": "这就是他二极管",
+      "music": 0.0
+    },
+    {
+      "from": 542.86,
+      "to": 545.65,
+      "sid": 174,
+      "location": 2,
+      "content": "根据材料分分为准二极管和硅二极管",
+      "music": 0.0
+    },
+    {
+      "from": 545.65,
+      "to": 548.98,
+      "sid": 175,
+      "location": 2,
+      "content": "根据不同用途分不同用途就分为减流二极管",
+      "music": 0.0
+    },
+    {
+      "from": 548.98,
+      "to": 550.18,
+      "sid": 176,
+      "location": 2,
+      "content": "整流二极管开关",
+      "music": 0.0
+    },
+    {
+      "from": 550.18,
+      "to": 551.41,
+      "sid": 177,
+      "location": 2,
+      "content": "二极管为二极管",
+      "music": 0.0
+    },
+    {
+      "from": 551.41,
+      "to": 554.35,
+      "sid": 178,
+      "location": 2,
+      "content": "根据古新粉也分为不同的",
+      "music": 0.0
+    },
+    {
+      "from": 554.35,
+      "to": 556.84,
+      "sid": 179,
+      "location": 2,
+      "content": "那么根据反向恢复时间分",
+      "music": 0.0
+    },
+    {
+      "from": 556.84,
+      "to": 558.82,
+      "sid": 180,
+      "location": 2,
+      "content": "这个反向恢复时间是什么呀",
+      "music": 0.0
+    },
+    {
+      "from": 558.82,
+      "to": 561.46,
+      "sid": 181,
+      "location": 2,
+      "content": "反向恢复时间实际上就是这段时间",
+      "music": 0.0
+    },
+    {
+      "from": 561.46,
+      "to": 565.049,
+      "sid": 182,
+      "location": 2,
+      "content": "就是我们看一下刚才那个图文特性图",
+      "music": 0.0
+    },
+    {
+      "from": 565.049,
+      "to": 566.219,
+      "sid": 183,
+      "location": 2,
+      "content": "反向恢复时间",
+      "music": 0.0
+    },
+    {
+      "from": 566.219,
+      "to": 568.73,
+      "sid": 184,
+      "location": 2,
+      "content": "就是我从这项导通",
+      "music": 0.0
+    },
+    {
+      "from": 568.73,
+      "to": 572.93,
+      "sid": 185,
+      "location": 2,
+      "content": "突然到反向饱和这一段的所需要的时间",
+      "music": 0.0
+    },
+    {
+      "from": 572.93,
+      "to": 574.91,
+      "sid": 186,
+      "location": 2,
+      "content": "从这个状态一直到这个状态",
+      "music": 0.0
+    },
+    {
+      "from": 574.91,
+      "to": 577.87,
+      "sid": 187,
+      "location": 2,
+      "content": "它所需要的时间就是一个反向恢复时间",
+      "music": 0.0
+    },
+    {
+      "from": 577.87,
+      "to": 583.39,
+      "sid": 188,
+      "location": 2,
+      "content": "对于呃开关电源或者是一些呃高频电路里边",
+      "music": 0.0
+    },
+    {
+      "from": 583.39,
+      "to": 587.16,
+      "sid": 189,
+      "location": 2,
+      "content": "会考虑到这个反向恢复时间会比较重要",
+      "music": 0.0
+    },
+    {
+      "from": 589.38,
+      "to": 592.04,
+      "sid": 190,
+      "location": 2,
+      "content": "那么它有这么多的类别",
+      "music": 0.0
+    },
+    {
+      "from": 592.04,
+      "to": 593.9,
+      "sid": 191,
+      "location": 2,
+      "content": "那么它的有什么用途呢",
+      "music": 0.0
+    },
+    {
+      "from": 593.9,
+      "to": 596.21,
+      "sid": 192,
+      "location": 2,
+      "content": "其实这个用途也很多",
+      "music": 0.0
+    },
+    {
+      "from": 596.21,
+      "to": 599.28,
+      "sid": 193,
+      "location": 2,
+      "content": "像我们普通二极管就简简波作用哈",
+      "music": 0.0
+    },
+    {
+      "from": 599.3,
+      "to": 602.81,
+      "sid": 194,
+      "location": 2,
+      "content": "呃整流二极管用于功率的整流",
+      "music": 0.0
+    },
+    {
+      "from": 602.81,
+      "to": 606.23,
+      "sid": 195,
+      "location": 2,
+      "content": "它有些命名上面就已经说明了它的用途",
+      "music": 0.0
+    },
+    {
+      "from": 606.23,
+      "to": 609.35,
+      "sid": 196,
+      "location": 2,
+      "content": "开关二极管用于计算机脉冲控制的开关电路",
+      "music": 0.0
+    },
+    {
+      "from": 609.35,
+      "to": 612.38,
+      "sid": 197,
+      "location": 2,
+      "content": "发光二极管就是led灯的二极管",
+      "music": 0.0
+    },
+    {
+      "from": 612.38,
+      "to": 613.599,
+      "sid": 198,
+      "location": 2,
+      "content": "比如说是吧",
+      "music": 0.0
+    },
+    {
+      "from": 615.0,
+      "to": 619.42,
+      "sid": 199,
+      "location": 2,
+      "content": "这个呢就是反向恢复的时间比较长",
+      "music": 0.0
+    },
+    {
+      "from": 619.42,
+      "to": 623.86,
+      "sid": 200,
+      "location": 2,
+      "content": "普通二极管它呢就不适合高频开关电路的要求",
+      "music": 0.0
+    },
+    {
+      "from": 623.86,
+      "to": 625.68,
+      "sid": 201,
+      "location": 2,
+      "content": "就像刚才我说过的",
+      "music": 0.0
+    },
+    {
+      "from": 625.78,
+      "to": 629.67,
+      "sid": 202,
+      "location": 2,
+      "content": "通常是用于嗯肖特基二极管呀",
+      "music": 0.0
+    },
+    {
+      "from": 629.67,
+      "to": 631.68,
+      "sid": 203,
+      "location": 2,
+      "content": "或者是快恢复二极管呀",
+      "music": 0.0
+    },
+    {
+      "from": 631.68,
+      "to": 633.06,
+      "sid": 204,
+      "location": 2,
+      "content": "用于高频整流电路",
+      "music": 0.0
+    },
+    {
+      "from": 633.06,
+      "to": 634.39,
+      "sid": 205,
+      "location": 2,
+      "content": "高频开关电源",
+      "music": 0.0
+    },
+    {
+      "from": 634.39,
+      "to": 635.47,
+      "sid": 206,
+      "location": 2,
+      "content": "看这些电路",
+      "music": 0.0
+    },
+    {
+      "from": 635.47,
+      "to": 637.39,
+      "sid": 207,
+      "location": 2,
+      "content": "它们的恢复时间特别短啊",
+      "music": 0.0
+    },
+    {
+      "from": 637.39,
+      "to": 640.42,
+      "sid": 208,
+      "location": 2,
+      "content": "对电路起到了一个很好的作用",
+      "music": 0.0
+    },
+    {
+      "from": 640.42,
+      "to": 644.83,
+      "sid": 209,
+      "location": 2,
+      "content": "这就是二极管的一个一个一个用途",
+      "music": 0.0
+    },
+    {
+      "from": 644.83,
+      "to": 648.22,
+      "sid": 210,
+      "location": 2,
+      "content": "那么我们通常也要通过它的这些用途",
+      "music": 0.0
+    },
+    {
+      "from": 648.22,
+      "to": 650.359,
+      "sid": 211,
+      "location": 2,
+      "content": "来对二极管进行选型",
+      "music": 0.0
+    },
+    {
+      "from": 650.52,
+      "to": 652.68,
+      "sid": 212,
+      "location": 2,
+      "content": "二极管的参数呢",
+      "music": 0.0
+    },
+    {
+      "from": 652.68,
+      "to": 655.2,
+      "sid": 213,
+      "location": 2,
+      "content": "其实刚才我们在讲解它的特性曲线的时候",
+      "music": 0.0
+    },
+    {
+      "from": 655.2,
+      "to": 659.32,
+      "sid": 214,
+      "location": 2,
+      "content": "已经讲到了这个反向饱和电流",
+      "music": 0.0
+    },
+    {
+      "from": 659.32,
+      "to": 661.15,
+      "sid": 215,
+      "location": 2,
+      "content": "就是刚才我们讲到的",
+      "music": 0.0
+    },
+    {
+      "from": 661.15,
+      "to": 663.06,
+      "sid": 216,
+      "location": 2,
+      "content": "给大家看一下",
+      "music": 0.0
+    },
+    {
+      "from": 665.1,
+      "to": 666.68,
+      "sid": 217,
+      "location": 2,
+      "content": "就是这个电流对吧",
+      "music": 0.0
+    },
+    {
+      "from": 666.68,
+      "to": 668.24,
+      "sid": 218,
+      "location": 2,
+      "content": "这个这个对应的电流值",
+      "music": 0.0
+    },
+    {
+      "from": 668.24,
+      "to": 669.8,
+      "sid": 219,
+      "location": 2,
+      "content": "或者是这个对应的电流值",
+      "music": 0.0
+    },
+    {
+      "from": 669.8,
+      "to": 672.02,
+      "sid": 220,
+      "location": 2,
+      "content": "这就是它的一个反向饱和电流",
+      "music": 0.0
+    },
+    {
+      "from": 672.3,
+      "to": 676.08,
+      "sid": 221,
+      "location": 2,
+      "content": "还有什么额定整额定整流电流",
+      "music": 0.0
+    },
+    {
+      "from": 676.08,
+      "to": 677.16,
+      "sid": 222,
+      "location": 2,
+      "content": "额定整流电流",
+      "music": 0.0
+    },
+    {
+      "from": 677.16,
+      "to": 680.9,
+      "sid": 223,
+      "location": 2,
+      "content": "就是它正常工作能承受的最大电流",
+      "music": 0.0
+    },
+    {
+      "from": 682.7,
+      "to": 685.99,
+      "sid": 224,
+      "location": 2,
+      "content": "还有一个最大反向工作电压",
+      "music": 0.0
+    },
+    {
+      "from": 685.99,
+      "to": 693.23,
+      "sid": 225,
+      "location": 2,
+      "content": "最大反向工作电压就是刚才看到的这个电压呗",
+      "music": 0.0
+    },
+    {
+      "from": 693.23,
+      "to": 694.13,
+      "sid": 226,
+      "location": 2,
+      "content": "是吧",
+      "music": 0.0
+    },
+    {
+      "from": 694.13,
+      "to": 696.459,
+      "sid": 227,
+      "location": 2,
+      "content": "反正击穿的时候这个电压呗",
+      "music": 0.0
+    },
+    {
+      "from": 698.12,
+      "to": 699.719,
+      "sid": 228,
+      "location": 2,
+      "content": "还有就是",
+      "music": 0.0
+    },
+    {
+      "from": 704.84,
+      "to": 707.98,
+      "sid": 229,
+      "location": 2,
+      "content": "最高工作频率由于拼音节节电容的存在",
+      "music": 0.0
+    },
+    {
+      "from": 707.98,
+      "to": 709.96,
+      "sid": 230,
+      "location": 2,
+      "content": "工作频率也挺重要的",
+      "music": 0.0
+    },
+    {
+      "from": 709.96,
+      "to": 716.0,
+      "sid": 231,
+      "location": 2,
+      "content": "他决定了单向导电性的一个呃优优劣性",
+      "music": 0.0
+    },
+    {
+      "from": 716.34,
+      "to": 718.5,
+      "sid": 232,
+      "location": 2,
+      "content": "还有一个反向工作时间",
+      "music": 0.0
+    },
+    {
+      "from": 718.5,
+      "to": 719.34,
+      "sid": 233,
+      "location": 2,
+      "content": "反向工作时间",
+      "music": 0.0
+    },
+    {
+      "from": 719.34,
+      "to": 720.66,
+      "sid": 234,
+      "location": 2,
+      "content": "这个刚才我已经讲过了",
+      "music": 0.0
+    },
+    {
+      "from": 720.66,
+      "to": 721.92,
+      "sid": 235,
+      "location": 2,
+      "content": "就是它有导通",
+      "music": 0.0
+    },
+    {
+      "from": 721.92,
+      "to": 723.54,
+      "sid": 236,
+      "location": 2,
+      "content": "突然反向的时候",
+      "music": 0.0
+    },
+    {
+      "from": 723.54,
+      "to": 727.6,
+      "sid": 237,
+      "location": 2,
+      "content": "他那个需要的时间选型",
+      "music": 0.0
+    },
+    {
+      "from": 727.6,
+      "to": 729.76,
+      "sid": 238,
+      "location": 2,
+      "content": "就要根据我们所说的这个参数",
+      "music": 0.0
+    },
+    {
+      "from": 729.76,
+      "to": 731.35,
+      "sid": 239,
+      "location": 2,
+      "content": "以及它具体的用途",
+      "music": 0.0
+    },
+    {
+      "from": 731.35,
+      "to": 733.84,
+      "sid": 240,
+      "location": 2,
+      "content": "我们刚才讲的那个用途来进行选型",
+      "music": 0.0
+    },
+    {
+      "from": 733.84,
+      "to": 735.459,
+      "sid": 241,
+      "location": 2,
+      "content": "这个就不多说了",
+      "music": 0.0
+    },
+    {
+      "from": 735.8,
+      "to": 737.78,
+      "sid": 242,
+      "location": 2,
+      "content": "二极管怎么测量呢",
+      "music": 0.0
+    },
+    {
+      "from": 737.78,
+      "to": 740.66,
+      "sid": 243,
+      "location": 2,
+      "content": "通常我们呃用万用表",
+      "music": 0.0
+    },
+    {
+      "from": 740.66,
+      "to": 741.86,
+      "sid": 244,
+      "location": 2,
+      "content": "万用表来测量",
+      "music": 0.0
+    },
+    {
+      "from": 741.86,
+      "to": 744.959,
+      "sid": 245,
+      "location": 2,
+      "content": "万用表上有的万用表有专门的二极管档",
+      "music": 0.0
+    },
+    {
+      "from": 745.06,
+      "to": 746.38,
+      "sid": 246,
+      "location": 2,
+      "content": "没有二极管角度",
+      "music": 0.0
+    },
+    {
+      "from": 746.38,
+      "to": 748.77,
+      "sid": 247,
+      "location": 2,
+      "content": "我们可以用分屏器档或者是电阻挡",
+      "music": 0.0
+    },
+    {
+      "from": 748.77,
+      "to": 750.57,
+      "sid": 248,
+      "location": 2,
+      "content": "来测量正反向电阻",
+      "music": 0.0
+    },
+    {
+      "from": 750.57,
+      "to": 752.88,
+      "sid": 249,
+      "location": 2,
+      "content": "如果反向电阻远远大于正向电阻",
+      "music": 0.0
+    },
+    {
+      "from": 752.88,
+      "to": 754.939,
+      "sid": 250,
+      "location": 2,
+      "content": "就说明这个二极管是好的",
+      "music": 0.0
+    },
+    {
+      "from": 755.7,
+      "to": 758.48,
+      "sid": 251,
+      "location": 2,
+      "content": "如果反向电阻和正向电阻都相等",
+      "music": 0.0
+    },
+    {
+      "from": 758.48,
+      "to": 760.04,
+      "sid": 252,
+      "location": 2,
+      "content": "都是无穷大和都是零",
+      "music": 0.0
+    },
+    {
+      "from": 760.04,
+      "to": 761.92,
+      "sid": 253,
+      "location": 2,
+      "content": "说明二极管就坏掉了",
+      "music": 0.0
+    },
+    {
+      "from": 761.92,
+      "to": 764.14,
+      "sid": 254,
+      "location": 2,
+      "content": "还有就是像那种发光二极管",
+      "music": 0.0
+    },
+    {
+      "from": 764.14,
+      "to": 767.49,
+      "sid": 255,
+      "location": 2,
+      "content": "有的时候我们直接用万用表的蜂鸣器档一侧啊",
+      "music": 0.0
+    },
+    {
+      "from": 767.49,
+      "to": 769.92,
+      "sid": 256,
+      "location": 2,
+      "content": "像那种led灯啊之类的",
+      "music": 0.0
+    },
+    {
+      "from": 769.92,
+      "to": 771.78,
+      "sid": 257,
+      "location": 2,
+      "content": "那小的那种发光二极管",
+      "music": 0.0
+    },
+    {
+      "from": 771.78,
+      "to": 773.46,
+      "sid": 258,
+      "location": 2,
+      "content": "它就会亮啊",
+      "music": 0.0
+    },
+    {
+      "from": 773.46,
+      "to": 777.5,
+      "sid": 259,
+      "location": 2,
+      "content": "这个也是我们经常用到的一些方法",
+      "music": 0.0
+    },
+    {
+      "from": 780.18,
+      "to": 782.39,
+      "sid": 260,
+      "location": 2,
+      "content": "给大家看一些图纸吧",
+      "music": 0.0
+    },
+    {
+      "from": 782.39,
+      "to": 787.06,
+      "sid": 261,
+      "location": 2,
+      "content": "就是经常用到的一些阿九玩的图纸",
+      "music": 0.0
+    },
+    {
+      "from": 789.3,
+      "to": 791.72,
+      "sid": 262,
+      "location": 2,
+      "content": "像这个就是一个稳压二极管",
+      "music": 0.0
+    },
+    {
+      "from": 791.72,
+      "to": 794.51,
+      "sid": 263,
+      "location": 2,
+      "content": "这个稳压二极管用到这嗯",
+      "music": 0.0
+    },
+    {
+      "from": 794.51,
+      "to": 796.34,
+      "sid": 264,
+      "location": 2,
+      "content": "就是起到一个稳压的作用",
+      "music": 0.0
+    },
+    {
+      "from": 796.34,
+      "to": 799.14,
+      "sid": 265,
+      "location": 2,
+      "content": "这是一个18伏的稳压二极管",
+      "music": 0.0
+    },
+    {
+      "from": 800.26,
+      "to": 803.859,
+      "sid": 266,
+      "location": 2,
+      "content": "那这个呢就是一个双向导通的二极管",
+      "music": 0.0
+    },
+    {
+      "from": 804.04,
+      "to": 805.12,
+      "sid": 267,
+      "location": 2,
+      "content": "双向啊",
+      "music": 0.0
+    },
+    {
+      "from": 805.12,
+      "to": 807.28,
+      "sid": 268,
+      "location": 2,
+      "content": "不是双向双双通道的二极管",
+      "music": 0.0
+    },
+    {
+      "from": 807.28,
+      "to": 809.21,
+      "sid": 269,
+      "location": 2,
+      "content": "这是一个双通道的二极管",
+      "music": 0.0
+    },
+    {
+      "from": 809.21,
+      "to": 810.17,
+      "sid": 270,
+      "location": 2,
+      "content": "像这儿呢",
+      "music": 0.0
+    },
+    {
+      "from": 810.17,
+      "to": 814.18,
+      "sid": 271,
+      "location": 2,
+      "content": "这二极管就是对一个变压器起一个吸收的作用",
+      "music": 0.0
+    },
+    {
+      "from": 815.22,
+      "to": 817.26,
+      "sid": 272,
+      "location": 2,
+      "content": "是一些二极管的应用",
+      "music": 0.0
+    },
+    {
+      "from": 818.76,
+      "to": 821.36,
+      "sid": 273,
+      "location": 2,
+      "content": "我下面讲一个一个典型的二极管啊",
+      "music": 0.0
+    },
+    {
+      "from": 821.36,
+      "to": 823.859,
+      "sid": 274,
+      "location": 2,
+      "content": "就是我们经常看到的这个led灯",
+      "music": 0.0
+    },
+    {
+      "from": 824.72,
+      "to": 827.44,
+      "sid": 275,
+      "location": 2,
+      "content": "我给大家就是之前的一个ppt",
+      "music": 0.0
+    },
+    {
+      "from": 827.44,
+      "to": 829.66,
+      "sid": 276,
+      "location": 2,
+      "content": "里边有给大家看一下",
+      "music": 0.0
+    },
+    {
+      "from": 833.78,
+      "to": 837.52,
+      "sid": 277,
+      "location": 2,
+      "content": "led灯大家应该并不并并不陌生啊",
+      "music": 0.0
+    },
+    {
+      "from": 837.52,
+      "to": 840.28,
+      "sid": 278,
+      "location": 2,
+      "content": "我们经常看到有好多那个led大屏幕",
+      "music": 0.0
+    },
+    {
+      "from": 840.28,
+      "to": 841.71,
+      "sid": 279,
+      "location": 2,
+      "content": "这个led灯呢",
+      "music": 0.0
+    },
+    {
+      "from": 841.71,
+      "to": 847.01,
+      "sid": 280,
+      "location": 2,
+      "content": "嗯其实就是我们所说的一种发光二极管啊",
+      "music": 0.0
+    },
+    {
+      "from": 847.01,
+      "to": 848.84,
+      "sid": 281,
+      "location": 2,
+      "content": "它的原理刚才我们已经讲过了",
+      "music": 0.0
+    },
+    {
+      "from": 848.84,
+      "to": 849.8,
+      "sid": 282,
+      "location": 2,
+      "content": "就不多讲了",
+      "music": 0.0
+    },
+    {
+      "from": 849.8,
+      "to": 853.9,
+      "sid": 283,
+      "location": 2,
+      "content": "大家可以课下仔细看一下这一段的解释",
+      "music": 0.0
+    },
+    {
+      "from": 854.76,
+      "to": 858.859,
+      "sid": 284,
+      "location": 2,
+      "content": "那么led灯呢它也是具有单向导电性的",
+      "music": 0.0
+    },
+    {
+      "from": 860.12,
+      "to": 863.28,
+      "sid": 285,
+      "location": 2,
+      "content": "我们主要来看一下几个典型的电路啊",
+      "music": 0.0
+    },
+    {
+      "from": 863.46,
+      "to": 866.73,
+      "sid": 286,
+      "location": 2,
+      "content": "对于这个发发光的led灯",
+      "music": 0.0
+    },
+    {
+      "from": 866.73,
+      "to": 868.26,
+      "sid": 287,
+      "location": 2,
+      "content": "对于这个发光二极管",
+      "music": 0.0
+    },
+    {
+      "from": 868.26,
+      "to": 870.42,
+      "sid": 288,
+      "location": 2,
+      "content": "或者是说这个led灯",
+      "music": 0.0
+    },
+    {
+      "from": 870.42,
+      "to": 872.079,
+      "sid": 289,
+      "location": 2,
+      "content": "它上面接了一个电源",
+      "music": 0.0
+    },
+    {
+      "from": 872.16,
+      "to": 873.96,
+      "sid": 290,
+      "location": 2,
+      "content": "一个电阻接地了",
+      "music": 0.0
+    },
+    {
+      "from": 873.96,
+      "to": 875.85,
+      "sid": 291,
+      "location": 2,
+      "content": "形成一个闭合电路",
+      "music": 0.0
+    },
+    {
+      "from": 875.85,
+      "to": 879.0,
+      "sid": 292,
+      "location": 2,
+      "content": "那么我们知道这个二极管它又具有单向导电性",
+      "music": 0.0
+    },
+    {
+      "from": 879.0,
+      "to": 880.599,
+      "sid": 293,
+      "location": 2,
+      "content": "它上面只要有电压",
+      "music": 0.0
+    },
+    {
+      "from": 880.86,
+      "to": 882.36,
+      "sid": 294,
+      "location": 2,
+      "content": "它就可以导通",
+      "music": 0.0
+    },
+    {
+      "from": 882.36,
+      "to": 886.02,
+      "sid": 295,
+      "location": 2,
+      "content": "那么因此这个二这个二极管接到这个电路里边",
+      "music": 0.0
+    },
+    {
+      "from": 886.02,
+      "to": 887.22,
+      "sid": 296,
+      "location": 2,
+      "content": "只要这有电压",
+      "music": 0.0
+    },
+    {
+      "from": 887.22,
+      "to": 888.939,
+      "sid": 297,
+      "location": 2,
+      "content": "它就会发光了",
+      "music": 0.0
+    },
+    {
+      "from": 889.06,
+      "to": 890.58,
+      "sid": 298,
+      "location": 2,
+      "content": "这个很好理解",
+      "music": 0.0
+    },
+    {
+      "from": 890.58,
+      "to": 892.92,
+      "sid": 299,
+      "location": 2,
+      "content": "那么我看一下下面这个下面这个是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 892.92,
+      "to": 894.06,
+      "sid": 300,
+      "location": 2,
+      "content": "乍一看很复杂",
+      "music": 0.0
+    },
+    {
+      "from": 894.06,
+      "to": 896.58,
+      "sid": 301,
+      "location": 2,
+      "content": "我们可以把这个电路来简化一下",
+      "music": 0.0
+    },
+    {
+      "from": 896.58,
+      "to": 898.76,
+      "sid": 302,
+      "location": 2,
+      "content": "这个gp 5是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 898.76,
+      "to": 900.02,
+      "sid": 303,
+      "location": 2,
+      "content": "它是一个牌组",
+      "music": 0.0
+    },
+    {
+      "from": 900.02,
+      "to": 900.8,
+      "sid": 304,
+      "location": 2,
+      "content": "什么是牌组",
+      "music": 0.0
+    },
+    {
+      "from": 900.8,
+      "to": 902.09,
+      "sid": 305,
+      "location": 2,
+      "content": "就是一排电阻",
+      "music": 0.0
+    },
+    {
+      "from": 902.09,
+      "to": 903.86,
+      "sid": 306,
+      "location": 2,
+      "content": "把刚才那个电路简化成这样",
+      "music": 0.0
+    },
+    {
+      "from": 903.86,
+      "to": 905.19,
+      "sid": 307,
+      "location": 2,
+      "content": "大家就能看懂了",
+      "music": 0.0
+    },
+    {
+      "from": 905.19,
+      "to": 909.36,
+      "sid": 308,
+      "location": 2,
+      "content": "实际上就是每一个电源接了一个电阻",
+      "music": 0.0
+    },
+    {
+      "from": 909.36,
+      "to": 911.31,
+      "sid": 309,
+      "location": 2,
+      "content": "然后下面接了一个led灯",
+      "music": 0.0
+    },
+    {
+      "from": 911.31,
+      "to": 913.17,
+      "sid": 310,
+      "location": 2,
+      "content": "这段都是悬空的",
+      "music": 0.0
+    },
+    {
+      "from": 913.17,
+      "to": 915.599,
+      "sid": 311,
+      "location": 2,
+      "content": "这段悬空我们想接什么呀",
+      "music": 0.0
+    },
+    {
+      "from": 915.82,
+      "to": 920.08,
+      "sid": 312,
+      "location": 2,
+      "content": "实际上他是想接在那个控制芯片的io口",
+      "music": 0.0
+    },
+    {
+      "from": 920.08,
+      "to": 920.86,
+      "sid": 313,
+      "location": 2,
+      "content": "l口是什么",
+      "music": 0.0
+    },
+    {
+      "from": 920.86,
+      "to": 924.3,
+      "sid": 314,
+      "location": 2,
+      "content": "io口只可以给高电平或低电平的那种啊",
+      "music": 0.0
+    },
+    {
+      "from": 924.3,
+      "to": 927.27,
+      "sid": 315,
+      "location": 2,
+      "content": "我要想控制这个led灯发光",
+      "music": 0.0
+    },
+    {
+      "from": 927.27,
+      "to": 929.18,
+      "sid": 316,
+      "location": 2,
+      "content": "我这只要给一个低电平",
+      "music": 0.0
+    },
+    {
+      "from": 929.34,
+      "to": 932.579,
+      "sid": 317,
+      "location": 2,
+      "content": "然后它这上面就会有压差对吧",
+      "music": 0.0
+    },
+    {
+      "from": 932.579,
+      "to": 934.169,
+      "sid": 318,
+      "location": 2,
+      "content": "它就会单向导通",
+      "music": 0.0
+    },
+    {
+      "from": 934.169,
+      "to": 935.699,
+      "sid": 319,
+      "location": 2,
+      "content": "就亮就亮了",
+      "music": 0.0
+    },
+    {
+      "from": 935.699,
+      "to": 938.519,
+      "sid": 320,
+      "location": 2,
+      "content": "如果我给一个高电平高电平的话",
+      "music": 0.0
+    },
+    {
+      "from": 938.519,
+      "to": 940.76,
+      "sid": 321,
+      "location": 2,
+      "content": "它就不会亮是吧",
+      "music": 0.0
+    },
+    {
+      "from": 940.76,
+      "to": 945.72,
+      "sid": 322,
+      "location": 2,
+      "content": "这是这是我们看到的第二个电路",
+      "music": 0.0
+    },
+    {
+      "from": 945.72,
+      "to": 948.48,
+      "sid": 323,
+      "location": 2,
+      "content": "第三个电路呢比第二个电路又稍微复杂了一下",
+      "music": 0.0
+    },
+    {
+      "from": 948.48,
+      "to": 950.15,
+      "sid": 324,
+      "location": 2,
+      "content": "他后面又加了一个芯片",
+      "music": 0.0
+    },
+    {
+      "from": 950.15,
+      "to": 952.25,
+      "sid": 325,
+      "location": 2,
+      "content": "其实在我们读电路的时候",
+      "music": 0.0
+    },
+    {
+      "from": 952.25,
+      "to": 955.55,
+      "sid": 326,
+      "location": 2,
+      "content": "我们很多时候都会遇到自己不熟悉的芯片",
+      "music": 0.0
+    },
+    {
+      "from": 955.55,
+      "to": 957.46,
+      "sid": 327,
+      "location": 2,
+      "content": "然后出来芯片不认识怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 957.46,
+      "to": 962.099,
+      "sid": 328,
+      "location": 2,
+      "content": "我们首先要去百度上查查的这个芯片的data sheet",
+      "music": 0.0
+    },
+    {
+      "from": 962.28,
+      "to": 964.8,
+      "sid": 329,
+      "location": 2,
+      "content": "看一下这个芯片是干什么用的",
+      "music": 0.0
+    },
+    {
+      "from": 964.8,
+      "to": 965.94,
+      "sid": 330,
+      "location": 2,
+      "content": "是一个什么样的芯片",
+      "music": 0.0
+    },
+    {
+      "from": 965.94,
+      "to": 967.15,
+      "sid": 331,
+      "location": 2,
+      "content": "它的功能是什么",
+      "music": 0.0
+    },
+    {
+      "from": 967.15,
+      "to": 969.49,
+      "sid": 332,
+      "location": 2,
+      "content": "我们查完之后发现这个芯片",
+      "music": 0.0
+    },
+    {
+      "from": 972.33,
+      "to": 973.17,
+      "sid": 333,
+      "location": 2,
+      "content": "有双向的",
+      "music": 0.0
+    },
+    {
+      "from": 973.17,
+      "to": 974.07,
+      "sid": 334,
+      "location": 2,
+      "content": "它可以往这儿发",
+      "music": 0.0
+    },
+    {
+      "from": 974.07,
+      "to": 975.11,
+      "sid": 335,
+      "location": 2,
+      "content": "他可以往这儿发",
+      "music": 0.0
+    },
+    {
+      "from": 975.11,
+      "to": 976.91,
+      "sid": 336,
+      "location": 2,
+      "content": "而且呢它是一个数字器件",
+      "music": 0.0
+    },
+    {
+      "from": 976.91,
+      "to": 978.83,
+      "sid": 337,
+      "location": 2,
+      "content": "我们要看一下它的真值表",
+      "music": 0.0
+    },
+    {
+      "from": 978.83,
+      "to": 981.44,
+      "sid": 338,
+      "location": 2,
+      "content": "一般delishit里边会给出它的真值表",
+      "music": 0.0
+    },
+    {
+      "from": 981.44,
+      "to": 982.7,
+      "sid": 339,
+      "location": 2,
+      "content": "真值表示什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 982.7,
+      "to": 983.54,
+      "sid": 340,
+      "location": 2,
+      "content": "是这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 983.54,
+      "to": 984.8,
+      "sid": 341,
+      "location": 2,
+      "content": "就是它是低电平",
+      "music": 0.0
+    },
+    {
+      "from": 984.8,
+      "to": 985.64,
+      "sid": 342,
+      "location": 2,
+      "content": "它是低电平",
+      "music": 0.0
+    },
+    {
+      "from": 985.64,
+      "to": 988.44,
+      "sid": 343,
+      "location": 2,
+      "content": "数据从b流向a它是低电平",
+      "music": 0.0
+    },
+    {
+      "from": 988.44,
+      "to": 989.4,
+      "sid": 344,
+      "location": 2,
+      "content": "它是高电平",
+      "music": 0.0
+    },
+    {
+      "from": 989.4,
+      "to": 992.52,
+      "sid": 345,
+      "location": 2,
+      "content": "就是从a流向b",
+      "music": 0.0
+    },
+    {
+      "from": 993.28,
+      "to": 995.94,
+      "sid": 346,
+      "location": 2,
+      "content": "那么我们这个电路当中要实现什么功能呢",
+      "music": 0.0
+    },
+    {
+      "from": 995.94,
+      "to": 997.44,
+      "sid": 347,
+      "location": 2,
+      "content": "我们接了led灯",
+      "music": 0.0
+    },
+    {
+      "from": 997.44,
+      "to": 999.99,
+      "sid": 348,
+      "location": 2,
+      "content": "无非是想让led灯亮对吧",
+      "music": 0.0
+    },
+    {
+      "from": 999.99,
+      "to": 1003.35,
+      "sid": 349,
+      "location": 2,
+      "content": "这个就是跟刚才我们分解的那个电路是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 1003.35,
+      "to": 1005.45,
+      "sid": 350,
+      "location": 2,
+      "content": "它实际上就是一个电源加了一个电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1005.45,
+      "to": 1007.03,
+      "sid": 351,
+      "location": 2,
+      "content": "后面加了一个led灯",
+      "music": 0.0
+    },
+    {
+      "from": 1007.03,
+      "to": 1009.91,
+      "sid": 352,
+      "location": 2,
+      "content": "如果我想让它亮怎么办呢",
+      "music": 0.0
+    },
+    {
+      "from": 1009.91,
+      "to": 1015.26,
+      "sid": 353,
+      "location": 2,
+      "content": "我就需要在这一段给一个低电平",
+      "music": 0.0
+    },
+    {
+      "from": 1015.26,
+      "to": 1015.8,
+      "sid": 354,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 1015.8,
+      "to": 1017.36,
+      "sid": 355,
+      "location": 2,
+      "content": "给一个低的电压",
+      "music": 0.0
+    },
+    {
+      "from": 1017.36,
+      "to": 1019.62,
+      "sid": 356,
+      "location": 2,
+      "content": "怎么可以给低的电压呢",
+      "music": 0.0
+    },
+    {
+      "from": 1019.64,
+      "to": 1022.58,
+      "sid": 357,
+      "location": 2,
+      "content": "这边是接mcu的l口",
+      "music": 0.0
+    },
+    {
+      "from": 1022.58,
+      "to": 1027.79,
+      "sid": 358,
+      "location": 2,
+      "content": "l口的这个这个电压要传递给他",
+      "music": 0.0
+    },
+    {
+      "from": 1027.79,
+      "to": 1030.25,
+      "sid": 359,
+      "location": 2,
+      "content": "我这个电路就形成一个闭合电路",
+      "music": 0.0
+    },
+    {
+      "from": 1030.25,
+      "to": 1031.63,
+      "sid": 360,
+      "location": 2,
+      "content": "它怎么能传递给他呢",
+      "music": 0.0
+    },
+    {
+      "from": 1031.63,
+      "to": 1033.72,
+      "sid": 361,
+      "location": 2,
+      "content": "就是通过a传给b",
+      "music": 0.0
+    },
+    {
+      "from": 1033.72,
+      "to": 1037.14,
+      "sid": 362,
+      "location": 2,
+      "content": "也就是说我需要这个芯片实现什么功能",
+      "music": 0.0
+    },
+    {
+      "from": 1037.14,
+      "to": 1039.22,
+      "sid": 363,
+      "location": 2,
+      "content": "从a向b传数据",
+      "music": 0.0
+    },
+    {
+      "from": 1039.4,
+      "to": 1042.37,
+      "sid": 364,
+      "location": 2,
+      "content": "我们看从a往b传数据需要什么",
+      "music": 0.0
+    },
+    {
+      "from": 1042.37,
+      "to": 1043.9,
+      "sid": 365,
+      "location": 2,
+      "content": "从a往b传数据",
+      "music": 0.0
+    },
+    {
+      "from": 1043.9,
+      "to": 1047.549,
+      "sid": 366,
+      "location": 2,
+      "content": "需要给这个附一个低电平的值",
+      "music": 0.0
+    },
+    {
+      "from": 1047.549,
+      "to": 1049.499,
+      "sid": 367,
+      "location": 2,
+      "content": "给这个赋一个高电平的值",
+      "music": 0.0
+    },
+    {
+      "from": 1049.499,
+      "to": 1051.73,
+      "sid": 368,
+      "location": 2,
+      "content": "我们再回过头来看这个芯片",
+      "music": 0.0
+    },
+    {
+      "from": 1051.73,
+      "to": 1053.77,
+      "sid": 369,
+      "location": 2,
+      "content": "给它赋一个低电平的值",
+      "music": 0.0
+    },
+    {
+      "from": 1053.77,
+      "to": 1055.18,
+      "sid": 370,
+      "location": 2,
+      "content": "好我把它接地了",
+      "music": 0.0
+    },
+    {
+      "from": 1055.18,
+      "to": 1056.77,
+      "sid": 371,
+      "location": 2,
+      "content": "给它赋一个高电平的值",
+      "music": 0.0
+    },
+    {
+      "from": 1056.77,
+      "to": 1059.26,
+      "sid": 372,
+      "location": 2,
+      "content": "我把它接一个v c c电源",
+      "music": 0.0
+    },
+    {
+      "from": 1059.26,
+      "to": 1061.09,
+      "sid": 373,
+      "location": 2,
+      "content": "这样就实现了",
+      "music": 0.0
+    },
+    {
+      "from": 1061.09,
+      "to": 1062.34,
+      "sid": 374,
+      "location": 2,
+      "content": "我把",
+      "music": 0.0
+    },
+    {
+      "from": 1064.3,
+      "to": 1068.88,
+      "sid": 375,
+      "location": 2,
+      "content": "这样就实现了我把这个芯片异端的芯片",
+      "music": 0.0
+    },
+    {
+      "from": 1068.88,
+      "to": 1073.45,
+      "sid": 376,
+      "location": 2,
+      "content": "异端的这个芯片制端的这个电压",
+      "music": 0.0
+    },
+    {
+      "from": 1073.45,
+      "to": 1075.44,
+      "sid": 377,
+      "location": 2,
+      "content": "传递到芯片的弊端",
+      "music": 0.0
+    },
+    {
+      "from": 1075.48,
+      "to": 1078.63,
+      "sid": 378,
+      "location": 2,
+      "content": "从而使这个led灯形成一个闭合回路",
+      "music": 0.0
+    },
+    {
+      "from": 1078.63,
+      "to": 1080.61,
+      "sid": 379,
+      "location": 2,
+      "content": "我要是让这个led灯亮",
+      "music": 0.0
+    },
+    {
+      "from": 1080.61,
+      "to": 1084.18,
+      "sid": 380,
+      "location": 2,
+      "content": "我这边给一个低电平传递过来",
+      "music": 0.0
+    },
+    {
+      "from": 1084.18,
+      "to": 1086.16,
+      "sid": 381,
+      "location": 2,
+      "content": "这边是一个低底盘led灯就亮了",
+      "music": 0.0
+    },
+    {
+      "from": 1086.16,
+      "to": 1088.04,
+      "sid": 382,
+      "location": 2,
+      "content": "如果我这边给个高电平",
+      "music": 0.0
+    },
+    {
+      "from": 1088.26,
+      "to": 1090.24,
+      "sid": 383,
+      "location": 2,
+      "content": "这边也是一个高电平",
+      "music": 0.0
+    },
+    {
+      "from": 1090.24,
+      "to": 1092.13,
+      "sid": 384,
+      "location": 2,
+      "content": "我的led灯就灭了",
+      "music": 0.0
+    },
+    {
+      "from": 1092.13,
+      "to": 1094.71,
+      "sid": 385,
+      "location": 2,
+      "content": "这就是一个简单的led灯",
+      "music": 0.0
+    },
+    {
+      "from": 1094.71,
+      "to": 1096.26,
+      "sid": 386,
+      "location": 2,
+      "content": "led流水灯",
+      "music": 0.0
+    },
+    {
+      "from": 1097.4,
+      "to": 1099.52,
+      "sid": 387,
+      "location": 2,
+      "content": "下面呢是另外几种",
+      "music": 0.0
+    },
+    {
+      "from": 1099.52,
+      "to": 1103.79,
+      "sid": 388,
+      "location": 2,
+      "content": "在这种开发板上的一个led的接线方法",
+      "music": 0.0
+    },
+    {
+      "from": 1103.79,
+      "to": 1106.25,
+      "sid": 389,
+      "location": 2,
+      "content": "其实原理跟刚才大同小异",
+      "music": 0.0
+    },
+    {
+      "from": 1106.25,
+      "to": 1107.75,
+      "sid": 390,
+      "location": 2,
+      "content": "我就不多讲了",
+      "music": 0.0
+    },
+    {
+      "from": 1107.75,
+      "to": 1109.73,
+      "sid": 391,
+      "location": 2,
+      "content": "最后呢给大家看一下",
+      "music": 0.0
+    },
+    {
+      "from": 1109.73,
+      "to": 1112.82,
+      "sid": 392,
+      "location": 2,
+      "content": "这是通常我们最常见的一个l e d的",
+      "music": 0.0
+    },
+    {
+      "from": 1113.26,
+      "to": 1114.58,
+      "sid": 393,
+      "location": 2,
+      "content": "大家可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 1114.58,
+      "to": 1118.84,
+      "sid": 394,
+      "location": 2,
+      "content": "这其实就是我们今天讲的非常简单的二极管",
+      "music": 0.0
+    },
+    {
+      "from": 1118.84,
+      "to": 1121.83,
+      "sid": 395,
+      "location": 2,
+      "content": "中的一种啊",
+      "music": 0.0
+    },
+    {
+      "from": 1121.83,
+      "to": 1123.06,
+      "sid": 396,
+      "location": 2,
+      "content": "发光二极管",
+      "music": 0.0
+    },
+    {
+      "from": 1123.06,
+      "to": 1123.72,
+      "sid": 397,
+      "location": 2,
+      "content": "来",
+      "music": 0.0
+    },
+    {
+      "from": 1123.72,
+      "to": 1128.899,
+      "sid": 398,
+      "location": 2,
+      "content": "在我们现实生活中实现的一个一个一个产品啊",
+      "music": 0.0
+    },
+    {
+      "from": 1129.62,
+      "to": 1132.46,
+      "sid": 399,
+      "location": 2,
+      "content": "希望大家能够对这个感兴趣",
+      "music": 0.0
+    },
+    {
+      "from": 1132.46,
+      "to": 1135.28,
+      "sid": 400,
+      "location": 2,
+      "content": "这就是我们今天二极管所要讲的内容",
+      "music": 0.0
+    }
+  ]
+}

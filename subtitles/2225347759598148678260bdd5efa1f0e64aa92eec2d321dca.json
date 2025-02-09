@@ -1,0 +1,2236 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 1.42,
+      "to": 4.33,
+      "sid": 1,
+      "location": 2,
+      "content": "前面给大家讲解了一些基础元器件",
+      "music": 0.0
+    },
+    {
+      "from": 4.33,
+      "to": 7.39,
+      "sid": 2,
+      "location": 2,
+      "content": "那么接下来呢我们会介绍一些",
+      "music": 0.0
+    },
+    {
+      "from": 7.39,
+      "to": 10.69,
+      "sid": 3,
+      "location": 2,
+      "content": "在数字电路当中用到的一些集成电路ic",
+      "music": 0.0
+    },
+    {
+      "from": 10.69,
+      "to": 13.48,
+      "sid": 4,
+      "location": 2,
+      "content": "在讲这些集成电路ic之前呢",
+      "music": 0.0
+    },
+    {
+      "from": 13.48,
+      "to": 15.91,
+      "sid": 5,
+      "location": 2,
+      "content": "我们先对一些基本的逻辑运算",
+      "music": 0.0
+    },
+    {
+      "from": 15.91,
+      "to": 17.46,
+      "sid": 6,
+      "location": 2,
+      "content": "进行一个简单的介绍",
+      "music": 0.0
+    },
+    {
+      "from": 17.46,
+      "to": 19.5,
+      "sid": 7,
+      "location": 2,
+      "content": "实际上这些基本的逻辑运算",
+      "music": 0.0
+    },
+    {
+      "from": 19.5,
+      "to": 21.72,
+      "sid": 8,
+      "location": 2,
+      "content": "在我们前面进行电路讲解的时候",
+      "music": 0.0
+    },
+    {
+      "from": 21.72,
+      "to": 24.39,
+      "sid": 9,
+      "location": 2,
+      "content": "有一些也或多或少的有过讲解",
+      "music": 0.0
+    },
+    {
+      "from": 24.39,
+      "to": 28.35,
+      "sid": 10,
+      "location": 2,
+      "content": "现在咱们再来回顾和学习一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 28.35,
+      "to": 29.38,
+      "sid": 11,
+      "location": 2,
+      "content": "对下面的",
+      "music": 0.0
+    },
+    {
+      "from": 29.38,
+      "to": 32.44,
+      "sid": 12,
+      "location": 2,
+      "content": "对下一步的这个集成电路ic的学习",
+      "music": 0.0
+    },
+    {
+      "from": 32.44,
+      "to": 33.97,
+      "sid": 13,
+      "location": 2,
+      "content": "也会有一定的帮助",
+      "music": 0.0
+    },
+    {
+      "from": 33.97,
+      "to": 36.6,
+      "sid": 14,
+      "location": 2,
+      "content": "首先最简单的就是与或非运算",
+      "music": 0.0
+    },
+    {
+      "from": 36.6,
+      "to": 38.16,
+      "sid": 15,
+      "location": 2,
+      "content": "与或非运算呢",
+      "music": 0.0
+    },
+    {
+      "from": 38.16,
+      "to": 42.61,
+      "sid": 16,
+      "location": 2,
+      "content": "其实这个我相信大家都已经嗯了解了一些",
+      "music": 0.0
+    },
+    {
+      "from": 42.61,
+      "to": 44.62,
+      "sid": 17,
+      "location": 2,
+      "content": "在这里需要强调的呢",
+      "music": 0.0
+    },
+    {
+      "from": 44.62,
+      "to": 48.75,
+      "sid": 18,
+      "location": 2,
+      "content": "第一节就是要对我们的这个语或针织表",
+      "music": 0.0
+    },
+    {
+      "from": 48.75,
+      "to": 50.16,
+      "sid": 19,
+      "location": 2,
+      "content": "有一个了解啊",
+      "music": 0.0
+    },
+    {
+      "from": 50.16,
+      "to": 53.17,
+      "sid": 20,
+      "location": 2,
+      "content": "与就是两个同为一的时候",
+      "music": 0.0
+    },
+    {
+      "from": 53.17,
+      "to": 54.84,
+      "sid": 21,
+      "location": 2,
+      "content": "也是两个同为真的时候",
+      "music": 0.0
+    },
+    {
+      "from": 54.84,
+      "to": 57.48,
+      "sid": 22,
+      "location": 2,
+      "content": "a与b为真为一",
+      "music": 0.0
+    },
+    {
+      "from": 57.48,
+      "to": 58.92,
+      "sid": 23,
+      "location": 2,
+      "content": "其他情况下都是零",
+      "music": 0.0
+    },
+    {
+      "from": 58.92,
+      "to": 64.03,
+      "sid": 24,
+      "location": 2,
+      "content": "或就是两个当中a与b当中有任何一个为真人",
+      "music": 0.0
+    },
+    {
+      "from": 64.03,
+      "to": 66.19,
+      "sid": 25,
+      "location": 2,
+      "content": "有任何一个值为一的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 66.19,
+      "to": 68.14,
+      "sid": 26,
+      "location": 2,
+      "content": "那么a或b就是真",
+      "music": 0.0
+    },
+    {
+      "from": 68.14,
+      "to": 70.96,
+      "sid": 27,
+      "location": 2,
+      "content": "那么非就不用就不用讲了",
+      "music": 0.0
+    },
+    {
+      "from": 70.96,
+      "to": 73.08,
+      "sid": 28,
+      "location": 2,
+      "content": "非实际上就是取反对吧",
+      "music": 0.0
+    },
+    {
+      "from": 74.1,
+      "to": 75.8,
+      "sid": 29,
+      "location": 2,
+      "content": "还有一个需要强调的是",
+      "music": 0.0
+    },
+    {
+      "from": 75.8,
+      "to": 79.34,
+      "sid": 30,
+      "location": 2,
+      "content": "对于这个与或非的这些符号表示符号",
+      "music": 0.0
+    },
+    {
+      "from": 79.34,
+      "to": 81.14,
+      "sid": 31,
+      "location": 2,
+      "content": "大家一定要有一个认识",
+      "music": 0.0
+    },
+    {
+      "from": 81.14,
+      "to": 83.289,
+      "sid": 32,
+      "location": 2,
+      "content": "因为在以后的电路当中也有",
+      "music": 0.0
+    },
+    {
+      "from": 83.289,
+      "to": 88.52,
+      "sid": 33,
+      "location": 2,
+      "content": "也有可能啊就会出现一些这样的符号啊",
+      "music": 0.0
+    },
+    {
+      "from": 88.52,
+      "to": 89.6,
+      "sid": 34,
+      "location": 2,
+      "content": "大家以后要知道",
+      "music": 0.0
+    },
+    {
+      "from": 89.6,
+      "to": 91.13,
+      "sid": 35,
+      "location": 2,
+      "content": "比如说出现这个符号",
+      "music": 0.0
+    },
+    {
+      "from": 91.13,
+      "to": 92.54,
+      "sid": 36,
+      "location": 2,
+      "content": "这就是雨的意思",
+      "music": 0.0
+    },
+    {
+      "from": 92.54,
+      "to": 93.56,
+      "sid": 37,
+      "location": 2,
+      "content": "而出现这个符号",
+      "music": 0.0
+    },
+    {
+      "from": 93.56,
+      "to": 94.58,
+      "sid": 38,
+      "location": 2,
+      "content": "它就是非的意思",
+      "music": 0.0
+    },
+    {
+      "from": 94.58,
+      "to": 96.729,
+      "sid": 39,
+      "location": 2,
+      "content": "大家要对这个有一个基本的认识",
+      "music": 0.0
+    },
+    {
+      "from": 96.729,
+      "to": 100.119,
+      "sid": 40,
+      "location": 2,
+      "content": "这就是对与或非的一个基本的讲解啊",
+      "music": 0.0
+    },
+    {
+      "from": 100.119,
+      "to": 102.009,
+      "sid": 41,
+      "location": 2,
+      "content": "这个呢实际上是异或啊",
+      "music": 0.0
+    },
+    {
+      "from": 102.009,
+      "to": 103.149,
+      "sid": 42,
+      "location": 2,
+      "content": "也放到这里了",
+      "music": 0.0
+    },
+    {
+      "from": 103.149,
+      "to": 105.3,
+      "sid": 43,
+      "location": 2,
+      "content": "实际上大家先了解一下",
+      "music": 0.0
+    },
+    {
+      "from": 105.3,
+      "to": 108.02,
+      "sid": 44,
+      "location": 2,
+      "content": "我们后面会讲到抑或异或呢",
+      "music": 0.0
+    },
+    {
+      "from": 108.02,
+      "to": 110.21,
+      "sid": 45,
+      "location": 2,
+      "content": "实际上就是在复合运算当中",
+      "music": 0.0
+    },
+    {
+      "from": 110.21,
+      "to": 112.52,
+      "sid": 46,
+      "location": 2,
+      "content": "我们来看一下这个复合运算里边",
+      "music": 0.0
+    },
+    {
+      "from": 112.52,
+      "to": 115.16,
+      "sid": 47,
+      "location": 2,
+      "content": "它有与非或非与或非",
+      "music": 0.0
+    },
+    {
+      "from": 115.16,
+      "to": 119.24,
+      "sid": 48,
+      "location": 2,
+      "content": "这个呢在了解物与或非基本逻辑运算之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 119.24,
+      "to": 121.61,
+      "sid": 49,
+      "location": 2,
+      "content": "再看这个就比较简单了啊",
+      "music": 0.0
+    },
+    {
+      "from": 121.61,
+      "to": 123.32,
+      "sid": 50,
+      "location": 2,
+      "content": "除了这个真值表",
+      "music": 0.0
+    },
+    {
+      "from": 123.32,
+      "to": 126.32,
+      "sid": 51,
+      "location": 2,
+      "content": "需要大家啊不用强记啊",
+      "music": 0.0
+    },
+    {
+      "from": 126.32,
+      "to": 129.08,
+      "sid": 52,
+      "location": 2,
+      "content": "因为大家如果记不住的情况下以后知道了",
+      "music": 0.0
+    },
+    {
+      "from": 129.08,
+      "to": 133.459,
+      "sid": 53,
+      "location": 2,
+      "content": "说a与与非a和b先与后非",
+      "music": 0.0
+    },
+    {
+      "from": 133.459,
+      "to": 137.059,
+      "sid": 54,
+      "location": 2,
+      "content": "大家就直接用这个值来进行运算",
+      "music": 0.0
+    },
+    {
+      "from": 137.059,
+      "to": 138.139,
+      "sid": 55,
+      "location": 2,
+      "content": "一想就知道了",
+      "music": 0.0
+    },
+    {
+      "from": 138.139,
+      "to": 138.919,
+      "sid": 56,
+      "location": 2,
+      "content": "不必死记",
+      "music": 0.0
+    },
+    {
+      "from": 138.919,
+      "to": 142.29,
+      "sid": 57,
+      "location": 2,
+      "content": "这个真值表需要提醒大家的还是这个符号",
+      "music": 0.0
+    },
+    {
+      "from": 142.29,
+      "to": 145.38,
+      "sid": 58,
+      "location": 2,
+      "content": "大家要对这个呃与非或非和雨啊",
+      "music": 0.0
+    },
+    {
+      "from": 145.38,
+      "to": 148.7,
+      "sid": 59,
+      "location": 2,
+      "content": "与或非的这个基本的这个符号也有一个了解",
+      "music": 0.0
+    },
+    {
+      "from": 149.6,
+      "to": 152.5,
+      "sid": 60,
+      "location": 2,
+      "content": "这是与或非的一个针织表",
+      "music": 0.0
+    },
+    {
+      "from": 152.5,
+      "to": 156.52,
+      "sid": 61,
+      "location": 2,
+      "content": "以及与或非的一个呃表达方式",
+      "music": 0.0
+    },
+    {
+      "from": 156.6,
+      "to": 159.6,
+      "sid": 62,
+      "location": 2,
+      "content": "先与哈a与b c与d",
+      "music": 0.0
+    },
+    {
+      "from": 159.6,
+      "to": 161.34,
+      "sid": 63,
+      "location": 2,
+      "content": "然后或两个支付",
+      "music": 0.0
+    },
+    {
+      "from": 161.34,
+      "to": 163.08,
+      "sid": 64,
+      "location": 2,
+      "content": "然后再取取反",
+      "music": 0.0
+    },
+    {
+      "from": 163.08,
+      "to": 165.74,
+      "sid": 65,
+      "location": 2,
+      "content": "就是与或非的一个表达方式",
+      "music": 0.0
+    },
+    {
+      "from": 166.82,
+      "to": 170.789,
+      "sid": 66,
+      "location": 2,
+      "content": "同时就是提醒大家要对这个值啊",
+      "music": 0.0
+    },
+    {
+      "from": 170.789,
+      "to": 172.139,
+      "sid": 67,
+      "location": 2,
+      "content": "要对这个表达符号",
+      "music": 0.0
+    },
+    {
+      "from": 172.139,
+      "to": 175.66,
+      "sid": 68,
+      "location": 2,
+      "content": "逻辑符号要有一个比较深刻的印象",
+      "music": 0.0
+    },
+    {
+      "from": 175.66,
+      "to": 177.46,
+      "sid": 69,
+      "location": 2,
+      "content": "这样对于我们后面分析并入",
+      "music": 0.0
+    },
+    {
+      "from": 177.46,
+      "to": 179.69,
+      "sid": 70,
+      "location": 2,
+      "content": "会有会有一定的帮助啊",
+      "music": 0.0
+    },
+    {
+      "from": 179.69,
+      "to": 183.74,
+      "sid": 71,
+      "location": 2,
+      "content": "同时呢还有这个囤货和异或同或和异或呢就是",
+      "music": 0.0
+    },
+    {
+      "from": 187.8,
+      "to": 191.42,
+      "sid": 72,
+      "location": 2,
+      "content": "这样的表达方式是a与上b的非",
+      "music": 0.0
+    },
+    {
+      "from": 191.72,
+      "to": 196.97,
+      "sid": 73,
+      "location": 2,
+      "content": "然后a的a非也就是a区法再和b相遇",
+      "music": 0.0
+    },
+    {
+      "from": 196.97,
+      "to": 200.36,
+      "sid": 74,
+      "location": 2,
+      "content": "然后他们俩互嗯",
+      "music": 0.0
+    },
+    {
+      "from": 200.36,
+      "to": 203.03,
+      "sid": 75,
+      "location": 2,
+      "content": "这就是同和异或的一个逻辑表达式",
+      "music": 0.0
+    },
+    {
+      "from": 203.03,
+      "to": 205.1,
+      "sid": 76,
+      "location": 2,
+      "content": "大家要有一个基本的认识",
+      "music": 0.0
+    },
+    {
+      "from": 205.1,
+      "to": 207.2,
+      "sid": 77,
+      "location": 2,
+      "content": "这一块呢我就不多啰嗦了",
+      "music": 0.0
+    },
+    {
+      "from": 207.2,
+      "to": 211.9,
+      "sid": 78,
+      "location": 2,
+      "content": "因为我觉得大家对这一块应该是能很清楚地",
+      "music": 0.0
+    },
+    {
+      "from": 211.9,
+      "to": 213.7,
+      "sid": 79,
+      "location": 2,
+      "content": "认识到了这一块的知识",
+      "music": 0.0
+    },
+    {
+      "from": 213.7,
+      "to": 216.04,
+      "sid": 80,
+      "location": 2,
+      "content": "下面我们就来啊进入这个",
+      "music": 0.0
+    },
+    {
+      "from": 216.04,
+      "to": 219.549,
+      "sid": 81,
+      "location": 2,
+      "content": "下一章就是典型集成电路的",
+      "music": 0.0
+    },
+    {
+      "from": 219.549,
+      "to": 221.319,
+      "sid": 82,
+      "location": 2,
+      "content": "集成电路ic的一个讲解",
+      "music": 0.0
+    },
+    {
+      "from": 221.319,
+      "to": 222.819,
+      "sid": 83,
+      "location": 2,
+      "content": "先来看第一部分",
+      "music": 0.0
+    },
+    {
+      "from": 222.819,
+      "to": 225.6,
+      "sid": 84,
+      "location": 2,
+      "content": "第一部分呢我们着重讲四个内容",
+      "music": 0.0
+    },
+    {
+      "from": 226.499,
+      "to": 228.469,
+      "sid": 85,
+      "location": 2,
+      "content": "首先来看一下缓冲期",
+      "music": 0.0
+    },
+    {
+      "from": 228.469,
+      "to": 230.02,
+      "sid": 86,
+      "location": 2,
+      "content": "什么是缓冲期",
+      "music": 0.0
+    },
+    {
+      "from": 231.059,
+      "to": 234.349,
+      "sid": 87,
+      "location": 2,
+      "content": "缓冲器呢是数字元器件当中的一种",
+      "music": 0.0
+    },
+    {
+      "from": 234.349,
+      "to": 236.959,
+      "sid": 88,
+      "location": 2,
+      "content": "我们来看一下它的定义及分类",
+      "music": 0.0
+    },
+    {
+      "from": 236.959,
+      "to": 241.739,
+      "sid": 89,
+      "location": 2,
+      "content": "那么它呢通常是不对输入做任何的运算",
+      "music": 0.0
+    },
+    {
+      "from": 241.739,
+      "to": 244.319,
+      "sid": 90,
+      "location": 2,
+      "content": "它的输出值和输入值是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 244.319,
+      "to": 246.239,
+      "sid": 91,
+      "location": 2,
+      "content": "但是它在计算机的设计当中",
+      "music": 0.0
+    },
+    {
+      "from": 246.239,
+      "to": 247.98,
+      "sid": 92,
+      "location": 2,
+      "content": "有着非常重要的作用",
+      "music": 0.0
+    },
+    {
+      "from": 247.98,
+      "to": 249.24,
+      "sid": 93,
+      "location": 2,
+      "content": "这个缓冲器呀",
+      "music": 0.0
+    },
+    {
+      "from": 249.24,
+      "to": 252.64,
+      "sid": 94,
+      "location": 2,
+      "content": "它一般分成输入缓冲器和输出缓冲器两种",
+      "music": 0.0
+    },
+    {
+      "from": 252.64,
+      "to": 256.839,
+      "sid": 95,
+      "location": 2,
+      "content": "前者的作用是呢是将输入缓冲器",
+      "music": 0.0
+    },
+    {
+      "from": 256.839,
+      "to": 258.609,
+      "sid": 96,
+      "location": 2,
+      "content": "也就是说我的输入缓冲器",
+      "music": 0.0
+    },
+    {
+      "from": 258.609,
+      "to": 262.599,
+      "sid": 97,
+      "location": 2,
+      "content": "输入缓冲器呢是将外设送来的数据暂时存放",
+      "music": 0.0
+    },
+    {
+      "from": 262.599,
+      "to": 265.02,
+      "sid": 98,
+      "location": 2,
+      "content": "以便处理器将它取走",
+      "music": 0.0
+    },
+    {
+      "from": 265.02,
+      "to": 268.26,
+      "sid": 99,
+      "location": 2,
+      "content": "那么对于输出缓冲器呢它有什么作用呢",
+      "music": 0.0
+    },
+    {
+      "from": 268.26,
+      "to": 272.04,
+      "sid": 100,
+      "location": 2,
+      "content": "输出缓冲器实际上就是暂时存放处理器",
+      "music": 0.0
+    },
+    {
+      "from": 272.04,
+      "to": 273.82,
+      "sid": 101,
+      "location": 2,
+      "content": "送往外设的数据",
+      "music": 0.0
+    },
+    {
+      "from": 273.86,
+      "to": 275.72,
+      "sid": 102,
+      "location": 2,
+      "content": "有了数控缓冲器呢",
+      "music": 0.0
+    },
+    {
+      "from": 275.72,
+      "to": 279.74,
+      "sid": 103,
+      "location": 2,
+      "content": "就可以使高速工作的cpu与慢速工作的外设",
+      "music": 0.0
+    },
+    {
+      "from": 279.74,
+      "to": 281.96,
+      "sid": 104,
+      "location": 2,
+      "content": "起到协调和缓冲的作用",
+      "music": 0.0
+    },
+    {
+      "from": 281.96,
+      "to": 287.2,
+      "sid": 105,
+      "location": 2,
+      "content": "实现了这个数据传输的传送的啊同步性同步",
+      "music": 0.0
+    },
+    {
+      "from": 287.46,
+      "to": 291.16,
+      "sid": 106,
+      "location": 2,
+      "content": "由于这个缓冲器在这个数据总线上",
+      "music": 0.0
+    },
+    {
+      "from": 291.84,
+      "to": 295.58,
+      "sid": 107,
+      "location": 2,
+      "content": "所以呢数据总线上除了一个常规的缓冲器之外",
+      "music": 0.0
+    },
+    {
+      "from": 295.58,
+      "to": 297.44,
+      "sid": 108,
+      "location": 2,
+      "content": "还有一个三态缓冲器",
+      "music": 0.0
+    },
+    {
+      "from": 297.44,
+      "to": 299.76,
+      "sid": 109,
+      "location": 2,
+      "content": "还有一个三态输出的功能",
+      "music": 0.0
+    },
+    {
+      "from": 303.94,
+      "to": 308.1,
+      "sid": 110,
+      "location": 2,
+      "content": "那么这就提及到了缓冲期的另外一种分类方法",
+      "music": 0.0
+    },
+    {
+      "from": 308.1,
+      "to": 312.04,
+      "sid": 111,
+      "location": 2,
+      "content": "就是常规缓冲器和三态缓冲剂",
+      "music": 0.0
+    },
+    {
+      "from": 312.539,
+      "to": 314.219,
+      "sid": 112,
+      "location": 2,
+      "content": "这个长宽缓冲器啊",
+      "music": 0.0
+    },
+    {
+      "from": 314.219,
+      "to": 316.919,
+      "sid": 113,
+      "location": 2,
+      "content": "就是将输入值直接输出啊",
+      "music": 0.0
+    },
+    {
+      "from": 316.919,
+      "to": 318.36,
+      "sid": 114,
+      "location": 2,
+      "content": "它不经过计算",
+      "music": 0.0
+    },
+    {
+      "from": 318.42,
+      "to": 321.84,
+      "sid": 115,
+      "location": 2,
+      "content": "用在推进电流到高一级的电路系统当中",
+      "music": 0.0
+    },
+    {
+      "from": 321.84,
+      "to": 323.88,
+      "sid": 116,
+      "location": 2,
+      "content": "而这个三态缓冲器呀",
+      "music": 0.0
+    },
+    {
+      "from": 324.28,
+      "to": 326.62,
+      "sid": 117,
+      "location": 2,
+      "content": "它除了常规缓冲器的功能之外",
+      "music": 0.0
+    },
+    {
+      "from": 326.62,
+      "to": 328.12,
+      "sid": 118,
+      "location": 2,
+      "content": "还有一个选项卡",
+      "music": 0.0
+    },
+    {
+      "from": 328.12,
+      "to": 331.39,
+      "sid": 119,
+      "location": 2,
+      "content": "选项卡通输入端用e来表示",
+      "music": 0.0
+    },
+    {
+      "from": 331.39,
+      "to": 335.229,
+      "sid": 120,
+      "location": 2,
+      "content": "当这个e有不同的值的时候",
+      "music": 0.0
+    },
+    {
+      "from": 335.229,
+      "to": 338.3,
+      "sid": 121,
+      "location": 2,
+      "content": "那么它的输出值不一样",
+      "music": 0.0
+    },
+    {
+      "from": 338.719,
+      "to": 340.939,
+      "sid": 122,
+      "location": 2,
+      "content": "我们看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 340.939,
+      "to": 343.759,
+      "sid": 123,
+      "location": 2,
+      "content": "这是常用的七四系列的一个缓冲器的型号",
+      "music": 0.0
+    },
+    {
+      "from": 343.759,
+      "to": 345.259,
+      "sid": 124,
+      "location": 2,
+      "content": "大家有有一定的印象",
+      "music": 0.0
+    },
+    {
+      "from": 345.259,
+      "to": 345.96,
+      "sid": 125,
+      "location": 2,
+      "content": "就可以",
+      "music": 0.0
+    },
+    {
+      "from": 345.96,
+      "to": 350.2,
+      "sid": 126,
+      "location": 2,
+      "content": "我们下面来看一下三态缓冲器的一个工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 366.72,
+      "to": 369.68,
+      "sid": 127,
+      "location": 2,
+      "content": "这个呢是大多数计算机的信息传输",
+      "music": 0.0
+    },
+    {
+      "from": 369.68,
+      "to": 371.36,
+      "sid": 128,
+      "location": 2,
+      "content": "都采用总线形式",
+      "music": 0.0
+    },
+    {
+      "from": 371.36,
+      "to": 374.8,
+      "sid": 129,
+      "location": 2,
+      "content": "这是为了减少信息传输线的一个数目啊",
+      "music": 0.0
+    },
+    {
+      "from": 374.94,
+      "to": 378.6,
+      "sid": 130,
+      "location": 2,
+      "content": "嗯一般的计算机当中呢会有三组总线",
+      "music": 0.0
+    },
+    {
+      "from": 378.78,
+      "to": 380.55,
+      "sid": 131,
+      "location": 2,
+      "content": "三组总线是什么",
+      "music": 0.0
+    },
+    {
+      "from": 380.55,
+      "to": 381.3,
+      "sid": 132,
+      "location": 2,
+      "content": "数据总线",
+      "music": 0.0
+    },
+    {
+      "from": 381.3,
+      "to": 383.27,
+      "sid": 133,
+      "location": 2,
+      "content": "地址总线和控制总线对吧",
+      "music": 0.0
+    },
+    {
+      "from": 383.27,
+      "to": 385.52,
+      "sid": 134,
+      "location": 2,
+      "content": "为了防止信息的相互干扰",
+      "music": 0.0
+    },
+    {
+      "from": 385.52,
+      "to": 389.03,
+      "sid": 135,
+      "location": 2,
+      "content": "凡要求挂在总线上的寄存器或者是存储器",
+      "music": 0.0
+    },
+    {
+      "from": 389.03,
+      "to": 393.27,
+      "sid": 136,
+      "location": 2,
+      "content": "它的传输端不仅能够呈现零和一的状态",
+      "music": 0.0
+    },
+    {
+      "from": 393.27,
+      "to": 395.73,
+      "sid": 137,
+      "location": 2,
+      "content": "而且还会出现第三种状态",
+      "music": 0.0
+    },
+    {
+      "from": 395.73,
+      "to": 397.22,
+      "sid": 138,
+      "location": 2,
+      "content": "也就是高阻状态",
+      "music": 0.0
+    },
+    {
+      "from": 397.4,
+      "to": 401.0,
+      "sid": 139,
+      "location": 2,
+      "content": "这时候呢就好像他们的输出被断开",
+      "music": 0.0
+    },
+    {
+      "from": 401.0,
+      "to": 403.37,
+      "sid": 140,
+      "location": 2,
+      "content": "对总线的状态不起作用",
+      "music": 0.0
+    },
+    {
+      "from": 403.37,
+      "to": 408.74,
+      "sid": 141,
+      "location": 2,
+      "content": "而总线呢可由其他器件占用啊",
+      "music": 0.0
+    },
+    {
+      "from": 408.74,
+      "to": 412.76,
+      "sid": 142,
+      "location": 2,
+      "content": "三态门就可以实现上台的上面的这种这种功能",
+      "music": 0.0
+    },
+    {
+      "from": 412.76,
+      "to": 416.62,
+      "sid": 143,
+      "location": 2,
+      "content": "三态门实际上就是三态缓冲器的另外一种叫法",
+      "music": 0.0
+    },
+    {
+      "from": 418.1,
+      "to": 421.72,
+      "sid": 144,
+      "location": 2,
+      "content": "那么三态门呢它除了具有输入输出端之外",
+      "music": 0.0
+    },
+    {
+      "from": 421.72,
+      "to": 423.67,
+      "sid": 145,
+      "location": 2,
+      "content": "还有一个控制端",
+      "music": 0.0
+    },
+    {
+      "from": 423.67,
+      "to": 424.9,
+      "sid": 146,
+      "location": 2,
+      "content": "大家可以看",
+      "music": 0.0
+    },
+    {
+      "from": 424.9,
+      "to": 427.16,
+      "sid": 147,
+      "location": 2,
+      "content": "这就是三态门的一个控制端",
+      "music": 0.0
+    },
+    {
+      "from": 427.94,
+      "to": 430.57,
+      "sid": 148,
+      "location": 2,
+      "content": "这个e就是三态门的一个控制端",
+      "music": 0.0
+    },
+    {
+      "from": 430.57,
+      "to": 432.82,
+      "sid": 149,
+      "location": 2,
+      "content": "当这个控制端等于一的时候",
+      "music": 0.0
+    },
+    {
+      "from": 432.82,
+      "to": 435.28,
+      "sid": 150,
+      "location": 2,
+      "content": "那么它的输出和输入是相等的",
+      "music": 0.0
+    },
+    {
+      "from": 436.54,
+      "to": 439.38,
+      "sid": 151,
+      "location": 2,
+      "content": "这时候呢总线是由器件驱动的",
+      "music": 0.0
+    },
+    {
+      "from": 439.38,
+      "to": 442.63,
+      "sid": 152,
+      "location": 2,
+      "content": "总线上的数据是由输入数据决定的",
+      "music": 0.0
+    },
+    {
+      "from": 442.63,
+      "to": 445.27,
+      "sid": 153,
+      "location": 2,
+      "content": "当这个控制端e等于零的时候",
+      "music": 0.0
+    },
+    {
+      "from": 445.27,
+      "to": 447.65,
+      "sid": 154,
+      "location": 2,
+      "content": "那么它的输出端呈高阻状态",
+      "music": 0.0
+    },
+    {
+      "from": 447.65,
+      "to": 451.06,
+      "sid": 155,
+      "location": 2,
+      "content": "这时候呢弃权对总线不起作用",
+      "music": 0.0
+    },
+    {
+      "from": 451.219,
+      "to": 454.399,
+      "sid": 156,
+      "location": 2,
+      "content": "当寄存器输出端接至三态门的时候",
+      "music": 0.0
+    },
+    {
+      "from": 454.399,
+      "to": 458.1,
+      "sid": 157,
+      "location": 2,
+      "content": "再由三态门输出端与总线连接起来",
+      "music": 0.0
+    },
+    {
+      "from": 458.44,
+      "to": 462.959,
+      "sid": 158,
+      "location": 2,
+      "content": "就构成了三代输出的缓冲寄存器",
+      "music": 0.0
+    },
+    {
+      "from": 462.959,
+      "to": 469.209,
+      "sid": 159,
+      "location": 2,
+      "content": "这就是一个四位的三胎缓冲三态输出",
+      "music": 0.0
+    },
+    {
+      "from": 469.209,
+      "to": 470.88,
+      "sid": 160,
+      "location": 2,
+      "content": "缓冲寄存器",
+      "music": 0.0
+    },
+    {
+      "from": 471.819,
+      "to": 475.079,
+      "sid": 161,
+      "location": 2,
+      "content": "他这边采用的实际上是一个单向的啊",
+      "music": 0.0
+    },
+    {
+      "from": 475.079,
+      "to": 476.94,
+      "sid": 162,
+      "location": 2,
+      "content": "是一个单向的传输",
+      "music": 0.0
+    },
+    {
+      "from": 477.56,
+      "to": 481.48,
+      "sid": 163,
+      "location": 2,
+      "content": "所以说数据只能从寄存器输出到数据总线",
+      "music": 0.0
+    },
+    {
+      "from": 481.48,
+      "to": 484.26,
+      "sid": 164,
+      "location": 2,
+      "content": "只能从这一段输出到这一段对吧",
+      "music": 0.0
+    },
+    {
+      "from": 484.34,
+      "to": 486.62,
+      "sid": 165,
+      "location": 2,
+      "content": "如果要实现双向传输呢",
+      "music": 0.0
+    },
+    {
+      "from": 486.62,
+      "to": 488.7,
+      "sid": 166,
+      "location": 2,
+      "content": "就要用双向的三胎",
+      "music": 0.0
+    },
+    {
+      "from": 488.86,
+      "to": 490.99,
+      "sid": 167,
+      "location": 2,
+      "content": "我们看一下什么是三",
+      "music": 0.0
+    },
+    {
+      "from": 490.99,
+      "to": 493.3,
+      "sid": 168,
+      "location": 2,
+      "content": "单向的三态门和双向的三态门啊",
+      "music": 0.0
+    },
+    {
+      "from": 493.3,
+      "to": 495.1,
+      "sid": 169,
+      "location": 2,
+      "content": "这是一个简单的单向的三态门",
+      "music": 0.0
+    },
+    {
+      "from": 495.1,
+      "to": 497.22,
+      "sid": 170,
+      "location": 2,
+      "content": "这是它的控制端啊",
+      "music": 0.0
+    },
+    {
+      "from": 497.22,
+      "to": 499.41,
+      "sid": 171,
+      "location": 2,
+      "content": "它只能从a端这样输出",
+      "music": 0.0
+    },
+    {
+      "from": 499.41,
+      "to": 502.29,
+      "sid": 172,
+      "location": 2,
+      "content": "这是一个双向的三态门嗯",
+      "music": 0.0
+    },
+    {
+      "from": 502.29,
+      "to": 505.02,
+      "sid": 173,
+      "location": 2,
+      "content": "它的控制端是1112对吧",
+      "music": 0.0
+    },
+    {
+      "from": 505.02,
+      "to": 508.05,
+      "sid": 174,
+      "location": 2,
+      "content": "它的可以向这段输出",
+      "music": 0.0
+    },
+    {
+      "from": 508.05,
+      "to": 513.74,
+      "sid": 175,
+      "location": 2,
+      "content": "比如说我这边是a这边是b啊",
+      "music": 0.0
+    },
+    {
+      "from": 513.74,
+      "to": 516.14,
+      "sid": 176,
+      "location": 2,
+      "content": "我的是既可以从a转向b",
+      "music": 0.0
+    },
+    {
+      "from": 516.14,
+      "to": 517.819,
+      "sid": 177,
+      "location": 2,
+      "content": "又可以从b转向a",
+      "music": 0.0
+    },
+    {
+      "from": 518.26,
+      "to": 521.959,
+      "sid": 178,
+      "location": 2,
+      "content": "这就是三态缓冲器的一个简单的工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 524.68,
+      "to": 526.2,
+      "sid": 179,
+      "location": 2,
+      "content": "那么通常情况下",
+      "music": 0.0
+    },
+    {
+      "from": 526.2,
+      "to": 528.42,
+      "sid": 180,
+      "location": 2,
+      "content": "这个三态缓冲器它有什么作用呢",
+      "music": 0.0
+    },
+    {
+      "from": 528.42,
+      "to": 530.4,
+      "sid": 181,
+      "location": 2,
+      "content": "它能够完成速度的匹配",
+      "music": 0.0
+    },
+    {
+      "from": 530.54,
+      "to": 534.939,
+      "sid": 182,
+      "location": 2,
+      "content": "第二个呢它能够提供一个暂存的空间",
+      "music": 0.0
+    },
+    {
+      "from": 536.04,
+      "to": 538.64,
+      "sid": 183,
+      "location": 2,
+      "content": "第三个呢它就是放大信号",
+      "music": 0.0
+    },
+    {
+      "from": 538.64,
+      "to": 540.17,
+      "sid": 184,
+      "location": 2,
+      "content": "提高驱动的能力",
+      "music": 0.0
+    },
+    {
+      "from": 540.17,
+      "to": 542.579,
+      "sid": 185,
+      "location": 2,
+      "content": "减少传输对负载",
+      "music": 0.0
+    },
+    {
+      "from": 542.86,
+      "to": 546.91,
+      "sid": 186,
+      "location": 2,
+      "content": "纯减少了传输及其负载对信号源的一个影响",
+      "music": 0.0
+    },
+    {
+      "from": 546.91,
+      "to": 549.16,
+      "sid": 187,
+      "location": 2,
+      "content": "第四个就是一个信号隔离的作用",
+      "music": 0.0
+    },
+    {
+      "from": 549.16,
+      "to": 551.2,
+      "sid": 188,
+      "location": 2,
+      "content": "消除负载对信号源的影响",
+      "music": 0.0
+    },
+    {
+      "from": 551.2,
+      "to": 554.42,
+      "sid": 189,
+      "location": 2,
+      "content": "这就是缓冲期的一个基本的作用",
+      "music": 0.0
+    },
+    {
+      "from": 562.7,
+      "to": 568.24,
+      "sid": 190,
+      "location": 2,
+      "content": "那么寄存器和锁存器和缓冲器有什么区别啊",
+      "music": 0.0
+    },
+    {
+      "from": 568.24,
+      "to": 572.51,
+      "sid": 191,
+      "location": 2,
+      "content": "其实这个锁存器我们在后面会有专门的在讲",
+      "music": 0.0
+    },
+    {
+      "from": 572.51,
+      "to": 573.29,
+      "sid": 192,
+      "location": 2,
+      "content": "触发器的时候",
+      "music": 0.0
+    },
+    {
+      "from": 573.29,
+      "to": 575.15,
+      "sid": 193,
+      "location": 2,
+      "content": "我们还会讲锁存器",
+      "music": 0.0
+    },
+    {
+      "from": 575.15,
+      "to": 576.59,
+      "sid": 194,
+      "location": 2,
+      "content": "我们在这儿先来看",
+      "music": 0.0
+    },
+    {
+      "from": 576.59,
+      "to": 579.78,
+      "sid": 195,
+      "location": 2,
+      "content": "有的人说这个三太三态缓冲器啊",
+      "music": 0.0
+    },
+    {
+      "from": 579.78,
+      "to": 581.1,
+      "sid": 196,
+      "location": 2,
+      "content": "就是输出不变",
+      "music": 0.0
+    },
+    {
+      "from": 581.1,
+      "to": 582.54,
+      "sid": 197,
+      "location": 2,
+      "content": "输入也输",
+      "music": 0.0
+    },
+    {
+      "from": 582.54,
+      "to": 585.439,
+      "sid": 198,
+      "location": 2,
+      "content": "就是输出直接把输入就给输出来了",
+      "music": 0.0
+    },
+    {
+      "from": 586.46,
+      "to": 588.25,
+      "sid": 199,
+      "location": 2,
+      "content": "它不变它",
+      "music": 0.0
+    },
+    {
+      "from": 588.25,
+      "to": 590.23,
+      "sid": 200,
+      "location": 2,
+      "content": "那它和储存器有什么区别呢",
+      "music": 0.0
+    },
+    {
+      "from": 590.23,
+      "to": 593.38,
+      "sid": 201,
+      "location": 2,
+      "content": "实际上储存器啊就是在某某时刻采样",
+      "music": 0.0
+    },
+    {
+      "from": 593.38,
+      "to": 598.4,
+      "sid": 202,
+      "location": 2,
+      "content": "那么它的输出端呢保持采样结果嗯",
+      "music": 0.0
+    },
+    {
+      "from": 598.4,
+      "to": 603.49,
+      "sid": 203,
+      "location": 2,
+      "content": "这个呢锁存器啊它是有clock",
+      "music": 0.0
+    },
+    {
+      "from": 603.49,
+      "to": 604.81,
+      "sid": 204,
+      "location": 2,
+      "content": "上升沿所存",
+      "music": 0.0
+    },
+    {
+      "from": 604.81,
+      "to": 606.76,
+      "sid": 205,
+      "location": 2,
+      "content": "下降沿所存两种",
+      "music": 0.0
+    },
+    {
+      "from": 606.76,
+      "to": 609.67,
+      "sid": 206,
+      "location": 2,
+      "content": "也就是说他有可能是从上升沿这开始所存",
+      "music": 0.0
+    },
+    {
+      "from": 609.67,
+      "to": 612.56,
+      "sid": 207,
+      "location": 2,
+      "content": "有可能是从下降沿开始储存",
+      "music": 0.0
+    },
+    {
+      "from": 612.56,
+      "to": 616.819,
+      "sid": 208,
+      "location": 2,
+      "content": "主要是从主从触发器组成的啊",
+      "music": 0.0
+    },
+    {
+      "from": 617.3,
+      "to": 621.53,
+      "sid": 209,
+      "location": 2,
+      "content": "所以呢这个还是和这个缓冲器有区别的",
+      "music": 0.0
+    },
+    {
+      "from": 621.53,
+      "to": 623.959,
+      "sid": 210,
+      "location": 2,
+      "content": "这个缓冲器的它的输出啊",
+      "music": 0.0
+    },
+    {
+      "from": 624.82,
+      "to": 626.55,
+      "sid": 211,
+      "location": 2,
+      "content": "跟随输入的",
+      "music": 0.0
+    },
+    {
+      "from": 626.55,
+      "to": 629.06,
+      "sid": 212,
+      "location": 2,
+      "content": "它和输入是有一定的关系的",
+      "music": 0.0
+    },
+    {
+      "from": 632.38,
+      "to": 637.02,
+      "sid": 213,
+      "location": 2,
+      "content": "所以说这两这两者啊是锁存器",
+      "music": 0.0
+    },
+    {
+      "from": 637.02,
+      "to": 638.4,
+      "sid": 214,
+      "location": 2,
+      "content": "它是输出状态",
+      "music": 0.0
+    },
+    {
+      "from": 638.4,
+      "to": 640.64,
+      "sid": 215,
+      "location": 2,
+      "content": "不会随着输入端的变化而变化",
+      "music": 0.0
+    },
+    {
+      "from": 640.74,
+      "to": 646.5,
+      "sid": 216,
+      "location": 2,
+      "content": "只有在锁存信号输入输入的状态被保存到输出",
+      "music": 0.0
+    },
+    {
+      "from": 646.5,
+      "to": 648.26,
+      "sid": 217,
+      "location": 2,
+      "content": "直到下一个锁存信号",
+      "music": 0.0
+    },
+    {
+      "from": 650.48,
+      "to": 653.52,
+      "sid": 218,
+      "location": 2,
+      "content": "那么锁存器它只有两个状态",
+      "music": 0.0
+    },
+    {
+      "from": 653.52,
+      "to": 654.9,
+      "sid": 219,
+      "location": 2,
+      "content": "一个是零一个一",
+      "music": 0.0
+    },
+    {
+      "from": 654.9,
+      "to": 657.06,
+      "sid": 220,
+      "location": 2,
+      "content": "而我们的三态缓冲器呢",
+      "music": 0.0
+    },
+    {
+      "from": 657.06,
+      "to": 658.86,
+      "sid": 221,
+      "location": 2,
+      "content": "它有还有一个高阻状态",
+      "music": 0.0
+    },
+    {
+      "from": 658.86,
+      "to": 660.599,
+      "sid": 222,
+      "location": 2,
+      "content": "这是它们的主要区别",
+      "music": 0.0
+    },
+    {
+      "from": 660.7,
+      "to": 662.38,
+      "sid": 223,
+      "location": 2,
+      "content": "我们先来了解一下",
+      "music": 0.0
+    },
+    {
+      "from": 662.38,
+      "to": 663.76,
+      "sid": 224,
+      "location": 2,
+      "content": "后面我们会有啊",
+      "music": 0.0
+    },
+    {
+      "from": 663.76,
+      "to": 667.459,
+      "sid": 225,
+      "location": 2,
+      "content": "在触发器这一这一章会专门讲到一个储存器",
+      "music": 0.0
+    },
+    {
+      "from": 668.74,
+      "to": 671.359,
+      "sid": 226,
+      "location": 2,
+      "content": "这就是生态缓冲器的一个工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 671.359,
+      "to": 674.209,
+      "sid": 227,
+      "location": 2,
+      "content": "下面来看一下三态缓冲期的一个",
+      "music": 0.0
+    },
+    {
+      "from": 674.209,
+      "to": 676.009,
+      "sid": 228,
+      "location": 2,
+      "content": "三态总线的一个设计",
+      "music": 0.0
+    },
+    {
+      "from": 676.009,
+      "to": 678.4,
+      "sid": 229,
+      "location": 2,
+      "content": "就属于它的一个典型音应用",
+      "music": 0.0
+    },
+    {
+      "from": 685.74,
+      "to": 688.04,
+      "sid": 230,
+      "location": 2,
+      "content": "嗯生态总线电路呢",
+      "music": 0.0
+    },
+    {
+      "from": 688.04,
+      "to": 691.82,
+      "sid": 231,
+      "location": 2,
+      "content": "就是在两个总线之间双向的传输数据",
+      "music": 0.0
+    },
+    {
+      "from": 691.82,
+      "to": 693.8,
+      "sid": 232,
+      "location": 2,
+      "content": "比如说a总线和b总线",
+      "music": 0.0
+    },
+    {
+      "from": 693.8,
+      "to": 696.02,
+      "sid": 233,
+      "location": 2,
+      "content": "我可以从a总线传输到b总线",
+      "music": 0.0
+    },
+    {
+      "from": 696.02,
+      "to": 698.9,
+      "sid": 234,
+      "location": 2,
+      "content": "也可以从b总线传输到a总线",
+      "music": 0.0
+    },
+    {
+      "from": 700.42,
+      "to": 703.44,
+      "sid": 235,
+      "location": 2,
+      "content": "那么为了构成芯片的一个总线系统啊",
+      "music": 0.0
+    },
+    {
+      "from": 703.44,
+      "to": 705.9,
+      "sid": 236,
+      "location": 2,
+      "content": "所以要设计一个三代总线驱动器",
+      "music": 0.0
+    },
+    {
+      "from": 709.34,
+      "to": 714.68,
+      "sid": 237,
+      "location": 2,
+      "content": "这就是一个不反向高电平使能三态缓冲器",
+      "music": 0.0
+    },
+    {
+      "from": 716.06,
+      "to": 717.78,
+      "sid": 238,
+      "location": 2,
+      "content": "这是它的一个使用端",
+      "music": 0.0
+    },
+    {
+      "from": 722.16,
+      "to": 724.55,
+      "sid": 239,
+      "location": 2,
+      "content": "那么在下面这个图当中",
+      "music": 0.0
+    },
+    {
+      "from": 724.55,
+      "to": 725.84,
+      "sid": 240,
+      "location": 2,
+      "content": "下面这个图当中",
+      "music": 0.0
+    },
+    {
+      "from": 725.84,
+      "to": 730.24,
+      "sid": 241,
+      "location": 2,
+      "content": "实际上就是三态总线驱动器",
+      "music": 0.0
+    },
+    {
+      "from": 730.24,
+      "to": 733.8,
+      "sid": 242,
+      "location": 2,
+      "content": "在两线之间起到双向首发的作用",
+      "music": 0.0
+    },
+    {
+      "from": 735.06,
+      "to": 740.23,
+      "sid": 243,
+      "location": 2,
+      "content": "双向手法也就是说我既比如说这是a端",
+      "music": 0.0
+    },
+    {
+      "from": 740.23,
+      "to": 741.55,
+      "sid": 244,
+      "location": 2,
+      "content": "这是b端",
+      "music": 0.0
+    },
+    {
+      "from": 741.55,
+      "to": 744.28,
+      "sid": 245,
+      "location": 2,
+      "content": "我的a端既可以作为接收端",
+      "music": 0.0
+    },
+    {
+      "from": 744.28,
+      "to": 748.219,
+      "sid": 246,
+      "location": 2,
+      "content": "又可以作为啊传送端",
+      "music": 0.0
+    },
+    {
+      "from": 750.06,
+      "to": 752.48,
+      "sid": 247,
+      "location": 2,
+      "content": "那么当n等于零",
+      "music": 0.0
+    },
+    {
+      "from": 752.48,
+      "to": 754.7,
+      "sid": 248,
+      "location": 2,
+      "content": "d i r等于零的时候",
+      "music": 0.0
+    },
+    {
+      "from": 754.7,
+      "to": 759.13,
+      "sid": 249,
+      "location": 2,
+      "content": "是从b传到a作为传输说数据",
+      "music": 0.0
+    },
+    {
+      "from": 759.13,
+      "to": 761.56,
+      "sid": 250,
+      "location": 2,
+      "content": "如果1n等于零",
+      "music": 0.0
+    },
+    {
+      "from": 761.56,
+      "to": 763.66,
+      "sid": 251,
+      "location": 2,
+      "content": "d i r等于一的时候",
+      "music": 0.0
+    },
+    {
+      "from": 763.66,
+      "to": 765.12,
+      "sid": 252,
+      "location": 2,
+      "content": "从a传到b",
+      "music": 0.0
+    },
+    {
+      "from": 766.5,
+      "to": 770.339,
+      "sid": 253,
+      "location": 2,
+      "content": "那么1=1 dr等于x的时候",
+      "music": 0.0
+    },
+    {
+      "from": 771.68,
+      "to": 773.2,
+      "sid": 254,
+      "location": 2,
+      "content": "在b组",
+      "music": 0.0
+    },
+    {
+      "from": 773.2,
+      "to": 776.439,
+      "sid": 255,
+      "location": 2,
+      "content": "在b组a是独立传输数据的",
+      "music": 0.0
+    },
+    {
+      "from": 782.62,
+      "to": 786.979,
+      "sid": 256,
+      "location": 2,
+      "content": "那么这就是它的一个原理图的综合结果",
+      "music": 0.0
+    },
+    {
+      "from": 794.5,
+      "to": 796.44,
+      "sid": 257,
+      "location": 2,
+      "content": "这是八对三态缓冲区",
+      "music": 0.0
+    },
+    {
+      "from": 796.44,
+      "to": 799.359,
+      "sid": 258,
+      "location": 2,
+      "content": "分别对八个数据传输的通道啊",
+      "music": 0.0
+    },
+    {
+      "from": 800.78,
+      "to": 804.65,
+      "sid": 259,
+      "location": 2,
+      "content": "那么这个值这个dr实际上呢",
+      "music": 0.0
+    },
+    {
+      "from": 804.65,
+      "to": 806.87,
+      "sid": 260,
+      "location": 2,
+      "content": "它是决定了一个传输的方向",
+      "music": 0.0
+    },
+    {
+      "from": 806.87,
+      "to": 810.56,
+      "sid": 261,
+      "location": 2,
+      "content": "而e n呢实际上是决定了是否传输数据",
+      "music": 0.0
+    },
+    {
+      "from": 811.94,
+      "to": 814.48,
+      "sid": 262,
+      "location": 2,
+      "content": "所以会组成这三种状况",
+      "music": 0.0
+    },
+    {
+      "from": 814.48,
+      "to": 816.46,
+      "sid": 263,
+      "location": 2,
+      "content": "一个是决定方向的",
+      "music": 0.0
+    },
+    {
+      "from": 816.46,
+      "to": 819.099,
+      "sid": 264,
+      "location": 2,
+      "content": "一个是决定是否传输数据的",
+      "music": 0.0
+    },
+    {
+      "from": 827.68,
+      "to": 828.42,
+      "sid": 265,
+      "location": 2,
+      "content": "看一下",
+      "music": 0.0
+    },
+    {
+      "from": 828.42,
+      "to": 831.92,
+      "sid": 266,
+      "location": 2,
+      "content": "这就是啊决定传输方向的",
+      "music": 0.0
+    },
+    {
+      "from": 834.1,
+      "to": 835.78,
+      "sid": 267,
+      "location": 2,
+      "content": "是决定传输方向的",
+      "music": 0.0
+    },
+    {
+      "from": 835.78,
+      "to": 838.12,
+      "sid": 268,
+      "location": 2,
+      "content": "这是决定传是否传输数据的",
+      "music": 0.0
+    },
+    {
+      "from": 838.12,
+      "to": 840.25,
+      "sid": 269,
+      "location": 2,
+      "content": "那么它的综合的一个结果",
+      "music": 0.0
+    },
+    {
+      "from": 840.25,
+      "to": 842.459,
+      "sid": 270,
+      "location": 2,
+      "content": "可以用这张图来表示出来",
+      "music": 0.0
+    },
+    {
+      "from": 842.72,
+      "to": 846.74,
+      "sid": 271,
+      "location": 2,
+      "content": "这个就是一个简单的三台总线的一个设计方法",
+      "music": 0.0
+    },
+    {
+      "from": 846.74,
+      "to": 851.05,
+      "sid": 272,
+      "location": 2,
+      "content": "对于缓冲器嗯其实也挺简单的",
+      "music": 0.0
+    },
+    {
+      "from": 851.05,
+      "to": 856.72,
+      "sid": 273,
+      "location": 2,
+      "content": "它在我们的这个单片机应用电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 856.72,
+      "to": 857.86,
+      "sid": 274,
+      "location": 2,
+      "content": "也有一些应用",
+      "music": 0.0
+    },
+    {
+      "from": 857.86,
+      "to": 861.82,
+      "sid": 275,
+      "location": 2,
+      "content": "我们会后面会啊单独的列举一些例子",
+      "music": 0.0
+    },
+    {
+      "from": 861.82,
+      "to": 866.02,
+      "sid": 276,
+      "location": 2,
+      "content": "供大家那个学习啊",
+      "music": 0.0
+    },
+    {
+      "from": 866.02,
+      "to": 867.16,
+      "sid": 277,
+      "location": 2,
+      "content": "对于缓冲器呢",
+      "music": 0.0
+    },
+    {
+      "from": 867.16,
+      "to": 868.5,
+      "sid": 278,
+      "location": 2,
+      "content": "我们就先讲这么多",
+      "music": 0.0
+    }
+  ]
+}

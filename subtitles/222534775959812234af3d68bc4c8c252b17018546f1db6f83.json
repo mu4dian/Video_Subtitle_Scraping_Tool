@@ -1,0 +1,2540 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 3.96,
+      "to": 6.66,
+      "sid": 1,
+      "location": 2,
+      "content": "嗯接下来给大家讲一下接插件",
+      "music": 0.0
+    },
+    {
+      "from": 6.66,
+      "to": 8.45,
+      "sid": 2,
+      "location": 2,
+      "content": "按键以及拨码开关",
+      "music": 0.0
+    },
+    {
+      "from": 8.45,
+      "to": 12.11,
+      "sid": 3,
+      "location": 2,
+      "content": "那么这三者呢是我们在电路设计当中",
+      "music": 0.0
+    },
+    {
+      "from": 12.11,
+      "to": 15.14,
+      "sid": 4,
+      "location": 2,
+      "content": "经常用到的一些连接器件",
+      "music": 0.0
+    },
+    {
+      "from": 15.54,
+      "to": 18.24,
+      "sid": 5,
+      "location": 2,
+      "content": "我们先来看一下它们的本质",
+      "music": 0.0
+    },
+    {
+      "from": 18.24,
+      "to": 19.56,
+      "sid": 6,
+      "location": 2,
+      "content": "它们的本质是什么",
+      "music": 0.0
+    },
+    {
+      "from": 19.56,
+      "to": 22.83,
+      "sid": 7,
+      "location": 2,
+      "content": "它们的本质实际上都属于电子连接器",
+      "music": 0.0
+    },
+    {
+      "from": 22.83,
+      "to": 24.69,
+      "sid": 8,
+      "location": 2,
+      "content": "什么是电子连接器呢",
+      "music": 0.0
+    },
+    {
+      "from": 24.69,
+      "to": 27.45,
+      "sid": 9,
+      "location": 2,
+      "content": "电子连接器实际上是连接电气线路的",
+      "music": 0.0
+    },
+    {
+      "from": 27.45,
+      "to": 28.71,
+      "sid": 10,
+      "location": 2,
+      "content": "一种导体设备",
+      "music": 0.0
+    },
+    {
+      "from": 28.71,
+      "to": 32.24,
+      "sid": 11,
+      "location": 2,
+      "content": "举个最简单的例子就是大家电脑当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 36.65,
+      "to": 39.76,
+      "sid": 12,
+      "location": 2,
+      "content": "里边有一些看着电那个硬盘",
+      "music": 0.0
+    },
+    {
+      "from": 39.92,
+      "to": 42.39,
+      "sid": 13,
+      "location": 2,
+      "content": "硬插硬盘的那个端口",
+      "music": 0.0
+    },
+    {
+      "from": 42.39,
+      "to": 45.0,
+      "sid": 14,
+      "location": 2,
+      "content": "实际上它就是一种电子连接器",
+      "music": 0.0
+    },
+    {
+      "from": 45.0,
+      "to": 46.599,
+      "sid": 15,
+      "location": 2,
+      "content": "还有我们的硬盘",
+      "music": 0.0
+    },
+    {
+      "from": 46.599,
+      "to": 47.649,
+      "sid": 16,
+      "location": 2,
+      "content": "数据线",
+      "music": 0.0
+    },
+    {
+      "from": 47.649,
+      "to": 49.899,
+      "sid": 17,
+      "location": 2,
+      "content": "硬盘电源线等等等等",
+      "music": 0.0
+    },
+    {
+      "from": 49.899,
+      "to": 51.969,
+      "sid": 18,
+      "location": 2,
+      "content": "这都是一些电子连接器",
+      "music": 0.0
+    },
+    {
+      "from": 51.969,
+      "to": 54.459,
+      "sid": 19,
+      "location": 2,
+      "content": "那么电子连接器有什么特点呢",
+      "music": 0.0
+    },
+    {
+      "from": 54.459,
+      "to": 59.14,
+      "sid": 20,
+      "location": 2,
+      "content": "它实际上就是呃作为电路间或者是组组件间",
+      "music": 0.0
+    },
+    {
+      "from": 59.14,
+      "to": 60.16,
+      "sid": 21,
+      "location": 2,
+      "content": "器件之间",
+      "music": 0.0
+    },
+    {
+      "from": 60.16,
+      "to": 62.92,
+      "sid": 22,
+      "location": 2,
+      "content": "电器之间它的一个连接部件",
+      "music": 0.0
+    },
+    {
+      "from": 62.92,
+      "to": 65.34,
+      "sid": 23,
+      "location": 2,
+      "content": "它可以使我们的功率呀",
+      "music": 0.0
+    },
+    {
+      "from": 65.34,
+      "to": 66.06,
+      "sid": 24,
+      "location": 2,
+      "content": "信号啊",
+      "music": 0.0
+    },
+    {
+      "from": 66.06,
+      "to": 69.119,
+      "sid": 25,
+      "location": 2,
+      "content": "电流啊等等可靠的流通",
+      "music": 0.0
+    },
+    {
+      "from": 69.46,
+      "to": 72.619,
+      "sid": 26,
+      "location": 2,
+      "content": "而且呢作为我们整体当中",
+      "music": 0.0
+    },
+    {
+      "from": 72.64,
+      "to": 75.52,
+      "sid": 27,
+      "location": 2,
+      "content": "就是我们还是举电脑的力作",
+      "music": 0.0
+    },
+    {
+      "from": 75.52,
+      "to": 77.14,
+      "sid": 28,
+      "location": 2,
+      "content": "我们一个整个的机箱",
+      "music": 0.0
+    },
+    {
+      "from": 77.14,
+      "to": 80.25,
+      "sid": 29,
+      "location": 2,
+      "content": "我们可以把每一部分做成一个小小的模块",
+      "music": 0.0
+    },
+    {
+      "from": 80.25,
+      "to": 83.7,
+      "sid": 30,
+      "location": 2,
+      "content": "然后中间通过电子连接器来连接起来",
+      "music": 0.0
+    },
+    {
+      "from": 83.7,
+      "to": 86.31,
+      "sid": 31,
+      "location": 2,
+      "content": "这样子的话我们某一部分出现了问题",
+      "music": 0.0
+    },
+    {
+      "from": 86.31,
+      "to": 90.13,
+      "sid": 32,
+      "location": 2,
+      "content": "我们只可只只要更换某一部分就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 90.13,
+      "to": 93.03,
+      "sid": 33,
+      "location": 2,
+      "content": "不必啊把整体都换掉",
+      "music": 0.0
+    },
+    {
+      "from": 93.03,
+      "to": 95.22,
+      "sid": 34,
+      "location": 2,
+      "content": "这样也方便了我们的维修",
+      "music": 0.0
+    },
+    {
+      "from": 95.22,
+      "to": 96.86,
+      "sid": 35,
+      "location": 2,
+      "content": "节省了我们的成本",
+      "music": 0.0
+    },
+    {
+      "from": 96.86,
+      "to": 100.01,
+      "sid": 36,
+      "location": 2,
+      "content": "这就是电子连接器的一个啊认识",
+      "music": 0.0
+    },
+    {
+      "from": 100.01,
+      "to": 102.92,
+      "sid": 37,
+      "location": 2,
+      "content": "那么我们今天讲的呢接插件按键呀",
+      "music": 0.0
+    },
+    {
+      "from": 102.92,
+      "to": 103.64,
+      "sid": 38,
+      "location": 2,
+      "content": "宝马开关",
+      "music": 0.0
+    },
+    {
+      "from": 103.64,
+      "to": 107.239,
+      "sid": 39,
+      "location": 2,
+      "content": "实际上啊我认为他们都可以啊",
+      "music": 0.0
+    },
+    {
+      "from": 107.239,
+      "to": 111.47,
+      "sid": 40,
+      "location": 2,
+      "content": "从大块上归属到电子连接器这一个类里边",
+      "music": 0.0
+    },
+    {
+      "from": 111.47,
+      "to": 114.14,
+      "sid": 41,
+      "location": 2,
+      "content": "我们下面来看一下接插件",
+      "music": 0.0
+    },
+    {
+      "from": 114.14,
+      "to": 115.91,
+      "sid": 42,
+      "location": 2,
+      "content": "那么什么是接插件呢",
+      "music": 0.0
+    },
+    {
+      "from": 115.91,
+      "to": 117.53,
+      "sid": 43,
+      "location": 2,
+      "content": "我们看一下图",
+      "music": 0.0
+    },
+    {
+      "from": 117.53,
+      "to": 118.84,
+      "sid": 44,
+      "location": 2,
+      "content": "接插件",
+      "music": 0.0
+    },
+    {
+      "from": 121.46,
+      "to": 125.7,
+      "sid": 45,
+      "location": 2,
+      "content": "实际上我估计大家看到也会认识他啊",
+      "music": 0.0
+    },
+    {
+      "from": 125.7,
+      "to": 128.55,
+      "sid": 46,
+      "location": 2,
+      "content": "这就是我们经常用到的一些接插件",
+      "music": 0.0
+    },
+    {
+      "from": 128.55,
+      "to": 129.72,
+      "sid": 47,
+      "location": 2,
+      "content": "这是一个行差",
+      "music": 0.0
+    },
+    {
+      "from": 129.72,
+      "to": 133.219,
+      "sid": 48,
+      "location": 2,
+      "content": "实际上它也是啊接插件的一种",
+      "music": 0.0
+    },
+    {
+      "from": 133.219,
+      "to": 136.98,
+      "sid": 49,
+      "location": 2,
+      "content": "这也是我们经常电路板上经常用到的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 137.16,
+      "to": 141.07,
+      "sid": 50,
+      "location": 2,
+      "content": "嗯可以看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 141.07,
+      "to": 145.15,
+      "sid": 51,
+      "location": 2,
+      "content": "对于不同的那个不同用途的接插件",
+      "music": 0.0
+    },
+    {
+      "from": 145.15,
+      "to": 147.34,
+      "sid": 52,
+      "location": 2,
+      "content": "它的规格和尺寸啊",
+      "music": 0.0
+    },
+    {
+      "from": 147.34,
+      "to": 152.539,
+      "sid": 53,
+      "location": 2,
+      "content": "或者是啊各方面的定期性能呀会有所不同",
+      "music": 0.0
+    },
+    {
+      "from": 152.539,
+      "to": 153.199,
+      "sid": 54,
+      "location": 2,
+      "content": "他们",
+      "music": 0.0
+    },
+    {
+      "from": 153.199,
+      "to": 156.699,
+      "sid": 55,
+      "location": 2,
+      "content": "但是他们从最终的用途上面",
+      "music": 0.0
+    },
+    {
+      "from": 156.699,
+      "to": 161.37,
+      "sid": 56,
+      "location": 2,
+      "content": "都是连接连接我们不同的那个定期设备哈",
+      "music": 0.0
+    },
+    {
+      "from": 161.37,
+      "to": 164.219,
+      "sid": 57,
+      "location": 2,
+      "content": "这一点是相同的",
+      "music": 0.0
+    },
+    {
+      "from": 164.219,
+      "to": 167.819,
+      "sid": 58,
+      "location": 2,
+      "content": "那么g插件呢它就是连接有源的器件",
+      "music": 0.0
+    },
+    {
+      "from": 167.819,
+      "to": 169.319,
+      "sid": 59,
+      "location": 2,
+      "content": "传输电源和型号",
+      "music": 0.0
+    },
+    {
+      "from": 169.319,
+      "to": 171.38,
+      "sid": 60,
+      "location": 2,
+      "content": "这个我们之前已经讲过了",
+      "music": 0.0
+    },
+    {
+      "from": 171.38,
+      "to": 172.94,
+      "sid": 61,
+      "location": 2,
+      "content": "对于它的基本性能呢",
+      "music": 0.0
+    },
+    {
+      "from": 172.94,
+      "to": 174.5,
+      "sid": 62,
+      "location": 2,
+      "content": "我们需要了解一下",
+      "music": 0.0
+    },
+    {
+      "from": 174.5,
+      "to": 177.14,
+      "sid": 63,
+      "location": 2,
+      "content": "就是它的基本性能有三个",
+      "music": 0.0
+    },
+    {
+      "from": 177.14,
+      "to": 178.75,
+      "sid": 64,
+      "location": 2,
+      "content": "一个是机械性能",
+      "music": 0.0
+    },
+    {
+      "from": 178.75,
+      "to": 181.27,
+      "sid": 65,
+      "location": 2,
+      "content": "电气性能和环境性能",
+      "music": 0.0
+    },
+    {
+      "from": 181.27,
+      "to": 183.19,
+      "sid": 66,
+      "location": 2,
+      "content": "对于机械性能来说",
+      "music": 0.0
+    },
+    {
+      "from": 183.19,
+      "to": 187.62,
+      "sid": 67,
+      "location": 2,
+      "content": "它主要就是包括这些接差价的一个插拔力",
+      "music": 0.0
+    },
+    {
+      "from": 187.92,
+      "to": 194.19,
+      "sid": 68,
+      "location": 2,
+      "content": "插拔力是影响接插件寿命的一个因素啊",
+      "music": 0.0
+    },
+    {
+      "from": 194.19,
+      "to": 200.24,
+      "sid": 69,
+      "location": 2,
+      "content": "如果说我的一个接插件插拔几次不可靠了",
+      "music": 0.0
+    },
+    {
+      "from": 200.24,
+      "to": 202.19,
+      "sid": 70,
+      "location": 2,
+      "content": "那么对于我的整体电路",
+      "music": 0.0
+    },
+    {
+      "from": 202.19,
+      "to": 204.47,
+      "sid": 71,
+      "location": 2,
+      "content": "整个产品都是会有影响的",
+      "music": 0.0
+    },
+    {
+      "from": 204.47,
+      "to": 207.19,
+      "sid": 72,
+      "location": 2,
+      "content": "所以我们要考虑它的一个机械性的",
+      "music": 0.0
+    },
+    {
+      "from": 207.19,
+      "to": 209.23,
+      "sid": 73,
+      "location": 2,
+      "content": "然后其次是电气性能",
+      "music": 0.0
+    },
+    {
+      "from": 209.23,
+      "to": 211.45,
+      "sid": 74,
+      "location": 2,
+      "content": "电气性能包括接触电阻",
+      "music": 0.0
+    },
+    {
+      "from": 211.45,
+      "to": 213.8,
+      "sid": 75,
+      "location": 2,
+      "content": "绝缘电阻以及它的耐压值",
+      "music": 0.0
+    },
+    {
+      "from": 213.8,
+      "to": 217.8,
+      "sid": 76,
+      "location": 2,
+      "content": "接触电阻实际上就是我的这个接插件啊",
+      "music": 0.0
+    },
+    {
+      "from": 217.8,
+      "to": 221.5,
+      "sid": 77,
+      "location": 2,
+      "content": "插上之后电器导通了它的一个导通电阻",
+      "music": 0.0
+    },
+    {
+      "from": 221.5,
+      "to": 225.64,
+      "sid": 78,
+      "location": 2,
+      "content": "我们当然希望这个导通电阻是越越小",
+      "music": 0.0
+    },
+    {
+      "from": 225.64,
+      "to": 226.72,
+      "sid": 79,
+      "location": 2,
+      "content": "而且越稳定",
+      "music": 0.0
+    },
+    {
+      "from": 226.72,
+      "to": 228.18,
+      "sid": 80,
+      "location": 2,
+      "content": "是比较好的",
+      "music": 0.0
+    },
+    {
+      "from": 228.239,
+      "to": 232.559,
+      "sid": 81,
+      "location": 2,
+      "content": "绝缘电阻呢实际上就是基插件和接触架之间",
+      "music": 0.0
+    },
+    {
+      "from": 232.559,
+      "to": 236.68,
+      "sid": 82,
+      "location": 2,
+      "content": "以及接触架和外壳之间的一个绝缘性能嗯",
+      "music": 0.0
+    },
+    {
+      "from": 236.68,
+      "to": 239.6,
+      "sid": 83,
+      "location": 2,
+      "content": "它也是有一个固定的指标的",
+      "music": 0.0
+    },
+    {
+      "from": 240.66,
+      "to": 243.74,
+      "sid": 84,
+      "location": 2,
+      "content": "另外一个呢就是它的一个抗电强度",
+      "music": 0.0
+    },
+    {
+      "from": 243.74,
+      "to": 246.8,
+      "sid": 85,
+      "location": 2,
+      "content": "我们可以把它啊俗称就是耐压值了",
+      "music": 0.0
+    },
+    {
+      "from": 246.8,
+      "to": 248.57,
+      "sid": 86,
+      "location": 2,
+      "content": "我们可以理解一下",
+      "music": 0.0
+    },
+    {
+      "from": 248.57,
+      "to": 250.73,
+      "sid": 87,
+      "location": 2,
+      "content": "就是对于我们的每一个级插件",
+      "music": 0.0
+    },
+    {
+      "from": 250.73,
+      "to": 253.72,
+      "sid": 88,
+      "location": 2,
+      "content": "它的引脚间距是有规格的",
+      "music": 0.0
+    },
+    {
+      "from": 253.72,
+      "to": 258.38,
+      "sid": 89,
+      "location": 2,
+      "content": "从小到大都是有不同的规格",
+      "music": 0.0
+    },
+    {
+      "from": 258.38,
+      "to": 262.73,
+      "sid": 90,
+      "location": 2,
+      "content": "那么呢这不同的规则是根据我的用途来确定的",
+      "music": 0.0
+    },
+    {
+      "from": 262.73,
+      "to": 265.04,
+      "sid": 91,
+      "location": 2,
+      "content": "比如说我过一个小的信号",
+      "music": 0.0
+    },
+    {
+      "from": 265.04,
+      "to": 268.84,
+      "sid": 92,
+      "location": 2,
+      "content": "那么引脚间距和过一个很大的电压",
+      "music": 0.0
+    },
+    {
+      "from": 268.84,
+      "to": 272.3,
+      "sid": 93,
+      "location": 2,
+      "content": "它的眼角间距过很大电流",
+      "music": 0.0
+    },
+    {
+      "from": 272.3,
+      "to": 275.09,
+      "sid": 94,
+      "location": 2,
+      "content": "电压的眼角间距它是不同的",
+      "music": 0.0
+    },
+    {
+      "from": 275.09,
+      "to": 276.74,
+      "sid": 95,
+      "location": 2,
+      "content": "所以在这个方面呢",
+      "music": 0.0
+    },
+    {
+      "from": 276.74,
+      "to": 278.96,
+      "sid": 96,
+      "location": 2,
+      "content": "我们要考虑一下它的耐压值",
+      "music": 0.0
+    },
+    {
+      "from": 278.96,
+      "to": 281.48,
+      "sid": 97,
+      "location": 2,
+      "content": "最后一个呢就是环境性能",
+      "music": 0.0
+    },
+    {
+      "from": 281.48,
+      "to": 285.05,
+      "sid": 98,
+      "location": 2,
+      "content": "环境性能实际上就是耐温耐湿",
+      "music": 0.0
+    },
+    {
+      "from": 285.05,
+      "to": 288.05,
+      "sid": 99,
+      "location": 2,
+      "content": "耐盐雾啊这些啊",
+      "music": 0.0
+    },
+    {
+      "from": 288.05,
+      "to": 290.93,
+      "sid": 100,
+      "location": 2,
+      "content": "还有一个比较重要的就是在环境性能里边",
+      "music": 0.0
+    },
+    {
+      "from": 290.93,
+      "to": 293.549,
+      "sid": 101,
+      "location": 2,
+      "content": "就是它的振动和抗冲击能力等等",
+      "music": 0.0
+    },
+    {
+      "from": 293.549,
+      "to": 296.589,
+      "sid": 102,
+      "location": 2,
+      "content": "因为在某些特殊的领域里边啊",
+      "music": 0.0
+    },
+    {
+      "from": 296.589,
+      "to": 299.109,
+      "sid": 103,
+      "location": 2,
+      "content": "这两个指标识还是比较重要的",
+      "music": 0.0
+    },
+    {
+      "from": 299.109,
+      "to": 300.79,
+      "sid": 104,
+      "location": 2,
+      "content": "所以大家要考虑一下",
+      "music": 0.0
+    },
+    {
+      "from": 300.79,
+      "to": 302.32,
+      "sid": 105,
+      "location": 2,
+      "content": "对于它的优点呢",
+      "music": 0.0
+    },
+    {
+      "from": 302.32,
+      "to": 304.03,
+      "sid": 106,
+      "location": 2,
+      "content": "其实前面我们已经讲过了",
+      "music": 0.0
+    },
+    {
+      "from": 304.03,
+      "to": 305.5,
+      "sid": 107,
+      "location": 2,
+      "content": "就是拆啊",
+      "music": 0.0
+    },
+    {
+      "from": 305.5,
+      "to": 306.79,
+      "sid": 108,
+      "location": 2,
+      "content": "拆卸方便",
+      "music": 0.0
+    },
+    {
+      "from": 306.79,
+      "to": 308.25,
+      "sid": 109,
+      "location": 2,
+      "content": "维修方便",
+      "music": 0.0
+    },
+    {
+      "from": 308.25,
+      "to": 313.11,
+      "sid": 110,
+      "location": 2,
+      "content": "实际上在我们在我们在现实做产品的时候",
+      "music": 0.0
+    },
+    {
+      "from": 313.11,
+      "to": 317.27,
+      "sid": 111,
+      "location": 2,
+      "content": "有一些我们的产品的尺寸是受到啊",
+      "music": 0.0
+    },
+    {
+      "from": 317.27,
+      "to": 318.8,
+      "sid": 112,
+      "location": 2,
+      "content": "限制和要求的",
+      "music": 0.0
+    },
+    {
+      "from": 318.8,
+      "to": 321.92,
+      "sid": 113,
+      "location": 2,
+      "content": "比如我们之前就做过一个电池管理系统",
+      "music": 0.0
+    },
+    {
+      "from": 321.92,
+      "to": 324.2,
+      "sid": 114,
+      "location": 2,
+      "content": "由于那个电池包的尺寸",
+      "music": 0.0
+    },
+    {
+      "from": 324.2,
+      "to": 325.789,
+      "sid": 115,
+      "location": 2,
+      "content": "我们这个pcb吧",
+      "music": 0.0
+    },
+    {
+      "from": 325.789,
+      "to": 330.37,
+      "sid": 116,
+      "location": 2,
+      "content": "是要做到比电池包尺寸稍微小一点的那种尺寸",
+      "music": 0.0
+    },
+    {
+      "from": 330.37,
+      "to": 333.25,
+      "sid": 117,
+      "location": 2,
+      "content": "但是我们实际上那个板子是放不下的",
+      "music": 0.0
+    },
+    {
+      "from": 333.25,
+      "to": 334.06,
+      "sid": 118,
+      "location": 2,
+      "content": "怎么办呢",
+      "music": 0.0
+    },
+    {
+      "from": 334.06,
+      "to": 336.34,
+      "sid": 119,
+      "location": 2,
+      "content": "我们把它做成双层板",
+      "music": 0.0
+    },
+    {
+      "from": 336.34,
+      "to": 337.54,
+      "sid": 120,
+      "location": 2,
+      "content": "上面一个小板",
+      "music": 0.0
+    },
+    {
+      "from": 337.54,
+      "to": 338.65,
+      "sid": 121,
+      "location": 2,
+      "content": "下面一个大板",
+      "music": 0.0
+    },
+    {
+      "from": 338.65,
+      "to": 341.64,
+      "sid": 122,
+      "location": 2,
+      "content": "中间通过这种接插件来连接起来",
+      "music": 0.0
+    },
+    {
+      "from": 342.02,
+      "to": 344.96,
+      "sid": 123,
+      "location": 2,
+      "content": "这个实际上呢就是啊",
+      "music": 0.0
+    },
+    {
+      "from": 344.96,
+      "to": 349.2,
+      "sid": 124,
+      "location": 2,
+      "content": "不仅方便了那个我们的维护和维修",
+      "music": 0.0
+    },
+    {
+      "from": 349.2,
+      "to": 353.33,
+      "sid": 125,
+      "location": 2,
+      "content": "而且在工艺流程上和客户要求上",
+      "music": 0.0
+    },
+    {
+      "from": 353.33,
+      "to": 354.98,
+      "sid": 126,
+      "location": 2,
+      "content": "都满足了他们的要求",
+      "music": 0.0
+    },
+    {
+      "from": 354.98,
+      "to": 359.239,
+      "sid": 127,
+      "location": 2,
+      "content": "这就是街差价给我们实际设计的过程当中",
+      "music": 0.0
+    },
+    {
+      "from": 359.239,
+      "to": 363.169,
+      "sid": 128,
+      "location": 2,
+      "content": "带来的一个非常方便的一个特点吧",
+      "music": 0.0
+    },
+    {
+      "from": 363.169,
+      "to": 364.519,
+      "sid": 129,
+      "location": 2,
+      "content": "一个方面吧",
+      "music": 0.0
+    },
+    {
+      "from": 364.519,
+      "to": 367.76,
+      "sid": 130,
+      "location": 2,
+      "content": "最后呢就是讲一下它的分类啊",
+      "music": 0.0
+    },
+    {
+      "from": 367.76,
+      "to": 369.38,
+      "sid": 131,
+      "location": 2,
+      "content": "其实接插件的分类呢",
+      "music": 0.0
+    },
+    {
+      "from": 369.38,
+      "to": 371.72,
+      "sid": 132,
+      "location": 2,
+      "content": "大家只需了解一下就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 372.08,
+      "to": 375.02,
+      "sid": 133,
+      "location": 2,
+      "content": "它的外形分为圆形和矩形",
+      "music": 0.0
+    },
+    {
+      "from": 375.02,
+      "to": 377.36,
+      "sid": 134,
+      "location": 2,
+      "content": "横截面的按照频率分呢",
+      "music": 0.0
+    },
+    {
+      "from": 377.36,
+      "to": 379.34,
+      "sid": 135,
+      "location": 2,
+      "content": "以三兆赫兹为界",
+      "music": 0.0
+    },
+    {
+      "from": 379.34,
+      "to": 381.08,
+      "sid": 136,
+      "location": 2,
+      "content": "分为高频和低频",
+      "music": 0.0
+    },
+    {
+      "from": 381.08,
+      "to": 383.0,
+      "sid": 137,
+      "location": 2,
+      "content": "然后也可以按照用途",
+      "music": 0.0
+    },
+    {
+      "from": 383.0,
+      "to": 385.88,
+      "sid": 138,
+      "location": 2,
+      "content": "或者是pcb焊接方法等等来分类",
+      "music": 0.0
+    },
+    {
+      "from": 385.88,
+      "to": 388.63,
+      "sid": 139,
+      "location": 2,
+      "content": "这个大家稍微了解一下就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 388.63,
+      "to": 390.79,
+      "sid": 140,
+      "location": 2,
+      "content": "那么接下来呢就是按键",
+      "music": 0.0
+    },
+    {
+      "from": 390.79,
+      "to": 393.73,
+      "sid": 141,
+      "location": 2,
+      "content": "按键在日常生活中非常常见",
+      "music": 0.0
+    },
+    {
+      "from": 393.73,
+      "to": 395.95,
+      "sid": 142,
+      "location": 2,
+      "content": "比如说我们的手机按键",
+      "music": 0.0
+    },
+    {
+      "from": 395.95,
+      "to": 398.8,
+      "sid": 143,
+      "location": 2,
+      "content": "我们电脑上面的键盘按键",
+      "music": 0.0
+    },
+    {
+      "from": 398.8,
+      "to": 400.42,
+      "sid": 144,
+      "location": 2,
+      "content": "为什么要讲按键呢",
+      "music": 0.0
+    },
+    {
+      "from": 400.42,
+      "to": 404.11,
+      "sid": 145,
+      "location": 2,
+      "content": "因为我们在同学们学完基础硬件之后",
+      "music": 0.0
+    },
+    {
+      "from": 404.11,
+      "to": 407.05,
+      "sid": 146,
+      "location": 2,
+      "content": "可能会有进一步的需求去学物联网呀",
+      "music": 0.0
+    },
+    {
+      "from": 407.05,
+      "to": 409.15,
+      "sid": 147,
+      "location": 2,
+      "content": "一些课程按键呢",
+      "music": 0.0
+    },
+    {
+      "from": 409.15,
+      "to": 412.84,
+      "sid": 148,
+      "location": 2,
+      "content": "实际上是我们在单片机组成的小系统",
+      "music": 0.0
+    },
+    {
+      "from": 412.84,
+      "to": 417.09,
+      "sid": 149,
+      "location": 2,
+      "content": "小系统当中比较常见的输入输出元器件",
+      "music": 0.0
+    },
+    {
+      "from": 417.09,
+      "to": 420.62,
+      "sid": 150,
+      "location": 2,
+      "content": "尤其在实现人机交互功能的方面",
+      "music": 0.0
+    },
+    {
+      "from": 420.76,
+      "to": 423.82,
+      "sid": 151,
+      "location": 2,
+      "content": "在以后我们在物联网课程当中",
+      "music": 0.0
+    },
+    {
+      "from": 423.82,
+      "to": 426.16,
+      "sid": 152,
+      "location": 2,
+      "content": "学习单片机呀什么的",
+      "music": 0.0
+    },
+    {
+      "from": 426.16,
+      "to": 428.6,
+      "sid": 153,
+      "location": 2,
+      "content": "都会用到这个按键",
+      "music": 0.0
+    },
+    {
+      "from": 428.6,
+      "to": 431.87,
+      "sid": 154,
+      "location": 2,
+      "content": "我们大家需要对它的硬件原理",
+      "music": 0.0
+    },
+    {
+      "from": 431.87,
+      "to": 434.7,
+      "sid": 155,
+      "location": 2,
+      "content": "先做一个简单的基础的了解",
+      "music": 0.0
+    },
+    {
+      "from": 434.7,
+      "to": 437.88,
+      "sid": 156,
+      "location": 2,
+      "content": "按键呢按照按键电路可以分为一对一的",
+      "music": 0.0
+    },
+    {
+      "from": 437.88,
+      "to": 438.72,
+      "sid": 157,
+      "location": 2,
+      "content": "直接连接",
+      "music": 0.0
+    },
+    {
+      "from": 438.72,
+      "to": 439.74,
+      "sid": 158,
+      "location": 2,
+      "content": "也可以分啊",
+      "music": 0.0
+    },
+    {
+      "from": 439.74,
+      "to": 444.25,
+      "sid": 159,
+      "location": 2,
+      "content": "还还和那个动态扫描矩阵式连接",
+      "music": 0.0
+    },
+    {
+      "from": 444.25,
+      "to": 447.31,
+      "sid": 160,
+      "location": 2,
+      "content": "对于这个一对一的这种直接连接呢",
+      "music": 0.0
+    },
+    {
+      "from": 447.31,
+      "to": 450.439,
+      "sid": 161,
+      "location": 2,
+      "content": "实际上它就是一个独立按键嗯",
+      "music": 0.0
+    },
+    {
+      "from": 450.439,
+      "to": 453.649,
+      "sid": 162,
+      "location": 2,
+      "content": "以单片机的这个角度来来讲呢",
+      "music": 0.0
+    },
+    {
+      "from": 453.649,
+      "to": 457.519,
+      "sid": 163,
+      "location": 2,
+      "content": "它单片机上面有很多i o输入输出接口",
+      "music": 0.0
+    },
+    {
+      "from": 457.519,
+      "to": 460.22,
+      "sid": 164,
+      "location": 2,
+      "content": "也就是一个按键",
+      "music": 0.0
+    },
+    {
+      "from": 460.22,
+      "to": 461.84,
+      "sid": 165,
+      "location": 2,
+      "content": "占用一个独立的l口",
+      "music": 0.0
+    },
+    {
+      "from": 461.84,
+      "to": 465.98,
+      "sid": 166,
+      "location": 2,
+      "content": "他的工作不受其他的按键或alk的影响",
+      "music": 0.0
+    },
+    {
+      "from": 465.98,
+      "to": 467.24,
+      "sid": 167,
+      "location": 2,
+      "content": "这就叫做独立案件",
+      "music": 0.0
+    },
+    {
+      "from": 467.24,
+      "to": 470.87,
+      "sid": 168,
+      "location": 2,
+      "content": "像这种单个的单个的按键用在电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 470.87,
+      "to": 473.49,
+      "sid": 169,
+      "location": 2,
+      "content": "我们很好理解它是独立案件",
+      "music": 0.0
+    },
+    {
+      "from": 473.49,
+      "to": 475.32,
+      "sid": 170,
+      "location": 2,
+      "content": "像这种一排用在里边",
+      "music": 0.0
+    },
+    {
+      "from": 475.32,
+      "to": 478.2,
+      "sid": 171,
+      "location": 2,
+      "content": "但是它每一个并不受其他案件的影响",
+      "music": 0.0
+    },
+    {
+      "from": 478.2,
+      "to": 480.36,
+      "sid": 172,
+      "location": 2,
+      "content": "也不受其他alo的影响",
+      "music": 0.0
+    },
+    {
+      "from": 480.42,
+      "to": 483.26,
+      "sid": 173,
+      "location": 2,
+      "content": "那么它也称之为独立案件",
+      "music": 0.0
+    },
+    {
+      "from": 484.04,
+      "to": 485.8,
+      "sid": 174,
+      "location": 2,
+      "content": "这就是按键按键",
+      "music": 0.0
+    },
+    {
+      "from": 485.8,
+      "to": 487.24,
+      "sid": 175,
+      "location": 2,
+      "content": "其实在原理图当中",
+      "music": 0.0
+    },
+    {
+      "from": 487.24,
+      "to": 488.26,
+      "sid": 176,
+      "location": 2,
+      "content": "它就是按下",
+      "music": 0.0
+    },
+    {
+      "from": 488.26,
+      "to": 490.999,
+      "sid": 177,
+      "location": 2,
+      "content": "然后两边就导通了啊",
+      "music": 0.0
+    },
+    {
+      "from": 490.999,
+      "to": 493.339,
+      "sid": 178,
+      "location": 2,
+      "content": "不按下两边就是断开的",
+      "music": 0.0
+    },
+    {
+      "from": 493.339,
+      "to": 496.73,
+      "sid": 179,
+      "location": 2,
+      "content": "实际上就是很简单的一个原理",
+      "music": 0.0
+    },
+    {
+      "from": 496.73,
+      "to": 501.48,
+      "sid": 180,
+      "location": 2,
+      "content": "那么对于这个动态扫描矩阵式连接呢",
+      "music": 0.0
+    },
+    {
+      "from": 501.48,
+      "to": 504.36,
+      "sid": 181,
+      "location": 2,
+      "content": "就是我们经常看到的这种矩阵按键",
+      "music": 0.0
+    },
+    {
+      "from": 504.36,
+      "to": 505.97,
+      "sid": 182,
+      "location": 2,
+      "content": "矩阵按键嗯",
+      "music": 0.0
+    },
+    {
+      "from": 505.97,
+      "to": 508.01,
+      "sid": 183,
+      "location": 2,
+      "content": "它就是为了节省l口",
+      "music": 0.0
+    },
+    {
+      "from": 508.01,
+      "to": 511.61,
+      "sid": 184,
+      "location": 2,
+      "content": "然后把这个按键排列成矩阵的形式",
+      "music": 0.0
+    },
+    {
+      "from": 511.61,
+      "to": 514.33,
+      "sid": 185,
+      "location": 2,
+      "content": "每条水平线和呃",
+      "music": 0.0
+    },
+    {
+      "from": 514.33,
+      "to": 517.12,
+      "sid": 186,
+      "location": 2,
+      "content": "垂直下交叉的地方会有这些节点",
+      "music": 0.0
+    },
+    {
+      "from": 517.12,
+      "to": 518.41,
+      "sid": 187,
+      "location": 2,
+      "content": "它不直接导通",
+      "music": 0.0
+    },
+    {
+      "from": 518.41,
+      "to": 520.45,
+      "sid": 188,
+      "location": 2,
+      "content": "而是通过按键来连接",
+      "music": 0.0
+    },
+    {
+      "from": 520.45,
+      "to": 522.1,
+      "sid": 189,
+      "location": 2,
+      "content": "给大家看一下",
+      "music": 0.0
+    },
+    {
+      "from": 522.1,
+      "to": 525.76,
+      "sid": 190,
+      "location": 2,
+      "content": "就是一些按键的那个图",
+      "music": 0.0
+    },
+    {
+      "from": 527.94,
+      "to": 529.16,
+      "sid": 191,
+      "location": 2,
+      "content": "我看到这图",
+      "music": 0.0
+    },
+    {
+      "from": 529.16,
+      "to": 531.98,
+      "sid": 192,
+      "location": 2,
+      "content": "首先就想到我们平时用的那个计算器啊",
+      "music": 0.0
+    },
+    {
+      "from": 531.98,
+      "to": 534.859,
+      "sid": 193,
+      "location": 2,
+      "content": "你看这是一个4x4的矩阵按键",
+      "music": 0.0
+    },
+    {
+      "from": 535.9,
+      "to": 538.459,
+      "sid": 194,
+      "location": 2,
+      "content": "这是我们输入密码时候的吧",
+      "music": 0.0
+    },
+    {
+      "from": 540.3,
+      "to": 544.19,
+      "sid": 195,
+      "location": 2,
+      "content": "嗯这就是我们那个矩阵按键的一个原理",
+      "music": 0.0
+    },
+    {
+      "from": 544.19,
+      "to": 545.78,
+      "sid": 196,
+      "location": 2,
+      "content": "大家可以看到啊",
+      "music": 0.0
+    },
+    {
+      "from": 545.78,
+      "to": 550.73,
+      "sid": 197,
+      "location": 2,
+      "content": "我们这个行是四个l一到l4 列也是四列",
+      "music": 0.0
+    },
+    {
+      "from": 550.73,
+      "to": 552.29,
+      "sid": 198,
+      "location": 2,
+      "content": "h一到h4 ",
+      "music": 0.0
+    },
+    {
+      "from": 552.29,
+      "to": 558.15,
+      "sid": 199,
+      "location": 2,
+      "content": "我们实际上这个行可以对应四个l口列",
+      "music": 0.0
+    },
+    {
+      "from": 558.15,
+      "to": 560.01,
+      "sid": 200,
+      "location": 2,
+      "content": "也可以对应四个elle",
+      "music": 0.0
+    },
+    {
+      "from": 560.01,
+      "to": 566.2,
+      "sid": 201,
+      "location": 2,
+      "content": "我们用16个按键来连接这个四行和四列对吧",
+      "music": 0.0
+    },
+    {
+      "from": 566.2,
+      "to": 569.79,
+      "sid": 202,
+      "location": 2,
+      "content": "这样子的话用动态扫描式",
+      "music": 0.0
+    },
+    {
+      "from": 569.79,
+      "to": 571.95,
+      "sid": 203,
+      "location": 2,
+      "content": "如果是动态扫描式呢",
+      "music": 0.0
+    },
+    {
+      "from": 571.95,
+      "to": 576.68,
+      "sid": 204,
+      "location": 2,
+      "content": "就是我先比如说我的l一给了一个低电平",
+      "music": 0.0
+    },
+    {
+      "from": 576.68,
+      "to": 580.76,
+      "sid": 205,
+      "location": 2,
+      "content": "然后我们就去检测h1 h2 h3 h4 ",
+      "music": 0.0
+    },
+    {
+      "from": 580.76,
+      "to": 584.27,
+      "sid": 206,
+      "location": 2,
+      "content": "如果我们检测到hr啊",
+      "music": 0.0
+    },
+    {
+      "from": 584.27,
+      "to": 587.56,
+      "sid": 207,
+      "location": 2,
+      "content": "它是l一是导通的",
+      "music": 0.0
+    },
+    {
+      "from": 587.56,
+      "to": 589.6,
+      "sid": 208,
+      "location": 2,
+      "content": "比如说是一个低电平和导通了",
+      "music": 0.0
+    },
+    {
+      "from": 589.6,
+      "to": 592.48,
+      "sid": 209,
+      "location": 2,
+      "content": "我们检测h1 h2 h3 h4 ",
+      "music": 0.0
+    },
+    {
+      "from": 592.48,
+      "to": 595.22,
+      "sid": 210,
+      "location": 2,
+      "content": "我们检测到h2 也是一个低电平",
+      "music": 0.0
+    },
+    {
+      "from": 595.22,
+      "to": 597.8,
+      "sid": 211,
+      "location": 2,
+      "content": "那说明l一和h2 是导通的",
+      "music": 0.0
+    },
+    {
+      "from": 597.8,
+      "to": 599.42,
+      "sid": 212,
+      "location": 2,
+      "content": "我们就看一下哦",
+      "music": 0.0
+    },
+    {
+      "from": 599.42,
+      "to": 599.96,
+      "sid": 213,
+      "location": 2,
+      "content": "明白了",
+      "music": 0.0
+    },
+    {
+      "from": 599.96,
+      "to": 603.18,
+      "sid": 214,
+      "location": 2,
+      "content": "他是按下了s2 按键啊",
+      "music": 0.0
+    },
+    {
+      "from": 603.18,
+      "to": 606.859,
+      "sid": 215,
+      "location": 2,
+      "content": "这就是一个动态扫描的一个过程",
+      "music": 0.0
+    },
+    {
+      "from": 608.12,
+      "to": 610.57,
+      "sid": 216,
+      "location": 2,
+      "content": "也是矩阵型按键",
+      "music": 0.0
+    },
+    {
+      "from": 610.57,
+      "to": 615.45,
+      "sid": 217,
+      "location": 2,
+      "content": "矩阵键盘的一个一个判断的一个一个思路",
+      "music": 0.0
+    },
+    {
+      "from": 615.45,
+      "to": 618.6,
+      "sid": 218,
+      "location": 2,
+      "content": "大家可以按照这个思路去看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 618.6,
+      "to": 622.26,
+      "sid": 219,
+      "location": 2,
+      "content": "它实际上就是用16个按键啊",
+      "music": 0.0
+    },
+    {
+      "from": 622.26,
+      "to": 625.42,
+      "sid": 220,
+      "location": 2,
+      "content": "连接了发个l口对吧",
+      "music": 0.0
+    },
+    {
+      "from": 626.23,
+      "to": 629.14,
+      "sid": 221,
+      "location": 2,
+      "content": "这实际上就是省了l口的一个",
+      "music": 0.0
+    },
+    {
+      "from": 629.14,
+      "to": 632.52,
+      "sid": 222,
+      "location": 2,
+      "content": "一个一个简单的一个矩阵按键",
+      "music": 0.0
+    },
+    {
+      "from": 632.74,
+      "to": 638.78,
+      "sid": 223,
+      "location": 2,
+      "content": "这讲的就是按键按键在实际生活中应用还很多",
+      "music": 0.0
+    },
+    {
+      "from": 638.78,
+      "to": 642.47,
+      "sid": 224,
+      "location": 2,
+      "content": "那么呢在这里给大家留一个小小的思考题",
+      "music": 0.0
+    },
+    {
+      "from": 642.47,
+      "to": 643.88,
+      "sid": 225,
+      "location": 2,
+      "content": "我放到这里了",
+      "music": 0.0
+    },
+    {
+      "from": 643.88,
+      "to": 645.62,
+      "sid": 226,
+      "location": 2,
+      "content": "这个思考题是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 645.62,
+      "to": 649.12,
+      "sid": 227,
+      "location": 2,
+      "content": "就是看像这样的一个软键盘啊",
+      "music": 0.0
+    },
+    {
+      "from": 649.12,
+      "to": 651.39,
+      "sid": 228,
+      "location": 2,
+      "content": "软键盘他也是四行四列",
+      "music": 0.0
+    },
+    {
+      "from": 651.39,
+      "to": 652.8,
+      "sid": 229,
+      "location": 2,
+      "content": "就是4x4的",
+      "music": 0.0
+    },
+    {
+      "from": 652.8,
+      "to": 657.58,
+      "sid": 230,
+      "location": 2,
+      "content": "我们如何判别我按下的是哪个按键呢",
+      "music": 0.0
+    },
+    {
+      "from": 657.58,
+      "to": 658.9,
+      "sid": 231,
+      "location": 2,
+      "content": "大家可以想一下",
+      "music": 0.0
+    },
+    {
+      "from": 658.9,
+      "to": 662.34,
+      "sid": 232,
+      "location": 2,
+      "content": "跟我们刚才我给大家举的那个例子实际上很像",
+      "music": 0.0
+    },
+    {
+      "from": 662.34,
+      "to": 663.54,
+      "sid": 233,
+      "location": 2,
+      "content": "但是唯一不同的是",
+      "music": 0.0
+    },
+    {
+      "from": 663.54,
+      "to": 666.9,
+      "sid": 234,
+      "location": 2,
+      "content": "我现在要给大只给大家一个万用表",
+      "music": 0.0
+    },
+    {
+      "from": 666.9,
+      "to": 668.34,
+      "sid": 235,
+      "location": 2,
+      "content": "让大家去测试",
+      "music": 0.0
+    },
+    {
+      "from": 668.34,
+      "to": 671.86,
+      "sid": 236,
+      "location": 2,
+      "content": "我现在按下的具体是哪一个按键啊",
+      "music": 0.0
+    },
+    {
+      "from": 671.86,
+      "to": 675.88,
+      "sid": 237,
+      "location": 2,
+      "content": "你看它实际上是把行和列的这四个l口",
+      "music": 0.0
+    },
+    {
+      "from": 675.88,
+      "to": 678.26,
+      "sid": 238,
+      "location": 2,
+      "content": "都用不同的线引出来了",
+      "music": 0.0
+    },
+    {
+      "from": 678.26,
+      "to": 679.64,
+      "sid": 239,
+      "location": 2,
+      "content": "那么我们可以想",
+      "music": 0.0
+    },
+    {
+      "from": 679.64,
+      "to": 683.4,
+      "sid": 240,
+      "location": 2,
+      "content": "我们是否可以用那个万用表的蜂鸣器的",
+      "music": 0.0
+    },
+    {
+      "from": 683.4,
+      "to": 685.29,
+      "sid": 241,
+      "location": 2,
+      "content": "我们比如说先检测",
+      "music": 0.0
+    },
+    {
+      "from": 685.29,
+      "to": 688.339,
+      "sid": 242,
+      "location": 2,
+      "content": "先检测到这个是低电平的话",
+      "music": 0.0
+    },
+    {
+      "from": 689.04,
+      "to": 694.26,
+      "sid": 243,
+      "location": 2,
+      "content": "我们就开始啊依次去检测这四根线对吧",
+      "music": 0.0
+    },
+    {
+      "from": 694.26,
+      "to": 696.1,
+      "sid": 244,
+      "location": 2,
+      "content": "我们先给它定义一下",
+      "music": 0.0
+    },
+    {
+      "from": 696.1,
+      "to": 699.34,
+      "sid": 245,
+      "location": 2,
+      "content": "然后检测到这四根线的某一个是低电平",
+      "music": 0.0
+    },
+    {
+      "from": 699.34,
+      "to": 702.77,
+      "sid": 246,
+      "location": 2,
+      "content": "我们就可以用它和它相交的那个点判断",
+      "music": 0.0
+    },
+    {
+      "from": 702.77,
+      "to": 706.49,
+      "sid": 247,
+      "location": 2,
+      "content": "我们具体在这上面是按到哪一个点上对吧",
+      "music": 0.0
+    },
+    {
+      "from": 706.49,
+      "to": 711.31,
+      "sid": 248,
+      "location": 2,
+      "content": "嗯这就是用万用表来测试的一个过程",
+      "music": 0.0
+    },
+    {
+      "from": 711.31,
+      "to": 713.35,
+      "sid": 249,
+      "location": 2,
+      "content": "虽然我给大家写下了步骤",
+      "music": 0.0
+    },
+    {
+      "from": 713.35,
+      "to": 717.28,
+      "sid": 250,
+      "location": 2,
+      "content": "但是我依然希望大家在课后拿着万用表",
+      "music": 0.0
+    },
+    {
+      "from": 717.28,
+      "to": 719.2,
+      "sid": 251,
+      "location": 2,
+      "content": "找到这样的一个东西",
+      "music": 0.0
+    },
+    {
+      "from": 719.2,
+      "to": 721.53,
+      "sid": 252,
+      "location": 2,
+      "content": "然后亲自的去测试一下",
+      "music": 0.0
+    },
+    {
+      "from": 721.53,
+      "to": 724.83,
+      "sid": 253,
+      "location": 2,
+      "content": "我觉得这个东西应该在日常生活中不难找",
+      "music": 0.0
+    },
+    {
+      "from": 724.83,
+      "to": 727.04,
+      "sid": 254,
+      "location": 2,
+      "content": "希望大家能够尝试一下",
+      "music": 0.0
+    },
+    {
+      "from": 727.12,
+      "to": 729.82,
+      "sid": 255,
+      "location": 2,
+      "content": "那么最后讲的呢就是拨码开关",
+      "music": 0.0
+    },
+    {
+      "from": 729.82,
+      "to": 731.44,
+      "sid": 256,
+      "location": 2,
+      "content": "拨码开关呢",
+      "music": 0.0
+    },
+    {
+      "from": 731.44,
+      "to": 735.0,
+      "sid": 257,
+      "location": 2,
+      "content": "顾名思义就是来回波动的这种开关啊",
+      "music": 0.0
+    },
+    {
+      "from": 735.0,
+      "to": 739.0,
+      "sid": 258,
+      "location": 2,
+      "content": "实际上他最常见的最常见的可能啊",
+      "music": 0.0
+    },
+    {
+      "from": 739.0,
+      "to": 742.0,
+      "sid": 259,
+      "location": 2,
+      "content": "你经常管它叫地址开关或者波动开关",
+      "music": 0.0
+    },
+    {
+      "from": 742.0,
+      "to": 743.14,
+      "sid": 260,
+      "location": 2,
+      "content": "数码开关等等",
+      "music": 0.0
+    },
+    {
+      "from": 743.14,
+      "to": 744.46,
+      "sid": 261,
+      "location": 2,
+      "content": "它有很多名字",
+      "music": 0.0
+    },
+    {
+      "from": 744.46,
+      "to": 747.82,
+      "sid": 262,
+      "location": 2,
+      "content": "但是它就是用来操作的一个地址开关",
+      "music": 0.0
+    },
+    {
+      "from": 747.82,
+      "to": 750.599,
+      "sid": 263,
+      "location": 2,
+      "content": "它采用的就是012进制的编码原理",
+      "music": 0.0
+    },
+    {
+      "from": 751.62,
+      "to": 755.6,
+      "sid": 264,
+      "location": 2,
+      "content": "对于一个四类的一个啊拨码开关来说",
+      "music": 0.0
+    },
+    {
+      "from": 755.6,
+      "to": 759.39,
+      "sid": 265,
+      "location": 2,
+      "content": "它可能就是比如说我可以设为它接通为一",
+      "music": 0.0
+    },
+    {
+      "from": 759.39,
+      "to": 760.47,
+      "sid": 266,
+      "location": 2,
+      "content": "断开为零",
+      "music": 0.0
+    },
+    {
+      "from": 760.47,
+      "to": 762.42,
+      "sid": 267,
+      "location": 2,
+      "content": "那么它是二进制的嘛",
+      "music": 0.0
+    },
+    {
+      "from": 762.42,
+      "to": 765.12,
+      "sid": 268,
+      "location": 2,
+      "content": "他可能就会有16种编码方式",
+      "music": 0.0
+    },
+    {
+      "from": 765.12,
+      "to": 766.88,
+      "sid": 269,
+      "location": 2,
+      "content": "实际上就是这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 769.26,
+      "to": 771.14,
+      "sid": 270,
+      "location": 2,
+      "content": "它的用途也挺广的",
+      "music": 0.0
+    },
+    {
+      "from": 771.14,
+      "to": 773.54,
+      "sid": 271,
+      "location": 2,
+      "content": "主要是用于数据处理呀",
+      "music": 0.0
+    },
+    {
+      "from": 773.54,
+      "to": 774.32,
+      "sid": 272,
+      "location": 2,
+      "content": "通信呀",
+      "music": 0.0
+    },
+    {
+      "from": 774.32,
+      "to": 775.49,
+      "sid": 273,
+      "location": 2,
+      "content": "遥控呀",
+      "music": 0.0
+    },
+    {
+      "from": 775.49,
+      "to": 779.34,
+      "sid": 274,
+      "location": 2,
+      "content": "防盗自动警铃系统啊等等",
+      "music": 0.0
+    },
+    {
+      "from": 779.34,
+      "to": 782.07,
+      "sid": 275,
+      "location": 2,
+      "content": "就需要手动编程的产品上面",
+      "music": 0.0
+    },
+    {
+      "from": 782.07,
+      "to": 786.9,
+      "sid": 276,
+      "location": 2,
+      "content": "一直啊一般就会用到这种拨码开关啊",
+      "music": 0.0
+    },
+    {
+      "from": 786.9,
+      "to": 789.78,
+      "sid": 277,
+      "location": 2,
+      "content": "这就是对应上面那个八位的拨码开关",
+      "music": 0.0
+    },
+    {
+      "from": 789.78,
+      "to": 791.7,
+      "sid": 278,
+      "location": 2,
+      "content": "的一个示意图吧",
+      "music": 0.0
+    },
+    {
+      "from": 791.7,
+      "to": 794.77,
+      "sid": 279,
+      "location": 2,
+      "content": "实际上就是关断啊",
+      "music": 0.0
+    },
+    {
+      "from": 794.77,
+      "to": 798.16,
+      "sid": 280,
+      "location": 2,
+      "content": "打啊闭合它就是一一啊",
+      "music": 0.0
+    },
+    {
+      "from": 798.16,
+      "to": 799.54,
+      "sid": 281,
+      "location": 2,
+      "content": "打开它就是零",
+      "music": 0.0
+    },
+    {
+      "from": 799.54,
+      "to": 801.339,
+      "sid": 282,
+      "location": 2,
+      "content": "闭合它就导通了",
+      "music": 0.0
+    },
+    {
+      "from": 802.42,
+      "to": 804.72,
+      "sid": 283,
+      "location": 2,
+      "content": "宝马开关以后有许多分类",
+      "music": 0.0
+    },
+    {
+      "from": 804.72,
+      "to": 807.37,
+      "sid": 284,
+      "location": 2,
+      "content": "大家可以简单的看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 807.37,
+      "to": 811.21,
+      "sid": 285,
+      "location": 2,
+      "content": "大家就会问拨码开关它实际上是用在哪里呢",
+      "music": 0.0
+    },
+    {
+      "from": 811.21,
+      "to": 813.31,
+      "sid": 286,
+      "location": 2,
+      "content": "实际上给大家举一个简单的例子",
+      "music": 0.0
+    },
+    {
+      "from": 813.31,
+      "to": 814.62,
+      "sid": 287,
+      "location": 2,
+      "content": "就在一些",
+      "music": 0.0
+    },
+    {
+      "from": 816.52,
+      "to": 819.36,
+      "sid": 288,
+      "location": 2,
+      "content": "在一些钢厂呀",
+      "music": 0.0
+    },
+    {
+      "from": 819.36,
+      "to": 820.98,
+      "sid": 289,
+      "location": 2,
+      "content": "火电厂呀之类的",
+      "music": 0.0
+    },
+    {
+      "from": 820.98,
+      "to": 827.4,
+      "sid": 290,
+      "location": 2,
+      "content": "他会有那种大一点的直流瓶或者是应急系统",
+      "music": 0.0
+    },
+    {
+      "from": 827.4,
+      "to": 829.56,
+      "sid": 291,
+      "location": 2,
+      "content": "那么在这些系统当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 829.56,
+      "to": 832.8,
+      "sid": 292,
+      "location": 2,
+      "content": "它通常会有充电模块",
+      "music": 0.0
+    },
+    {
+      "from": 832.8,
+      "to": 834.33,
+      "sid": 293,
+      "location": 2,
+      "content": "会有电池",
+      "music": 0.0
+    },
+    {
+      "from": 834.33,
+      "to": 838.28,
+      "sid": 294,
+      "location": 2,
+      "content": "这些充电模块来给电池来进行充电",
+      "music": 0.0
+    },
+    {
+      "from": 838.42,
+      "to": 840.46,
+      "sid": 295,
+      "location": 2,
+      "content": "嗯通常情况下呢",
+      "music": 0.0
+    },
+    {
+      "from": 840.46,
+      "to": 842.86,
+      "sid": 296,
+      "location": 2,
+      "content": "这个模块它不会是单独的模块",
+      "music": 0.0
+    },
+    {
+      "from": 842.86,
+      "to": 845.81,
+      "sid": 297,
+      "location": 2,
+      "content": "它会是一排模块嗯",
+      "music": 0.0
+    },
+    {
+      "from": 845.81,
+      "to": 847.94,
+      "sid": 298,
+      "location": 2,
+      "content": "就是并联均流来充电",
+      "music": 0.0
+    },
+    {
+      "from": 847.94,
+      "to": 852.71,
+      "sid": 299,
+      "location": 2,
+      "content": "或者是说啊呃设设置一个冗余系统",
+      "music": 0.0
+    },
+    {
+      "from": 852.71,
+      "to": 854.39,
+      "sid": 300,
+      "location": 2,
+      "content": "然后几个模块并行",
+      "music": 0.0
+    },
+    {
+      "from": 854.39,
+      "to": 857.03,
+      "sid": 301,
+      "location": 2,
+      "content": "那么模块与模块之间通讯",
+      "music": 0.0
+    },
+    {
+      "from": 857.03,
+      "to": 860.74,
+      "sid": 302,
+      "location": 2,
+      "content": "通常呢就会用到这个拨码开关",
+      "music": 0.0
+    },
+    {
+      "from": 860.74,
+      "to": 864.76,
+      "sid": 303,
+      "location": 2,
+      "content": "我把开关给每一个模块设置一个地址",
+      "music": 0.0
+    },
+    {
+      "from": 864.76,
+      "to": 866.14,
+      "sid": 304,
+      "location": 2,
+      "content": "由上位机发出",
+      "music": 0.0
+    },
+    {
+      "from": 866.14,
+      "to": 866.86,
+      "sid": 305,
+      "location": 2,
+      "content": "由上位机",
+      "music": 0.0
+    },
+    {
+      "from": 866.86,
+      "to": 871.29,
+      "sid": 306,
+      "location": 2,
+      "content": "比如说我的一些控制器控制系统来发出命令",
+      "music": 0.0
+    },
+    {
+      "from": 871.29,
+      "to": 874.11,
+      "sid": 307,
+      "location": 2,
+      "content": "而根据这些地址来命令",
+      "music": 0.0
+    },
+    {
+      "from": 874.11,
+      "to": 876.57,
+      "sid": 308,
+      "location": 2,
+      "content": "我的哪一个模块是要工作的",
+      "music": 0.0
+    },
+    {
+      "from": 876.57,
+      "to": 878.85,
+      "sid": 309,
+      "location": 2,
+      "content": "哪个模块是可以休息的啊",
+      "music": 0.0
+    },
+    {
+      "from": 878.85,
+      "to": 883.26,
+      "sid": 310,
+      "location": 2,
+      "content": "这是宝马开关在通讯当中的一个应用啊",
+      "music": 0.0
+    },
+    {
+      "from": 883.26,
+      "to": 887.47,
+      "sid": 311,
+      "location": 2,
+      "content": "举这样一个例子也方便大家理解啊",
+      "music": 0.0
+    },
+    {
+      "from": 887.47,
+      "to": 891.46,
+      "sid": 312,
+      "location": 2,
+      "content": "这节课呢主要就讲这些关于课后的思考题呢",
+      "music": 0.0
+    },
+    {
+      "from": 891.46,
+      "to": 894.99,
+      "sid": 313,
+      "location": 2,
+      "content": "就是刚才给大家做的那个案件嗯",
+      "music": 0.0
+    },
+    {
+      "from": 894.99,
+      "to": 896.04,
+      "sid": 314,
+      "location": 2,
+      "content": "矩阵按键",
+      "music": 0.0
+    },
+    {
+      "from": 896.04,
+      "to": 898.17,
+      "sid": 315,
+      "location": 2,
+      "content": "希望大家可否能试一下",
+      "music": 0.0
+    },
+    {
+      "from": 898.17,
+      "to": 900.5,
+      "sid": 316,
+      "location": 2,
+      "content": "嗯好今天就先讲到这",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,2068 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 1.88,
+      "to": 4.58,
+      "sid": 1,
+      "location": 2,
+      "content": "接下来我们来了解一下触发器",
+      "music": 0.0
+    },
+    {
+      "from": 4.58,
+      "to": 10.85,
+      "sid": 2,
+      "location": 2,
+      "content": "触发器也是非常常见的一个嗯集成电路r c",
+      "music": 0.0
+    },
+    {
+      "from": 10.85,
+      "to": 13.88,
+      "sid": 3,
+      "location": 2,
+      "content": "我们首先来了解一下触发器的定义",
+      "music": 0.0
+    },
+    {
+      "from": 13.88,
+      "to": 14.6,
+      "sid": 4,
+      "location": 2,
+      "content": "在这儿呢",
+      "music": 0.0
+    },
+    {
+      "from": 14.6,
+      "to": 18.51,
+      "sid": 5,
+      "location": 2,
+      "content": "我们将触发器和锁存器两个对比起来嗯",
+      "music": 0.0
+    },
+    {
+      "from": 18.51,
+      "to": 20.04,
+      "sid": 6,
+      "location": 2,
+      "content": "来进行学习",
+      "music": 0.0
+    },
+    {
+      "from": 20.04,
+      "to": 23.01,
+      "sid": 7,
+      "location": 2,
+      "content": "为什么将他们两个对比起来进行学习呢",
+      "music": 0.0
+    },
+    {
+      "from": 23.01,
+      "to": 25.96,
+      "sid": 8,
+      "location": 2,
+      "content": "啊因为它们都属于双稳态器件",
+      "music": 0.0
+    },
+    {
+      "from": 26.699,
+      "to": 30.439,
+      "sid": 9,
+      "location": 2,
+      "content": "嗯储存器呢是触发器的一个原始形式",
+      "music": 0.0
+    },
+    {
+      "from": 30.439,
+      "to": 32.299,
+      "sid": 10,
+      "location": 2,
+      "content": "对于触发器来说",
+      "music": 0.0
+    },
+    {
+      "from": 32.299,
+      "to": 36.13,
+      "sid": 11,
+      "location": 2,
+      "content": "它是具有记忆功能的一个嗯",
+      "music": 0.0
+    },
+    {
+      "from": 36.13,
+      "to": 38.89,
+      "sid": 12,
+      "location": 2,
+      "content": "储存数字信号的一个逻辑元器件",
+      "music": 0.0
+    },
+    {
+      "from": 38.89,
+      "to": 40.78,
+      "sid": 13,
+      "location": 2,
+      "content": "它有两个基本特点",
+      "music": 0.0
+    },
+    {
+      "from": 40.78,
+      "to": 45.129,
+      "sid": 14,
+      "location": 2,
+      "content": "一个特点就是它有两个稳态零和一两个状态",
+      "music": 0.0
+    },
+    {
+      "from": 45.129,
+      "to": 49.15,
+      "sid": 15,
+      "location": 2,
+      "content": "另外呢另外一个特点就是它在呃",
+      "music": 0.0
+    },
+    {
+      "from": 49.15,
+      "to": 51.01,
+      "sid": 16,
+      "location": 2,
+      "content": "输入触发信号的作用下",
+      "music": 0.0
+    },
+    {
+      "from": 51.01,
+      "to": 53.32,
+      "sid": 17,
+      "location": 2,
+      "content": "稳态是可以相互转化的",
+      "music": 0.0
+    },
+    {
+      "from": 53.58,
+      "to": 55.98,
+      "sid": 18,
+      "location": 2,
+      "content": "并且在触发信号消失后",
+      "music": 0.0
+    },
+    {
+      "from": 55.98,
+      "to": 58.76,
+      "sid": 19,
+      "location": 2,
+      "content": "保持信号的作用稳定不变",
+      "music": 0.0
+    },
+    {
+      "from": 58.98,
+      "to": 61.08,
+      "sid": 20,
+      "location": 2,
+      "content": "对于储存器而言呢",
+      "music": 0.0
+    },
+    {
+      "from": 61.08,
+      "to": 64.44,
+      "sid": 21,
+      "location": 2,
+      "content": "它也是具有记忆功能的一种啊",
+      "music": 0.0
+    },
+    {
+      "from": 64.44,
+      "to": 67.52,
+      "sid": 22,
+      "location": 2,
+      "content": "基本逻辑元器件",
+      "music": 0.0
+    },
+    {
+      "from": 67.62,
+      "to": 72.0,
+      "sid": 23,
+      "location": 2,
+      "content": "那么这个锁存呀就是把信号暂存啊",
+      "music": 0.0
+    },
+    {
+      "from": 72.0,
+      "to": 74.28,
+      "sid": 24,
+      "location": 2,
+      "content": "维持某种电平状态零呀",
+      "music": 0.0
+    },
+    {
+      "from": 74.28,
+      "to": 75.36,
+      "sid": 25,
+      "location": 2,
+      "content": "或者是一",
+      "music": 0.0
+    },
+    {
+      "from": 75.36,
+      "to": 81.36,
+      "sid": 26,
+      "location": 2,
+      "content": "那么只有在储存信号输入的状态被保存啊",
+      "music": 0.0
+    },
+    {
+      "from": 81.36,
+      "to": 84.439,
+      "sid": 27,
+      "location": 2,
+      "content": "居只有在有锁存信号时",
+      "music": 0.0
+    },
+    {
+      "from": 84.439,
+      "to": 86.749,
+      "sid": 28,
+      "location": 2,
+      "content": "这个输入的状态啊被保存",
+      "music": 0.0
+    },
+    {
+      "from": 86.749,
+      "to": 91.58,
+      "sid": 29,
+      "location": 2,
+      "content": "然后直至到下一个锁存信号输再输进来之后",
+      "music": 0.0
+    },
+    {
+      "from": 91.58,
+      "to": 93.86,
+      "sid": 30,
+      "location": 2,
+      "content": "他才会啊在做改变",
+      "music": 0.0
+    },
+    {
+      "from": 93.86,
+      "to": 95.51,
+      "sid": 31,
+      "location": 2,
+      "content": "这就是锁存器",
+      "music": 0.0
+    },
+    {
+      "from": 95.51,
+      "to": 99.49,
+      "sid": 32,
+      "location": 2,
+      "content": "那么我们来看一下触发器的一个分类",
+      "music": 0.0
+    },
+    {
+      "from": 99.49,
+      "to": 101.65,
+      "sid": 33,
+      "location": 2,
+      "content": "那么常见的触发器型号呢",
+      "music": 0.0
+    },
+    {
+      "from": 101.65,
+      "to": 102.67,
+      "sid": 34,
+      "location": 2,
+      "content": "我给找了两个",
+      "music": 0.0
+    },
+    {
+      "from": 102.67,
+      "to": 104.24,
+      "sid": 35,
+      "location": 2,
+      "content": "大家可以了解一下",
+      "music": 0.0
+    },
+    {
+      "from": 104.24,
+      "to": 105.92,
+      "sid": 36,
+      "location": 2,
+      "content": "对于触发器的分类",
+      "music": 0.0
+    },
+    {
+      "from": 105.92,
+      "to": 107.69,
+      "sid": 37,
+      "location": 2,
+      "content": "根据不同的分类形式",
+      "music": 0.0
+    },
+    {
+      "from": 107.69,
+      "to": 111.769,
+      "sid": 38,
+      "location": 2,
+      "content": "可以有不同的分类方不不同的分类嗯",
+      "music": 0.0
+    },
+    {
+      "from": 111.769,
+      "to": 115.249,
+      "sid": 39,
+      "location": 2,
+      "content": "根据结构分类可以分为基本rs触发器",
+      "music": 0.0
+    },
+    {
+      "from": 115.249,
+      "to": 116.689,
+      "sid": 40,
+      "location": 2,
+      "content": "同步rs触发器",
+      "music": 0.0
+    },
+    {
+      "from": 116.689,
+      "to": 118.81,
+      "sid": 41,
+      "location": 2,
+      "content": "主从rs触发器",
+      "music": 0.0
+    },
+    {
+      "from": 118.81,
+      "to": 122.67,
+      "sid": 42,
+      "location": 2,
+      "content": "还有维持阻塞和边缘型触发器",
+      "music": 0.0
+    },
+    {
+      "from": 122.67,
+      "to": 125.64,
+      "sid": 43,
+      "location": 2,
+      "content": "按照功能分呢分为rs触发器",
+      "music": 0.0
+    },
+    {
+      "from": 125.64,
+      "to": 126.75,
+      "sid": 44,
+      "location": 2,
+      "content": "jk触发器",
+      "music": 0.0
+    },
+    {
+      "from": 126.75,
+      "to": 129.14,
+      "sid": 45,
+      "location": 2,
+      "content": "d触发器和t触发器",
+      "music": 0.0
+    },
+    {
+      "from": 129.28,
+      "to": 131.74,
+      "sid": 46,
+      "location": 2,
+      "content": "按照处罚形式分",
+      "music": 0.0
+    },
+    {
+      "from": 132.04,
+      "to": 134.74,
+      "sid": 47,
+      "location": 2,
+      "content": "处罚方式分分为上升沿",
+      "music": 0.0
+    },
+    {
+      "from": 134.74,
+      "to": 139.42,
+      "sid": 48,
+      "location": 2,
+      "content": "下降沿触发器和高电平低电平触发器",
+      "music": 0.0
+    },
+    {
+      "from": 139.42,
+      "to": 142.18,
+      "sid": 49,
+      "location": 2,
+      "content": "那么在下面的内容当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 142.18,
+      "to": 145.46,
+      "sid": 50,
+      "location": 2,
+      "content": "我们会按照结构分类啊",
+      "music": 0.0
+    },
+    {
+      "from": 151.729,
+      "to": 154.95,
+      "sid": 51,
+      "location": 2,
+      "content": "首先来看一下基本rs触发器",
+      "music": 0.0
+    },
+    {
+      "from": 154.95,
+      "to": 157.56,
+      "sid": 52,
+      "location": 2,
+      "content": "对于基本rs触发器来说",
+      "music": 0.0
+    },
+    {
+      "from": 157.56,
+      "to": 160.62,
+      "sid": 53,
+      "location": 2,
+      "content": "我们可以由两个与非门构成",
+      "music": 0.0
+    },
+    {
+      "from": 160.62,
+      "to": 162.99,
+      "sid": 54,
+      "location": 2,
+      "content": "也可以由两个或非门构成",
+      "music": 0.0
+    },
+    {
+      "from": 162.99,
+      "to": 164.79,
+      "sid": 55,
+      "location": 2,
+      "content": "我们有两个与非门",
+      "music": 0.0
+    },
+    {
+      "from": 164.79,
+      "to": 168.2,
+      "sid": 56,
+      "location": 2,
+      "content": "按照正反馈的方式闭合组成的",
+      "music": 0.0
+    },
+    {
+      "from": 169.58,
+      "to": 174.22,
+      "sid": 57,
+      "location": 2,
+      "content": "这个基本rs触发器就是这个图啊",
+      "music": 0.0
+    },
+    {
+      "from": 174.22,
+      "to": 176.36,
+      "sid": 58,
+      "location": 2,
+      "content": "这是它的一个图形符号",
+      "music": 0.0
+    },
+    {
+      "from": 176.459,
+      "to": 179.79,
+      "sid": 59,
+      "location": 2,
+      "content": "这个图呢是按照或非门",
+      "music": 0.0
+    },
+    {
+      "from": 179.79,
+      "to": 183.06,
+      "sid": 60,
+      "location": 2,
+      "content": "按正反馈的方式闭合而成的啊",
+      "music": 0.0
+    },
+    {
+      "from": 183.06,
+      "to": 185.55,
+      "sid": 61,
+      "location": 2,
+      "content": "这也是它的一个图形符号",
+      "music": 0.0
+    },
+    {
+      "from": 185.55,
+      "to": 188.42,
+      "sid": 62,
+      "location": 2,
+      "content": "它们实现的功能其实是一样的",
+      "music": 0.07968127172584151
+    },
+    {
+      "from": 189.32,
+      "to": 193.33,
+      "sid": 63,
+      "location": 2,
+      "content": "我们以与非门为例来做一下讲解",
+      "music": 0.0
+    },
+    {
+      "from": 193.33,
+      "to": 195.64,
+      "sid": 64,
+      "location": 2,
+      "content": "在这个与非门当中",
+      "music": 0.0
+    },
+    {
+      "from": 196.019,
+      "to": 199.909,
+      "sid": 65,
+      "location": 2,
+      "content": "我们定义这个某一个",
+      "music": 0.0
+    },
+    {
+      "from": 199.909,
+      "to": 204.88,
+      "sid": 66,
+      "location": 2,
+      "content": "比如说上面这个与非门的一个输出k",
+      "music": 0.0
+    },
+    {
+      "from": 205.38,
+      "to": 208.16,
+      "sid": 67,
+      "location": 2,
+      "content": "这个k为输出端",
+      "music": 0.0
+    },
+    {
+      "from": 208.16,
+      "to": 211.12,
+      "sid": 68,
+      "location": 2,
+      "content": "为整个地板rs触发器的输出端",
+      "music": 0.0
+    },
+    {
+      "from": 213.26,
+      "to": 217.63,
+      "sid": 69,
+      "location": 2,
+      "content": "他同时也为这个与非门的一个输出",
+      "music": 0.0
+    },
+    {
+      "from": 217.63,
+      "to": 222.78,
+      "sid": 70,
+      "location": 2,
+      "content": "而这个kv呢和ko他俩其实是一个相反的",
+      "music": 0.0
+    },
+    {
+      "from": 225.22,
+      "to": 227.1,
+      "sid": 71,
+      "location": 2,
+      "content": "对于ko和ko v",
+      "music": 0.0
+    },
+    {
+      "from": 227.1,
+      "to": 231.58,
+      "sid": 72,
+      "location": 2,
+      "content": "同时是下面这个与非门的一个输入和输出",
+      "music": 0.0
+    },
+    {
+      "from": 233.42,
+      "to": 240.16,
+      "sid": 73,
+      "location": 2,
+      "content": "所以呢这两个端头的数和输出状态是相反的",
+      "music": 0.0
+    },
+    {
+      "from": 240.839,
+      "to": 243.439,
+      "sid": 74,
+      "location": 2,
+      "content": "因此在这个电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 243.439,
+      "to": 249.56,
+      "sid": 75,
+      "location": 2,
+      "content": "我们会定义啊这个r d啊",
+      "music": 0.0
+    },
+    {
+      "from": 249.56,
+      "to": 253.28,
+      "sid": 76,
+      "location": 2,
+      "content": "这个r d我们称它为直接至零端",
+      "music": 0.0
+    },
+    {
+      "from": 253.28,
+      "to": 256.16,
+      "sid": 77,
+      "location": 2,
+      "content": "它是直接至零端",
+      "music": 0.0
+    },
+    {
+      "from": 260.96,
+      "to": 264.38,
+      "sid": 78,
+      "location": 2,
+      "content": "或者把它称为是直接复位端",
+      "music": 0.0
+    },
+    {
+      "from": 269.259,
+      "to": 272.249,
+      "sid": 79,
+      "location": 2,
+      "content": "而对于另外的一个输入",
+      "music": 0.0
+    },
+    {
+      "from": 272.249,
+      "to": 274.36,
+      "sid": 80,
+      "location": 2,
+      "content": "这个输入端sd",
+      "music": 0.0
+    },
+    {
+      "from": 274.52,
+      "to": 278.98,
+      "sid": 81,
+      "location": 2,
+      "content": "把这个sd呀我们将它定义为是g一端",
+      "music": 0.0
+    },
+    {
+      "from": 281.96,
+      "to": 285.43,
+      "sid": 82,
+      "location": 2,
+      "content": "或者把它称为是直接置位端",
+      "music": 0.0
+    },
+    {
+      "from": 285.43,
+      "to": 287.16,
+      "sid": 83,
+      "location": 2,
+      "content": "直接置位端",
+      "music": 0.0
+    },
+    {
+      "from": 301.819,
+      "to": 304.97,
+      "sid": 84,
+      "location": 2,
+      "content": "那么对于这种电路结构啊",
+      "music": 0.0
+    },
+    {
+      "from": 304.97,
+      "to": 307.76,
+      "sid": 85,
+      "location": 2,
+      "content": "实际上它是可以形成两个稳态",
+      "music": 0.0
+    },
+    {
+      "from": 307.76,
+      "to": 310.07,
+      "sid": 86,
+      "location": 2,
+      "content": "就是我们在介绍它的概念的时候",
+      "music": 0.0
+    },
+    {
+      "from": 310.07,
+      "to": 311.49,
+      "sid": 87,
+      "location": 2,
+      "content": "也已经说过了",
+      "music": 0.0
+    },
+    {
+      "from": 311.49,
+      "to": 312.63,
+      "sid": 88,
+      "location": 2,
+      "content": "两个稳态",
+      "music": 0.0
+    },
+    {
+      "from": 312.63,
+      "to": 316.14,
+      "sid": 89,
+      "location": 2,
+      "content": "同时是比如说k2 等于一",
+      "music": 0.0
+    },
+    {
+      "from": 318.16,
+      "to": 319.83,
+      "sid": 90,
+      "location": 2,
+      "content": "k o v等于零",
+      "music": 0.0
+    },
+    {
+      "from": 319.83,
+      "to": 321.36,
+      "sid": 91,
+      "location": 2,
+      "content": "这是它的一个状态",
+      "music": 0.0
+    },
+    {
+      "from": 321.36,
+      "to": 324.38,
+      "sid": 92,
+      "location": 2,
+      "content": "还有呢就是k2 等于零",
+      "music": 0.0
+    },
+    {
+      "from": 325.1,
+      "to": 326.8,
+      "sid": 93,
+      "location": 2,
+      "content": "kb等于一",
+      "music": 0.0
+    },
+    {
+      "from": 326.8,
+      "to": 328.78,
+      "sid": 94,
+      "location": 2,
+      "content": "这是另外一个状态",
+      "music": 0.0
+    },
+    {
+      "from": 329.819,
+      "to": 335.829,
+      "sid": 95,
+      "location": 2,
+      "content": "那么当k1 k等于一rd",
+      "music": 0.0
+    },
+    {
+      "from": 335.829,
+      "to": 338.199,
+      "sid": 96,
+      "location": 2,
+      "content": "这个r d也等于一的时候",
+      "music": 0.0
+    },
+    {
+      "from": 338.199,
+      "to": 341.9,
+      "sid": 97,
+      "location": 2,
+      "content": "r d这个也就是说它的智灵端",
+      "music": 0.0
+    },
+    {
+      "from": 343.72,
+      "to": 345.51,
+      "sid": 98,
+      "location": 2,
+      "content": "也等于一的时候",
+      "music": 0.0
+    },
+    {
+      "from": 345.51,
+      "to": 349.71,
+      "sid": 99,
+      "location": 2,
+      "content": "那么这个时候啊你看啊这个k2 等于一",
+      "music": 0.0
+    },
+    {
+      "from": 349.71,
+      "to": 351.15,
+      "sid": 100,
+      "location": 2,
+      "content": "r d等于一",
+      "music": 0.0
+    },
+    {
+      "from": 351.15,
+      "to": 354.02,
+      "sid": 101,
+      "location": 2,
+      "content": "那么直接就决定了这个kv是零",
+      "music": 0.0
+    },
+    {
+      "from": 354.02,
+      "to": 357.26,
+      "sid": 102,
+      "location": 2,
+      "content": "q飞反馈回来反馈到这个雨非门",
+      "music": 0.0
+    },
+    {
+      "from": 357.26,
+      "to": 360.68,
+      "sid": 103,
+      "location": 2,
+      "content": "然后又保证了我这个k是零",
+      "music": 0.0
+    },
+    {
+      "from": 360.68,
+      "to": 362.26,
+      "sid": 104,
+      "location": 2,
+      "content": "kko是一",
+      "music": 0.0
+    },
+    {
+      "from": 362.26,
+      "to": 364.48,
+      "sid": 105,
+      "location": 2,
+      "content": "所以说这个电路是成立的",
+      "music": 0.0
+    },
+    {
+      "from": 364.48,
+      "to": 366.91,
+      "sid": 106,
+      "location": 2,
+      "content": "在这个与非门当中是成立的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 366.91,
+      "to": 371.28,
+      "sid": 107,
+      "location": 2,
+      "content": "我们再来看下面这个当ko非等于一",
+      "music": 0.0
+    },
+    {
+      "from": 371.34,
+      "to": 374.13,
+      "sid": 108,
+      "location": 2,
+      "content": "然后呢sd也等于一",
+      "music": 0.0
+    },
+    {
+      "from": 374.13,
+      "to": 376.2,
+      "sid": 109,
+      "location": 2,
+      "content": "sd也等于一的时候",
+      "music": 0.0
+    },
+    {
+      "from": 377.5,
+      "to": 378.84,
+      "sid": 110,
+      "location": 2,
+      "content": "cr v等于一",
+      "music": 0.0
+    },
+    {
+      "from": 378.84,
+      "to": 381.0,
+      "sid": 111,
+      "location": 2,
+      "content": "而这个与非门的输入端是一",
+      "music": 0.0
+    },
+    {
+      "from": 381.0,
+      "to": 381.99,
+      "sid": 112,
+      "location": 2,
+      "content": "s d等于一",
+      "music": 0.0
+    },
+    {
+      "from": 381.99,
+      "to": 386.51,
+      "sid": 113,
+      "location": 2,
+      "content": "那么就决定了这个ko他是零的",
+      "music": 0.0
+    },
+    {
+      "from": 386.51,
+      "to": 387.74,
+      "sid": 114,
+      "location": 2,
+      "content": "那么ko是零",
+      "music": 0.0
+    },
+    {
+      "from": 387.74,
+      "to": 391.43,
+      "sid": 115,
+      "location": 2,
+      "content": "反馈回来和这个只要是有一个是零",
+      "music": 0.0
+    },
+    {
+      "from": 391.43,
+      "to": 393.08,
+      "sid": 116,
+      "location": 2,
+      "content": "ko是零对吧",
+      "music": 0.0
+    },
+    {
+      "from": 393.08,
+      "to": 394.1,
+      "sid": 117,
+      "location": 2,
+      "content": "它是零",
+      "music": 0.0
+    },
+    {
+      "from": 394.1,
+      "to": 396.41,
+      "sid": 118,
+      "location": 2,
+      "content": "又保证了这个kc是一",
+      "music": 0.0
+    },
+    {
+      "from": 396.41,
+      "to": 398.6,
+      "sid": 119,
+      "location": 2,
+      "content": "因此这也是成立的",
+      "music": 0.0
+    },
+    {
+      "from": 398.6,
+      "to": 401.9,
+      "sid": 120,
+      "location": 2,
+      "content": "也是它的一个状态稳态稳定状态",
+      "music": 0.0
+    },
+    {
+      "from": 401.9,
+      "to": 405.16,
+      "sid": 121,
+      "location": 2,
+      "content": "在没有加入这个触发信号之前呀",
+      "music": 0.0
+    },
+    {
+      "from": 405.879,
+      "to": 407.759,
+      "sid": 122,
+      "location": 2,
+      "content": "没有加入触发信号之前",
+      "music": 0.0
+    },
+    {
+      "from": 407.759,
+      "to": 409.199,
+      "sid": 123,
+      "location": 2,
+      "content": "如果说都是高电平",
+      "music": 0.0
+    },
+    {
+      "from": 409.199,
+      "to": 411.36,
+      "sid": 124,
+      "location": 2,
+      "content": "那么电路的状态是不会改变的",
+      "music": 0.0
+    },
+    {
+      "from": 416.62,
+      "to": 420.18,
+      "sid": 125,
+      "location": 2,
+      "content": "那么下面呢我们来看一下它的翻转状态",
+      "music": 0.0
+    },
+    {
+      "from": 420.18,
+      "to": 421.61,
+      "sid": 126,
+      "location": 2,
+      "content": "触发翻转",
+      "music": 0.0
+    },
+    {
+      "from": 421.61,
+      "to": 424.67,
+      "sid": 127,
+      "location": 2,
+      "content": "那么电路刚才我们在讲基本定义的时候",
+      "music": 0.0
+    },
+    {
+      "from": 424.67,
+      "to": 425.33,
+      "sid": 128,
+      "location": 2,
+      "content": "也讲过",
+      "music": 0.0
+    },
+    {
+      "from": 425.33,
+      "to": 427.25,
+      "sid": 129,
+      "location": 2,
+      "content": "这个电路要改变这个状态",
+      "music": 0.0
+    },
+    {
+      "from": 427.25,
+      "to": 430.95,
+      "sid": 130,
+      "location": 2,
+      "content": "必须加入触发信号嗯",
+      "music": 0.0
+    },
+    {
+      "from": 430.95,
+      "to": 432.06,
+      "sid": 131,
+      "location": 2,
+      "content": "像这个电路呢",
+      "music": 0.0
+    },
+    {
+      "from": 432.06,
+      "to": 435.12,
+      "sid": 132,
+      "location": 2,
+      "content": "它是一个与非门构成的基本rs触发器",
+      "music": 0.0
+    },
+    {
+      "from": 435.12,
+      "to": 438.38,
+      "sid": 133,
+      "location": 2,
+      "content": "所以呢这个触发器哈都是低电平有效",
+      "music": 0.0
+    },
+    {
+      "from": 438.38,
+      "to": 441.32,
+      "sid": 134,
+      "location": 2,
+      "content": "对于与非门只有低电平可以改变",
+      "music": 0.0
+    },
+    {
+      "from": 441.32,
+      "to": 443.32,
+      "sid": 135,
+      "location": 2,
+      "content": "那么重低电平有效",
+      "music": 0.08749999453127609
+    },
+    {
+      "from": 443.56,
+      "to": 446.62,
+      "sid": 136,
+      "location": 2,
+      "content": "若是或非门构成的这个rs触发器",
+      "music": 0.0
+    },
+    {
+      "from": 446.62,
+      "to": 449.2,
+      "sid": 137,
+      "location": 2,
+      "content": "向上面这个或非门构成的rs触发器",
+      "music": 0.0
+    },
+    {
+      "from": 449.2,
+      "to": 451.24,
+      "sid": 138,
+      "location": 2,
+      "content": "则是高电平有效",
+      "music": 0.0
+    },
+    {
+      "from": 452.22,
+      "to": 458.979,
+      "sid": 139,
+      "location": 2,
+      "content": "这个rd和这个sd r d和这个sd是一次信号",
+      "music": 0.0
+    },
+    {
+      "from": 458.979,
+      "to": 460.839,
+      "sid": 140,
+      "location": 2,
+      "content": "只能一个个的加",
+      "music": 0.0
+    },
+    {
+      "from": 460.839,
+      "to": 464.04,
+      "sid": 141,
+      "location": 2,
+      "content": "他们不能同时都为低电平",
+      "music": 0.0
+    },
+    {
+      "from": 464.879,
+      "to": 466.999,
+      "sid": 142,
+      "location": 2,
+      "content": "我们来看一下它的针织表",
+      "music": 0.0
+    },
+    {
+      "from": 466.999,
+      "to": 469.34,
+      "sid": 143,
+      "location": 2,
+      "content": "我给大家画一下它的针织表",
+      "music": 0.0
+    },
+    {
+      "from": 469.34,
+      "to": 472.64,
+      "sid": 144,
+      "location": 2,
+      "content": "在理解某一个逻辑电路的时候",
+      "music": 0.0
+    },
+    {
+      "from": 472.64,
+      "to": 475.19,
+      "sid": 145,
+      "location": 2,
+      "content": "我们最好是看一下它的真值表",
+      "music": 0.0
+    },
+    {
+      "from": 475.19,
+      "to": 476.54,
+      "sid": 146,
+      "location": 2,
+      "content": "对照它的真值表",
+      "music": 0.0
+    },
+    {
+      "from": 476.54,
+      "to": 478.76,
+      "sid": 147,
+      "location": 2,
+      "content": "我们就可以判定啊",
+      "music": 0.0
+    },
+    {
+      "from": 478.76,
+      "to": 482.54,
+      "sid": 148,
+      "location": 2,
+      "content": "或者是说设置它的一个输入和输出",
+      "music": 0.0
+    },
+    {
+      "from": 482.54,
+      "to": 486.479,
+      "sid": 149,
+      "location": 2,
+      "content": "这是r d sd诶",
+      "music": 0.0
+    },
+    {
+      "from": 486.479,
+      "to": 487.289,
+      "sid": 150,
+      "location": 2,
+      "content": "写错了哦",
+      "music": 0.0
+    },
+    {
+      "from": 488.429,
+      "to": 489.28,
+      "sid": 151,
+      "location": 2,
+      "content": "没关系",
+      "music": 0.0
+    },
+    {
+      "from": 494.24,
+      "to": 497.32,
+      "sid": 152,
+      "location": 2,
+      "content": "i s d s d",
+      "music": 0.0
+    },
+    {
+      "from": 498.88,
+      "to": 504.639,
+      "sid": 153,
+      "location": 2,
+      "content": "然后这个是kn加一dn加一个状态",
+      "music": 0.0
+    },
+    {
+      "from": 504.639,
+      "to": 508.2,
+      "sid": 154,
+      "location": 2,
+      "content": "ln加一取反",
+      "music": 0.0
+    },
+    {
+      "from": 510.22,
+      "to": 513.3,
+      "sid": 155,
+      "location": 2,
+      "content": "这个如果是rd是零",
+      "music": 0.10937499572755312
+    },
+    {
+      "from": 513.3,
+      "to": 514.86,
+      "sid": 156,
+      "location": 2,
+      "content": "sd是一的情况",
+      "music": 0.0
+    },
+    {
+      "from": 514.86,
+      "to": 520.839,
+      "sid": 157,
+      "location": 2,
+      "content": "那么k是灵qc",
+      "music": 0.0
+    },
+    {
+      "from": 522.52,
+      "to": 528.75,
+      "sid": 158,
+      "location": 2,
+      "content": "就是一如果它是1r d是e s d是零的时候",
+      "music": 0.0
+    },
+    {
+      "from": 528.75,
+      "to": 531.36,
+      "sid": 159,
+      "location": 2,
+      "content": "那么kn加一就是一",
+      "music": 0.0
+    },
+    {
+      "from": 531.36,
+      "to": 532.599,
+      "sid": 160,
+      "location": 2,
+      "content": "他就是零",
+      "music": 0.0
+    },
+    {
+      "from": 533.1,
+      "to": 535.2,
+      "sid": 161,
+      "location": 2,
+      "content": "那么如果他俩都是一的话",
+      "music": 0.0
+    },
+    {
+      "from": 535.2,
+      "to": 536.88,
+      "sid": 162,
+      "location": 2,
+      "content": "我们刚才已经讲过了",
+      "music": 0.0
+    },
+    {
+      "from": 536.88,
+      "to": 538.62,
+      "sid": 163,
+      "location": 2,
+      "content": "如果他俩都是高定型的话",
+      "music": 0.0
+    },
+    {
+      "from": 538.62,
+      "to": 542.099,
+      "sid": 164,
+      "location": 2,
+      "content": "那么它的输出将维持上一个状态不变",
+      "music": 0.0
+    },
+    {
+      "from": 544.64,
+      "to": 546.64,
+      "sid": 165,
+      "location": 2,
+      "content": "这是维持上一个状态不变",
+      "music": 0.0
+    },
+    {
+      "from": 546.64,
+      "to": 548.14,
+      "sid": 166,
+      "location": 2,
+      "content": "如果他是零",
+      "music": 0.0
+    },
+    {
+      "from": 548.14,
+      "to": 550.03,
+      "sid": 167,
+      "location": 2,
+      "content": "他是一的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 550.03,
+      "to": 550.9,
+      "sid": 168,
+      "location": 2,
+      "content": "他是一",
+      "music": 0.0
+    },
+    {
+      "from": 550.9,
+      "to": 551.38,
+      "sid": 169,
+      "location": 2,
+      "content": "他是一",
+      "music": 0.0
+    },
+    {
+      "from": 551.38,
+      "to": 553.76,
+      "sid": 170,
+      "location": 2,
+      "content": "实际上这个状态是一个不稳定状态",
+      "music": 0.0
+    },
+    {
+      "from": 554.52,
+      "to": 558.35,
+      "sid": 171,
+      "location": 2,
+      "content": "这就是它的基本rs处理器的一个针织表",
+      "music": 0.0
+    },
+    {
+      "from": 558.35,
+      "to": 562.56,
+      "sid": 172,
+      "location": 2,
+      "content": "我们呃用真值表来描述呢",
+      "music": 0.0
+    },
+    {
+      "from": 562.56,
+      "to": 569.98,
+      "sid": 173,
+      "location": 2,
+      "content": "这个ko和k o n和k o n c是触发器",
+      "music": 0.0
+    },
+    {
+      "from": 569.98,
+      "to": 574.38,
+      "sid": 174,
+      "location": 2,
+      "content": "现在的状态成为现在这个k o n加一呀",
+      "music": 0.0
+    },
+    {
+      "from": 575.16,
+      "to": 577.04,
+      "sid": 175,
+      "location": 2,
+      "content": "是在触发脉冲作用后",
+      "music": 0.0
+    },
+    {
+      "from": 577.04,
+      "to": 579.54,
+      "sid": 176,
+      "location": 2,
+      "content": "输出端的新状态称为磁盘",
+      "music": 0.0
+    },
+    {
+      "from": 579.88,
+      "to": 581.92,
+      "sid": 177,
+      "location": 2,
+      "content": "我们参照这种表",
+      "music": 0.0
+    },
+    {
+      "from": 581.92,
+      "to": 585.4,
+      "sid": 178,
+      "location": 2,
+      "content": "来做这个触发器的一个设计的时候",
+      "music": 0.0
+    },
+    {
+      "from": 585.4,
+      "to": 587.5,
+      "sid": 179,
+      "location": 2,
+      "content": "就非常明了了",
+      "music": 0.0
+    },
+    {
+      "from": 591.26,
+      "to": 595.54,
+      "sid": 180,
+      "location": 2,
+      "content": "这就是基本rs触发器的一个",
+      "music": 0.0
+    },
+    {
+      "from": 597.2,
+      "to": 599.28,
+      "sid": 181,
+      "location": 2,
+      "content": "一个基本的介绍",
+      "music": 0.0
+    },
+    {
+      "from": 608.06,
+      "to": 612.7,
+      "sid": 182,
+      "location": 2,
+      "content": "那么下面呢我们来看一下同步rs触发器",
+      "music": 0.0
+    },
+    {
+      "from": 612.7,
+      "to": 614.56,
+      "sid": 183,
+      "location": 2,
+      "content": "什么是同步rs触发",
+      "music": 0.0
+    },
+    {
+      "from": 614.76,
+      "to": 617.22,
+      "sid": 184,
+      "location": 2,
+      "content": "那么同步rs触发器呢",
+      "music": 0.0
+    },
+    {
+      "from": 617.22,
+      "to": 622.5,
+      "sid": 185,
+      "location": 2,
+      "content": "是在基础r基本rs触发器上啊变化而来的",
+      "music": 0.0
+    },
+    {
+      "from": 622.6,
+      "to": 626.939,
+      "sid": 186,
+      "location": 2,
+      "content": "通过增加了逻辑电路来构成了同步s触发器",
+      "music": 0.0
+    },
+    {
+      "from": 627.66,
+      "to": 629.9,
+      "sid": 187,
+      "location": 2,
+      "content": "那么它增加了哪些呢",
+      "music": 0.0
+    },
+    {
+      "from": 629.9,
+      "to": 631.88,
+      "sid": 188,
+      "location": 2,
+      "content": "实际上它就增加了一个输入端",
+      "music": 0.0
+    },
+    {
+      "from": 631.88,
+      "to": 636.67,
+      "sid": 189,
+      "location": 2,
+      "content": "cp输入rs触发器是否有效",
+      "music": 0.0
+    },
+    {
+      "from": 636.67,
+      "to": 639.4,
+      "sid": 190,
+      "location": 2,
+      "content": "那么受到这个控制端的一个控制",
+      "music": 0.0
+    },
+    {
+      "from": 639.4,
+      "to": 640.78,
+      "sid": 191,
+      "location": 2,
+      "content": "cp端的一个控制",
+      "music": 0.0
+    },
+    {
+      "from": 640.78,
+      "to": 642.88,
+      "sid": 192,
+      "location": 2,
+      "content": "当这个cp端是一的时候",
+      "music": 0.0
+    },
+    {
+      "from": 642.88,
+      "to": 645.76,
+      "sid": 193,
+      "location": 2,
+      "content": "那么我的rs输入处罚是有效的",
+      "music": 0.0
+    },
+    {
+      "from": 646.6,
+      "to": 650.66,
+      "sid": 194,
+      "location": 2,
+      "content": "同步rs触发器也是它的一个基本的",
+      "music": 0.0
+    },
+    {
+      "from": 651.1,
+      "to": 653.44,
+      "sid": 195,
+      "location": 2,
+      "content": "出发前他就是这样来做",
+      "music": 0.0
+    },
+    {
+      "from": 653.44,
+      "to": 655.96,
+      "sid": 196,
+      "location": 2,
+      "content": "那么当c p是零的时候",
+      "music": 0.0
+    },
+    {
+      "from": 655.96,
+      "to": 657.76,
+      "sid": 197,
+      "location": 2,
+      "content": "那么它的输入端rs",
+      "music": 0.0
+    },
+    {
+      "from": 657.76,
+      "to": 660.64,
+      "sid": 198,
+      "location": 2,
+      "content": "任何处罚都不能改变触发器的输出状态",
+      "music": 0.0
+    },
+    {
+      "from": 660.64,
+      "to": 663.96,
+      "sid": 199,
+      "location": 2,
+      "content": "也就是说他多加了一个输入控制端cp",
+      "music": 0.0
+    },
+    {
+      "from": 663.96,
+      "to": 665.81,
+      "sid": 200,
+      "location": 2,
+      "content": "这就是他们之间的不同",
+      "music": 0.0
+    },
+    {
+      "from": 665.81,
+      "to": 669.88,
+      "sid": 201,
+      "location": 2,
+      "content": "那么同步rs触发器呢可以来构成计数器电路",
+      "music": 0.0
+    },
+    {
+      "from": 671.48,
+      "to": 673.12,
+      "sid": 202,
+      "location": 2,
+      "content": "在这种计数器中",
+      "music": 0.0
+    },
+    {
+      "from": 673.12,
+      "to": 677.56,
+      "sid": 203,
+      "location": 2,
+      "content": "时钟脉冲cp就是技术脉冲这个计数器啊",
+      "music": 0.0
+    },
+    {
+      "from": 677.56,
+      "to": 680.92,
+      "sid": 204,
+      "location": 2,
+      "content": "下面我们下一节也会再继续讲",
+      "music": 0.0
+    },
+    {
+      "from": 680.92,
+      "to": 684.34,
+      "sid": 205,
+      "location": 2,
+      "content": "这就是同步rs触发器的一个演变",
+      "music": 0.0
+    },
+    {
+      "from": 684.34,
+      "to": 686.47,
+      "sid": 206,
+      "location": 2,
+      "content": "以及它的一个不同啊",
+      "music": 0.0
+    },
+    {
+      "from": 686.47,
+      "to": 688.18,
+      "sid": 207,
+      "location": 2,
+      "content": "不同主要在这儿呢",
+      "music": 0.0
+    },
+    {
+      "from": 688.18,
+      "to": 692.069,
+      "sid": 208,
+      "location": 2,
+      "content": "嗯最后呢看一下主从rs触发器",
+      "music": 0.0
+    },
+    {
+      "from": 692.069,
+      "to": 695.009,
+      "sid": 209,
+      "location": 2,
+      "content": "主从rs触发器是怎么理解的呢",
+      "music": 0.0
+    },
+    {
+      "from": 695.009,
+      "to": 697.469,
+      "sid": 210,
+      "location": 2,
+      "content": "主从ri触发器顾名思义啊",
+      "music": 0.0
+    },
+    {
+      "from": 697.469,
+      "to": 700.36,
+      "sid": 211,
+      "location": 2,
+      "content": "它就有个主触发器和从触发器",
+      "music": 0.0
+    },
+    {
+      "from": 700.36,
+      "to": 704.16,
+      "sid": 212,
+      "location": 2,
+      "content": "那么它的时钟信号呢也是cp",
+      "music": 0.0
+    },
+    {
+      "from": 710.32,
+      "to": 711.78,
+      "sid": 213,
+      "location": 2,
+      "content": "从触发器",
+      "music": 0.0
+    },
+    {
+      "from": 713.32,
+      "to": 715.59,
+      "sid": 214,
+      "location": 2,
+      "content": "控制这个从触发器",
+      "music": 0.0
+    },
+    {
+      "from": 715.59,
+      "to": 717.84,
+      "sid": 215,
+      "location": 2,
+      "content": "当这个cp等于一的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 717.84,
+      "to": 719.46,
+      "sid": 216,
+      "location": 2,
+      "content": "这个cp非它就等于零",
+      "music": 0.0
+    },
+    {
+      "from": 719.46,
+      "to": 723.34,
+      "sid": 217,
+      "location": 2,
+      "content": "那么这个时候呢啊主触发器就会动作",
+      "music": 0.0
+    },
+    {
+      "from": 723.34,
+      "to": 724.96,
+      "sid": 218,
+      "location": 2,
+      "content": "从触发器就会被封锁",
+      "music": 0.0
+    },
+    {
+      "from": 724.96,
+      "to": 726.16,
+      "sid": 219,
+      "location": 2,
+      "content": "也就两个会工作",
+      "music": 0.0
+    },
+    {
+      "from": 726.16,
+      "to": 729.12,
+      "sid": 220,
+      "location": 2,
+      "content": "一个当这个c p等于零的时候",
+      "music": 0.0
+    },
+    {
+      "from": 730.41,
+      "to": 732.84,
+      "sid": 221,
+      "location": 2,
+      "content": "这时候呢是主触发器被封锁",
+      "music": 0.0
+    },
+    {
+      "from": 732.84,
+      "to": 734.9,
+      "sid": 222,
+      "location": 2,
+      "content": "那么从触发器动作",
+      "music": 0.09638553636229975
+    },
+    {
+      "from": 736.46,
+      "to": 739.0,
+      "sid": 223,
+      "location": 2,
+      "content": "他们是在什么时候是触发有效的",
+      "music": 0.0
+    },
+    {
+      "from": 739.0,
+      "to": 741.88,
+      "sid": 224,
+      "location": 2,
+      "content": "是这个时钟信号从1~0的天文瞬间",
+      "music": 0.0
+    },
+    {
+      "from": 741.88,
+      "to": 744.12,
+      "sid": 225,
+      "location": 2,
+      "content": "主从触发器是有效触发",
+      "music": 0.0
+    },
+    {
+      "from": 745.22,
+      "to": 747.16,
+      "sid": 226,
+      "location": 2,
+      "content": "这就是它的一个逻辑电路",
+      "music": 0.0
+    },
+    {
+      "from": 747.16,
+      "to": 748.359,
+      "sid": 227,
+      "location": 2,
+      "content": "以及它的一个符号",
+      "music": 0.0
+    },
+    {
+      "from": 748.359,
+      "to": 749.259,
+      "sid": 228,
+      "location": 2,
+      "content": "大家看一下",
+      "music": 0.0
+    },
+    {
+      "from": 749.259,
+      "to": 751.599,
+      "sid": 229,
+      "location": 2,
+      "content": "比咱们刚才看的要稍微复杂一点",
+      "music": 0.0
+    },
+    {
+      "from": 751.599,
+      "to": 752.679,
+      "sid": 230,
+      "location": 2,
+      "content": "它分为两个",
+      "music": 0.0
+    },
+    {
+      "from": 752.679,
+      "to": 753.939,
+      "sid": 231,
+      "location": 2,
+      "content": "一个是从触发器",
+      "music": 0.0
+    },
+    {
+      "from": 753.939,
+      "to": 755.699,
+      "sid": 232,
+      "location": 2,
+      "content": "一个是主触发器",
+      "music": 0.0
+    },
+    {
+      "from": 756.4,
+      "to": 758.82,
+      "sid": 233,
+      "location": 2,
+      "content": "这是他的cp端cp",
+      "music": 0.0
+    },
+    {
+      "from": 759.72,
+      "to": 760.979,
+      "sid": 234,
+      "location": 2,
+      "content": "这是cp端",
+      "music": 0.0
+    },
+    {
+      "from": 761.08,
+      "to": 763.63,
+      "sid": 235,
+      "location": 2,
+      "content": "那么下面呢是它的一个针织表",
+      "music": 0.0
+    },
+    {
+      "from": 763.63,
+      "to": 765.7,
+      "sid": 236,
+      "location": 2,
+      "content": "我们还是按照设计的时候",
+      "music": 0.0
+    },
+    {
+      "from": 765.7,
+      "to": 769.14,
+      "sid": 237,
+      "location": 2,
+      "content": "要参照它的一个针织表来做",
+      "music": 0.0
+    },
+    {
+      "from": 771.22,
+      "to": 774.12,
+      "sid": 238,
+      "location": 2,
+      "content": "这些呢只是简单的给大家讲了一下",
+      "music": 0.0
+    },
+    {
+      "from": 774.12,
+      "to": 776.34,
+      "sid": 239,
+      "location": 2,
+      "content": "这个触发器的一些概念",
+      "music": 0.0
+    },
+    {
+      "from": 776.34,
+      "to": 781.5,
+      "sid": 240,
+      "location": 2,
+      "content": "以及它的一个啊就是我们在设计用的时候",
+      "music": 0.0
+    },
+    {
+      "from": 781.5,
+      "to": 786.67,
+      "sid": 241,
+      "location": 2,
+      "content": "一个方向我们要了解它的一个嗯基本的原理",
+      "music": 0.032332562763679545
+    },
+    {
+      "from": 786.67,
+      "to": 788.26,
+      "sid": 242,
+      "location": 2,
+      "content": "以及它的一个针织表",
+      "music": 0.0
+    },
+    {
+      "from": 788.26,
+      "to": 790.89,
+      "sid": 243,
+      "location": 2,
+      "content": "我们在设计的时候要考虑到这些",
+      "music": 0.0
+    },
+    {
+      "from": 790.89,
+      "to": 793.72,
+      "sid": 244,
+      "location": 2,
+      "content": "那么最后呢给大家留一个思考题",
+      "music": 0.0
+    },
+    {
+      "from": 793.72,
+      "to": 796.36,
+      "sid": 245,
+      "location": 2,
+      "content": "因为我们在这个讲解的过程当中",
+      "music": 0.0
+    },
+    {
+      "from": 796.36,
+      "to": 798.82,
+      "sid": 246,
+      "location": 2,
+      "content": "没有给大家画这个触发的信号",
+      "music": 0.0
+    },
+    {
+      "from": 798.82,
+      "to": 800.38,
+      "sid": 247,
+      "location": 2,
+      "content": "触发的波形之类的",
+      "music": 0.0
+    },
+    {
+      "from": 800.38,
+      "to": 804.28,
+      "sid": 248,
+      "location": 2,
+      "content": "所以呢让大家在课下自己了解一下",
+      "music": 0.0
+    },
+    {
+      "from": 804.28,
+      "to": 808.34,
+      "sid": 249,
+      "location": 2,
+      "content": "看看你是否啊通过我的讲解",
+      "music": 0.0
+    },
+    {
+      "from": 808.34,
+      "to": 809.21,
+      "sid": 250,
+      "location": 2,
+      "content": "是否了解了",
+      "music": 0.0
+    },
+    {
+      "from": 809.21,
+      "to": 813.36,
+      "sid": 251,
+      "location": 2,
+      "content": "他这个波形是怎么怎么怎么变化的啊",
+      "music": 0.0
+    },
+    {
+      "from": 813.36,
+      "to": 816.06,
+      "sid": 252,
+      "location": 2,
+      "content": "请大家尝试画出这个基本二次触发器",
+      "music": 0.0
+    },
+    {
+      "from": 816.06,
+      "to": 818.19,
+      "sid": 253,
+      "location": 2,
+      "content": "在给定输入信号的作用下",
+      "music": 0.0
+    },
+    {
+      "from": 818.19,
+      "to": 820.89,
+      "sid": 254,
+      "location": 2,
+      "content": "这个ko和kc的一个波形",
+      "music": 0.0
+    },
+    {
+      "from": 820.89,
+      "to": 822.96,
+      "sid": 255,
+      "location": 2,
+      "content": "这是给大家留的一个作业题",
+      "music": 0.0
+    },
+    {
+      "from": 822.96,
+      "to": 825.09,
+      "sid": 256,
+      "location": 2,
+      "content": "那么关于触发器呢",
+      "music": 0.0
+    },
+    {
+      "from": 825.09,
+      "to": 826.48,
+      "sid": 257,
+      "location": 2,
+      "content": "就讲到这些",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,2924 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 1.22,
+      "to": 3.41,
+      "sid": 1,
+      "location": 2,
+      "content": "接下来呢给大家介绍一下光偶",
+      "music": 0.0
+    },
+    {
+      "from": 3.41,
+      "to": 8.02,
+      "sid": 2,
+      "location": 2,
+      "content": "光耦是70年代新兴出来的一种电气元器件啊",
+      "music": 0.0
+    },
+    {
+      "from": 8.02,
+      "to": 11.59,
+      "sid": 3,
+      "location": 2,
+      "content": "它因为广泛应用于电平转换呀",
+      "music": 0.0
+    },
+    {
+      "from": 11.59,
+      "to": 12.89,
+      "sid": 4,
+      "location": 2,
+      "content": "信号传递呀",
+      "music": 0.0
+    },
+    {
+      "from": 12.89,
+      "to": 14.18,
+      "sid": 5,
+      "location": 2,
+      "content": "电路隔离呀",
+      "music": 0.0
+    },
+    {
+      "from": 14.18,
+      "to": 17.33,
+      "sid": 6,
+      "location": 2,
+      "content": "以及开关电源等等许多电路当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 17.33,
+      "to": 20.4,
+      "sid": 7,
+      "location": 2,
+      "content": "因此也受到了人们的一致好评啊",
+      "music": 0.0
+    },
+    {
+      "from": 20.62,
+      "to": 24.34,
+      "sid": 8,
+      "location": 2,
+      "content": "光耦呢我们先来了解一下它的啊",
+      "music": 0.0
+    },
+    {
+      "from": 24.34,
+      "to": 26.66,
+      "sid": 9,
+      "location": 2,
+      "content": "基本的定义及工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 27.579,
+      "to": 28.679,
+      "sid": 10,
+      "location": 2,
+      "content": "对于官网啊",
+      "music": 0.0
+    },
+    {
+      "from": 28.679,
+      "to": 32.64,
+      "sid": 11,
+      "location": 2,
+      "content": "它实际上是由啊一个发光器",
+      "music": 0.0
+    },
+    {
+      "from": 32.64,
+      "to": 37.11,
+      "sid": 12,
+      "location": 2,
+      "content": "就是红外线发光二极管和一个受光器来组成的",
+      "music": 0.0
+    },
+    {
+      "from": 37.11,
+      "to": 38.22,
+      "sid": 13,
+      "location": 2,
+      "content": "这个发光器呢",
+      "music": 0.0
+    },
+    {
+      "from": 38.22,
+      "to": 42.75,
+      "sid": 14,
+      "location": 2,
+      "content": "通过把啊加在它上面的电信号转换成光信号",
+      "music": 0.0
+    },
+    {
+      "from": 42.75,
+      "to": 46.68,
+      "sid": 15,
+      "location": 2,
+      "content": "光信号传递通过这个受光起来接收之后",
+      "music": 0.0
+    },
+    {
+      "from": 46.68,
+      "to": 49.069,
+      "sid": 16,
+      "location": 2,
+      "content": "再把光信号转换成电信号",
+      "music": 0.0
+    },
+    {
+      "from": 49.069,
+      "to": 53.03,
+      "sid": 17,
+      "location": 2,
+      "content": "这样呢来实现从电到光再到电的一个转换",
+      "music": 0.0
+    },
+    {
+      "from": 53.03,
+      "to": 55.55,
+      "sid": 18,
+      "location": 2,
+      "content": "嗯因为它是以光为媒介质的嘛",
+      "music": 0.0
+    },
+    {
+      "from": 55.55,
+      "to": 59.44,
+      "sid": 19,
+      "location": 2,
+      "content": "所以它呢呃就是具有隔离的一个作用",
+      "music": 0.0
+    },
+    {
+      "from": 60.4,
+      "to": 63.18,
+      "sid": 20,
+      "location": 2,
+      "content": "而且这个光耦一般具有体积小",
+      "music": 0.0
+    },
+    {
+      "from": 63.18,
+      "to": 63.84,
+      "sid": 21,
+      "location": 2,
+      "content": "寿命长",
+      "music": 0.0
+    },
+    {
+      "from": 63.84,
+      "to": 65.97,
+      "sid": 22,
+      "location": 2,
+      "content": "抗干扰能力比较强的这个优点",
+      "music": 0.0
+    },
+    {
+      "from": 65.97,
+      "to": 68.65,
+      "sid": 23,
+      "location": 2,
+      "content": "在数字电路上也得到了广泛的应用",
+      "music": 0.0
+    },
+    {
+      "from": 68.65,
+      "to": 70.69,
+      "sid": 24,
+      "location": 2,
+      "content": "那么对于光电耦合器呢",
+      "music": 0.0
+    },
+    {
+      "from": 70.69,
+      "to": 73.03,
+      "sid": 25,
+      "location": 2,
+      "content": "它在这个原理图当中的这个表示方法",
+      "music": 0.0
+    },
+    {
+      "from": 73.03,
+      "to": 76.77,
+      "sid": 26,
+      "location": 2,
+      "content": "就是像图是的这这两种表示方法",
+      "music": 0.0
+    },
+    {
+      "from": 76.77,
+      "to": 80.13,
+      "sid": 27,
+      "location": 2,
+      "content": "那么光电耦合器呢它一般分为两类",
+      "music": 0.0
+    },
+    {
+      "from": 80.13,
+      "to": 81.45,
+      "sid": 28,
+      "location": 2,
+      "content": "一个是非线性光耦",
+      "music": 0.0
+    },
+    {
+      "from": 81.45,
+      "to": 82.62,
+      "sid": 29,
+      "location": 2,
+      "content": "一个是线性光耦",
+      "music": 0.0
+    },
+    {
+      "from": 82.62,
+      "to": 84.84,
+      "sid": 30,
+      "location": 2,
+      "content": "对于我们常用的cn系列的光耦",
+      "music": 0.0
+    },
+    {
+      "from": 84.84,
+      "to": 86.31,
+      "sid": 31,
+      "location": 2,
+      "content": "而是属于非线性光耦",
+      "music": 0.0
+    },
+    {
+      "from": 86.31,
+      "to": 89.7,
+      "sid": 32,
+      "location": 2,
+      "content": "常用的这个pc 817 a系列到c系列呢",
+      "music": 0.0
+    },
+    {
+      "from": 89.7,
+      "to": 91.48,
+      "sid": 33,
+      "location": 2,
+      "content": "它是属于一个线性光耦",
+      "music": 0.0
+    },
+    {
+      "from": 91.88,
+      "to": 93.92,
+      "sid": 34,
+      "location": 2,
+      "content": "那么对于非线性光耦的",
+      "music": 0.0
+    },
+    {
+      "from": 93.92,
+      "to": 97.58,
+      "sid": 35,
+      "location": 2,
+      "content": "它的电流传输特性曲线是非线性的",
+      "music": 0.0
+    },
+    {
+      "from": 97.58,
+      "to": 100.28,
+      "sid": 36,
+      "location": 2,
+      "content": "这类光耦呢适合呃",
+      "music": 0.0
+    },
+    {
+      "from": 100.28,
+      "to": 102.92,
+      "sid": 37,
+      "location": 2,
+      "content": "适合于就是开关信号的传输",
+      "music": 0.0
+    },
+    {
+      "from": 102.92,
+      "to": 104.15,
+      "sid": 38,
+      "location": 2,
+      "content": "就是数字信号",
+      "music": 0.0
+    },
+    {
+      "from": 104.15,
+      "to": 107.4,
+      "sid": 39,
+      "location": 2,
+      "content": "而不是不适合这个模拟信号的传输",
+      "music": 0.0
+    },
+    {
+      "from": 107.4,
+      "to": 109.32,
+      "sid": 40,
+      "location": 2,
+      "content": "而对于线线性光耦",
+      "music": 0.0
+    },
+    {
+      "from": 109.32,
+      "to": 112.479,
+      "sid": 41,
+      "location": 2,
+      "content": "线性光耦的电流传输特性曲线是接近直线的",
+      "music": 0.0
+    },
+    {
+      "from": 112.479,
+      "to": 114.279,
+      "sid": 42,
+      "location": 2,
+      "content": "而且是在小信号的时候",
+      "music": 0.0
+    },
+    {
+      "from": 114.279,
+      "to": 117.1,
+      "sid": 43,
+      "location": 2,
+      "content": "它的性能特别好啊",
+      "music": 0.0
+    },
+    {
+      "from": 117.1,
+      "to": 119.26,
+      "sid": 44,
+      "location": 2,
+      "content": "能以线性特性进行隔离控制",
+      "music": 0.0
+    },
+    {
+      "from": 119.26,
+      "to": 121.06,
+      "sid": 45,
+      "location": 2,
+      "content": "因此呢在开关电源当中",
+      "music": 0.0
+    },
+    {
+      "from": 121.06,
+      "to": 122.2,
+      "sid": 46,
+      "location": 2,
+      "content": "我们经常用到的啊",
+      "music": 0.0
+    },
+    {
+      "from": 122.2,
+      "to": 124.32,
+      "sid": 47,
+      "location": 2,
+      "content": "都是线性光耦呃",
+      "music": 0.0
+    },
+    {
+      "from": 124.32,
+      "to": 126.12,
+      "sid": 48,
+      "location": 2,
+      "content": "如果是非线性光耦的话",
+      "music": 0.0
+    },
+    {
+      "from": 126.12,
+      "to": 128.97,
+      "sid": 49,
+      "location": 2,
+      "content": "就是有可能是震荡波形变换",
+      "music": 0.0
+    },
+    {
+      "from": 128.97,
+      "to": 132.23,
+      "sid": 50,
+      "location": 2,
+      "content": "那么我们下面呢就以两个例子啊",
+      "music": 0.0
+    },
+    {
+      "from": 132.23,
+      "to": 134.26,
+      "sid": 51,
+      "location": 2,
+      "content": "来介绍它的工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 135.7,
+      "to": 137.64,
+      "sid": 52,
+      "location": 2,
+      "content": "我们先看一下这个六角光",
+      "music": 0.0
+    },
+    {
+      "from": 137.64,
+      "to": 138.36,
+      "sid": 53,
+      "location": 2,
+      "content": "六角光哦",
+      "music": 0.0
+    },
+    {
+      "from": 138.36,
+      "to": 144.08,
+      "sid": 54,
+      "location": 2,
+      "content": "它实际上它是由一个光控晶闸管",
+      "music": 0.0
+    },
+    {
+      "from": 145.66,
+      "to": 148.02,
+      "sid": 55,
+      "location": 2,
+      "content": "它是由一个光控晶闸管",
+      "music": 0.0
+    },
+    {
+      "from": 148.02,
+      "to": 149.22,
+      "sid": 56,
+      "location": 2,
+      "content": "还有一个",
+      "music": 0.0
+    },
+    {
+      "from": 151.059,
+      "to": 153.269,
+      "sid": 57,
+      "location": 2,
+      "content": "红外发光二极管组成的",
+      "music": 0.0
+    },
+    {
+      "from": 153.269,
+      "to": 156.53,
+      "sid": 58,
+      "location": 2,
+      "content": "当我们外加5伏的情况啊",
+      "music": 0.0
+    },
+    {
+      "from": 156.53,
+      "to": 158.57,
+      "sid": 59,
+      "location": 2,
+      "content": "外加5伏以上的电源之后",
+      "music": 0.0
+    },
+    {
+      "from": 158.57,
+      "to": 160.79,
+      "sid": 60,
+      "location": 2,
+      "content": "这个红外发光管它就发光了",
+      "music": 0.0
+    },
+    {
+      "from": 160.79,
+      "to": 165.98,
+      "sid": 61,
+      "location": 2,
+      "content": "那么驱动这个光控晶闸管进入通透导通状态",
+      "music": 0.0
+    },
+    {
+      "from": 165.98,
+      "to": 168.98,
+      "sid": 62,
+      "location": 2,
+      "content": "那么五角和四角呢就会构成一个电阻",
+      "music": 0.0
+    },
+    {
+      "from": 168.98,
+      "to": 171.43,
+      "sid": 63,
+      "location": 2,
+      "content": "这个大组织大概在10k左右",
+      "music": 0.0
+    },
+    {
+      "from": 171.43,
+      "to": 175.39,
+      "sid": 64,
+      "location": 2,
+      "content": "那么当我这个一角和二角不加电压的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 175.39,
+      "to": 178.66,
+      "sid": 65,
+      "location": 2,
+      "content": "那个四角和五角就会形成一个无穷大的电阻啊",
+      "music": 0.0
+    },
+    {
+      "from": 178.66,
+      "to": 181.78,
+      "sid": 66,
+      "location": 2,
+      "content": "这就是这个六角光耦的一个工作状态",
+      "music": 0.0
+    },
+    {
+      "from": 181.78,
+      "to": 185.68,
+      "sid": 67,
+      "location": 2,
+      "content": "我们下面来看一下这个线性线性光耦",
+      "music": 0.0
+    },
+    {
+      "from": 185.68,
+      "to": 186.76,
+      "sid": 68,
+      "location": 2,
+      "content": "pc 8 f7 ",
+      "music": 0.0
+    },
+    {
+      "from": 186.76,
+      "to": 187.84,
+      "sid": 69,
+      "location": 2,
+      "content": "线性光耦呢",
+      "music": 0.0
+    },
+    {
+      "from": 187.84,
+      "to": 191.02,
+      "sid": 70,
+      "location": 2,
+      "content": "实际上这边它也是有一个这个",
+      "music": 0.0
+    },
+    {
+      "from": 191.02,
+      "to": 192.86,
+      "sid": 71,
+      "location": 2,
+      "content": "线性发光的信号啊",
+      "music": 0.0
+    },
+    {
+      "from": 194.26,
+      "to": 195.78,
+      "sid": 72,
+      "location": 2,
+      "content": "当我这个线性光哦",
+      "music": 0.0
+    },
+    {
+      "from": 195.78,
+      "to": 200.48,
+      "sid": 73,
+      "location": 2,
+      "content": "这边给到了一个电压",
+      "music": 0.0
+    },
+    {
+      "from": 200.48,
+      "to": 202.73,
+      "sid": 74,
+      "location": 2,
+      "content": "一二角之间加一个电压之后",
+      "music": 0.0
+    },
+    {
+      "from": 202.73,
+      "to": 207.08,
+      "sid": 75,
+      "location": 2,
+      "content": "我的这个线性的这个线性光耦的这个发光器件",
+      "music": 0.0
+    },
+    {
+      "from": 207.08,
+      "to": 210.82,
+      "sid": 76,
+      "location": 2,
+      "content": "发光二极管就会发出啊一定波长的光",
+      "music": 0.0
+    },
+    {
+      "from": 210.82,
+      "to": 214.96,
+      "sid": 77,
+      "location": 2,
+      "content": "然后我这边的这个受光器就会导通",
+      "music": 0.0
+    },
+    {
+      "from": 219.1,
+      "to": 221.94,
+      "sid": 78,
+      "location": 2,
+      "content": "这个线性光耦光电耦合器啊",
+      "music": 0.0
+    },
+    {
+      "from": 221.94,
+      "to": 225.15,
+      "sid": 79,
+      "location": 2,
+      "content": "它实际上是一种新型的光电隔离器件",
+      "music": 0.0
+    },
+    {
+      "from": 225.15,
+      "to": 228.71,
+      "sid": 80,
+      "location": 2,
+      "content": "它能够传输连续变化的模拟电压或电流信号",
+      "music": 0.0
+    },
+    {
+      "from": 228.71,
+      "to": 231.41,
+      "sid": 81,
+      "location": 2,
+      "content": "这样呢随着输入信号的强弱啊",
+      "music": 0.0
+    },
+    {
+      "from": 231.41,
+      "to": 234.44,
+      "sid": 82,
+      "location": 2,
+      "content": "输入信号的强弱在这边输入之后",
+      "music": 0.0
+    },
+    {
+      "from": 234.44,
+      "to": 239.829,
+      "sid": 83,
+      "location": 2,
+      "content": "那么在输出端呢会有相应的啊相应的导通程度",
+      "music": 0.0
+    },
+    {
+      "from": 239.829,
+      "to": 243.079,
+      "sid": 84,
+      "location": 2,
+      "content": "还有说输出的电压和电流也会随之不同",
+      "music": 0.0
+    },
+    {
+      "from": 243.079,
+      "to": 243.859,
+      "sid": 85,
+      "location": 2,
+      "content": "这样子",
+      "music": 0.0
+    },
+    {
+      "from": 243.859,
+      "to": 248.299,
+      "sid": 86,
+      "location": 2,
+      "content": "所以我们就经常会在这个反馈反馈电路当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 248.299,
+      "to": 251.439,
+      "sid": 87,
+      "location": 2,
+      "content": "用到这个线性光耦啊",
+      "music": 0.0
+    },
+    {
+      "from": 251.439,
+      "to": 251.799,
+      "sid": 88,
+      "location": 2,
+      "content": "后",
+      "music": 0.0
+    },
+    {
+      "from": 251.799,
+      "to": 254.619,
+      "sid": 89,
+      "location": 2,
+      "content": "后面我们会给大家举一个简单的例子",
+      "music": 0.0
+    },
+    {
+      "from": 254.619,
+      "to": 255.85,
+      "sid": 90,
+      "location": 2,
+      "content": "来进行说明",
+      "music": 0.0
+    },
+    {
+      "from": 255.85,
+      "to": 260.56,
+      "sid": 91,
+      "location": 2,
+      "content": "这就是呃光耦的一个定义以及基本原理",
+      "music": 0.0
+    },
+    {
+      "from": 260.74,
+      "to": 263.8,
+      "sid": 92,
+      "location": 2,
+      "content": "下面我们来看一下光耦的一个参数",
+      "music": 0.0
+    },
+    {
+      "from": 263.8,
+      "to": 265.14,
+      "sid": 93,
+      "location": 2,
+      "content": "以及使用技巧",
+      "music": 0.0
+    },
+    {
+      "from": 265.4,
+      "to": 267.5,
+      "sid": 94,
+      "location": 2,
+      "content": "我们先来看一下光耦的参数",
+      "music": 0.0
+    },
+    {
+      "from": 267.5,
+      "to": 268.76,
+      "sid": 95,
+      "location": 2,
+      "content": "官网有哪些参数呢",
+      "music": 0.0
+    },
+    {
+      "from": 268.76,
+      "to": 270.17,
+      "sid": 96,
+      "location": 2,
+      "content": "官网的参数其实很多",
+      "music": 0.0
+    },
+    {
+      "from": 270.17,
+      "to": 271.84,
+      "sid": 97,
+      "location": 2,
+      "content": "有一个正向电流",
+      "music": 0.0
+    },
+    {
+      "from": 271.84,
+      "to": 275.08,
+      "sid": 98,
+      "location": 2,
+      "content": "也就是说背侧端被测管的两端",
+      "music": 0.0
+    },
+    {
+      "from": 275.08,
+      "to": 276.46,
+      "sid": 99,
+      "location": 2,
+      "content": "加一定的正向电压时",
+      "music": 0.0
+    },
+    {
+      "from": 276.46,
+      "to": 280.25,
+      "sid": 100,
+      "location": 2,
+      "content": "二极管流过的电流有一个反向电流",
+      "music": 0.0
+    },
+    {
+      "from": 280.25,
+      "to": 282.49,
+      "sid": 101,
+      "location": 2,
+      "content": "反向电流啊",
+      "music": 0.0
+    },
+    {
+      "from": 282.49,
+      "to": 287.56,
+      "sid": 102,
+      "location": 2,
+      "content": "其实这个呢大家可以就是了解一下就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 287.56,
+      "to": 292.57,
+      "sid": 103,
+      "location": 2,
+      "content": "它最重要的一个参数呢是这电流传输比c r t",
+      "music": 0.0
+    },
+    {
+      "from": 292.57,
+      "to": 294.07,
+      "sid": 104,
+      "location": 2,
+      "content": "电流传输比是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 294.07,
+      "to": 297.22,
+      "sid": 105,
+      "location": 2,
+      "content": "是输出管的工作电压为规定值时",
+      "music": 0.0
+    },
+    {
+      "from": 297.22,
+      "to": 302.33,
+      "sid": 106,
+      "location": 2,
+      "content": "输出的电流和发光二极管正向电流之比为电流",
+      "music": 0.0
+    },
+    {
+      "from": 302.33,
+      "to": 307.74,
+      "sid": 107,
+      "location": 2,
+      "content": "传输比c r t也称为光电耦合器的一个增益啊",
+      "music": 0.0
+    },
+    {
+      "from": 307.74,
+      "to": 310.92,
+      "sid": 108,
+      "location": 2,
+      "content": "这就是它的几个基本的参数",
+      "music": 0.0
+    },
+    {
+      "from": 311.639,
+      "to": 313.219,
+      "sid": 109,
+      "location": 2,
+      "content": "这个电流传输比呀",
+      "music": 0.0
+    },
+    {
+      "from": 313.219,
+      "to": 315.589,
+      "sid": 110,
+      "location": 2,
+      "content": "它是光电耦合器的一个重要参数",
+      "music": 0.0
+    },
+    {
+      "from": 315.589,
+      "to": 317.82,
+      "sid": 111,
+      "location": 2,
+      "content": "通过这个参数呢",
+      "music": 0.0
+    },
+    {
+      "from": 319.9,
+      "to": 323.82,
+      "sid": 112,
+      "location": 2,
+      "content": "通常用直流电流的传输比来表示",
+      "music": 0.0
+    },
+    {
+      "from": 323.82,
+      "to": 326.46,
+      "sid": 113,
+      "location": 2,
+      "content": "当输出的电压保持恒定的时候",
+      "music": 0.0
+    },
+    {
+      "from": 326.46,
+      "to": 329.999,
+      "sid": 114,
+      "location": 2,
+      "content": "它等于直流输入的电流",
+      "music": 0.0
+    },
+    {
+      "from": 329.999,
+      "to": 334.63,
+      "sid": 115,
+      "location": 2,
+      "content": "i i c和直流输入电流rf的百分比",
+      "music": 0.0
+    },
+    {
+      "from": 334.63,
+      "to": 338.98,
+      "sid": 116,
+      "location": 2,
+      "content": "输出电流的输出电流和输入电流的一个百分比",
+      "music": 0.0
+    },
+    {
+      "from": 340.139,
+      "to": 343.159,
+      "sid": 117,
+      "location": 2,
+      "content": "通常呢我们一支光敏三极管的",
+      "music": 0.0
+    },
+    {
+      "from": 343.159,
+      "to": 345.739,
+      "sid": 118,
+      "location": 2,
+      "content": "采用一支光敏三极管的光耦合器的",
+      "music": 0.0
+    },
+    {
+      "from": 345.739,
+      "to": 348.019,
+      "sid": 119,
+      "location": 2,
+      "content": "它的那个c i t的范围是20%",
+      "music": 0.0
+    },
+    {
+      "from": 348.019,
+      "to": 349.28,
+      "sid": 120,
+      "location": 2,
+      "content": "到300%",
+      "music": 0.0
+    },
+    {
+      "from": 349.5,
+      "to": 353.68,
+      "sid": 121,
+      "location": 2,
+      "content": "pc 87的范围是80%到160%啊",
+      "music": 0.0
+    },
+    {
+      "from": 353.68,
+      "to": 356.38,
+      "sid": 122,
+      "location": 2,
+      "content": "就是我们用同样的输出电流",
+      "music": 0.0
+    },
+    {
+      "from": 356.38,
+      "to": 357.34,
+      "sid": 123,
+      "location": 2,
+      "content": "后者只需要",
+      "music": 0.0
+    },
+    {
+      "from": 357.34,
+      "to": 361.51,
+      "sid": 124,
+      "location": 2,
+      "content": "就是如果他的这个c i t范围大的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 361.51,
+      "to": 363.88,
+      "sid": 125,
+      "location": 2,
+      "content": "就需要用比较小的输入电流",
+      "music": 0.0
+    },
+    {
+      "from": 363.88,
+      "to": 367.18,
+      "sid": 126,
+      "location": 2,
+      "content": "来实现同样的输出电流啊",
+      "music": 0.0
+    },
+    {
+      "from": 367.18,
+      "to": 369.91,
+      "sid": 127,
+      "location": 2,
+      "content": "这个c r t参数和这个晶体管的h e",
+      "music": 0.0
+    },
+    {
+      "from": 369.91,
+      "to": 371.83,
+      "sid": 128,
+      "location": 2,
+      "content": "f e有某种相似之处",
+      "music": 0.0
+    },
+    {
+      "from": 371.83,
+      "to": 374.28,
+      "sid": 129,
+      "location": 2,
+      "content": "这就是光耦的一个参数",
+      "music": 0.0
+    },
+    {
+      "from": 374.28,
+      "to": 377.16,
+      "sid": 130,
+      "location": 2,
+      "content": "我们在选型的时候也要参照啊",
+      "music": 0.0
+    },
+    {
+      "from": 377.16,
+      "to": 379.09,
+      "sid": 131,
+      "location": 2,
+      "content": "光耦的这些参数啊",
+      "music": 0.0
+    },
+    {
+      "from": 379.09,
+      "to": 381.04,
+      "sid": 132,
+      "location": 2,
+      "content": "这就不给大家一一读了",
+      "music": 0.0
+    },
+    {
+      "from": 381.04,
+      "to": 383.62,
+      "sid": 133,
+      "location": 2,
+      "content": "大家课下可以仔细的看一下",
+      "music": 0.0
+    },
+    {
+      "from": 384.3,
+      "to": 386.24,
+      "sid": 134,
+      "location": 2,
+      "content": "对于这个线性光耦呢",
+      "music": 0.0
+    },
+    {
+      "from": 386.24,
+      "to": 389.01,
+      "sid": 135,
+      "location": 2,
+      "content": "它有一个选取的原则呃",
+      "music": 0.0
+    },
+    {
+      "from": 389.01,
+      "to": 391.98,
+      "sid": 136,
+      "location": 2,
+      "content": "在我们的开关电源的隔离当中",
+      "music": 0.0
+    },
+    {
+      "from": 391.98,
+      "to": 395.22,
+      "sid": 137,
+      "location": 2,
+      "content": "以及设计光电反馈式开关电源时呢",
+      "music": 0.0
+    },
+    {
+      "from": 395.22,
+      "to": 399.25,
+      "sid": 138,
+      "location": 2,
+      "content": "必须选择正确的线性光耦型号以及参数",
+      "music": 0.0
+    },
+    {
+      "from": 399.25,
+      "to": 401.41,
+      "sid": 139,
+      "location": 2,
+      "content": "我们一般遵循下面的原则",
+      "music": 0.0
+    },
+    {
+      "from": 401.41,
+      "to": 404.48,
+      "sid": 140,
+      "location": 2,
+      "content": "首先是我们的这个c r t值",
+      "music": 0.0
+    },
+    {
+      "from": 404.48,
+      "to": 406.7,
+      "sid": 141,
+      "location": 2,
+      "content": "能够在一定范围内做线性的调整",
+      "music": 0.0
+    },
+    {
+      "from": 406.7,
+      "to": 410.72,
+      "sid": 142,
+      "location": 2,
+      "content": "也就是我选取这个线性最好的那一块的比例范",
+      "music": 0.0
+    },
+    {
+      "from": 410.72,
+      "to": 411.26,
+      "sid": 143,
+      "location": 2,
+      "content": "围",
+      "music": 0.0
+    },
+    {
+      "from": 412.78,
+      "to": 414.84,
+      "sid": 144,
+      "location": 2,
+      "content": "光耦光耦合器的电流",
+      "music": 0.0
+    },
+    {
+      "from": 414.84,
+      "to": 417.97,
+      "sid": 145,
+      "location": 2,
+      "content": "传输比的允许范围是50%的200%",
+      "music": 0.0
+    },
+    {
+      "from": 417.97,
+      "to": 420.91,
+      "sid": 146,
+      "location": 2,
+      "content": "也就说当它小于50%的时候",
+      "music": 0.0
+    },
+    {
+      "from": 420.91,
+      "to": 423.37,
+      "sid": 147,
+      "location": 2,
+      "content": "那么光耦盒中的l e d",
+      "music": 0.0
+    },
+    {
+      "from": 423.37,
+      "to": 425.23,
+      "sid": 148,
+      "location": 2,
+      "content": "就需要比较大的工作电流",
+      "music": 0.0
+    },
+    {
+      "from": 425.23,
+      "to": 428.17,
+      "sid": 149,
+      "location": 2,
+      "content": "才能够正常控制单片机当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 428.17,
+      "to": 431.24,
+      "sid": 150,
+      "location": 2,
+      "content": "开关电流的一个占空",
+      "music": 0.0
+    },
+    {
+      "from": 431.24,
+      "to": 435.34,
+      "sid": 151,
+      "location": 2,
+      "content": "比如果它大于200的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 435.34,
+      "to": 437.8,
+      "sid": 152,
+      "location": 2,
+      "content": "就可能将这个开关电源的误触发",
+      "music": 0.0
+    },
+    {
+      "from": 437.8,
+      "to": 439.78,
+      "sid": 153,
+      "location": 2,
+      "content": "影响正常的输出",
+      "music": 0.0
+    },
+    {
+      "from": 440.34,
+      "to": 441.26,
+      "sid": 154,
+      "location": 2,
+      "content": "还有一个呢",
+      "music": 0.0
+    },
+    {
+      "from": 441.26,
+      "to": 444.26,
+      "sid": 155,
+      "location": 2,
+      "content": "就是采用放大电路去驱动这个光电耦合器的时",
+      "music": 0.0
+    },
+    {
+      "from": 444.26,
+      "to": 444.56,
+      "sid": 156,
+      "location": 2,
+      "content": "候",
+      "music": 0.0
+    },
+    {
+      "from": 444.56,
+      "to": 446.57,
+      "sid": 157,
+      "location": 2,
+      "content": "要保证它能够去补偿",
+      "music": 0.0
+    },
+    {
+      "from": 446.57,
+      "to": 451.77,
+      "sid": 158,
+      "location": 2,
+      "content": "耦合器在温度不稳定的不稳定情况下的状况",
+      "music": 0.0
+    },
+    {
+      "from": 451.77,
+      "to": 453.36,
+      "sid": 159,
+      "location": 2,
+      "content": "以及它的一个漂移",
+      "music": 0.0
+    },
+    {
+      "from": 455.1,
+      "to": 456.56,
+      "sid": 160,
+      "location": 2,
+      "content": "这些选取原则呢",
+      "music": 0.0
+    },
+    {
+      "from": 456.56,
+      "to": 459.86,
+      "sid": 161,
+      "location": 2,
+      "content": "大家在选取的时候一定要加以注意啊",
+      "music": 0.0
+    },
+    {
+      "from": 459.86,
+      "to": 463.1,
+      "sid": 162,
+      "location": 2,
+      "content": "下面我们来看一下这个光耦的一个使用技巧",
+      "music": 0.0
+    },
+    {
+      "from": 465.1,
+      "to": 468.3,
+      "sid": 163,
+      "location": 2,
+      "content": "我们知道这个光耦是以光信号为媒介",
+      "music": 0.0
+    },
+    {
+      "from": 468.3,
+      "to": 470.929,
+      "sid": 164,
+      "location": 2,
+      "content": "来实现电信号的耦合和传递的",
+      "music": 0.0
+    },
+    {
+      "from": 470.929,
+      "to": 473.269,
+      "sid": 165,
+      "location": 2,
+      "content": "因此呢在输入和输出",
+      "music": 0.0
+    },
+    {
+      "from": 473.269,
+      "to": 476.58,
+      "sid": 166,
+      "location": 2,
+      "content": "它的输入和输出在电器上啊是完全隔离的",
+      "music": 0.0
+    },
+    {
+      "from": 476.58,
+      "to": 481.12,
+      "sid": 167,
+      "location": 2,
+      "content": "而且还会具有比较强的一个抗干扰能力",
+      "music": 0.0
+    },
+    {
+      "from": 481.8,
+      "to": 484.04,
+      "sid": 168,
+      "location": 2,
+      "content": "既包括一个弱电的控制部分呢",
+      "music": 0.0
+    },
+    {
+      "from": 484.04,
+      "to": 488.74,
+      "sid": 169,
+      "location": 2,
+      "content": "又包括强电控制部分的工业应用检测系统",
+      "music": 0.0
+    },
+    {
+      "from": 490.08,
+      "to": 492.95,
+      "sid": 170,
+      "location": 2,
+      "content": "我们会采用光电隔离",
+      "music": 0.0
+    },
+    {
+      "from": 492.95,
+      "to": 495.92,
+      "sid": 171,
+      "location": 2,
+      "content": "来实现弱电和强电的一个隔离",
+      "music": 0.0
+    },
+    {
+      "from": 495.92,
+      "to": 497.669,
+      "sid": 172,
+      "location": 2,
+      "content": "达到抗干扰的目的",
+      "music": 0.0
+    },
+    {
+      "from": 497.669,
+      "to": 500.369,
+      "sid": 173,
+      "location": 2,
+      "content": "我们来考虑一下几个问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 500.369,
+      "to": 505.42,
+      "sid": 174,
+      "location": 2,
+      "content": "就是说啊光耦直接用于隔离传输模拟量的时候",
+      "music": 0.0
+    },
+    {
+      "from": 506.24,
+      "to": 508.24,
+      "sid": 175,
+      "location": 2,
+      "content": "它有非线性怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 508.24,
+      "to": 509.32,
+      "sid": 176,
+      "location": 2,
+      "content": "然后呢",
+      "music": 0.0
+    },
+    {
+      "from": 509.32,
+      "to": 514.2,
+      "sid": 177,
+      "location": 2,
+      "content": "这个还有就是光耦隔离传输数字量的时候",
+      "music": 0.0
+    },
+    {
+      "from": 514.2,
+      "to": 515.94,
+      "sid": 178,
+      "location": 2,
+      "content": "那么它的响应速度问题",
+      "music": 0.0
+    },
+    {
+      "from": 515.94,
+      "to": 519.439,
+      "sid": 179,
+      "location": 2,
+      "content": "还有一个呢就是有功率接口的问题",
+      "music": 0.0
+    },
+    {
+      "from": 519.48,
+      "to": 521.31,
+      "sid": 180,
+      "location": 2,
+      "content": "对于这三个问题呢",
+      "music": 0.0
+    },
+    {
+      "from": 521.31,
+      "to": 523.5,
+      "sid": 181,
+      "location": 2,
+      "content": "嗯也做了一些归纳总结",
+      "music": 0.0
+    },
+    {
+      "from": 523.5,
+      "to": 525.24,
+      "sid": 182,
+      "location": 2,
+      "content": "大家来一起看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 527.44,
+      "to": 530.62,
+      "sid": 183,
+      "location": 2,
+      "content": "首先是非线性的克服",
+      "music": 0.0
+    },
+    {
+      "from": 530.62,
+      "to": 532.45,
+      "sid": 184,
+      "location": 2,
+      "content": "我们来看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 532.45,
+      "to": 534.79,
+      "sid": 185,
+      "location": 2,
+      "content": "他的这个输入特性呀",
+      "music": 0.0
+    },
+    {
+      "from": 534.79,
+      "to": 538.8,
+      "sid": 186,
+      "location": 2,
+      "content": "可以用发光二极管的伏安特性来表示啊",
+      "music": 0.0
+    },
+    {
+      "from": 538.8,
+      "to": 540.78,
+      "sid": 187,
+      "location": 2,
+      "content": "这实际上就是发光二极管",
+      "music": 0.0
+    },
+    {
+      "from": 540.78,
+      "to": 543.54,
+      "sid": 188,
+      "location": 2,
+      "content": "因为它的输入端实际上就是一个发光二极管",
+      "music": 0.0
+    },
+    {
+      "from": 543.54,
+      "to": 544.08,
+      "sid": 189,
+      "location": 2,
+      "content": "对吧",
+      "music": 0.0
+    },
+    {
+      "from": 544.08,
+      "to": 547.4,
+      "sid": 190,
+      "location": 2,
+      "content": "它就是一个二极管的一个伏安特性",
+      "music": 0.0
+    },
+    {
+      "from": 547.4,
+      "to": 551.5,
+      "sid": 191,
+      "location": 2,
+      "content": "那么由它的三极管的伏安特性呢",
+      "music": 0.0
+    },
+    {
+      "from": 551.5,
+      "to": 552.88,
+      "sid": 192,
+      "location": 2,
+      "content": "就是它的一个输出特性",
+      "music": 0.0
+    },
+    {
+      "from": 552.88,
+      "to": 555.91,
+      "sid": 193,
+      "location": 2,
+      "content": "它输出实际上本质是一个三极管嘛",
+      "music": 0.0
+    },
+    {
+      "from": 555.91,
+      "to": 557.8,
+      "sid": 194,
+      "location": 2,
+      "content": "所以说我们可以看到了",
+      "music": 0.0
+    },
+    {
+      "from": 557.8,
+      "to": 561.56,
+      "sid": 195,
+      "location": 2,
+      "content": "它就是存在着非线性的工作区域",
+      "music": 0.0
+    },
+    {
+      "from": 568.12,
+      "to": 570.66,
+      "sid": 196,
+      "location": 2,
+      "content": "直接用来传输模拟量的时候",
+      "music": 0.0
+    },
+    {
+      "from": 570.66,
+      "to": 572.56,
+      "sid": 197,
+      "location": 2,
+      "content": "它的精度肯定不会好",
+      "music": 0.0
+    },
+    {
+      "from": 573.24,
+      "to": 575.9,
+      "sid": 198,
+      "location": 2,
+      "content": "那么我们如何来改善这个问题呢",
+      "music": 0.0
+    },
+    {
+      "from": 577.46,
+      "to": 580.32,
+      "sid": 199,
+      "location": 2,
+      "content": "我们看一下如何改善啊",
+      "music": 0.0
+    },
+    {
+      "from": 580.32,
+      "to": 583.32,
+      "sid": 200,
+      "location": 2,
+      "content": "下面也给了一个简单的一个例子啊",
+      "music": 0.0
+    },
+    {
+      "from": 583.32,
+      "to": 584.43,
+      "sid": 201,
+      "location": 2,
+      "content": "如何改善",
+      "music": 0.0
+    },
+    {
+      "from": 584.43,
+      "to": 587.52,
+      "sid": 202,
+      "location": 2,
+      "content": "用两个具有相同非线性传输特性的",
+      "music": 0.0
+    },
+    {
+      "from": 587.52,
+      "to": 589.86,
+      "sid": 203,
+      "location": 2,
+      "content": "一个光电耦合器啊",
+      "music": 0.0
+    },
+    {
+      "from": 589.86,
+      "to": 591.5,
+      "sid": 204,
+      "location": 2,
+      "content": "他俩呢同时",
+      "music": 0.0
+    },
+    {
+      "from": 594.62,
+      "to": 597.94,
+      "sid": 205,
+      "location": 2,
+      "content": "一定要要用是同批号",
+      "music": 0.0
+    },
+    {
+      "from": 597.94,
+      "to": 600.77,
+      "sid": 206,
+      "location": 2,
+      "content": "同批次同型号的一个观点耦合器啊",
+      "music": 0.0
+    },
+    {
+      "from": 600.77,
+      "to": 603.68,
+      "sid": 207,
+      "location": 2,
+      "content": "这样子如果他俩完全一致的话",
+      "music": 0.0
+    },
+    {
+      "from": 603.68,
+      "to": 608.67,
+      "sid": 208,
+      "location": 2,
+      "content": "那么用两个涉及跟随器a一和a2 啊",
+      "music": 0.0
+    },
+    {
+      "from": 608.67,
+      "to": 609.87,
+      "sid": 209,
+      "location": 2,
+      "content": "跟他们组合在一起",
+      "music": 0.0
+    },
+    {
+      "from": 609.87,
+      "to": 611.479,
+      "sid": 210,
+      "location": 2,
+      "content": "形成这样的一个电路",
+      "music": 0.0
+    },
+    {
+      "from": 612.64,
+      "to": 616.859,
+      "sid": 211,
+      "location": 2,
+      "content": "那么这个放大器的增益就可以啊",
+      "music": 0.0
+    },
+    {
+      "from": 617.66,
+      "to": 621.16,
+      "sid": 212,
+      "location": 2,
+      "content": "最后简化成是r3 和r2 的一个比值",
+      "music": 0.0
+    },
+    {
+      "from": 624.28,
+      "to": 627.48,
+      "sid": 213,
+      "location": 2,
+      "content": "所以呢这样就可以看出来这个t一和t2 的",
+      "music": 0.0
+    },
+    {
+      "from": 627.48,
+      "to": 630.02,
+      "sid": 214,
+      "location": 2,
+      "content": "电流传输的特性的对称性啊",
+      "music": 0.0
+    },
+    {
+      "from": 630.02,
+      "to": 631.22,
+      "sid": 215,
+      "location": 2,
+      "content": "利用反馈的原理",
+      "music": 0.0
+    },
+    {
+      "from": 631.22,
+      "to": 633.86,
+      "sid": 216,
+      "location": 2,
+      "content": "就可以很好地补偿原来它们的非线性",
+      "music": 0.0
+    },
+    {
+      "from": 633.86,
+      "to": 635.66,
+      "sid": 217,
+      "location": 2,
+      "content": "这就是一个解决的方案",
+      "music": 0.0
+    },
+    {
+      "from": 635.66,
+      "to": 639.569,
+      "sid": 218,
+      "location": 2,
+      "content": "大家可以就是先看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 639.569,
+      "to": 643.0,
+      "sid": 219,
+      "location": 2,
+      "content": "第二个呢就是提高光电耦合器的传输速度",
+      "music": 0.0
+    },
+    {
+      "from": 643.62,
+      "to": 647.18,
+      "sid": 220,
+      "location": 2,
+      "content": "对于这个接收那个数字信号的时候",
+      "music": 0.0
+    },
+    {
+      "from": 647.18,
+      "to": 649.37,
+      "sid": 221,
+      "location": 2,
+      "content": "它有一个响应速度问题对吧",
+      "music": 0.0
+    },
+    {
+      "from": 649.37,
+      "to": 650.54,
+      "sid": 222,
+      "location": 2,
+      "content": "传输数字量的时候",
+      "music": 0.0
+    },
+    {
+      "from": 650.54,
+      "to": 651.68,
+      "sid": 223,
+      "location": 2,
+      "content": "它有一个响应问题",
+      "music": 0.0
+    },
+    {
+      "from": 651.68,
+      "to": 653.55,
+      "sid": 224,
+      "location": 2,
+      "content": "响应速度问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 653.55,
+      "to": 656.85,
+      "sid": 225,
+      "location": 2,
+      "content": "这是因为这个光有自身呀存在着一个分布电容",
+      "music": 0.0
+    },
+    {
+      "from": 656.85,
+      "to": 661.12,
+      "sid": 226,
+      "location": 2,
+      "content": "对于这个传输的传输的速度啊造成影响",
+      "music": 0.0
+    },
+    {
+      "from": 662.04,
+      "to": 665.66,
+      "sid": 227,
+      "location": 2,
+      "content": "光敏三极管的内部也存在着分布电容",
+      "music": 0.0
+    },
+    {
+      "from": 666.88,
+      "to": 671.78,
+      "sid": 228,
+      "location": 2,
+      "content": "由于这个光耦的这个电流传输比比较低",
+      "music": 0.0
+    },
+    {
+      "from": 674.56,
+      "to": 678.01,
+      "sid": 229,
+      "location": 2,
+      "content": "而其极电极负载的电阻呢又不能太小",
+      "music": 0.0
+    },
+    {
+      "from": 678.01,
+      "to": 681.219,
+      "sid": 230,
+      "location": 2,
+      "content": "否则输出电压的摆幅就受到了限制",
+      "music": 0.0
+    },
+    {
+      "from": 681.94,
+      "to": 684.5,
+      "sid": 231,
+      "location": 2,
+      "content": "那么负载电阻呢又不能太大",
+      "music": 0.0
+    },
+    {
+      "from": 685.38,
+      "to": 686.42,
+      "sid": 232,
+      "location": 2,
+      "content": "它越大呢",
+      "music": 0.0
+    },
+    {
+      "from": 686.42,
+      "to": 687.32,
+      "sid": 233,
+      "location": 2,
+      "content": "这个分布电容",
+      "music": 0.0
+    },
+    {
+      "from": 687.32,
+      "to": 689.12,
+      "sid": 234,
+      "location": 2,
+      "content": "由于这个分布电容的存在啊",
+      "music": 0.0
+    },
+    {
+      "from": 689.12,
+      "to": 691.859,
+      "sid": 235,
+      "location": 2,
+      "content": "它的这个频率特性就会差",
+      "music": 0.0
+    },
+    {
+      "from": 692.86,
+      "to": 694.86,
+      "sid": 236,
+      "location": 2,
+      "content": "延时呢也会长",
+      "music": 0.0
+    },
+    {
+      "from": 694.86,
+      "to": 697.38,
+      "sid": 237,
+      "location": 2,
+      "content": "所以呢也给了一个解决的方案",
+      "music": 0.0
+    },
+    {
+      "from": 697.38,
+      "to": 699.38,
+      "sid": 238,
+      "location": 2,
+      "content": "就是在我们这个",
+      "music": 0.0
+    },
+    {
+      "from": 701.72,
+      "to": 705.94,
+      "sid": 239,
+      "location": 2,
+      "content": "这个输出这块啊增加了一个晶体管和四个电阻",
+      "music": 0.0
+    },
+    {
+      "from": 705.94,
+      "to": 707.17,
+      "sid": 240,
+      "location": 2,
+      "content": "一个电容啊",
+      "music": 0.0
+    },
+    {
+      "from": 707.17,
+      "to": 708.4,
+      "sid": 241,
+      "location": 2,
+      "content": "构成一个这样的回路",
+      "music": 0.0
+    },
+    {
+      "from": 708.4,
+      "to": 709.18,
+      "sid": 242,
+      "location": 2,
+      "content": "这样的回路呢",
+      "music": 0.0
+    },
+    {
+      "from": 709.18,
+      "to": 714.159,
+      "sid": 243,
+      "location": 2,
+      "content": "就可以将这个光耦的最大数据传输速率",
+      "music": 0.0
+    },
+    {
+      "from": 714.159,
+      "to": 715.819,
+      "sid": 244,
+      "location": 2,
+      "content": "提高十倍左右",
+      "music": 0.0
+    },
+    {
+      "from": 717.4,
+      "to": 721.479,
+      "sid": 245,
+      "location": 2,
+      "content": "还有一个问题呢就是光耦的功率接口设计",
+      "music": 0.0
+    },
+    {
+      "from": 721.78,
+      "to": 724.06,
+      "sid": 246,
+      "location": 2,
+      "content": "在这个功率接口设计呢",
+      "music": 0.0
+    },
+    {
+      "from": 724.06,
+      "to": 726.7,
+      "sid": 247,
+      "location": 2,
+      "content": "可能大家就是不太熟悉啊",
+      "music": 0.0
+    },
+    {
+      "from": 726.7,
+      "to": 728.68,
+      "sid": 248,
+      "location": 2,
+      "content": "因为在这个微机控制系统当中",
+      "music": 0.0
+    },
+    {
+      "from": 728.68,
+      "to": 732.41,
+      "sid": 249,
+      "location": 2,
+      "content": "经常要用到这个功率接口电路呃",
+      "music": 0.0
+    },
+    {
+      "from": 732.41,
+      "to": 735.199,
+      "sid": 250,
+      "location": 2,
+      "content": "来方便驱动各种类型的负载",
+      "music": 0.0
+    },
+    {
+      "from": 735.42,
+      "to": 740.13,
+      "sid": 251,
+      "location": 2,
+      "content": "这种接口电路呀一般需要有带负载能力比较强",
+      "music": 0.0
+    },
+    {
+      "from": 740.13,
+      "to": 741.39,
+      "sid": 252,
+      "location": 2,
+      "content": "输出电流比较大",
+      "music": 0.0
+    },
+    {
+      "from": 741.39,
+      "to": 743.63,
+      "sid": 253,
+      "location": 2,
+      "content": "工作电压比较高的特点",
+      "music": 0.0
+    },
+    {
+      "from": 743.63,
+      "to": 746.839,
+      "sid": 254,
+      "location": 2,
+      "content": "那么下面呢就是一个典型的电路",
+      "music": 0.0
+    },
+    {
+      "from": 748.24,
+      "to": 750.3,
+      "sid": 255,
+      "location": 2,
+      "content": "普通的光电耦合器啊",
+      "music": 0.0
+    },
+    {
+      "from": 750.3,
+      "to": 752.359,
+      "sid": 256,
+      "location": 2,
+      "content": "它的电流传输比非常小",
+      "music": 0.0
+    },
+    {
+      "from": 752.359,
+      "to": 755.779,
+      "sid": 257,
+      "location": 2,
+      "content": "一般都要用三极管对输出电流进行放大",
+      "music": 0.0
+    },
+    {
+      "from": 755.779,
+      "to": 756.919,
+      "sid": 258,
+      "location": 2,
+      "content": "你看这样复杂",
+      "music": 0.0
+    },
+    {
+      "from": 756.919,
+      "to": 758.239,
+      "sid": 259,
+      "location": 2,
+      "content": "接上一个三极管",
+      "music": 0.0
+    },
+    {
+      "from": 758.239,
+      "to": 763.84,
+      "sid": 260,
+      "location": 2,
+      "content": "然后就可以通过一个小一点的啊进行来控制",
+      "music": 0.0
+    },
+    {
+      "from": 765.52,
+      "to": 768.77,
+      "sid": 261,
+      "location": 2,
+      "content": "也这边这个啊也可以用啊",
+      "music": 0.0
+    },
+    {
+      "from": 768.77,
+      "to": 772.46,
+      "sid": 262,
+      "location": 2,
+      "content": "达林顿型的光电耦合器来代替普通的光耦",
+      "music": 0.0
+    },
+    {
+      "from": 772.46,
+      "to": 773.48,
+      "sid": 263,
+      "location": 2,
+      "content": "这个t一啊",
+      "music": 0.0
+    },
+    {
+      "from": 773.48,
+      "to": 776.68,
+      "sid": 264,
+      "location": 2,
+      "content": "可以用达林顿型的光光电耦器来代替",
+      "music": 0.0
+    },
+    {
+      "from": 776.68,
+      "to": 778.3,
+      "sid": 265,
+      "location": 2,
+      "content": "对于这个交流复杂呢",
+      "music": 0.0
+    },
+    {
+      "from": 778.3,
+      "to": 781.78,
+      "sid": 266,
+      "location": 2,
+      "content": "也可以采用光电可控硅驱动器来进行隔离",
+      "music": 0.0
+    },
+    {
+      "from": 781.78,
+      "to": 783.06,
+      "sid": 267,
+      "location": 2,
+      "content": "驱动的设计",
+      "music": 0.0
+    },
+    {
+      "from": 783.36,
+      "to": 787.56,
+      "sid": 268,
+      "location": 2,
+      "content": "比如这两个例子给举出来的这个光电可控硅",
+      "music": 0.0
+    },
+    {
+      "from": 787.56,
+      "to": 789.24,
+      "sid": 269,
+      "location": 2,
+      "content": "可控硅型的驱动器呢",
+      "music": 0.0
+    },
+    {
+      "from": 789.24,
+      "to": 791.34,
+      "sid": 270,
+      "location": 2,
+      "content": "特点就是耐压比较高",
+      "music": 0.0
+    },
+    {
+      "from": 791.34,
+      "to": 792.76,
+      "sid": 271,
+      "location": 2,
+      "content": "驱动电流不太大",
+      "music": 0.0
+    },
+    {
+      "from": 792.76,
+      "to": 795.64,
+      "sid": 272,
+      "location": 2,
+      "content": "当交流负载电流比较小的时候",
+      "music": 0.0
+    },
+    {
+      "from": 795.64,
+      "to": 797.02,
+      "sid": 273,
+      "location": 2,
+      "content": "可以直接用它来驱动",
+      "music": 0.0
+    },
+    {
+      "from": 797.02,
+      "to": 798.18,
+      "sid": 274,
+      "location": 2,
+      "content": "可以看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 798.3,
+      "to": 800.339,
+      "sid": 275,
+      "location": 2,
+      "content": "这是一个关电耦合器",
+      "music": 0.0
+    },
+    {
+      "from": 806.84,
+      "to": 808.14,
+      "sid": 276,
+      "location": 2,
+      "content": "这是负载",
+      "music": 0.0
+    },
+    {
+      "from": 809.08,
+      "to": 812.07,
+      "sid": 277,
+      "location": 2,
+      "content": "当交流负载电流比较小的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 812.07,
+      "to": 813.699,
+      "sid": 278,
+      "location": 2,
+      "content": "直接用它来驱动",
+      "music": 0.0
+    },
+    {
+      "from": 814.88,
+      "to": 817.24,
+      "sid": 279,
+      "location": 2,
+      "content": "那么如果交流电流比较大的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 817.24,
+      "to": 819.31,
+      "sid": 280,
+      "location": 2,
+      "content": "就可以外接一个双向的可控硅",
+      "music": 0.0
+    },
+    {
+      "from": 819.31,
+      "to": 822.26,
+      "sid": 281,
+      "location": 2,
+      "content": "加了增加了一个双向可控硅对吧",
+      "music": 0.0
+    },
+    {
+      "from": 824.26,
+      "to": 827.04,
+      "sid": 282,
+      "location": 2,
+      "content": "这个r一呢实际上就是一个限流电阻",
+      "music": 0.0
+    },
+    {
+      "from": 827.04,
+      "to": 829.53,
+      "sid": 283,
+      "location": 2,
+      "content": "由于这个限制光电可控硅的",
+      "music": 0.0
+    },
+    {
+      "from": 829.53,
+      "to": 831.6,
+      "sid": 284,
+      "location": 2,
+      "content": "用于限制光电可控硅的一个电流",
+      "music": 0.0
+    },
+    {
+      "from": 831.6,
+      "to": 834.769,
+      "sid": 285,
+      "location": 2,
+      "content": "这个r2 呢啊是耦合电阻",
+      "music": 0.0
+    },
+    {
+      "from": 834.769,
+      "to": 839.439,
+      "sid": 286,
+      "location": 2,
+      "content": "它上面的分压用于触发这个功率双向可控硅",
+      "music": 0.0
+    },
+    {
+      "from": 844.04,
+      "to": 848.78,
+      "sid": 287,
+      "location": 2,
+      "content": "这呢就是光耦使用的几个基本的技巧呃",
+      "music": 0.0
+    },
+    {
+      "from": 848.78,
+      "to": 852.86,
+      "sid": 288,
+      "location": 2,
+      "content": "可能现在我们在我们的电路当中还很少能用到",
+      "music": 0.0
+    },
+    {
+      "from": 852.86,
+      "to": 856.909,
+      "sid": 289,
+      "location": 2,
+      "content": "尤其是在这个光耦的功率接口这块啊",
+      "music": 0.0
+    },
+    {
+      "from": 856.909,
+      "to": 859.189,
+      "sid": 290,
+      "location": 2,
+      "content": "大家先做一个基本的了解啊",
+      "music": 0.0
+    },
+    {
+      "from": 859.189,
+      "to": 860.629,
+      "sid": 291,
+      "location": 2,
+      "content": "以后我们用到的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 860.629,
+      "to": 864.06,
+      "sid": 292,
+      "location": 2,
+      "content": "能有一个啊这样的印象来查",
+      "music": 0.0
+    },
+    {
+      "from": 864.06,
+      "to": 867.02,
+      "sid": 293,
+      "location": 2,
+      "content": "针对这方面的内容来进行查找啊",
+      "music": 0.0
+    },
+    {
+      "from": 867.02,
+      "to": 868.64,
+      "sid": 294,
+      "location": 2,
+      "content": "最后呢给大家讲一个",
+      "music": 0.0
+    },
+    {
+      "from": 868.64,
+      "to": 871.25,
+      "sid": 295,
+      "location": 2,
+      "content": "就是郭耦在实际的电路当中的应用",
+      "music": 0.0
+    },
+    {
+      "from": 871.25,
+      "to": 872.599,
+      "sid": 296,
+      "location": 2,
+      "content": "我们来看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 872.76,
+      "to": 876.09,
+      "sid": 297,
+      "location": 2,
+      "content": "这是过往我来做一个信号的传输",
+      "music": 0.0
+    },
+    {
+      "from": 876.09,
+      "to": 880.9,
+      "sid": 298,
+      "location": 2,
+      "content": "实际上就呃用于这个信号数字量的一个传输",
+      "music": 0.0
+    },
+    {
+      "from": 884.08,
+      "to": 886.62,
+      "sid": 299,
+      "location": 2,
+      "content": "我这边有一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 886.62,
+      "to": 889.18,
+      "sid": 300,
+      "location": 2,
+      "content": "电源通过三极管导通之后",
+      "music": 0.0
+    },
+    {
+      "from": 891.36,
+      "to": 894.5,
+      "sid": 301,
+      "location": 2,
+      "content": "这边呢是两个信号传输信号",
+      "music": 0.0
+    },
+    {
+      "from": 894.5,
+      "to": 896.9,
+      "sid": 302,
+      "location": 2,
+      "content": "传输信号这边导通之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 897.7,
+      "to": 904.4,
+      "sid": 303,
+      "location": 2,
+      "content": "把这个啊寿光寿光不就是这个光电耦合器啊",
+      "music": 0.0
+    },
+    {
+      "from": 904.4,
+      "to": 905.84,
+      "sid": 304,
+      "location": 2,
+      "content": "导通导通之后",
+      "music": 0.0
+    },
+    {
+      "from": 905.84,
+      "to": 907.76,
+      "sid": 305,
+      "location": 2,
+      "content": "这边通过这边有一个电压",
+      "music": 0.0
+    },
+    {
+      "from": 907.76,
+      "to": 909.5,
+      "sid": 306,
+      "location": 2,
+      "content": "然后这三级管导通啊",
+      "music": 0.0
+    },
+    {
+      "from": 909.5,
+      "to": 915.64,
+      "sid": 307,
+      "location": 2,
+      "content": "我这边就会过来一个送过来一个这个信信信号",
+      "music": 0.0
+    },
+    {
+      "from": 915.86,
+      "to": 918.11,
+      "sid": 308,
+      "location": 2,
+      "content": "高低电平的这样一个信号",
+      "music": 0.0
+    },
+    {
+      "from": 918.11,
+      "to": 921.95,
+      "sid": 309,
+      "location": 2,
+      "content": "这就是用光耦来传递数字量的一个例子",
+      "music": 0.0
+    },
+    {
+      "from": 921.95,
+      "to": 923.92,
+      "sid": 310,
+      "location": 2,
+      "content": "那么下面这个呢是",
+      "music": 0.0
+    },
+    {
+      "from": 926.08,
+      "to": 931.26,
+      "sid": 311,
+      "location": 2,
+      "content": "也是用啊官网来传递数字量的一个简单的例子",
+      "music": 0.0
+    },
+    {
+      "from": 931.26,
+      "to": 933.42,
+      "sid": 312,
+      "location": 2,
+      "content": "跟上面的例子大同小异",
+      "music": 0.0
+    },
+    {
+      "from": 933.42,
+      "to": 937.199,
+      "sid": 313,
+      "location": 2,
+      "content": "嗯这边呢是一个电源电源",
+      "music": 0.0
+    },
+    {
+      "from": 937.199,
+      "to": 938.399,
+      "sid": 314,
+      "location": 2,
+      "content": "这边是信号",
+      "music": 0.0
+    },
+    {
+      "from": 938.399,
+      "to": 940.24,
+      "sid": 315,
+      "location": 2,
+      "content": "通过一个开关管",
+      "music": 0.0
+    },
+    {
+      "from": 941.32,
+      "to": 944.18,
+      "sid": 316,
+      "location": 2,
+      "content": "信号通过一个开关管啊",
+      "music": 0.0
+    },
+    {
+      "from": 944.18,
+      "to": 945.8,
+      "sid": 317,
+      "location": 2,
+      "content": "开关管的控制",
+      "music": 0.0
+    },
+    {
+      "from": 945.8,
+      "to": 949.22,
+      "sid": 318,
+      "location": 2,
+      "content": "来使这个光电耦合器来进行导通啊",
+      "music": 0.0
+    },
+    {
+      "from": 949.22,
+      "to": 952.459,
+      "sid": 319,
+      "location": 2,
+      "content": "这边呢直接就会传递过来一个信号对吧",
+      "music": 0.0
+    },
+    {
+      "from": 957.94,
+      "to": 960.54,
+      "sid": 320,
+      "location": 2,
+      "content": "这是光耦在实际当中运用的",
+      "music": 0.0
+    },
+    {
+      "from": 960.54,
+      "to": 962.73,
+      "sid": 321,
+      "location": 2,
+      "content": "这是数字量的一个传输",
+      "music": 0.0
+    },
+    {
+      "from": 962.73,
+      "to": 963.96,
+      "sid": 322,
+      "location": 2,
+      "content": "我们来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 963.96,
+      "to": 967.12,
+      "sid": 323,
+      "location": 2,
+      "content": "其实光耦还可以用作就是反馈",
+      "music": 0.0
+    },
+    {
+      "from": 967.16,
+      "to": 970.97,
+      "sid": 324,
+      "location": 2,
+      "content": "这儿呢是我们前面讲到的一个反击电路啊",
+      "music": 0.0
+    },
+    {
+      "from": 970.97,
+      "to": 974.95,
+      "sid": 325,
+      "location": 2,
+      "content": "它是由一个反击变压器开关管",
+      "music": 0.0
+    },
+    {
+      "from": 974.95,
+      "to": 978.04,
+      "sid": 326,
+      "location": 2,
+      "content": "开关管的驱动芯片啊",
+      "music": 0.0
+    },
+    {
+      "from": 978.04,
+      "to": 980.14,
+      "sid": 327,
+      "location": 2,
+      "content": "它这边是一个多路输出",
+      "music": 0.0
+    },
+    {
+      "from": 980.14,
+      "to": 982.659,
+      "sid": 328,
+      "location": 2,
+      "content": "有一个二极管好输出",
+      "music": 0.0
+    },
+    {
+      "from": 982.659,
+      "to": 985.58,
+      "sid": 329,
+      "location": 2,
+      "content": "整流二极管电容电阻呃",
+      "music": 0.0
+    },
+    {
+      "from": 985.58,
+      "to": 987.47,
+      "sid": 330,
+      "location": 2,
+      "content": "在这个主电路当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 987.47,
+      "to": 991.43,
+      "sid": 331,
+      "location": 2,
+      "content": "它还有一个就是恒压恒流的一个芯片",
+      "music": 0.0
+    },
+    {
+      "from": 991.43,
+      "to": 994.88,
+      "sid": 332,
+      "location": 2,
+      "content": "我们要保证它恒压恒流的话啊",
+      "music": 0.0
+    },
+    {
+      "from": 994.88,
+      "to": 998.04,
+      "sid": 333,
+      "location": 2,
+      "content": "这个电压是如何进行恒定的呢",
+      "music": 0.0
+    },
+    {
+      "from": 998.04,
+      "to": 1001.85,
+      "sid": 334,
+      "location": 2,
+      "content": "我们就通过这边的电阻分压进行对比",
+      "music": 0.0
+    },
+    {
+      "from": 1001.85,
+      "to": 1008.4,
+      "sid": 335,
+      "location": 2,
+      "content": "然后通过这个光电耦合器pc 87反馈反馈",
+      "music": 0.0
+    },
+    {
+      "from": 1008.4,
+      "to": 1009.48,
+      "sid": 336,
+      "location": 2,
+      "content": "接到这边的",
+      "music": 0.0
+    },
+    {
+      "from": 1009.48,
+      "to": 1012.72,
+      "sid": 337,
+      "location": 2,
+      "content": "你看这实际上是我把这个p c817 分开",
+      "music": 0.0
+    },
+    {
+      "from": 1012.72,
+      "to": 1013.47,
+      "sid": 338,
+      "location": 2,
+      "content": "画了啊",
+      "music": 0.0
+    },
+    {
+      "from": 1013.47,
+      "to": 1017.8,
+      "sid": 339,
+      "location": 2,
+      "content": "这边这个这是一个发光发光二极管吗",
+      "music": 0.0
+    },
+    {
+      "from": 1017.8,
+      "to": 1020.14,
+      "sid": 340,
+      "location": 2,
+      "content": "这边实际上是那个光电耦合器里边的",
+      "music": 0.0
+    },
+    {
+      "from": 1020.14,
+      "to": 1023.45,
+      "sid": 341,
+      "location": 2,
+      "content": "受光受光器啊",
+      "music": 0.0
+    },
+    {
+      "from": 1023.45,
+      "to": 1025.58,
+      "sid": 342,
+      "location": 2,
+      "content": "然后这边接收到信号之后",
+      "music": 0.0
+    },
+    {
+      "from": 1025.58,
+      "to": 1030.82,
+      "sid": 343,
+      "location": 2,
+      "content": "来传递给我驱动这个mos管的这个控制芯片啊",
+      "music": 0.0
+    },
+    {
+      "from": 1030.82,
+      "to": 1035.589,
+      "sid": 344,
+      "location": 2,
+      "content": "通过把这个反馈信号传递给这个驱动芯片",
+      "music": 0.0
+    },
+    {
+      "from": 1035.589,
+      "to": 1041.39,
+      "sid": 345,
+      "location": 2,
+      "content": "从而来调节这个开关管的一个啊占空比来",
+      "music": 0.0
+    },
+    {
+      "from": 1041.39,
+      "to": 1045.77,
+      "sid": 346,
+      "location": 2,
+      "content": "最终的目的是为了啊恒定我的一个输出电压",
+      "music": 0.0
+    },
+    {
+      "from": 1045.77,
+      "to": 1049.36,
+      "sid": 347,
+      "location": 2,
+      "content": "这就是pc 817载啊",
+      "music": 0.0
+    },
+    {
+      "from": 1049.36,
+      "to": 1052.69,
+      "sid": 348,
+      "location": 2,
+      "content": "传递在这个反馈电路当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 1052.69,
+      "to": 1054.22,
+      "sid": 349,
+      "location": 2,
+      "content": "来传递一个模拟量",
+      "music": 0.0
+    },
+    {
+      "from": 1054.22,
+      "to": 1056.7,
+      "sid": 350,
+      "location": 2,
+      "content": "实现这个反馈控制的一个例子",
+      "music": 0.0
+    },
+    {
+      "from": 1056.9,
+      "to": 1060.08,
+      "sid": 351,
+      "location": 2,
+      "content": "而且呢还很好地结合了我们之前学过的一个",
+      "music": 0.0
+    },
+    {
+      "from": 1060.08,
+      "to": 1061.08,
+      "sid": 352,
+      "location": 2,
+      "content": "反击电路",
+      "music": 0.0
+    },
+    {
+      "from": 1062.38,
+      "to": 1064.3,
+      "sid": 353,
+      "location": 2,
+      "content": "之前想给大家讲反击电路",
+      "music": 0.0
+    },
+    {
+      "from": 1064.3,
+      "to": 1065.89,
+      "sid": 354,
+      "location": 2,
+      "content": "也一直没有拿出图来",
+      "music": 0.0
+    },
+    {
+      "from": 1065.89,
+      "to": 1067.86,
+      "sid": 355,
+      "location": 2,
+      "content": "拿出这个图来讲解啊",
+      "music": 0.0
+    },
+    {
+      "from": 1067.86,
+      "to": 1070.8,
+      "sid": 356,
+      "location": 2,
+      "content": "大家可以在今天这个机会就集中了",
+      "music": 0.0
+    },
+    {
+      "from": 1070.8,
+      "to": 1073.56,
+      "sid": 357,
+      "location": 2,
+      "content": "我们所学的一个很多的元器件",
+      "music": 0.0
+    },
+    {
+      "from": 1073.56,
+      "to": 1075.26,
+      "sid": 358,
+      "location": 2,
+      "content": "大家可以仔细看一下",
+      "music": 0.0
+    },
+    {
+      "from": 1075.26,
+      "to": 1076.7,
+      "sid": 359,
+      "location": 2,
+      "content": "这个反激电路呢",
+      "music": 0.0
+    },
+    {
+      "from": 1076.7,
+      "to": 1082.52,
+      "sid": 360,
+      "location": 2,
+      "content": "实际上就就是一个实现恒压恒流的",
+      "music": 0.0
+    },
+    {
+      "from": 1082.52,
+      "to": 1083.6,
+      "sid": 361,
+      "location": 2,
+      "content": "这样一个反击电路",
+      "music": 0.0
+    },
+    {
+      "from": 1083.6,
+      "to": 1085.34,
+      "sid": 362,
+      "location": 2,
+      "content": "而且是多路输出啊",
+      "music": 0.0
+    },
+    {
+      "from": 1087.44,
+      "to": 1090.52,
+      "sid": 363,
+      "location": 2,
+      "content": "对于这一节所讲的这个光电耦合器呢",
+      "music": 0.0
+    },
+    {
+      "from": 1090.52,
+      "to": 1092.24,
+      "sid": 364,
+      "location": 2,
+      "content": "我们暂时就先讲到这",
+      "music": 0.0
+    }
+  ]
+}

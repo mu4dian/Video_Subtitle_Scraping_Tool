@@ -1,0 +1,3828 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 1.58,
+      "to": 4.22,
+      "sid": 1,
+      "location": 2,
+      "content": "下面呢给大家介绍一下继电器",
+      "music": 0.0
+    },
+    {
+      "from": 4.22,
+      "to": 8.44,
+      "sid": 2,
+      "location": 2,
+      "content": "继电器是控制电路当中非常常见的一种元器件",
+      "music": 0.0
+    },
+    {
+      "from": 8.44,
+      "to": 11.71,
+      "sid": 3,
+      "location": 2,
+      "content": "在控制系统当中也非常的重要",
+      "music": 0.0
+    },
+    {
+      "from": 11.71,
+      "to": 15.88,
+      "sid": 4,
+      "location": 2,
+      "content": "我们首先来了解一下继电器的工作原理和作用",
+      "music": 0.0
+    },
+    {
+      "from": 20.64,
+      "to": 22.88,
+      "sid": 5,
+      "location": 2,
+      "content": "大家先来认识一下继电器吧",
+      "music": 0.0
+    },
+    {
+      "from": 22.88,
+      "to": 25.34,
+      "sid": 6,
+      "location": 2,
+      "content": "这就是一个简单的一个继电器",
+      "music": 0.0
+    },
+    {
+      "from": 26.599,
+      "to": 29.469,
+      "sid": 7,
+      "location": 2,
+      "content": "它的线圈上的电压是30伏",
+      "music": 0.0
+    },
+    {
+      "from": 29.469,
+      "to": 31.389,
+      "sid": 8,
+      "location": 2,
+      "content": "通过的电流是五安",
+      "music": 0.0
+    },
+    {
+      "from": 31.389,
+      "to": 33.9,
+      "sid": 9,
+      "location": 2,
+      "content": "这就是一个很简单的继电器",
+      "music": 0.0
+    },
+    {
+      "from": 36.42,
+      "to": 38.39,
+      "sid": 10,
+      "location": 2,
+      "content": "我们来看一下继电器",
+      "music": 0.0
+    },
+    {
+      "from": 38.39,
+      "to": 41.839,
+      "sid": 11,
+      "location": 2,
+      "content": "继电器呢介绍是一种电控制器件啊",
+      "music": 0.0
+    },
+    {
+      "from": 42.24,
+      "to": 46.769,
+      "sid": 12,
+      "location": 2,
+      "content": "它是用小电流控制大电流运作的一种自动开关",
+      "music": 0.0
+    },
+    {
+      "from": 46.769,
+      "to": 51.059,
+      "sid": 13,
+      "location": 2,
+      "content": "因此呢它在电路当中起到了自动调节",
+      "music": 0.0
+    },
+    {
+      "from": 51.059,
+      "to": 52.289,
+      "sid": 14,
+      "location": 2,
+      "content": "安全保护",
+      "music": 0.0
+    },
+    {
+      "from": 52.289,
+      "to": 53.82,
+      "sid": 15,
+      "location": 2,
+      "content": "转换电路等等",
+      "music": 0.0
+    },
+    {
+      "from": 53.82,
+      "to": 56.19,
+      "sid": 16,
+      "location": 2,
+      "content": "其实对于继电器的作用呢",
+      "music": 0.0
+    },
+    {
+      "from": 56.19,
+      "to": 58.95,
+      "sid": 17,
+      "location": 2,
+      "content": "嗯除了一个信号的传递之外",
+      "music": 0.0
+    },
+    {
+      "from": 58.95,
+      "to": 60.6,
+      "sid": 18,
+      "location": 2,
+      "content": "还有一个功率的放大",
+      "music": 0.0
+    },
+    {
+      "from": 60.6,
+      "to": 64.09,
+      "sid": 19,
+      "location": 2,
+      "content": "都在刚才这几句话里边明显的反映出来",
+      "music": 0.0
+    },
+    {
+      "from": 64.09,
+      "to": 65.17,
+      "sid": 20,
+      "location": 2,
+      "content": "功率的放大",
+      "music": 0.0
+    },
+    {
+      "from": 65.17,
+      "to": 69.06,
+      "sid": 21,
+      "location": 2,
+      "content": "实际上就是用呃小的一个小的能量",
+      "music": 0.0
+    },
+    {
+      "from": 69.06,
+      "to": 70.86,
+      "sid": 22,
+      "location": 2,
+      "content": "去控制一个大的能量对吧",
+      "music": 0.0
+    },
+    {
+      "from": 70.86,
+      "to": 72.84,
+      "sid": 23,
+      "location": 2,
+      "content": "这里讲的是用一个小电流",
+      "music": 0.0
+    },
+    {
+      "from": 72.84,
+      "to": 74.87,
+      "sid": 24,
+      "location": 2,
+      "content": "去控制一个大电流运作",
+      "music": 0.0
+    },
+    {
+      "from": 74.87,
+      "to": 79.07,
+      "sid": 25,
+      "location": 2,
+      "content": "然后其次呢还有一个信号的传递啊",
+      "music": 0.0
+    },
+    {
+      "from": 79.07,
+      "to": 81.59,
+      "sid": 26,
+      "location": 2,
+      "content": "我们通过一个小信号",
+      "music": 0.0
+    },
+    {
+      "from": 81.59,
+      "to": 83.57,
+      "sid": 27,
+      "location": 2,
+      "content": "通过继电器的一个动作",
+      "music": 0.0
+    },
+    {
+      "from": 83.57,
+      "to": 87.259,
+      "sid": 28,
+      "location": 2,
+      "content": "传递到另外一另外一个电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 88.32,
+      "to": 91.55,
+      "sid": 29,
+      "location": 2,
+      "content": "我们经常用到的呢就是电磁式继电器",
+      "music": 0.0
+    },
+    {
+      "from": 91.55,
+      "to": 93.47,
+      "sid": 30,
+      "location": 2,
+      "content": "电磁式继电器呢",
+      "music": 0.0
+    },
+    {
+      "from": 93.47,
+      "to": 97.46,
+      "sid": 31,
+      "location": 2,
+      "content": "电磁是实际上是说继电器动作的一个原理",
+      "music": 0.0
+    },
+    {
+      "from": 98.2,
+      "to": 99.36,
+      "sid": 32,
+      "location": 2,
+      "content": "笼统来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 99.36,
+      "to": 102.45,
+      "sid": 33,
+      "location": 2,
+      "content": "继电器就是由于某种的物理变化",
+      "music": 0.0
+    },
+    {
+      "from": 102.45,
+      "to": 108.06,
+      "sid": 34,
+      "location": 2,
+      "content": "使得这个继电器上的这个开关吸合或者是断开",
+      "music": 0.0
+    },
+    {
+      "from": 108.06,
+      "to": 111.52,
+      "sid": 35,
+      "location": 2,
+      "content": "来进行动作的一种器件啊",
+      "music": 0.0
+    },
+    {
+      "from": 111.52,
+      "to": 113.02,
+      "sid": 36,
+      "location": 2,
+      "content": "对于电磁式继电器呢",
+      "music": 0.0
+    },
+    {
+      "from": 113.02,
+      "to": 115.33,
+      "sid": 37,
+      "location": 2,
+      "content": "我们可以先借鉴下面这个图",
+      "music": 0.0
+    },
+    {
+      "from": 115.33,
+      "to": 117.64,
+      "sid": 38,
+      "location": 2,
+      "content": "电磁式继电器的这个里面",
+      "music": 0.0
+    },
+    {
+      "from": 117.64,
+      "to": 120.45,
+      "sid": 39,
+      "location": 2,
+      "content": "它实际上是一个线圈",
+      "music": 0.0
+    },
+    {
+      "from": 120.45,
+      "to": 122.34,
+      "sid": 40,
+      "location": 2,
+      "content": "那么通过给线圈的",
+      "music": 0.0
+    },
+    {
+      "from": 122.34,
+      "to": 124.98,
+      "sid": 41,
+      "location": 2,
+      "content": "给线圈通电的方式",
+      "music": 0.0
+    },
+    {
+      "from": 124.98,
+      "to": 128.3,
+      "sid": 42,
+      "location": 2,
+      "content": "然后使得这个线圈产生一个吸引力",
+      "music": 0.0
+    },
+    {
+      "from": 128.3,
+      "to": 132.14,
+      "sid": 43,
+      "location": 2,
+      "content": "对这个这个这个闭合的这个开关",
+      "music": 0.0
+    },
+    {
+      "from": 132.14,
+      "to": 133.869,
+      "sid": 44,
+      "location": 2,
+      "content": "有一个吸引力啊",
+      "music": 0.0
+    },
+    {
+      "from": 133.869,
+      "to": 136.989,
+      "sid": 45,
+      "location": 2,
+      "content": "这个开关呢同时还受到一个弹簧的张力",
+      "music": 0.0
+    },
+    {
+      "from": 136.989,
+      "to": 140.14,
+      "sid": 46,
+      "location": 2,
+      "content": "当线圈对它的引力大于张力的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 140.14,
+      "to": 142.18,
+      "sid": 47,
+      "location": 2,
+      "content": "它就会闭合或者是断开",
+      "music": 0.0
+    },
+    {
+      "from": 142.18,
+      "to": 145.53,
+      "sid": 48,
+      "location": 2,
+      "content": "这就是电磁式继电器的一个工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 145.53,
+      "to": 147.45,
+      "sid": 49,
+      "location": 2,
+      "content": "在电路图当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 147.45,
+      "to": 151.68,
+      "sid": 50,
+      "location": 2,
+      "content": "呃通常是啊这样来表示继电器的",
+      "music": 0.0
+    },
+    {
+      "from": 151.68,
+      "to": 155.04,
+      "sid": 51,
+      "location": 2,
+      "content": "对于这是一个最普通的一个继电器",
+      "music": 0.0
+    },
+    {
+      "from": 155.04,
+      "to": 156.9,
+      "sid": 52,
+      "location": 2,
+      "content": "那么这是有两个转",
+      "music": 0.0
+    },
+    {
+      "from": 156.9,
+      "to": 158.85,
+      "sid": 53,
+      "location": 2,
+      "content": "这是有两个触点转换型的",
+      "music": 0.0
+    },
+    {
+      "from": 158.85,
+      "to": 160.23,
+      "sid": 54,
+      "location": 2,
+      "content": "这是常开型的",
+      "music": 0.0
+    },
+    {
+      "from": 160.23,
+      "to": 161.43,
+      "sid": 55,
+      "location": 2,
+      "content": "对于触点形式",
+      "music": 0.0
+    },
+    {
+      "from": 161.43,
+      "to": 162.6,
+      "sid": 56,
+      "location": 2,
+      "content": "从触点形式来讲",
+      "music": 0.0
+    },
+    {
+      "from": 162.6,
+      "to": 163.77,
+      "sid": 57,
+      "location": 2,
+      "content": "这是常开型的",
+      "music": 0.0
+    },
+    {
+      "from": 163.77,
+      "to": 165.09,
+      "sid": 58,
+      "location": 2,
+      "content": "也就是说正常情况下",
+      "music": 0.0
+    },
+    {
+      "from": 165.09,
+      "to": 170.48,
+      "sid": 59,
+      "location": 2,
+      "content": "它是啊这个出这个重点是断开的",
+      "music": 0.0
+    },
+    {
+      "from": 170.48,
+      "to": 175.1,
+      "sid": 60,
+      "location": 2,
+      "content": "然后当继电器当这个继电器动作的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 175.1,
+      "to": 176.16,
+      "sid": 61,
+      "location": 2,
+      "content": "它会闭合",
+      "music": 0.0
+    },
+    {
+      "from": 176.16,
+      "to": 179.04,
+      "sid": 62,
+      "location": 2,
+      "content": "这呢就是两个有两个触点",
+      "music": 0.0
+    },
+    {
+      "from": 179.04,
+      "to": 180.84,
+      "sid": 63,
+      "location": 2,
+      "content": "它是属于一个转换型的",
+      "music": 0.0
+    },
+    {
+      "from": 180.84,
+      "to": 182.34,
+      "sid": 64,
+      "location": 2,
+      "content": "对于这边是长臂",
+      "music": 0.0
+    },
+    {
+      "from": 182.34,
+      "to": 183.18,
+      "sid": 65,
+      "location": 2,
+      "content": "这边就是常开",
+      "music": 0.0
+    },
+    {
+      "from": 183.18,
+      "to": 184.6,
+      "sid": 66,
+      "location": 2,
+      "content": "它是一个转换型的",
+      "music": 0.0
+    },
+    {
+      "from": 184.859,
+      "to": 187.379,
+      "sid": 67,
+      "location": 2,
+      "content": "这个呢也是两组两组",
+      "music": 0.0
+    },
+    {
+      "from": 187.379,
+      "to": 188.819,
+      "sid": 68,
+      "location": 2,
+      "content": "它都是常开心的",
+      "music": 0.0
+    },
+    {
+      "from": 188.819,
+      "to": 191.079,
+      "sid": 69,
+      "location": 2,
+      "content": "这个是两组转换型的",
+      "music": 0.0
+    },
+    {
+      "from": 191.079,
+      "to": 194.319,
+      "sid": 70,
+      "location": 2,
+      "content": "这就是继电器的一些基本表示方法",
+      "music": 0.0
+    },
+    {
+      "from": 194.319,
+      "to": 197.949,
+      "sid": 71,
+      "location": 2,
+      "content": "以及最常见的继电器的一个工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 197.949,
+      "to": 201.62,
+      "sid": 72,
+      "location": 2,
+      "content": "和继电器在电路当中的一个作用",
+      "music": 0.0
+    },
+    {
+      "from": 202.899,
+      "to": 206.22,
+      "sid": 73,
+      "location": 2,
+      "content": "下一步呢我们来看一下继电器的分类",
+      "music": 0.0
+    },
+    {
+      "from": 206.22,
+      "to": 207.96,
+      "sid": 74,
+      "location": 2,
+      "content": "对于继电器的分类",
+      "music": 0.0
+    },
+    {
+      "from": 207.96,
+      "to": 210.18,
+      "sid": 75,
+      "location": 2,
+      "content": "根据他的动作原理不同",
+      "music": 0.0
+    },
+    {
+      "from": 210.18,
+      "to": 212.29,
+      "sid": 76,
+      "location": 2,
+      "content": "我们可以分为不同的类别",
+      "music": 0.0
+    },
+    {
+      "from": 212.29,
+      "to": 214.27,
+      "sid": 77,
+      "location": 2,
+      "content": "比如说电磁式继电器",
+      "music": 0.0
+    },
+    {
+      "from": 214.27,
+      "to": 215.95,
+      "sid": 78,
+      "location": 2,
+      "content": "我们刚才已经讲过了",
+      "music": 0.0
+    },
+    {
+      "from": 215.95,
+      "to": 218.11,
+      "sid": 79,
+      "location": 2,
+      "content": "还有一种感应式继电器",
+      "music": 0.0
+    },
+    {
+      "from": 218.11,
+      "to": 220.66,
+      "sid": 80,
+      "location": 2,
+      "content": "这种感应就可以分为很多种",
+      "music": 0.0
+    },
+    {
+      "from": 220.66,
+      "to": 223.12,
+      "sid": 81,
+      "location": 2,
+      "content": "比如说光感应是吧",
+      "music": 0.0
+    },
+    {
+      "from": 223.12,
+      "to": 225.22,
+      "sid": 82,
+      "location": 2,
+      "content": "还有电子式继电器",
+      "music": 0.0
+    },
+    {
+      "from": 225.22,
+      "to": 227.8,
+      "sid": 83,
+      "location": 2,
+      "content": "还有热效应式继电器啊",
+      "music": 0.0
+    },
+    {
+      "from": 227.8,
+      "to": 229.92,
+      "sid": 84,
+      "location": 2,
+      "content": "通过热通过热量",
+      "music": 0.0
+    },
+    {
+      "from": 229.92,
+      "to": 234.21,
+      "sid": 85,
+      "location": 2,
+      "content": "使它的那些机械材质发生张力的一个变化",
+      "music": 0.0
+    },
+    {
+      "from": 234.21,
+      "to": 239.71,
+      "sid": 86,
+      "location": 2,
+      "content": "同时啊使得这个继电器开导通或者是闭合",
+      "music": 0.0
+    },
+    {
+      "from": 239.71,
+      "to": 242.47,
+      "sid": 87,
+      "location": 2,
+      "content": "还有一种就是气动式继电器",
+      "music": 0.0
+    },
+    {
+      "from": 242.47,
+      "to": 244.56,
+      "sid": 88,
+      "location": 2,
+      "content": "还有电动机式继电器",
+      "music": 0.0
+    },
+    {
+      "from": 244.56,
+      "to": 246.96,
+      "sid": 89,
+      "location": 2,
+      "content": "其实最常用的这个电磁式继电器",
+      "music": 0.0
+    },
+    {
+      "from": 246.96,
+      "to": 249.22,
+      "sid": 90,
+      "location": 2,
+      "content": "我们刚才前面已经讲过了",
+      "music": 0.0
+    },
+    {
+      "from": 249.22,
+      "to": 251.32,
+      "sid": 91,
+      "location": 2,
+      "content": "这个电磁式继电器呢",
+      "music": 0.0
+    },
+    {
+      "from": 251.32,
+      "to": 254.62,
+      "sid": 92,
+      "location": 2,
+      "content": "其实也又可以分为交流和直流两种",
+      "music": 0.0
+    },
+    {
+      "from": 255.48,
+      "to": 258.38,
+      "sid": 93,
+      "location": 2,
+      "content": "对于电磁式继电器的这个交流和直流",
+      "music": 0.0
+    },
+    {
+      "from": 258.38,
+      "to": 259.34,
+      "sid": 94,
+      "location": 2,
+      "content": "这两种分类呢",
+      "music": 0.0
+    },
+    {
+      "from": 259.34,
+      "to": 266.54,
+      "sid": 95,
+      "location": 2,
+      "content": "主要是根据通过线圈上这个嗯电的种类",
+      "music": 0.0
+    },
+    {
+      "from": 266.54,
+      "to": 267.74,
+      "sid": 96,
+      "location": 2,
+      "content": "比如说是交流电",
+      "music": 0.0
+    },
+    {
+      "from": 267.74,
+      "to": 270.02,
+      "sid": 97,
+      "location": 2,
+      "content": "通过线吸引线圈还是直流电",
+      "music": 0.0
+    },
+    {
+      "from": 270.02,
+      "to": 272.71,
+      "sid": 98,
+      "location": 2,
+      "content": "通过吸引线圈来进行分类的",
+      "music": 0.0
+    },
+    {
+      "from": 272.71,
+      "to": 273.64,
+      "sid": 99,
+      "location": 2,
+      "content": "来分配",
+      "music": 0.0
+    },
+    {
+      "from": 273.64,
+      "to": 276.31,
+      "sid": 100,
+      "location": 2,
+      "content": "交流式继电器和直流式继电器",
+      "music": 0.0
+    },
+    {
+      "from": 276.31,
+      "to": 280.15,
+      "sid": 101,
+      "location": 2,
+      "content": "在控制系统当中使用继电器的种类比较多",
+      "music": 0.0
+    },
+    {
+      "from": 280.15,
+      "to": 282.61,
+      "sid": 102,
+      "location": 2,
+      "content": "但是经常用到的由下面的几种",
+      "music": 0.0
+    },
+    {
+      "from": 282.61,
+      "to": 285.09,
+      "sid": 103,
+      "location": 2,
+      "content": "比如说电压和电流继电器",
+      "music": 0.0
+    },
+    {
+      "from": 285.09,
+      "to": 288.82,
+      "sid": 104,
+      "location": 2,
+      "content": "时间继电器以及中间继电器",
+      "music": 0.0
+    },
+    {
+      "from": 290.02,
+      "to": 294.03,
+      "sid": 105,
+      "location": 2,
+      "content": "下面我们就着重从这几个常见的继电器当中",
+      "music": 0.0
+    },
+    {
+      "from": 294.03,
+      "to": 297.34,
+      "sid": 106,
+      "location": 2,
+      "content": "来给大家介绍一下简单的概念",
+      "music": 0.0
+    },
+    {
+      "from": 300.139,
+      "to": 302.919,
+      "sid": 107,
+      "location": 2,
+      "content": "首先我们来看一下这个电压",
+      "music": 0.0
+    },
+    {
+      "from": 302.919,
+      "to": 304.27,
+      "sid": 108,
+      "location": 2,
+      "content": "电流是继电器",
+      "music": 0.0
+    },
+    {
+      "from": 304.27,
+      "to": 306.34,
+      "sid": 109,
+      "location": 2,
+      "content": "电压电流是继电器",
+      "music": 0.0
+    },
+    {
+      "from": 306.34,
+      "to": 309.98,
+      "sid": 110,
+      "location": 2,
+      "content": "它实际上是电磁式继电器当中的一种",
+      "music": 0.0
+    },
+    {
+      "from": 311.02,
+      "to": 313.44,
+      "sid": 111,
+      "location": 2,
+      "content": "它都属于电磁式继电器",
+      "music": 0.0
+    },
+    {
+      "from": 315.04,
+      "to": 317.25,
+      "sid": 112,
+      "location": 2,
+      "content": "它是用在哪里呢",
+      "music": 0.0
+    },
+    {
+      "from": 317.25,
+      "to": 320.46,
+      "sid": 113,
+      "location": 2,
+      "content": "主要是看在电动机控制系统当中",
+      "music": 0.0
+    },
+    {
+      "from": 320.56,
+      "to": 324.22,
+      "sid": 114,
+      "location": 2,
+      "content": "当需要监视电动机的负载状态的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 324.22,
+      "to": 326.38,
+      "sid": 115,
+      "location": 2,
+      "content": "负电动这个负载过大呀",
+      "music": 0.0
+    },
+    {
+      "from": 326.38,
+      "to": 328.299,
+      "sid": 116,
+      "location": 2,
+      "content": "或者是发生短路的时候呀",
+      "music": 0.0
+    },
+    {
+      "from": 328.299,
+      "to": 330.129,
+      "sid": 117,
+      "location": 2,
+      "content": "呃应该自动脱离电源",
+      "music": 0.0
+    },
+    {
+      "from": 330.129,
+      "to": 333.039,
+      "sid": 118,
+      "location": 2,
+      "content": "这个时候呢就是可以用到这个电流继电器",
+      "music": 0.0
+    },
+    {
+      "from": 333.039,
+      "to": 333.759,
+      "sid": 119,
+      "location": 2,
+      "content": "电流继电器",
+      "music": 0.0
+    },
+    {
+      "from": 333.759,
+      "to": 336.42,
+      "sid": 120,
+      "location": 2,
+      "content": "它可以反映出这个负载电流的变化来",
+      "music": 0.0
+    },
+    {
+      "from": 336.76,
+      "to": 338.8,
+      "sid": 121,
+      "location": 2,
+      "content": "因为这个电压和电流继电器",
+      "music": 0.0
+    },
+    {
+      "from": 338.8,
+      "to": 340.48,
+      "sid": 122,
+      "location": 2,
+      "content": "它都属于电磁式继电器",
+      "music": 0.0
+    },
+    {
+      "from": 340.48,
+      "to": 344.56,
+      "sid": 123,
+      "location": 2,
+      "content": "所以说他们那个原理和动他们那个动作原理啊",
+      "music": 0.0
+    },
+    {
+      "from": 344.56,
+      "to": 348.0,
+      "sid": 124,
+      "location": 2,
+      "content": "和那个接触器基本上是相同的",
+      "music": 0.0
+    },
+    {
+      "from": 348.0,
+      "to": 350.26,
+      "sid": 125,
+      "location": 2,
+      "content": "但是它没有灭弧装置啊",
+      "music": 0.0
+    },
+    {
+      "from": 351.06,
+      "to": 353.25,
+      "sid": 126,
+      "location": 2,
+      "content": "那么有人就问了",
+      "music": 0.0
+    },
+    {
+      "from": 353.25,
+      "to": 356.43,
+      "sid": 127,
+      "location": 2,
+      "content": "这个电压和电流是继电器",
+      "music": 0.0
+    },
+    {
+      "from": 356.43,
+      "to": 357.99,
+      "sid": 128,
+      "location": 2,
+      "content": "它们有什么区别呀",
+      "music": 0.0
+    },
+    {
+      "from": 357.99,
+      "to": 362.22,
+      "sid": 129,
+      "location": 2,
+      "content": "其实它们的区别主要在线圈上嗯",
+      "music": 0.0
+    },
+    {
+      "from": 362.22,
+      "to": 366.78,
+      "sid": 130,
+      "location": 2,
+      "content": "当这个线圈它属于多匝数小电流的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 366.78,
+      "to": 368.65,
+      "sid": 131,
+      "location": 2,
+      "content": "它就属于低压式继电器",
+      "music": 0.0
+    },
+    {
+      "from": 368.65,
+      "to": 371.29,
+      "sid": 132,
+      "location": 2,
+      "content": "当属于少打出大电流的线圈呢",
+      "music": 0.0
+    },
+    {
+      "from": 371.29,
+      "to": 372.94,
+      "sid": 133,
+      "location": 2,
+      "content": "就属于电流是继电器",
+      "music": 0.0
+    },
+    {
+      "from": 372.94,
+      "to": 374.56,
+      "sid": 134,
+      "location": 2,
+      "content": "那么电压是继电器呢",
+      "music": 0.0
+    },
+    {
+      "from": 374.56,
+      "to": 375.88,
+      "sid": 135,
+      "location": 2,
+      "content": "它的导线面积比较小",
+      "music": 0.0
+    },
+    {
+      "from": 375.88,
+      "to": 377.02,
+      "sid": 136,
+      "location": 2,
+      "content": "而电流是继电器呢",
+      "music": 0.0
+    },
+    {
+      "from": 377.02,
+      "to": 378.62,
+      "sid": 137,
+      "location": 2,
+      "content": "它的导线面积比较大",
+      "music": 0.0
+    },
+    {
+      "from": 380.6,
+      "to": 383.98,
+      "sid": 138,
+      "location": 2,
+      "content": "如果我们在同对于同一系列的继电器",
+      "music": 0.0
+    },
+    {
+      "from": 383.98,
+      "to": 386.91,
+      "sid": 139,
+      "location": 2,
+      "content": "想呃更改这个线圈啊",
+      "music": 0.0
+    },
+    {
+      "from": 386.91,
+      "to": 388.29,
+      "sid": 140,
+      "location": 2,
+      "content": "更改线圈之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 388.29,
+      "to": 390.99,
+      "sid": 141,
+      "location": 2,
+      "content": "我们就可以用不同的电压和电流电路",
+      "music": 0.0
+    },
+    {
+      "from": 390.99,
+      "to": 393.93,
+      "sid": 142,
+      "location": 2,
+      "content": "这就是电压和电流继电器",
+      "music": 0.0
+    },
+    {
+      "from": 393.93,
+      "to": 396.36,
+      "sid": 143,
+      "location": 2,
+      "content": "那么下面来看一下时间继电器",
+      "music": 0.0
+    },
+    {
+      "from": 396.36,
+      "to": 398.52,
+      "sid": 144,
+      "location": 2,
+      "content": "时间继电器呢用在哪呢",
+      "music": 0.0
+    },
+    {
+      "from": 398.52,
+      "to": 401.42,
+      "sid": 145,
+      "location": 2,
+      "content": "就是为了达到某种控制的顺序",
+      "music": 0.0
+    },
+    {
+      "from": 402.3,
+      "to": 405.11,
+      "sid": 146,
+      "location": 2,
+      "content": "经常会用到一些时间继电器",
+      "music": 0.0
+    },
+    {
+      "from": 405.11,
+      "to": 410.34,
+      "sid": 147,
+      "location": 2,
+      "content": "来使他的那个动作得到一定的延缓",
+      "music": 0.0
+    },
+    {
+      "from": 411.4,
+      "to": 414.82,
+      "sid": 148,
+      "location": 2,
+      "content": "比如说我们在顺序切除啊",
+      "music": 0.0
+    },
+    {
+      "from": 414.82,
+      "to": 415.66,
+      "sid": 149,
+      "location": 2,
+      "content": "绕线转子",
+      "music": 0.0
+    },
+    {
+      "from": 415.66,
+      "to": 418.72,
+      "sid": 150,
+      "location": 2,
+      "content": "电动机转子中的各段启动电阻的时候",
+      "music": 0.0
+    },
+    {
+      "from": 418.72,
+      "to": 421.28,
+      "sid": 151,
+      "location": 2,
+      "content": "就会用到这个时间继电器",
+      "music": 0.0
+    },
+    {
+      "from": 421.52,
+      "to": 423.74,
+      "sid": 152,
+      "location": 2,
+      "content": "时间继电器的特点就是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 423.74,
+      "to": 424.58,
+      "sid": 153,
+      "location": 2,
+      "content": "得到控制信号",
+      "music": 0.0
+    },
+    {
+      "from": 424.58,
+      "to": 426.2,
+      "sid": 154,
+      "location": 2,
+      "content": "我并不立即改变",
+      "music": 0.0
+    },
+    {
+      "from": 426.2,
+      "to": 428.13,
+      "sid": 155,
+      "location": 2,
+      "content": "而是经过一段时间的延时",
+      "music": 0.0
+    },
+    {
+      "from": 428.13,
+      "to": 430.77,
+      "sid": 156,
+      "location": 2,
+      "content": "我的这个触点才会闭合或者是断开",
+      "music": 0.0
+    },
+    {
+      "from": 430.77,
+      "to": 432.51,
+      "sid": 157,
+      "location": 2,
+      "content": "因此呢这个时间继电器",
+      "music": 0.0
+    },
+    {
+      "from": 432.51,
+      "to": 435.23,
+      "sid": 158,
+      "location": 2,
+      "content": "我们经常叫做是延时继电器",
+      "music": 0.0
+    },
+    {
+      "from": 435.23,
+      "to": 438.47,
+      "sid": 159,
+      "location": 2,
+      "content": "这个延时继电器呢它根据他的动作原理不同了",
+      "music": 0.0
+    },
+    {
+      "from": 438.47,
+      "to": 440.03,
+      "sid": 160,
+      "location": 2,
+      "content": "也会分为很多形式",
+      "music": 0.0
+    },
+    {
+      "from": 440.03,
+      "to": 441.08,
+      "sid": 161,
+      "location": 2,
+      "content": "比如说电磁式",
+      "music": 0.0
+    },
+    {
+      "from": 441.08,
+      "to": 442.37,
+      "sid": 162,
+      "location": 2,
+      "content": "电子式机",
+      "music": 0.0
+    },
+    {
+      "from": 442.37,
+      "to": 444.32,
+      "sid": 163,
+      "location": 2,
+      "content": "气动式等等",
+      "music": 0.0
+    },
+    {
+      "from": 444.32,
+      "to": 447.53,
+      "sid": 164,
+      "location": 2,
+      "content": "用的比较多的就是直流电磁式时间继电器",
+      "music": 0.0
+    },
+    {
+      "from": 447.53,
+      "to": 449.419,
+      "sid": 165,
+      "location": 2,
+      "content": "和空气式时间继电器",
+      "music": 0.0
+    },
+    {
+      "from": 449.419,
+      "to": 452.239,
+      "sid": 166,
+      "location": 2,
+      "content": "对于直流电磁式时间继电器啊",
+      "music": 0.0
+    },
+    {
+      "from": 452.239,
+      "to": 456.799,
+      "sid": 167,
+      "location": 2,
+      "content": "它的工作原理和那个刚才我们讲的这个直流电",
+      "music": 0.0
+    },
+    {
+      "from": 456.799,
+      "to": 460.53,
+      "sid": 168,
+      "location": 2,
+      "content": "磁是电压继电器啊",
+      "music": 0.0
+    },
+    {
+      "from": 460.53,
+      "to": 463.34,
+      "sid": 169,
+      "location": 2,
+      "content": "它结构上实际上是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 464.58,
+      "to": 466.28,
+      "sid": 170,
+      "location": 2,
+      "content": "但是需要注意的一点",
+      "music": 0.0
+    },
+    {
+      "from": 466.28,
+      "to": 468.159,
+      "sid": 171,
+      "location": 2,
+      "content": "它这个延时是在哪里啊",
+      "music": 0.0
+    },
+    {
+      "from": 468.159,
+      "to": 469.539,
+      "sid": 172,
+      "location": 2,
+      "content": "我们通电之后",
+      "music": 0.0
+    },
+    {
+      "from": 469.539,
+      "to": 471.789,
+      "sid": 173,
+      "location": 2,
+      "content": "它这个激励电流是很快建立的",
+      "music": 0.0
+    },
+    {
+      "from": 471.789,
+      "to": 475.8,
+      "sid": 174,
+      "location": 2,
+      "content": "这个衔接卡就吸合了这个继电器触点",
+      "music": 0.0
+    },
+    {
+      "from": 476.42,
+      "to": 480.759,
+      "sid": 175,
+      "location": 2,
+      "content": "继电器触点这块他是呃立即改变它的状态",
+      "music": 0.0
+    },
+    {
+      "from": 480.759,
+      "to": 482.739,
+      "sid": 176,
+      "location": 2,
+      "content": "也就是说它这个吸和过程",
+      "music": 0.0
+    },
+    {
+      "from": 482.739,
+      "to": 485.71,
+      "sid": 177,
+      "location": 2,
+      "content": "实际上是和电压继电器是基本上相同的",
+      "music": 0.0
+    },
+    {
+      "from": 485.71,
+      "to": 489.31,
+      "sid": 178,
+      "location": 2,
+      "content": "那在这里并没有反映反映出这个继电器的延时",
+      "music": 0.0
+    },
+    {
+      "from": 489.31,
+      "to": 490.75,
+      "sid": 179,
+      "location": 2,
+      "content": "继电器的延时是在哪呢",
+      "music": 0.0
+    },
+    {
+      "from": 490.75,
+      "to": 492.99,
+      "sid": 180,
+      "location": 2,
+      "content": "实际上是在这个线圈断电之后",
+      "music": 0.0
+    },
+    {
+      "from": 492.99,
+      "to": 494.88,
+      "sid": 181,
+      "location": 2,
+      "content": "当我的线圈断电之后",
+      "music": 0.0
+    },
+    {
+      "from": 494.88,
+      "to": 498.12,
+      "sid": 182,
+      "location": 2,
+      "content": "那我铁心当中的磁通比较将衰减",
+      "music": 0.0
+    },
+    {
+      "from": 498.12,
+      "to": 500.61,
+      "sid": 183,
+      "location": 2,
+      "content": "那么由于我里边有一个铜套的存在啊",
+      "music": 0.0
+    },
+    {
+      "from": 500.61,
+      "to": 503.96,
+      "sid": 184,
+      "location": 2,
+      "content": "它这个磁通的变化",
+      "music": 0.0
+    },
+    {
+      "from": 503.96,
+      "to": 508.569,
+      "sid": 185,
+      "location": 2,
+      "content": "是在这个同套当中产生感应电动势的",
+      "music": 0.0
+    },
+    {
+      "from": 508.569,
+      "to": 512.46,
+      "sid": 186,
+      "location": 2,
+      "content": "那么并不会产生电流阻止这个刺痛的变化",
+      "music": 0.0
+    },
+    {
+      "from": 512.46,
+      "to": 515.53,
+      "sid": 187,
+      "location": 2,
+      "content": "这时候呢铁血中的刺痛并不会很快的消失",
+      "music": 0.0
+    },
+    {
+      "from": 515.53,
+      "to": 517.81,
+      "sid": 188,
+      "location": 2,
+      "content": "它会就是慢慢的消失",
+      "music": 0.0
+    },
+    {
+      "from": 517.81,
+      "to": 518.65,
+      "sid": 189,
+      "location": 2,
+      "content": "当它消失",
+      "music": 0.0
+    },
+    {
+      "from": 518.65,
+      "to": 521.99,
+      "sid": 190,
+      "location": 2,
+      "content": "对应于当它这个磁头下降到一定程度的时候",
+      "music": 0.0
+    },
+    {
+      "from": 521.99,
+      "to": 524.99,
+      "sid": 191,
+      "location": 2,
+      "content": "他这个弦体才从吸合状态断开",
+      "music": 0.0
+    },
+    {
+      "from": 524.99,
+      "to": 528.56,
+      "sid": 192,
+      "location": 2,
+      "content": "这时候我的继电器才会释放出点状态就改变了",
+      "music": 0.0
+    },
+    {
+      "from": 528.56,
+      "to": 530.51,
+      "sid": 193,
+      "location": 2,
+      "content": "所以说它的吸核是瞬间的",
+      "music": 0.0
+    },
+    {
+      "from": 530.51,
+      "to": 532.67,
+      "sid": 194,
+      "location": 2,
+      "content": "而它的释放是得到延时的",
+      "music": 0.0
+    },
+    {
+      "from": 532.67,
+      "to": 537.73,
+      "sid": 195,
+      "location": 2,
+      "content": "这就是直流电磁式时间继电器的一个特点",
+      "music": 0.0
+    },
+    {
+      "from": 537.73,
+      "to": 539.56,
+      "sid": 196,
+      "location": 2,
+      "content": "所以说我们在选择它的时候",
+      "music": 0.0
+    },
+    {
+      "from": 539.56,
+      "to": 540.859,
+      "sid": 197,
+      "location": 2,
+      "content": "要必须注意",
+      "music": 0.0
+    },
+    {
+      "from": 545.28,
+      "to": 549.52,
+      "sid": 198,
+      "location": 2,
+      "content": "还有一个呢就是空气式时间继电器",
+      "music": 0.0
+    },
+    {
+      "from": 552.56,
+      "to": 554.62,
+      "sid": 199,
+      "location": 2,
+      "content": "这个空气是时间继电器啊",
+      "music": 0.0
+    },
+    {
+      "from": 554.62,
+      "to": 558.579,
+      "sid": 200,
+      "location": 2,
+      "content": "它的延时触点是由空气室中的气动机",
+      "music": 0.0
+    },
+    {
+      "from": 558.579,
+      "to": 561.099,
+      "sid": 201,
+      "location": 2,
+      "content": "气动机构带带带动的",
+      "music": 0.0
+    },
+    {
+      "from": 561.099,
+      "to": 565.61,
+      "sid": 202,
+      "location": 2,
+      "content": "他的那个延时的长短是靠转动调节头",
+      "music": 0.0
+    },
+    {
+      "from": 567.05,
+      "to": 570.12,
+      "sid": 203,
+      "location": 2,
+      "content": "改变进入空气时的空气量来达到的",
+      "music": 0.0
+    },
+    {
+      "from": 571.22,
+      "to": 574.66,
+      "sid": 204,
+      "location": 2,
+      "content": "这个呢跟这个我们前面讲的这个电磁式",
+      "music": 0.0
+    },
+    {
+      "from": 574.66,
+      "to": 577.18,
+      "sid": 205,
+      "location": 2,
+      "content": "时间继电器又是有所不同的",
+      "music": 0.0
+    },
+    {
+      "from": 578.76,
+      "to": 581.66,
+      "sid": 206,
+      "location": 2,
+      "content": "我们下面来看一下中间继电器",
+      "music": 0.0
+    },
+    {
+      "from": 581.66,
+      "to": 584.9,
+      "sid": 207,
+      "location": 2,
+      "content": "中间继电器呢实际上就是啊",
+      "music": 0.0
+    },
+    {
+      "from": 584.9,
+      "to": 588.56,
+      "sid": 208,
+      "location": 2,
+      "content": "为了增加被控制线路的数量",
+      "music": 0.0
+    },
+    {
+      "from": 589.98,
+      "to": 592.819,
+      "sid": 209,
+      "location": 2,
+      "content": "或者是加大触点允许的断开容量",
+      "music": 0.0
+    },
+    {
+      "from": 593.46,
+      "to": 596.54,
+      "sid": 210,
+      "location": 2,
+      "content": "以达到分配控制信号和功率放大的目的",
+      "music": 0.0
+    },
+    {
+      "from": 596.54,
+      "to": 599.9,
+      "sid": 211,
+      "location": 2,
+      "content": "而中间继电器呢也分为交交直流两种了",
+      "music": 0.0
+    },
+    {
+      "from": 600.58,
+      "to": 602.64,
+      "sid": 212,
+      "location": 2,
+      "content": "它的一般的出点数目比较多",
+      "music": 0.0
+    },
+    {
+      "from": 602.64,
+      "to": 604.2,
+      "sid": 213,
+      "location": 2,
+      "content": "这就是它的一个图片",
+      "music": 0.0
+    },
+    {
+      "from": 604.2,
+      "to": 606.44,
+      "sid": 214,
+      "location": 2,
+      "content": "大家可以认识一下嗯",
+      "music": 0.0
+    },
+    {
+      "from": 606.44,
+      "to": 608.54,
+      "sid": 215,
+      "location": 2,
+      "content": "对于我们刚才讲的这三种继电器呢",
+      "music": 0.0
+    },
+    {
+      "from": 608.54,
+      "to": 610.46,
+      "sid": 216,
+      "location": 2,
+      "content": "大家做一下简单的了解",
+      "music": 0.0
+    },
+    {
+      "from": 610.46,
+      "to": 614.06,
+      "sid": 217,
+      "location": 2,
+      "content": "实际上除了电磁式继电器的其他继电器呢",
+      "music": 0.0
+    },
+    {
+      "from": 614.06,
+      "to": 617.65,
+      "sid": 218,
+      "location": 2,
+      "content": "我们通常是在电器电路当中用的比较多一点啊",
+      "music": 0.0
+    },
+    {
+      "from": 617.65,
+      "to": 621.31,
+      "sid": 219,
+      "location": 2,
+      "content": "所以说我们在这里只讲一些概念性的东西",
+      "music": 0.0
+    },
+    {
+      "from": 621.31,
+      "to": 623.6,
+      "sid": 220,
+      "location": 2,
+      "content": "大家先了解一下就好",
+      "music": 0.0
+    },
+    {
+      "from": 623.6,
+      "to": 626.24,
+      "sid": 221,
+      "location": 2,
+      "content": "大家主要是对这个电磁式继电器",
+      "music": 0.0
+    },
+    {
+      "from": 626.24,
+      "to": 628.859,
+      "sid": 222,
+      "location": 2,
+      "content": "有一个深入的理解就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 629.5,
+      "to": 632.52,
+      "sid": 223,
+      "location": 2,
+      "content": "下面我们来看一下在这个逻辑电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 632.52,
+      "to": 635.7,
+      "sid": 224,
+      "location": 2,
+      "content": "这个继电器是实如何实现与或非的",
+      "music": 0.0
+    },
+    {
+      "from": 635.7,
+      "to": 637.08,
+      "sid": 225,
+      "location": 2,
+      "content": "对于这个与或非呢",
+      "music": 0.0
+    },
+    {
+      "from": 637.08,
+      "to": 641.7,
+      "sid": 226,
+      "location": 2,
+      "content": "我们会在后面的电路当中进行一个讲解啊",
+      "music": 0.0
+    },
+    {
+      "from": 641.7,
+      "to": 644.94,
+      "sid": 227,
+      "location": 2,
+      "content": "不妨我们现在先来看一下这个语文啊",
+      "music": 0.0
+    },
+    {
+      "from": 644.94,
+      "to": 648.33,
+      "sid": 228,
+      "location": 2,
+      "content": "他因为与或非是一个简单的这个逻辑门啊",
+      "music": 0.0
+    },
+    {
+      "from": 648.33,
+      "to": 650.96,
+      "sid": 229,
+      "location": 2,
+      "content": "我们先来看一下雨语文",
+      "music": 0.0
+    },
+    {
+      "from": 650.96,
+      "to": 652.8,
+      "sid": 230,
+      "location": 2,
+      "content": "实际上它就是",
+      "music": 0.0
+    },
+    {
+      "from": 655.12,
+      "to": 658.38,
+      "sid": 231,
+      "location": 2,
+      "content": "与运算也就是同为真的时候才为真",
+      "music": 0.0
+    },
+    {
+      "from": 658.38,
+      "to": 659.94,
+      "sid": 232,
+      "location": 2,
+      "content": "近似于乘法运算",
+      "music": 0.0
+    },
+    {
+      "from": 659.94,
+      "to": 661.29,
+      "sid": 233,
+      "location": 2,
+      "content": "看一下语文",
+      "music": 0.0
+    },
+    {
+      "from": 661.29,
+      "to": 663.87,
+      "sid": 234,
+      "location": 2,
+      "content": "比如说a和b a与b",
+      "music": 0.0
+    },
+    {
+      "from": 663.87,
+      "to": 668.26,
+      "sid": 235,
+      "location": 2,
+      "content": "a与b如果a和b都是零的时候",
+      "music": 0.0
+    },
+    {
+      "from": 668.26,
+      "to": 669.9,
+      "sid": 236,
+      "location": 2,
+      "content": "那么雨就是零",
+      "music": 0.0
+    },
+    {
+      "from": 670.62,
+      "to": 672.14,
+      "sid": 237,
+      "location": 2,
+      "content": "一零也是零",
+      "music": 0.0
+    },
+    {
+      "from": 672.14,
+      "to": 673.07,
+      "sid": 238,
+      "location": 2,
+      "content": "零一也是零",
+      "music": 0.0
+    },
+    {
+      "from": 673.07,
+      "to": 675.8,
+      "sid": 239,
+      "location": 2,
+      "content": "只有两个同时为一的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 675.8,
+      "to": 676.58,
+      "sid": 240,
+      "location": 2,
+      "content": "它才为一",
+      "music": 0.0
+    },
+    {
+      "from": 676.58,
+      "to": 678.03,
+      "sid": 241,
+      "location": 2,
+      "content": "这就是与运算",
+      "music": 0.0
+    },
+    {
+      "from": 678.03,
+      "to": 683.58,
+      "sid": 242,
+      "location": 2,
+      "content": "那么或运算或运算就是同为假时才为假",
+      "music": 0.0
+    },
+    {
+      "from": 683.58,
+      "to": 685.14,
+      "sid": 243,
+      "location": 2,
+      "content": "就有一个唯一的时候",
+      "music": 0.0
+    },
+    {
+      "from": 685.14,
+      "to": 686.04,
+      "sid": 244,
+      "location": 2,
+      "content": "我也是一",
+      "music": 0.0
+    },
+    {
+      "from": 686.04,
+      "to": 687.39,
+      "sid": 245,
+      "location": 2,
+      "content": "我们可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 687.39,
+      "to": 689.02,
+      "sid": 246,
+      "location": 2,
+      "content": "两个都是零的时候",
+      "music": 0.0
+    },
+    {
+      "from": 689.36,
+      "to": 691.41,
+      "sid": 247,
+      "location": 2,
+      "content": "a或b才是零",
+      "music": 0.0
+    },
+    {
+      "from": 691.41,
+      "to": 696.18,
+      "sid": 248,
+      "location": 2,
+      "content": "然后当下面a和b当中任何一个唯一的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 696.18,
+      "to": 698.91,
+      "sid": 249,
+      "location": 2,
+      "content": "那么我的或a或b都是一",
+      "music": 0.0
+    },
+    {
+      "from": 698.91,
+      "to": 701.01,
+      "sid": 250,
+      "location": 2,
+      "content": "这就是或运算",
+      "music": 0.0
+    },
+    {
+      "from": 701.01,
+      "to": 705.37,
+      "sid": 251,
+      "location": 2,
+      "content": "那么还有一个呢就是呃非运算",
+      "music": 0.0
+    },
+    {
+      "from": 705.37,
+      "to": 708.879,
+      "sid": 252,
+      "location": 2,
+      "content": "非运算实际上就是取反",
+      "music": 0.0
+    },
+    {
+      "from": 708.879,
+      "to": 710.919,
+      "sid": 253,
+      "location": 2,
+      "content": "非运算实际上就是取反啊",
+      "music": 0.0
+    },
+    {
+      "from": 710.919,
+      "to": 713.769,
+      "sid": 254,
+      "location": 2,
+      "content": "非运算非运算我们这里没有非运算",
+      "music": 0.0
+    },
+    {
+      "from": 713.769,
+      "to": 715.26,
+      "sid": 255,
+      "location": 2,
+      "content": "实际上就是一个取反",
+      "music": 0.0
+    },
+    {
+      "from": 715.28,
+      "to": 717.29,
+      "sid": 256,
+      "location": 2,
+      "content": "就是a啊",
+      "music": 0.0
+    },
+    {
+      "from": 717.29,
+      "to": 721.42,
+      "sid": 257,
+      "location": 2,
+      "content": "c或运算与或非非运算",
+      "music": 0.0
+    },
+    {
+      "from": 721.42,
+      "to": 723.19,
+      "sid": 258,
+      "location": 2,
+      "content": "非运算对非运算",
+      "music": 0.0
+    },
+    {
+      "from": 723.19,
+      "to": 724.68,
+      "sid": 259,
+      "location": 2,
+      "content": "如果它是一个低",
+      "music": 0.0
+    },
+    {
+      "from": 724.84,
+      "to": 725.86,
+      "sid": 260,
+      "location": 2,
+      "content": "然后是零",
+      "music": 0.0
+    },
+    {
+      "from": 725.86,
+      "to": 728.08,
+      "sid": 261,
+      "location": 2,
+      "content": "然后它取非非运算",
+      "music": 0.0
+    },
+    {
+      "from": 728.08,
+      "to": 730.06,
+      "sid": 262,
+      "location": 2,
+      "content": "然后它就是一个一对吧",
+      "music": 0.0
+    },
+    {
+      "from": 730.54,
+      "to": 732.43,
+      "sid": 263,
+      "location": 2,
+      "content": "这就是一个非运算",
+      "music": 0.0
+    },
+    {
+      "from": 732.43,
+      "to": 734.95,
+      "sid": 264,
+      "location": 2,
+      "content": "我们来看一下它们在生产",
+      "music": 0.0
+    },
+    {
+      "from": 734.95,
+      "to": 736.9,
+      "sid": 265,
+      "location": 2,
+      "content": "实际的生产当中的应用",
+      "music": 0.0
+    },
+    {
+      "from": 736.9,
+      "to": 739.84,
+      "sid": 266,
+      "location": 2,
+      "content": "用这个继电器来实现与或非",
+      "music": 0.0
+    },
+    {
+      "from": 739.84,
+      "to": 741.97,
+      "sid": 267,
+      "location": 2,
+      "content": "我们来简单看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 741.97,
+      "to": 743.44,
+      "sid": 268,
+      "location": 2,
+      "content": "看一下这个电路",
+      "music": 0.0
+    },
+    {
+      "from": 743.44,
+      "to": 746.23,
+      "sid": 269,
+      "location": 2,
+      "content": "这个电路呢是有几个继电器啊",
+      "music": 0.0
+    },
+    {
+      "from": 746.23,
+      "to": 747.91,
+      "sid": 270,
+      "location": 2,
+      "content": "或者是说控制开关",
+      "music": 0.0
+    },
+    {
+      "from": 747.91,
+      "to": 749.71,
+      "sid": 271,
+      "location": 2,
+      "content": "我们把它理解成控制开关吧",
+      "music": 0.0
+    },
+    {
+      "from": 749.71,
+      "to": 750.73,
+      "sid": 272,
+      "location": 2,
+      "content": "sb一和sb 2",
+      "music": 0.0
+    },
+    {
+      "from": 750.73,
+      "to": 753.86,
+      "sid": 273,
+      "location": 2,
+      "content": "是两个控制开关和一个继电器线圈构成的",
+      "music": 0.0
+    },
+    {
+      "from": 753.86,
+      "to": 754.73,
+      "sid": 274,
+      "location": 2,
+      "content": "与逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 754.73,
+      "to": 756.83,
+      "sid": 275,
+      "location": 2,
+      "content": "只有当两个控制开关",
+      "music": 0.0
+    },
+    {
+      "from": 756.83,
+      "to": 761.67,
+      "sid": 276,
+      "location": 2,
+      "content": "sb一和sb 2同时都啊闭合的时候",
+      "music": 0.0
+    },
+    {
+      "from": 761.67,
+      "to": 764.94,
+      "sid": 277,
+      "location": 2,
+      "content": "我的这个继电器线圈这个km才会通电",
+      "music": 0.0
+    },
+    {
+      "from": 764.94,
+      "to": 767.11,
+      "sid": 278,
+      "location": 2,
+      "content": "继电器线圈通电之后",
+      "music": 0.0
+    },
+    {
+      "from": 767.11,
+      "to": 769.96,
+      "sid": 279,
+      "location": 2,
+      "content": "我的这个继电器才会动动作",
+      "music": 0.0
+    },
+    {
+      "from": 769.96,
+      "to": 771.85,
+      "sid": 280,
+      "location": 2,
+      "content": "因此呢在这个电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 771.85,
+      "to": 773.819,
+      "sid": 281,
+      "location": 2,
+      "content": "它是一个鱼的功能对吧",
+      "music": 0.0
+    },
+    {
+      "from": 774.68,
+      "to": 776.3,
+      "sid": 282,
+      "location": 2,
+      "content": "他是用这个",
+      "music": 0.0
+    },
+    {
+      "from": 777.98,
+      "to": 782.26,
+      "sid": 283,
+      "location": 2,
+      "content": "用这个开关跟这个线圈实现一个雨的功能",
+      "music": 0.0
+    },
+    {
+      "from": 782.26,
+      "to": 785.8,
+      "sid": 284,
+      "location": 2,
+      "content": "那么我来看一看或功能货功能呢",
+      "music": 0.0
+    },
+    {
+      "from": 785.8,
+      "to": 787.21,
+      "sid": 285,
+      "location": 2,
+      "content": "在这个电路当中体现",
+      "music": 0.0
+    },
+    {
+      "from": 787.21,
+      "to": 790.36,
+      "sid": 286,
+      "location": 2,
+      "content": "它是有几个继电器的常开触点",
+      "music": 0.0
+    },
+    {
+      "from": 790.36,
+      "to": 794.5,
+      "sid": 287,
+      "location": 2,
+      "content": "也就是ka一和ka 2是两个继电器的常开触点",
+      "music": 0.0
+    },
+    {
+      "from": 795.14,
+      "to": 797.68,
+      "sid": 288,
+      "location": 2,
+      "content": "和一个继电器的线圈串联在一起",
+      "music": 0.0
+    },
+    {
+      "from": 797.68,
+      "to": 799.48,
+      "sid": 289,
+      "location": 2,
+      "content": "构成的货逻辑电路",
+      "music": 0.0
+    },
+    {
+      "from": 799.48,
+      "to": 801.04,
+      "sid": 290,
+      "location": 2,
+      "content": "我们可以看出来",
+      "music": 0.0
+    },
+    {
+      "from": 801.04,
+      "to": 803.98,
+      "sid": 291,
+      "location": 2,
+      "content": "只有当这个呃两个触点",
+      "music": 0.0
+    },
+    {
+      "from": 803.98,
+      "to": 807.04,
+      "sid": 292,
+      "location": 2,
+      "content": "ka一和ka 2当中的任何一个闭合",
+      "music": 0.0
+    },
+    {
+      "from": 807.04,
+      "to": 809.819,
+      "sid": 293,
+      "location": 2,
+      "content": "才会使我的这个继电器线圈通电",
+      "music": 0.0
+    },
+    {
+      "from": 809.819,
+      "to": 812.52,
+      "sid": 294,
+      "location": 2,
+      "content": "我的继电器线圈才能够动作",
+      "music": 0.0
+    },
+    {
+      "from": 812.62,
+      "to": 815.5,
+      "sid": 295,
+      "location": 2,
+      "content": "这就是ka一和ka 2实现一个的",
+      "music": 0.0
+    },
+    {
+      "from": 815.5,
+      "to": 817.18,
+      "sid": 296,
+      "location": 2,
+      "content": "实现的一个货的功能",
+      "music": 0.0
+    },
+    {
+      "from": 817.18,
+      "to": 821.74,
+      "sid": 297,
+      "location": 2,
+      "content": "那么非呢对于非来讲是下面这个逻辑图",
+      "music": 0.0
+    },
+    {
+      "from": 823.0,
+      "to": 827.88,
+      "sid": 298,
+      "location": 2,
+      "content": "当我的这个控制开关sb闭合的时候",
+      "music": 0.0
+    },
+    {
+      "from": 828.9,
+      "to": 832.54,
+      "sid": 299,
+      "location": 2,
+      "content": "那么我的ka 1 ka一这个线圈是得电的",
+      "music": 0.0
+    },
+    {
+      "from": 832.54,
+      "to": 834.64,
+      "sid": 300,
+      "location": 2,
+      "content": "一旦ka一得电之后",
+      "music": 0.0
+    },
+    {
+      "from": 834.64,
+      "to": 836.62,
+      "sid": 301,
+      "location": 2,
+      "content": "那么我的这个继电器",
+      "music": 0.0
+    },
+    {
+      "from": 836.62,
+      "to": 838.81,
+      "sid": 302,
+      "location": 2,
+      "content": "ka一的这个长闭点就会断开",
+      "music": 0.0
+    },
+    {
+      "from": 838.81,
+      "to": 840.66,
+      "sid": 303,
+      "location": 2,
+      "content": "就会变成常开点",
+      "music": 0.0
+    },
+    {
+      "from": 842.24,
+      "to": 846.88,
+      "sid": 304,
+      "location": 2,
+      "content": "我的ka 11旦这个常闭点get变成常开点之后",
+      "music": 0.0
+    },
+    {
+      "from": 846.88,
+      "to": 849.939,
+      "sid": 305,
+      "location": 2,
+      "content": "那么我的线圈ka 2上就会断电",
+      "music": 0.0
+    },
+    {
+      "from": 850.86,
+      "to": 855.5,
+      "sid": 306,
+      "location": 2,
+      "content": "使得k2 复位k2 这样的这个这个就闭合了",
+      "music": 0.0
+    },
+    {
+      "from": 855.5,
+      "to": 856.79,
+      "sid": 307,
+      "location": 2,
+      "content": "它就复位了",
+      "music": 0.0
+    },
+    {
+      "from": 856.79,
+      "to": 857.72,
+      "sid": 308,
+      "location": 2,
+      "content": "所以说呢",
+      "music": 0.0
+    },
+    {
+      "from": 857.72,
+      "to": 862.63,
+      "sid": 309,
+      "location": 2,
+      "content": "这个触点sb和我的线圈k2 的状态是反的",
+      "music": 0.0
+    },
+    {
+      "from": 862.63,
+      "to": 864.719,
+      "sid": 310,
+      "location": 2,
+      "content": "我这一按他这就闭合了",
+      "music": 0.0
+    },
+    {
+      "from": 867.88,
+      "to": 870.12,
+      "sid": 311,
+      "location": 2,
+      "content": "线圈ka 2的状态是反的",
+      "music": 0.0
+    },
+    {
+      "from": 870.12,
+      "to": 871.54,
+      "sid": 312,
+      "location": 2,
+      "content": "具有飞的功能",
+      "music": 0.0
+    },
+    {
+      "from": 879.18,
+      "to": 881.24,
+      "sid": 313,
+      "location": 2,
+      "content": "啊他这是断开的",
+      "music": 0.0
+    },
+    {
+      "from": 881.24,
+      "to": 882.05,
+      "sid": 314,
+      "location": 2,
+      "content": "看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 882.05,
+      "to": 886.81,
+      "sid": 315,
+      "location": 2,
+      "content": "嗯k sb 1 b和ka一得电",
+      "music": 0.0
+    },
+    {
+      "from": 886.81,
+      "to": 889.069,
+      "sid": 316,
+      "location": 2,
+      "content": "ka一得电它就断电了",
+      "music": 0.0
+    },
+    {
+      "from": 889.069,
+      "to": 890.749,
+      "sid": 317,
+      "location": 2,
+      "content": "他一断电之后",
+      "music": 0.0
+    },
+    {
+      "from": 890.749,
+      "to": 892.069,
+      "sid": 318,
+      "location": 2,
+      "content": "k2 失电",
+      "music": 0.0
+    },
+    {
+      "from": 892.069,
+      "to": 894.849,
+      "sid": 319,
+      "location": 2,
+      "content": "这个ka 2这个就断开了",
+      "music": 0.0
+    },
+    {
+      "from": 894.849,
+      "to": 897.069,
+      "sid": 320,
+      "location": 2,
+      "content": "所以说对于这个状态来说",
+      "music": 0.0
+    },
+    {
+      "from": 899.409,
+      "to": 902.54,
+      "sid": 321,
+      "location": 2,
+      "content": "它俩是一个啊相反的状态",
+      "music": 0.0
+    },
+    {
+      "from": 902.54,
+      "to": 904.34,
+      "sid": 322,
+      "location": 2,
+      "content": "所以具有非的一个功能",
+      "music": 0.0
+    },
+    {
+      "from": 904.34,
+      "to": 907.34,
+      "sid": 323,
+      "location": 2,
+      "content": "这就是利用继电器来实现",
+      "music": 0.0
+    },
+    {
+      "from": 907.34,
+      "to": 910.18,
+      "sid": 324,
+      "location": 2,
+      "content": "与或非的这样一个逻辑电路",
+      "music": 0.0
+    },
+    {
+      "from": 910.18,
+      "to": 914.17,
+      "sid": 325,
+      "location": 2,
+      "content": "那么下面呢我们来看一下在实际应用当中",
+      "music": 0.0
+    },
+    {
+      "from": 914.17,
+      "to": 917.36,
+      "sid": 326,
+      "location": 2,
+      "content": "这个啊是怎么来实现的",
+      "music": 0.0
+    },
+    {
+      "from": 917.36,
+      "to": 918.12,
+      "sid": 327,
+      "location": 2,
+      "content": "这个",
+      "music": 0.0
+    },
+    {
+      "from": 920.42,
+      "to": 922.27,
+      "sid": 328,
+      "location": 2,
+      "content": "继电器的一个控制",
+      "music": 0.0
+    },
+    {
+      "from": 922.27,
+      "to": 925.36,
+      "sid": 329,
+      "location": 2,
+      "content": "首先呢是我在我的那个电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 925.36,
+      "to": 926.65,
+      "sid": 330,
+      "location": 2,
+      "content": "截下来的一个图",
+      "music": 0.0
+    },
+    {
+      "from": 926.65,
+      "to": 930.54,
+      "sid": 331,
+      "location": 2,
+      "content": "这个图呢是这边是一个继电器啊",
+      "music": 0.0
+    },
+    {
+      "from": 930.54,
+      "to": 932.04,
+      "sid": 332,
+      "location": 2,
+      "content": "这边是一个继电器",
+      "music": 0.0
+    },
+    {
+      "from": 932.04,
+      "to": 934.98,
+      "sid": 333,
+      "location": 2,
+      "content": "那么这边呢是给了一个继电器线圈",
+      "music": 0.0
+    },
+    {
+      "from": 934.98,
+      "to": 936.74,
+      "sid": 334,
+      "location": 2,
+      "content": "给他给他了一个15伏",
+      "music": 0.0
+    },
+    {
+      "from": 936.74,
+      "to": 939.14,
+      "sid": 335,
+      "location": 2,
+      "content": "那么我这边呢这个relay信号呢",
+      "music": 0.0
+    },
+    {
+      "from": 939.14,
+      "to": 942.65,
+      "sid": 336,
+      "location": 2,
+      "content": "是从单片机得到的一个啊控制信号",
+      "music": 0.0
+    },
+    {
+      "from": 942.65,
+      "to": 944.78,
+      "sid": 337,
+      "location": 2,
+      "content": "我通过这个控制信号",
+      "music": 0.0
+    },
+    {
+      "from": 944.9,
+      "to": 946.1,
+      "sid": 338,
+      "location": 2,
+      "content": "这个继电器",
+      "music": 0.0
+    },
+    {
+      "from": 946.1,
+      "to": 946.76,
+      "sid": 339,
+      "location": 2,
+      "content": "这个显铁",
+      "music": 0.0
+    },
+    {
+      "from": 946.76,
+      "to": 950.67,
+      "sid": 340,
+      "location": 2,
+      "content": "这边这一段是连在主功主功率电路当中了",
+      "music": 0.0
+    },
+    {
+      "from": 950.67,
+      "to": 954.99,
+      "sid": 341,
+      "location": 2,
+      "content": "我通过这个控制信号来控制这个主功率电路的",
+      "music": 0.0
+    },
+    {
+      "from": 954.99,
+      "to": 955.59,
+      "sid": 342,
+      "location": 2,
+      "content": "啊",
+      "music": 0.0
+    },
+    {
+      "from": 955.59,
+      "to": 958.72,
+      "sid": 343,
+      "location": 2,
+      "content": "接通与关闭如何控制呢",
+      "music": 0.0
+    },
+    {
+      "from": 958.72,
+      "to": 959.86,
+      "sid": 344,
+      "location": 2,
+      "content": "我们来看啊",
+      "music": 0.0
+    },
+    {
+      "from": 959.86,
+      "to": 963.39,
+      "sid": 345,
+      "location": 2,
+      "content": "我这个控制信号通过控制一个三极管",
+      "music": 0.0
+    },
+    {
+      "from": 963.39,
+      "to": 966.78,
+      "sid": 346,
+      "location": 2,
+      "content": "来控制这个线线圈得电与否",
+      "music": 0.0
+    },
+    {
+      "from": 966.78,
+      "to": 969.77,
+      "sid": 347,
+      "location": 2,
+      "content": "这个线圈这一段的接的是一个电源",
+      "music": 0.0
+    },
+    {
+      "from": 969.77,
+      "to": 972.839,
+      "sid": 348,
+      "location": 2,
+      "content": "这一端呢是接的一个三极管对吧",
+      "music": 0.0
+    },
+    {
+      "from": 972.839,
+      "to": 976.079,
+      "sid": 349,
+      "location": 2,
+      "content": "我通过控制这个三极管的导通与否",
+      "music": 0.0
+    },
+    {
+      "from": 976.079,
+      "to": 978.3,
+      "sid": 350,
+      "location": 2,
+      "content": "来控制这个线圈是否得电",
+      "music": 0.0
+    },
+    {
+      "from": 978.3,
+      "to": 980.04,
+      "sid": 351,
+      "location": 2,
+      "content": "一旦我这个线圈得电了",
+      "music": 0.0
+    },
+    {
+      "from": 980.04,
+      "to": 983.02,
+      "sid": 352,
+      "location": 2,
+      "content": "我这个呃这个衔铁吸合",
+      "music": 0.0
+    },
+    {
+      "from": 983.02,
+      "to": 986.88,
+      "sid": 353,
+      "location": 2,
+      "content": "那么我这个主功率当中主功率电路就导通了",
+      "music": 0.0
+    },
+    {
+      "from": 986.88,
+      "to": 990.36,
+      "sid": 354,
+      "location": 2,
+      "content": "所以说一旦我这个人类信号给一个高电平",
+      "music": 0.0
+    },
+    {
+      "from": 990.36,
+      "to": 993.63,
+      "sid": 355,
+      "location": 2,
+      "content": "那么三极管导通线圈得电啊",
+      "music": 0.0
+    },
+    {
+      "from": 993.63,
+      "to": 995.64,
+      "sid": 356,
+      "location": 2,
+      "content": "主主电路就闭合了",
+      "music": 0.0
+    },
+    {
+      "from": 995.64,
+      "to": 997.56,
+      "sid": 357,
+      "location": 2,
+      "content": "然后主电路就正常工作了",
+      "music": 0.0
+    },
+    {
+      "from": 997.56,
+      "to": 1000.79,
+      "sid": 358,
+      "location": 2,
+      "content": "这就是我的继电器的一个控制电路",
+      "music": 0.0
+    },
+    {
+      "from": 1001.87,
+      "to": 1004.719,
+      "sid": 359,
+      "location": 2,
+      "content": "下面我们来看一个水泵控制电路",
+      "music": 0.0
+    },
+    {
+      "from": 1004.78,
+      "to": 1007.66,
+      "sid": 360,
+      "location": 2,
+      "content": "水泵控制电路呢可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 1007.66,
+      "to": 1010.73,
+      "sid": 361,
+      "location": 2,
+      "content": "也是通过一个继电器来控制的嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1010.73,
+      "to": 1013.73,
+      "sid": 362,
+      "location": 2,
+      "content": "他这边呢p21 是一个控制信号",
+      "music": 0.0
+    },
+    {
+      "from": 1013.73,
+      "to": 1015.479,
+      "sid": 363,
+      "location": 2,
+      "content": "控制信号通过一个光耦",
+      "music": 0.0
+    },
+    {
+      "from": 1015.72,
+      "to": 1017.19,
+      "sid": 364,
+      "location": 2,
+      "content": "然后来控制的",
+      "music": 0.0
+    },
+    {
+      "from": 1017.19,
+      "to": 1022.18,
+      "sid": 365,
+      "location": 2,
+      "content": "你看一下这边是一个电源vcc对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1022.18,
+      "to": 1025.75,
+      "sid": 366,
+      "location": 2,
+      "content": "如果我这个p r一给一个d低电平",
+      "music": 0.0
+    },
+    {
+      "from": 1025.75,
+      "to": 1028.65,
+      "sid": 367,
+      "location": 2,
+      "content": "那么我这个光耦导通导通之后",
+      "music": 0.0
+    },
+    {
+      "from": 1028.65,
+      "to": 1030.33,
+      "sid": 368,
+      "location": 2,
+      "content": "信号传递到这边来",
+      "music": 0.0
+    },
+    {
+      "from": 1030.33,
+      "to": 1031.65,
+      "sid": 369,
+      "location": 2,
+      "content": "传递到这边来",
+      "music": 0.0
+    },
+    {
+      "from": 1031.65,
+      "to": 1032.73,
+      "sid": 370,
+      "location": 2,
+      "content": "这边就导通",
+      "music": 0.0
+    },
+    {
+      "from": 1032.73,
+      "to": 1033.69,
+      "sid": 371,
+      "location": 2,
+      "content": "这边导通的话",
+      "music": 0.0
+    },
+    {
+      "from": 1033.69,
+      "to": 1035.46,
+      "sid": 372,
+      "location": 2,
+      "content": "三极管导通",
+      "music": 0.0
+    },
+    {
+      "from": 1035.46,
+      "to": 1038.54,
+      "sid": 373,
+      "location": 2,
+      "content": "三极管一导通我这个线圈得电",
+      "music": 0.0
+    },
+    {
+      "from": 1038.54,
+      "to": 1041.96,
+      "sid": 374,
+      "location": 2,
+      "content": "然后这个继电器的这个显铁闭合",
+      "music": 0.0
+    },
+    {
+      "from": 1041.96,
+      "to": 1043.88,
+      "sid": 375,
+      "location": 2,
+      "content": "水泵就得电工作了",
+      "music": 0.0
+    },
+    {
+      "from": 1043.88,
+      "to": 1048.9,
+      "sid": 376,
+      "location": 2,
+      "content": "这就是啊继电器来控制水泵的这样一个电路",
+      "music": 0.0
+    },
+    {
+      "from": 1048.9,
+      "to": 1049.8,
+      "sid": 377,
+      "location": 2,
+      "content": "还有一个呢",
+      "music": 0.0
+    },
+    {
+      "from": 1049.8,
+      "to": 1052.51,
+      "sid": 378,
+      "location": 2,
+      "content": "就是我们刚才讲到的一个时间继电器",
+      "music": 0.0
+    },
+    {
+      "from": 1052.51,
+      "to": 1054.13,
+      "sid": 379,
+      "location": 2,
+      "content": "对于时间继电器呢",
+      "music": 0.0
+    },
+    {
+      "from": 1054.13,
+      "to": 1054.97,
+      "sid": 380,
+      "location": 2,
+      "content": "它分两种",
+      "music": 0.0
+    },
+    {
+      "from": 1054.97,
+      "to": 1057.55,
+      "sid": 381,
+      "location": 2,
+      "content": "一个是啊七合的时候也是",
+      "music": 0.0
+    },
+    {
+      "from": 1057.55,
+      "to": 1058.88,
+      "sid": 382,
+      "location": 2,
+      "content": "一个是呃",
+      "music": 0.0
+    },
+    {
+      "from": 1058.88,
+      "to": 1063.21,
+      "sid": 383,
+      "location": 2,
+      "content": "释放的时候也是像我们刚才讲的那个直流电磁",
+      "music": 0.0
+    },
+    {
+      "from": 1063.21,
+      "to": 1064.17,
+      "sid": 384,
+      "location": 2,
+      "content": "是时间继电器",
+      "music": 0.0
+    },
+    {
+      "from": 1064.17,
+      "to": 1066.24,
+      "sid": 385,
+      "location": 2,
+      "content": "它就属于释放的时候延时",
+      "music": 0.0
+    },
+    {
+      "from": 1066.24,
+      "to": 1069.04,
+      "sid": 386,
+      "location": 2,
+      "content": "释放的时候延时就像这个b图当中",
+      "music": 0.0
+    },
+    {
+      "from": 1069.94,
+      "to": 1070.98,
+      "sid": 387,
+      "location": 2,
+      "content": "当我",
+      "music": 0.0
+    },
+    {
+      "from": 1073.26,
+      "to": 1075.12,
+      "sid": 388,
+      "location": 2,
+      "content": "把sa闭合的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1075.12,
+      "to": 1080.04,
+      "sid": 389,
+      "location": 2,
+      "content": "那么我这个线圈当中的这个这个这个",
+      "music": 0.0
+    },
+    {
+      "from": 1080.04,
+      "to": 1086.0,
+      "sid": 390,
+      "location": 2,
+      "content": "如果我想让这个继电器就是断开动作",
+      "music": 0.0
+    },
+    {
+      "from": 1086.0,
+      "to": 1091.05,
+      "sid": 391,
+      "location": 2,
+      "content": "我必须使这个继电器线圈的电就是断开",
+      "music": 0.0
+    },
+    {
+      "from": 1091.05,
+      "to": 1093.33,
+      "sid": 392,
+      "location": 2,
+      "content": "我要使这个继电器",
+      "music": 0.0
+    },
+    {
+      "from": 1093.33,
+      "to": 1098.01,
+      "sid": 393,
+      "location": 2,
+      "content": "继电器线圈当中的这个继电器的线圈失电的话",
+      "music": 0.0
+    },
+    {
+      "from": 1098.01,
+      "to": 1102.88,
+      "sid": 394,
+      "location": 2,
+      "content": "我就必须控制这个三极管的这个关断对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1102.88,
+      "to": 1104.14,
+      "sid": 395,
+      "location": 2,
+      "content": "我使三极管关断",
+      "music": 0.0
+    },
+    {
+      "from": 1104.14,
+      "to": 1107.19,
+      "sid": 396,
+      "location": 2,
+      "content": "然后继电器线圈就就十点了",
+      "music": 0.0
+    },
+    {
+      "from": 1107.19,
+      "to": 1108.9,
+      "sid": 397,
+      "location": 2,
+      "content": "然后继电器就动作了",
+      "music": 0.0
+    },
+    {
+      "from": 1108.9,
+      "to": 1110.88,
+      "sid": 398,
+      "location": 2,
+      "content": "那么要控制这一点的话",
+      "music": 0.0
+    },
+    {
+      "from": 1110.88,
+      "to": 1113.19,
+      "sid": 399,
+      "location": 2,
+      "content": "控制这一点也就控制这一点的话",
+      "music": 0.0
+    },
+    {
+      "from": 1113.19,
+      "to": 1116.63,
+      "sid": 400,
+      "location": 2,
+      "content": "我把这一点把这个开关闭合了之后",
+      "music": 0.0
+    },
+    {
+      "from": 1116.63,
+      "to": 1118.85,
+      "sid": 401,
+      "location": 2,
+      "content": "我可不可以实现这样的功能呢",
+      "music": 0.0
+    },
+    {
+      "from": 1118.85,
+      "to": 1119.57,
+      "sid": 402,
+      "location": 2,
+      "content": "大家来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 1119.57,
+      "to": 1121.86,
+      "sid": 403,
+      "location": 2,
+      "content": "我把这个开关一旦闭合之后",
+      "music": 0.0
+    },
+    {
+      "from": 1123.24,
+      "to": 1126.02,
+      "sid": 404,
+      "location": 2,
+      "content": "实际上我这边这个电容上",
+      "music": 0.0
+    },
+    {
+      "from": 1126.02,
+      "to": 1127.7,
+      "sid": 405,
+      "location": 2,
+      "content": "实际上还是存在有电的",
+      "music": 0.0
+    },
+    {
+      "from": 1127.7,
+      "to": 1128.43,
+      "sid": 406,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 1128.43,
+      "to": 1131.79,
+      "sid": 407,
+      "location": 2,
+      "content": "我这个电容上的电是通过缓慢释放",
+      "music": 0.0
+    },
+    {
+      "from": 1131.79,
+      "to": 1133.59,
+      "sid": 408,
+      "location": 2,
+      "content": "慢慢才变没有的",
+      "music": 0.0
+    },
+    {
+      "from": 1133.59,
+      "to": 1136.989,
+      "sid": 409,
+      "location": 2,
+      "content": "我当我这个电容上这个电啊",
+      "music": 0.0
+    },
+    {
+      "from": 1136.989,
+      "to": 1139.6,
+      "sid": 410,
+      "location": 2,
+      "content": "下降到一定的程度的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1143.46,
+      "to": 1146.33,
+      "sid": 411,
+      "location": 2,
+      "content": "我这个三极管才会关断",
+      "music": 0.0
+    },
+    {
+      "from": 1146.33,
+      "to": 1151.53,
+      "sid": 412,
+      "location": 2,
+      "content": "我这个继电器线圈才会十点导致继电器动作",
+      "music": 0.0
+    },
+    {
+      "from": 1151.53,
+      "to": 1154.47,
+      "sid": 413,
+      "location": 2,
+      "content": "这就是释放延时的一个原理",
+      "music": 0.0
+    },
+    {
+      "from": 1154.47,
+      "to": 1159.6,
+      "sid": 414,
+      "location": 2,
+      "content": "那么我们再来看一下细河系和岩",
+      "music": 0.0
+    },
+    {
+      "from": 1159.6,
+      "to": 1159.9,
+      "sid": 415,
+      "location": 2,
+      "content": "石",
+      "music": 0.0
+    },
+    {
+      "from": 1159.9,
+      "to": 1162.69,
+      "sid": 416,
+      "location": 2,
+      "content": "系和岩石其实也是相同的原理",
+      "music": 0.0
+    },
+    {
+      "from": 1162.69,
+      "to": 1166.26,
+      "sid": 417,
+      "location": 2,
+      "content": "我这边呢只不过是我这个电容的位置不同而已",
+      "music": 0.0
+    },
+    {
+      "from": 1167.14,
+      "to": 1169.62,
+      "sid": 418,
+      "location": 2,
+      "content": "看一下是不是电容的位置不同",
+      "music": 0.0
+    },
+    {
+      "from": 1169.62,
+      "to": 1172.639,
+      "sid": 419,
+      "location": 2,
+      "content": "当我这个sa闭合的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 1173.92,
+      "to": 1177.07,
+      "sid": 420,
+      "location": 2,
+      "content": "我这边给电这边给电的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 1177.07,
+      "to": 1179.65,
+      "sid": 421,
+      "location": 2,
+      "content": "这边给电这边是两个电阻分压",
+      "music": 0.0
+    },
+    {
+      "from": 1179.65,
+      "to": 1182.41,
+      "sid": 422,
+      "location": 2,
+      "content": "然后呢还要同时给这个电容充电",
+      "music": 0.0
+    },
+    {
+      "from": 1182.41,
+      "to": 1184.15,
+      "sid": 423,
+      "location": 2,
+      "content": "我必须给电容充电",
+      "music": 0.0
+    },
+    {
+      "from": 1184.15,
+      "to": 1189.96,
+      "sid": 424,
+      "location": 2,
+      "content": "充到一定的一定的一个电电",
+      "music": 0.0
+    },
+    {
+      "from": 1190.0,
+      "to": 1191.44,
+      "sid": 425,
+      "location": 2,
+      "content": "给电容充电",
+      "music": 0.0
+    },
+    {
+      "from": 1191.44,
+      "to": 1193.18,
+      "sid": 426,
+      "location": 2,
+      "content": "充到一定的10号",
+      "music": 0.0
+    },
+    {
+      "from": 1193.18,
+      "to": 1195.28,
+      "sid": 427,
+      "location": 2,
+      "content": "然后我这个三极管才会导通",
+      "music": 0.0
+    },
+    {
+      "from": 1195.28,
+      "to": 1198.16,
+      "sid": 428,
+      "location": 2,
+      "content": "我这个上面才会得电线圈上得点",
+      "music": 0.0
+    },
+    {
+      "from": 1198.16,
+      "to": 1199.84,
+      "sid": 429,
+      "location": 2,
+      "content": "才会使我的继电器闭合",
+      "music": 0.0
+    },
+    {
+      "from": 1199.84,
+      "to": 1205.26,
+      "sid": 430,
+      "location": 2,
+      "content": "所以说呢这就是一个啊岩石细合的一个原理图",
+      "music": 0.0
+    },
+    {
+      "from": 1205.26,
+      "to": 1208.14,
+      "sid": 431,
+      "location": 2,
+      "content": "那么下面呢给大家出一个思考题",
+      "music": 0.0
+    },
+    {
+      "from": 1208.14,
+      "to": 1209.91,
+      "sid": 432,
+      "location": 2,
+      "content": "实际上这个继电器呀",
+      "music": 0.0
+    },
+    {
+      "from": 1209.91,
+      "to": 1214.06,
+      "sid": 433,
+      "location": 2,
+      "content": "它在电路当中还会有一个自锁电路",
+      "music": 0.0
+    },
+    {
+      "from": 1214.06,
+      "to": 1217.18,
+      "sid": 434,
+      "location": 2,
+      "content": "就是或者是称为他一个记忆电路",
+      "music": 0.0
+    },
+    {
+      "from": 1218.64,
+      "to": 1220.59,
+      "sid": 435,
+      "location": 2,
+      "content": "就是下面的这个图纸",
+      "music": 0.0
+    },
+    {
+      "from": 1220.59,
+      "to": 1222.69,
+      "sid": 436,
+      "location": 2,
+      "content": "它是如何实现的呢",
+      "music": 0.0
+    },
+    {
+      "from": 1222.69,
+      "to": 1224.52,
+      "sid": 437,
+      "location": 2,
+      "content": "实际上它就是说什么呀",
+      "music": 0.0
+    },
+    {
+      "from": 1224.52,
+      "to": 1225.87,
+      "sid": 438,
+      "location": 2,
+      "content": "在这个电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 1225.87,
+      "to": 1228.74,
+      "sid": 439,
+      "location": 2,
+      "content": "当你按下启动按钮sb的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1231.06,
+      "to": 1234.98,
+      "sid": 440,
+      "location": 2,
+      "content": "使继电器的这个线圈啊通电动作",
+      "music": 0.0
+    },
+    {
+      "from": 1236.32,
+      "to": 1240.38,
+      "sid": 441,
+      "location": 2,
+      "content": "如果你松开这个sb继电器",
+      "music": 0.0
+    },
+    {
+      "from": 1240.38,
+      "to": 1244.22,
+      "sid": 442,
+      "location": 2,
+      "content": "还是会在这个电路当中继续保持这种动作",
+      "music": 0.0
+    },
+    {
+      "from": 1244.22,
+      "to": 1246.65,
+      "sid": 443,
+      "location": 2,
+      "content": "继续保持这种工作状态",
+      "music": 0.0
+    },
+    {
+      "from": 1246.65,
+      "to": 1251.94,
+      "sid": 444,
+      "location": 2,
+      "content": "这种电路呢实际上就是一个电路的自锁作用",
+      "music": 0.0
+    },
+    {
+      "from": 1251.94,
+      "to": 1254.98,
+      "sid": 445,
+      "location": 2,
+      "content": "或者是称为他的记忆记忆作用",
+      "music": 0.0
+    },
+    {
+      "from": 1257.12,
+      "to": 1263.43,
+      "sid": 446,
+      "location": 2,
+      "content": "或者我们可以呃把这个sb 2 s b2 称",
+      "music": 0.0
+    },
+    {
+      "from": 1263.43,
+      "to": 1267.18,
+      "sid": 447,
+      "location": 2,
+      "content": "就是把sb 2理解成它是一个点动的一个按钮",
+      "music": 0.0
+    },
+    {
+      "from": 1267.18,
+      "to": 1268.639,
+      "sid": 448,
+      "location": 2,
+      "content": "或者是说呢",
+      "music": 0.0
+    },
+    {
+      "from": 1272.06,
+      "to": 1273.82,
+      "sid": 449,
+      "location": 2,
+      "content": "就是说点动是什么意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 1273.82,
+      "to": 1276.36,
+      "sid": 450,
+      "location": 2,
+      "content": "我按一下它自己就又弹回来了",
+      "music": 0.0
+    },
+    {
+      "from": 1276.4,
+      "to": 1278.26,
+      "sid": 451,
+      "location": 2,
+      "content": "而我的这个继电器呢",
+      "music": 0.0
+    },
+    {
+      "from": 1278.26,
+      "to": 1281.26,
+      "sid": 452,
+      "location": 2,
+      "content": "它仍然是保持着我按的时候的",
+      "music": 0.0
+    },
+    {
+      "from": 1281.26,
+      "to": 1284.1,
+      "sid": 453,
+      "location": 2,
+      "content": "一个一个电路的状态",
+      "music": 0.0
+    },
+    {
+      "from": 1284.28,
+      "to": 1286.17,
+      "sid": 454,
+      "location": 2,
+      "content": "大家可以分析一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 1286.17,
+      "to": 1288.06,
+      "sid": 455,
+      "location": 2,
+      "content": "我可以在这给大家说一下",
+      "music": 0.0
+    },
+    {
+      "from": 1288.06,
+      "to": 1289.38,
+      "sid": 456,
+      "location": 2,
+      "content": "大家回头再思考一下",
+      "music": 0.0
+    },
+    {
+      "from": 1289.38,
+      "to": 1291.19,
+      "sid": 457,
+      "location": 2,
+      "content": "给大家一个小小的提示",
+      "music": 0.0
+    },
+    {
+      "from": 1291.19,
+      "to": 1294.91,
+      "sid": 458,
+      "location": 2,
+      "content": "就是你看他这个实际上在这个图当中",
+      "music": 0.0
+    },
+    {
+      "from": 1294.91,
+      "to": 1296.83,
+      "sid": 459,
+      "location": 2,
+      "content": "已经给外面这条线啊",
+      "music": 0.0
+    },
+    {
+      "from": 1296.83,
+      "to": 1299.919,
+      "sid": 460,
+      "location": 2,
+      "content": "实际上已经画出了一个电流的一个流向",
+      "music": 0.0
+    },
+    {
+      "from": 1300.78,
+      "to": 1303.44,
+      "sid": 461,
+      "location": 2,
+      "content": "当我闭合这个sb的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1303.44,
+      "to": 1304.7,
+      "sid": 462,
+      "location": 2,
+      "content": "闭合的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 1304.7,
+      "to": 1306.38,
+      "sid": 463,
+      "location": 2,
+      "content": "我这个电路是导通的线圈",
+      "music": 0.0
+    },
+    {
+      "from": 1306.38,
+      "to": 1307.4,
+      "sid": 464,
+      "location": 2,
+      "content": "是得电的线圈",
+      "music": 0.0
+    },
+    {
+      "from": 1307.4,
+      "to": 1308.12,
+      "sid": 465,
+      "location": 2,
+      "content": "一旦得电",
+      "music": 0.0
+    },
+    {
+      "from": 1308.12,
+      "to": 1308.94,
+      "sid": 466,
+      "location": 2,
+      "content": "这是km",
+      "music": 0.0
+    },
+    {
+      "from": 1308.94,
+      "to": 1310.98,
+      "sid": 467,
+      "location": 2,
+      "content": "那么他这个显铁就会闭合了",
+      "music": 0.0
+    },
+    {
+      "from": 1310.98,
+      "to": 1313.17,
+      "sid": 468,
+      "location": 2,
+      "content": "一旦我这个是断开了之后",
+      "music": 0.0
+    },
+    {
+      "from": 1313.17,
+      "to": 1314.64,
+      "sid": 469,
+      "location": 2,
+      "content": "我这边也是闭合的",
+      "music": 0.0
+    },
+    {
+      "from": 1314.64,
+      "to": 1317.1,
+      "sid": 470,
+      "location": 2,
+      "content": "所以说它就有一个继继电",
+      "music": 0.0
+    },
+    {
+      "from": 1317.1,
+      "to": 1320.24,
+      "sid": 471,
+      "location": 2,
+      "content": "记忆电路的这样一个功能嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1320.24,
+      "to": 1322.34,
+      "sid": 472,
+      "location": 2,
+      "content": "大家可以再仔细想一想啊",
+      "music": 0.0
+    },
+    {
+      "from": 1322.34,
+      "to": 1323.48,
+      "sid": 473,
+      "location": 2,
+      "content": "看看我说的对不对",
+      "music": 0.0
+    },
+    {
+      "from": 1323.48,
+      "to": 1325.4,
+      "sid": 474,
+      "location": 2,
+      "content": "实际上这是给大家留的一个思考题",
+      "music": 0.0
+    },
+    {
+      "from": 1325.4,
+      "to": 1327.99,
+      "sid": 475,
+      "location": 2,
+      "content": "我已经给大家讲了一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 1327.99,
+      "to": 1331.22,
+      "sid": 476,
+      "location": 2,
+      "content": "这一部分呢主要就是继电器的一些功能了",
+      "music": 0.0
+    },
+    {
+      "from": 1333.0,
+      "to": 1335.14,
+      "sid": 477,
+      "location": 2,
+      "content": "继电器我们就先讲这些",
+      "music": 0.0
+    }
+  ]
+}

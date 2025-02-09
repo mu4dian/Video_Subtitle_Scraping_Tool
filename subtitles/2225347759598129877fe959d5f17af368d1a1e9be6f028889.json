@@ -1,0 +1,4012 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 4.26,
+      "to": 5.94,
+      "sid": 1,
+      "location": 2,
+      "content": "接下来讲一下mos管",
+      "music": 0.0
+    },
+    {
+      "from": 5.94,
+      "to": 8.28,
+      "sid": 2,
+      "location": 2,
+      "content": "mos管是我们在做开关电源",
+      "music": 0.0
+    },
+    {
+      "from": 8.28,
+      "to": 10.68,
+      "sid": 3,
+      "location": 2,
+      "content": "甚至所有产品当中",
+      "music": 0.0
+    },
+    {
+      "from": 10.68,
+      "to": 13.5,
+      "sid": 4,
+      "location": 2,
+      "content": "都非常常见的一个重要的元器件",
+      "music": 0.0
+    },
+    {
+      "from": 13.54,
+      "to": 15.34,
+      "sid": 5,
+      "location": 2,
+      "content": "那么在本节课当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 15.34,
+      "to": 17.62,
+      "sid": 6,
+      "location": 2,
+      "content": "我们只讲mos管的应用",
+      "music": 0.0
+    },
+    {
+      "from": 17.62,
+      "to": 19.9,
+      "sid": 7,
+      "location": 2,
+      "content": "对于它内部的工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 19.9,
+      "to": 21.43,
+      "sid": 8,
+      "location": 2,
+      "content": "我们不做啊",
+      "music": 0.0
+    },
+    {
+      "from": 21.43,
+      "to": 22.97,
+      "sid": 9,
+      "location": 2,
+      "content": "特别深入的研究",
+      "music": 0.0
+    },
+    {
+      "from": 22.97,
+      "to": 25.01,
+      "sid": 10,
+      "location": 2,
+      "content": "首先来认识一下mos管",
+      "music": 0.0
+    },
+    {
+      "from": 25.01,
+      "to": 26.23,
+      "sid": 11,
+      "location": 2,
+      "content": "什么是mos管",
+      "music": 0.0
+    },
+    {
+      "from": 26.23,
+      "to": 27.07,
+      "sid": 12,
+      "location": 2,
+      "content": "mos管",
+      "music": 0.0
+    },
+    {
+      "from": 27.07,
+      "to": 29.77,
+      "sid": 13,
+      "location": 2,
+      "content": "通常我们称mos fat是一个场效应管",
+      "music": 0.0
+    },
+    {
+      "from": 29.77,
+      "to": 32.35,
+      "sid": 14,
+      "location": 2,
+      "content": "是金属氧化物半导体场效应管",
+      "music": 0.0
+    },
+    {
+      "from": 32.35,
+      "to": 33.86,
+      "sid": 15,
+      "location": 2,
+      "content": "属于绢扇形",
+      "music": 0.0
+    },
+    {
+      "from": 34.52,
+      "to": 35.8,
+      "sid": 16,
+      "location": 2,
+      "content": "那么对于这个mos管",
+      "music": 0.0
+    },
+    {
+      "from": 35.8,
+      "to": 38.05,
+      "sid": 17,
+      "location": 2,
+      "content": "这是mos管的一个内部的原理图",
+      "music": 0.0
+    },
+    {
+      "from": 38.05,
+      "to": 41.26,
+      "sid": 18,
+      "location": 2,
+      "content": "这是一个p型mos管",
+      "music": 0.0
+    },
+    {
+      "from": 42.76,
+      "to": 43.68,
+      "sid": 19,
+      "location": 2,
+      "content": "p mos",
+      "music": 0.0
+    },
+    {
+      "from": 44.58,
+      "to": 46.46,
+      "sid": 20,
+      "location": 2,
+      "content": "那么n most跟它相反",
+      "music": 0.0
+    },
+    {
+      "from": 46.46,
+      "to": 48.86,
+      "sid": 21,
+      "location": 2,
+      "content": "这边是n这边是n",
+      "music": 0.0
+    },
+    {
+      "from": 48.86,
+      "to": 50.12,
+      "sid": 22,
+      "location": 2,
+      "content": "这边是p",
+      "music": 0.0
+    },
+    {
+      "from": 51.38,
+      "to": 52.42,
+      "sid": 23,
+      "location": 2,
+      "content": "通过这个图",
+      "music": 0.0
+    },
+    {
+      "from": 52.42,
+      "to": 54.76,
+      "sid": 24,
+      "location": 2,
+      "content": "虽然我们说对它内部工作原理不做深究",
+      "music": 0.0
+    },
+    {
+      "from": 54.76,
+      "to": 56.32,
+      "sid": 25,
+      "location": 2,
+      "content": "但对于它的一些基本知识",
+      "music": 0.0
+    },
+    {
+      "from": 56.32,
+      "to": 57.98,
+      "sid": 26,
+      "location": 2,
+      "content": "我们还是要做了解的",
+      "music": 0.0
+    },
+    {
+      "from": 57.98,
+      "to": 61.779,
+      "sid": 27,
+      "location": 2,
+      "content": "这个图的上面是一个非导通状态的一个p mos",
+      "music": 0.0
+    },
+    {
+      "from": 61.92,
+      "to": 63.3,
+      "sid": 28,
+      "location": 2,
+      "content": "我们可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 63.3,
+      "to": 65.7,
+      "sid": 29,
+      "location": 2,
+      "content": "灰色的这一条是一个金属氧化物薄层",
+      "music": 0.0
+    },
+    {
+      "from": 65.7,
+      "to": 67.08,
+      "sid": 30,
+      "location": 2,
+      "content": "它是一个绝缘层",
+      "music": 0.0
+    },
+    {
+      "from": 68.72,
+      "to": 70.48,
+      "sid": 31,
+      "location": 2,
+      "content": "当导通的时候",
+      "music": 0.0
+    },
+    {
+      "from": 70.48,
+      "to": 74.98,
+      "sid": 32,
+      "location": 2,
+      "content": "中间会出现一个比较窄长的沟道啊",
+      "music": 0.0
+    },
+    {
+      "from": 74.98,
+      "to": 78.78,
+      "sid": 33,
+      "location": 2,
+      "content": "这样呢会使左右两边连在一起",
+      "music": 0.0
+    },
+    {
+      "from": 78.9,
+      "to": 80.97,
+      "sid": 34,
+      "location": 2,
+      "content": "这一条就称为它的勾",
+      "music": 0.0
+    },
+    {
+      "from": 80.97,
+      "to": 81.96,
+      "sid": 35,
+      "location": 2,
+      "content": "就称为是勾",
+      "music": 0.0
+    },
+    {
+      "from": 81.96,
+      "to": 84.06,
+      "sid": 36,
+      "location": 2,
+      "content": "当实际上我们可以看出来",
+      "music": 0.0
+    },
+    {
+      "from": 84.06,
+      "to": 87.18,
+      "sid": 37,
+      "location": 2,
+      "content": "就当它们连在一起的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 87.18,
+      "to": 88.59,
+      "sid": 38,
+      "location": 2,
+      "content": "这个mos管导通后",
+      "music": 0.0
+    },
+    {
+      "from": 88.59,
+      "to": 90.7,
+      "sid": 39,
+      "location": 2,
+      "content": "它依然是一个电阻特性",
+      "music": 0.0
+    },
+    {
+      "from": 90.76,
+      "to": 93.61,
+      "sid": 40,
+      "location": 2,
+      "content": "因此我们在选mos管的时候",
+      "music": 0.0
+    },
+    {
+      "from": 93.61,
+      "to": 96.16,
+      "sid": 41,
+      "location": 2,
+      "content": "就要考虑到它的一个重要参数",
+      "music": 0.0
+    },
+    {
+      "from": 96.16,
+      "to": 97.56,
+      "sid": 42,
+      "location": 2,
+      "content": "就是导通电阻",
+      "music": 0.0
+    },
+    {
+      "from": 97.58,
+      "to": 100.61,
+      "sid": 43,
+      "location": 2,
+      "content": "导通电导通电阻越小",
+      "music": 0.0
+    },
+    {
+      "from": 100.61,
+      "to": 104.14,
+      "sid": 44,
+      "location": 2,
+      "content": "应该是在我们实际应用中比较好的",
+      "music": 0.0
+    },
+    {
+      "from": 105.52,
+      "to": 110.12,
+      "sid": 45,
+      "location": 2,
+      "content": "这就是p mop mos的一个简单的图示",
+      "music": 0.0
+    },
+    {
+      "from": 110.12,
+      "to": 112.33,
+      "sid": 46,
+      "location": 2,
+      "content": "那么对于amos嗯",
+      "music": 0.0
+    },
+    {
+      "from": 112.33,
+      "to": 113.32,
+      "sid": 47,
+      "location": 2,
+      "content": "跟这个是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 113.32,
+      "to": 114.82,
+      "sid": 48,
+      "location": 2,
+      "content": "大家反过来就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 114.82,
+      "to": 118.24,
+      "sid": 49,
+      "location": 2,
+      "content": "还有一个名词就是我们在考虑这个图的时候",
+      "music": 0.0
+    },
+    {
+      "from": 118.24,
+      "to": 120.89,
+      "sid": 50,
+      "location": 2,
+      "content": "可以看到它的左右是对称的",
+      "music": 0.0
+    },
+    {
+      "from": 120.89,
+      "to": 123.02,
+      "sid": 51,
+      "location": 2,
+      "content": "那么对于mos管的33个集",
+      "music": 0.0
+    },
+    {
+      "from": 123.02,
+      "to": 125.419,
+      "sid": 52,
+      "location": 2,
+      "content": "原集三级和漏级",
+      "music": 0.0
+    },
+    {
+      "from": 125.419,
+      "to": 126.739,
+      "sid": 53,
+      "location": 2,
+      "content": "我们是如何区分的",
+      "music": 0.0
+    },
+    {
+      "from": 126.739,
+      "to": 128.239,
+      "sid": 54,
+      "location": 2,
+      "content": "左右两边是对称的",
+      "music": 0.0
+    },
+    {
+      "from": 128.239,
+      "to": 130.339,
+      "sid": 55,
+      "location": 2,
+      "content": "那么怎么分区分哪边是原籍",
+      "music": 0.0
+    },
+    {
+      "from": 130.339,
+      "to": 131.599,
+      "sid": 56,
+      "location": 2,
+      "content": "哪边是漏级呢",
+      "music": 0.0
+    },
+    {
+      "from": 131.599,
+      "to": 137.61,
+      "sid": 57,
+      "location": 2,
+      "content": "这个呢实际上实际上在mos管的食物当中",
+      "music": 0.0
+    },
+    {
+      "from": 137.61,
+      "to": 139.71,
+      "sid": 58,
+      "location": 2,
+      "content": "并不是左右对称的",
+      "music": 0.0
+    },
+    {
+      "from": 139.71,
+      "to": 142.09,
+      "sid": 59,
+      "location": 2,
+      "content": "它是有一个保护二极管的",
+      "music": 0.0
+    },
+    {
+      "from": 142.09,
+      "to": 144.43,
+      "sid": 60,
+      "location": 2,
+      "content": "它的实际的示意图是这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 144.43,
+      "to": 146.77,
+      "sid": 61,
+      "location": 2,
+      "content": "就是这是有一个保护二极管的",
+      "music": 0.0
+    },
+    {
+      "from": 146.77,
+      "to": 148.63,
+      "sid": 62,
+      "location": 2,
+      "content": "由于这个保护二极管的存在",
+      "music": 0.0
+    },
+    {
+      "from": 148.63,
+      "to": 152.12,
+      "sid": 63,
+      "location": 2,
+      "content": "大家可以看出来这个漏极和这个原级",
+      "music": 0.0
+    },
+    {
+      "from": 152.12,
+      "to": 153.98,
+      "sid": 64,
+      "location": 2,
+      "content": "它实际上是不是对称的",
+      "music": 0.0
+    },
+    {
+      "from": 153.98,
+      "to": 158.349,
+      "sid": 65,
+      "location": 2,
+      "content": "所以说这个在食物当中",
+      "music": 0.0
+    },
+    {
+      "from": 158.349,
+      "to": 161.199,
+      "sid": 66,
+      "location": 2,
+      "content": "我们还是有办法来区分原景和漏解的",
+      "music": 0.0
+    },
+    {
+      "from": 161.199,
+      "to": 164.85,
+      "sid": 67,
+      "location": 2,
+      "content": "这是我们下一下一步要讲到的一个东西",
+      "music": 0.0
+    },
+    {
+      "from": 164.85,
+      "to": 169.35,
+      "sid": 68,
+      "location": 2,
+      "content": "还有一个就是对于这个金属氧化物薄层",
+      "music": 0.0
+    },
+    {
+      "from": 169.35,
+      "to": 170.63,
+      "sid": 69,
+      "location": 2,
+      "content": "我们可以看到啊",
+      "music": 0.0
+    },
+    {
+      "from": 170.63,
+      "to": 173.15,
+      "sid": 70,
+      "location": 2,
+      "content": "这个金属氧化物薄层",
+      "music": 0.0
+    },
+    {
+      "from": 173.15,
+      "to": 175.16,
+      "sid": 71,
+      "location": 2,
+      "content": "它是一个绝缘层",
+      "music": 0.0
+    },
+    {
+      "from": 175.16,
+      "to": 176.81,
+      "sid": 72,
+      "location": 2,
+      "content": "它是隔断电器的",
+      "music": 0.0
+    },
+    {
+      "from": 176.81,
+      "to": 178.22,
+      "sid": 73,
+      "location": 2,
+      "content": "然后上面是导电的",
+      "music": 0.0
+    },
+    {
+      "from": 178.22,
+      "to": 179.18,
+      "sid": 74,
+      "location": 2,
+      "content": "下面是导电的",
+      "music": 0.0
+    },
+    {
+      "from": 179.18,
+      "to": 180.44,
+      "sid": 75,
+      "location": 2,
+      "content": "实际上这就是什么",
+      "music": 0.0
+    },
+    {
+      "from": 180.44,
+      "to": 181.58,
+      "sid": 76,
+      "location": 2,
+      "content": "这就是一个电容",
+      "music": 0.0
+    },
+    {
+      "from": 181.58,
+      "to": 182.15,
+      "sid": 77,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 182.15,
+      "to": 185.6,
+      "sid": 78,
+      "location": 2,
+      "content": "这就是我们经常说的mos管的一个寄生电容",
+      "music": 0.0
+    },
+    {
+      "from": 185.6,
+      "to": 187.64,
+      "sid": 79,
+      "location": 2,
+      "content": "我们来看一下这部分",
+      "music": 0.0
+    },
+    {
+      "from": 189.14,
+      "to": 191.2,
+      "sid": 80,
+      "location": 2,
+      "content": "图中的这个膜是绝缘的",
+      "music": 0.0
+    },
+    {
+      "from": 191.2,
+      "to": 193.45,
+      "sid": 81,
+      "location": 2,
+      "content": "也就是刚才我们说的那个金属氧化",
+      "music": 0.0
+    },
+    {
+      "from": 193.45,
+      "to": 195.4,
+      "sid": 82,
+      "location": 2,
+      "content": "氢氧化物薄层",
+      "music": 0.0
+    },
+    {
+      "from": 195.739,
+      "to": 198.919,
+      "sid": 83,
+      "location": 2,
+      "content": "那么呢使得山脊只能形成电场",
+      "music": 0.0
+    },
+    {
+      "from": 198.919,
+      "to": 200.52,
+      "sid": 84,
+      "location": 2,
+      "content": "不能通过直流电",
+      "music": 0.0
+    },
+    {
+      "from": 200.72,
+      "to": 202.16,
+      "sid": 85,
+      "location": 2,
+      "content": "对这是什么",
+      "music": 0.0
+    },
+    {
+      "from": 202.16,
+      "to": 204.5,
+      "sid": 86,
+      "location": 2,
+      "content": "这是电容的一个特性",
+      "music": 0.0
+    },
+    {
+      "from": 204.5,
+      "to": 207.24,
+      "sid": 87,
+      "location": 2,
+      "content": "是不是隔直通交是吧",
+      "music": 0.0
+    },
+    {
+      "from": 207.24,
+      "to": 209.43,
+      "sid": 88,
+      "location": 2,
+      "content": "当然这个膜是越薄",
+      "music": 0.0
+    },
+    {
+      "from": 209.43,
+      "to": 211.89,
+      "sid": 89,
+      "location": 2,
+      "content": "然后电场的作用是越好",
+      "music": 0.0
+    },
+    {
+      "from": 211.89,
+      "to": 214.66,
+      "sid": 90,
+      "location": 2,
+      "content": "那么它的砍压就会比较小",
+      "music": 0.0
+    },
+    {
+      "from": 214.7,
+      "to": 216.44,
+      "sid": 91,
+      "location": 2,
+      "content": "但是坏处是什么",
+      "music": 0.0
+    },
+    {
+      "from": 216.44,
+      "to": 219.47,
+      "sid": 92,
+      "location": 2,
+      "content": "坏处是我这个薄膜越薄",
+      "music": 0.0
+    },
+    {
+      "from": 219.47,
+      "to": 223.49,
+      "sid": 93,
+      "location": 2,
+      "content": "我就嗯工艺上做就越不好做",
+      "music": 0.0
+    },
+    {
+      "from": 223.49,
+      "to": 224.38,
+      "sid": 94,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 226.119,
+      "to": 228.479,
+      "sid": 95,
+      "location": 2,
+      "content": "而且呢特别容易击穿",
+      "music": 0.0
+    },
+    {
+      "from": 230.759,
+      "to": 234.26,
+      "sid": 96,
+      "location": 2,
+      "content": "因此它越不好做的应该是越贵的吧",
+      "music": 0.0
+    },
+    {
+      "from": 234.26,
+      "to": 237.92,
+      "sid": 97,
+      "location": 2,
+      "content": "因此所以说我们这个薄膜它越薄的时候",
+      "music": 0.0
+    },
+    {
+      "from": 237.92,
+      "to": 240.15,
+      "sid": 98,
+      "location": 2,
+      "content": "它应该是比较贵的",
+      "music": 0.0
+    },
+    {
+      "from": 240.15,
+      "to": 242.72,
+      "sid": 99,
+      "location": 2,
+      "content": "但是反过来讲啊",
+      "music": 0.0
+    },
+    {
+      "from": 242.72,
+      "to": 244.76,
+      "sid": 100,
+      "location": 2,
+      "content": "因为他这个",
+      "music": 0.0
+    },
+    {
+      "from": 249.42,
+      "to": 253.509,
+      "sid": 101,
+      "location": 2,
+      "content": "呃反过来讲它这个越薄",
+      "music": 0.0
+    },
+    {
+      "from": 253.509,
+      "to": 257.73,
+      "sid": 102,
+      "location": 2,
+      "content": "那么它的导通电阻是不是应该是越显了",
+      "music": 0.0
+    },
+    {
+      "from": 257.73,
+      "to": 259.32,
+      "sid": 103,
+      "location": 2,
+      "content": "导通电阻越小",
+      "music": 0.0
+    },
+    {
+      "from": 259.32,
+      "to": 261.15,
+      "sid": 104,
+      "location": 2,
+      "content": "刚才我们第一个就讲到了",
+      "music": 0.0
+    },
+    {
+      "from": 261.15,
+      "to": 262.98,
+      "sid": 105,
+      "location": 2,
+      "content": "它的重要参数就是导通电阻",
+      "music": 0.0
+    },
+    {
+      "from": 262.98,
+      "to": 266.06,
+      "sid": 106,
+      "location": 2,
+      "content": "导通电阻小的话应该就是稍微贵一点",
+      "music": 0.0
+    },
+    {
+      "from": 266.06,
+      "to": 268.73,
+      "sid": 107,
+      "location": 2,
+      "content": "因为它的定期性能好嘛对吧",
+      "music": 0.0
+    },
+    {
+      "from": 268.73,
+      "to": 272.3,
+      "sid": 108,
+      "location": 2,
+      "content": "导通电阻小意味着它在导通关断的导通的时候",
+      "music": 0.0
+    },
+    {
+      "from": 272.3,
+      "to": 275.02,
+      "sid": 109,
+      "location": 2,
+      "content": "他们在这个上面的消耗就小",
+      "music": 0.0
+    },
+    {
+      "from": 276.38,
+      "to": 277.78,
+      "sid": 110,
+      "location": 2,
+      "content": "能量损失就少",
+      "music": 0.0
+    },
+    {
+      "from": 277.78,
+      "to": 280.66,
+      "sid": 111,
+      "location": 2,
+      "content": "因此说他可能是个技术演化物",
+      "music": 0.0
+    },
+    {
+      "from": 280.66,
+      "to": 281.74,
+      "sid": 112,
+      "location": 2,
+      "content": "包层做的越薄",
+      "music": 0.0
+    },
+    {
+      "from": 281.74,
+      "to": 286.18,
+      "sid": 113,
+      "location": 2,
+      "content": "它这个木斯管的那个呃导通电阻越小",
+      "music": 0.0
+    },
+    {
+      "from": 286.18,
+      "to": 288.67,
+      "sid": 114,
+      "location": 2,
+      "content": "那么它就会更贵一些啊",
+      "music": 0.0
+    },
+    {
+      "from": 288.67,
+      "to": 290.24,
+      "sid": 115,
+      "location": 2,
+      "content": "这是它的一个特点",
+      "music": 0.0
+    },
+    {
+      "from": 290.24,
+      "to": 292.28,
+      "sid": 116,
+      "location": 2,
+      "content": "还有一个就是我们刚才讲到",
+      "music": 0.0
+    },
+    {
+      "from": 292.28,
+      "to": 293.9,
+      "sid": 117,
+      "location": 2,
+      "content": "它的寄生电容了是吧",
+      "music": 0.0
+    },
+    {
+      "from": 293.9,
+      "to": 297.319,
+      "sid": 118,
+      "location": 2,
+      "content": "寄生电容来说的话啊",
+      "music": 0.0
+    },
+    {
+      "from": 297.319,
+      "to": 298.939,
+      "sid": 119,
+      "location": 2,
+      "content": "还有一个什么问题呢",
+      "music": 0.0
+    },
+    {
+      "from": 298.939,
+      "to": 303.2,
+      "sid": 120,
+      "location": 2,
+      "content": "就是说如果说需弱的驱动信号",
+      "music": 0.0
+    },
+    {
+      "from": 303.2,
+      "to": 304.7,
+      "sid": 121,
+      "location": 2,
+      "content": "瞬间变成高电平了",
+      "music": 0.0
+    },
+    {
+      "from": 304.7,
+      "to": 306.92,
+      "sid": 122,
+      "location": 2,
+      "content": "为了灌满集成电充需要时间",
+      "music": 0.0
+    },
+    {
+      "from": 306.92,
+      "to": 310.309,
+      "sid": 123,
+      "location": 2,
+      "content": "如果我的这个集成电容特别大的话",
+      "music": 0.0
+    },
+    {
+      "from": 310.309,
+      "to": 312.799,
+      "sid": 124,
+      "location": 2,
+      "content": "那么就会产生上升压变缓",
+      "music": 0.0
+    },
+    {
+      "from": 312.799,
+      "to": 317.16,
+      "sid": 125,
+      "location": 2,
+      "content": "那么对开关频率呢形成重大的威胁",
+      "music": 0.0
+    },
+    {
+      "from": 317.16,
+      "to": 319.49,
+      "sid": 126,
+      "location": 2,
+      "content": "这也不是一件特别好的事情",
+      "music": 0.0
+    },
+    {
+      "from": 319.49,
+      "to": 321.11,
+      "sid": 127,
+      "location": 2,
+      "content": "所以说这个集成电容",
+      "music": 0.0
+    },
+    {
+      "from": 321.11,
+      "to": 323.6,
+      "sid": 128,
+      "location": 2,
+      "content": "有的时候我们也要考考虑到它",
+      "music": 0.0
+    },
+    {
+      "from": 323.6,
+      "to": 325.25,
+      "sid": 129,
+      "location": 2,
+      "content": "然后在使用mos管的时候",
+      "music": 0.0
+    },
+    {
+      "from": 325.25,
+      "to": 327.11,
+      "sid": 130,
+      "location": 2,
+      "content": "我们是不是要啊",
+      "music": 0.0
+    },
+    {
+      "from": 327.11,
+      "to": 328.31,
+      "sid": 131,
+      "location": 2,
+      "content": "用一些辅助的",
+      "music": 0.0
+    },
+    {
+      "from": 328.31,
+      "to": 331.12,
+      "sid": 132,
+      "location": 2,
+      "content": "一些其他的一些电路",
+      "music": 0.0
+    },
+    {
+      "from": 331.72,
+      "to": 336.36,
+      "sid": 133,
+      "location": 2,
+      "content": "来消除这个木子管自身的这个啊缺陷",
+      "music": 0.0
+    },
+    {
+      "from": 337.08,
+      "to": 339.14,
+      "sid": 134,
+      "location": 2,
+      "content": "那么我们在电路图当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 339.14,
+      "to": 340.76,
+      "sid": 135,
+      "location": 2,
+      "content": "mos管的那个表示方法",
+      "music": 0.0
+    },
+    {
+      "from": 340.76,
+      "to": 343.04,
+      "sid": 136,
+      "location": 2,
+      "content": "这个是n沟道的mos n mos",
+      "music": 0.0
+    },
+    {
+      "from": 343.04,
+      "to": 345.03,
+      "sid": 137,
+      "location": 2,
+      "content": "这个是p沟道的mop mo",
+      "music": 0.0
+    },
+    {
+      "from": 345.03,
+      "to": 346.71,
+      "sid": 138,
+      "location": 2,
+      "content": "但都是这样子来表示的",
+      "music": 0.0
+    },
+    {
+      "from": 346.71,
+      "to": 348.87,
+      "sid": 139,
+      "location": 2,
+      "content": "这就是mos管的一个简单的认识",
+      "music": 0.0
+    },
+    {
+      "from": 348.87,
+      "to": 352.14,
+      "sid": 140,
+      "location": 2,
+      "content": "那么我们再来看一下它的一个基础的应用",
+      "music": 0.0
+    },
+    {
+      "from": 352.159,
+      "to": 355.609,
+      "sid": 141,
+      "location": 2,
+      "content": "那么通常我们刚才知道了mos管有三个结啊",
+      "music": 0.0
+    },
+    {
+      "from": 355.609,
+      "to": 359.44,
+      "sid": 142,
+      "location": 2,
+      "content": "一个是申己酉己陋己",
+      "music": 0.0
+    },
+    {
+      "from": 359.44,
+      "to": 361.33,
+      "sid": 143,
+      "location": 2,
+      "content": "那么我们如何区分呢",
+      "music": 0.0
+    },
+    {
+      "from": 361.33,
+      "to": 363.04,
+      "sid": 144,
+      "location": 2,
+      "content": "如何区分哪个三级",
+      "music": 0.0
+    },
+    {
+      "from": 363.04,
+      "to": 365.02,
+      "sid": 145,
+      "location": 2,
+      "content": "实际上是很好认的了",
+      "music": 0.0
+    },
+    {
+      "from": 365.02,
+      "to": 367.58,
+      "sid": 146,
+      "location": 2,
+      "content": "单量的在一段的这个就是山脊对吧",
+      "music": 0.0
+    },
+    {
+      "from": 367.68,
+      "to": 369.78,
+      "sid": 147,
+      "location": 2,
+      "content": "那么我们说了",
+      "music": 0.0
+    },
+    {
+      "from": 369.78,
+      "to": 370.98,
+      "sid": 148,
+      "location": 2,
+      "content": "木子管分两种",
+      "music": 0.0
+    },
+    {
+      "from": 370.98,
+      "to": 371.94,
+      "sid": 149,
+      "location": 2,
+      "content": "一个是p沟道的",
+      "music": 0.0
+    },
+    {
+      "from": 371.94,
+      "to": 373.32,
+      "sid": 150,
+      "location": 2,
+      "content": "一个是n沟道的",
+      "music": 0.0
+    },
+    {
+      "from": 373.32,
+      "to": 375.24,
+      "sid": 151,
+      "location": 2,
+      "content": "那么哪个是s",
+      "music": 0.0
+    },
+    {
+      "from": 375.24,
+      "to": 376.5,
+      "sid": 152,
+      "location": 2,
+      "content": "哪个是d级呢",
+      "music": 0.0
+    },
+    {
+      "from": 376.5,
+      "to": 377.75,
+      "sid": 153,
+      "location": 2,
+      "content": "哪个是s级呢",
+      "music": 0.0
+    },
+    {
+      "from": 377.75,
+      "to": 380.81,
+      "sid": 154,
+      "location": 2,
+      "content": "这个呢其实大家可以看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 380.81,
+      "to": 384.41,
+      "sid": 155,
+      "location": 2,
+      "content": "就是升级很好确认他是单另一方的",
+      "music": 0.0
+    },
+    {
+      "from": 384.41,
+      "to": 387.63,
+      "sid": 156,
+      "location": 2,
+      "content": "那么对于呃漏极和远景",
+      "music": 0.0
+    },
+    {
+      "from": 387.63,
+      "to": 392.65,
+      "sid": 157,
+      "location": 2,
+      "content": "可以看这个两条线相交的地方就是s级",
+      "music": 0.0
+    },
+    {
+      "from": 393.97,
+      "to": 398.9,
+      "sid": 158,
+      "location": 2,
+      "content": "然后呢单另一条线的就是d级",
+      "music": 0.0
+    },
+    {
+      "from": 398.9,
+      "to": 400.52,
+      "sid": 159,
+      "location": 2,
+      "content": "这个写错了啊",
+      "music": 0.0
+    },
+    {
+      "from": 400.52,
+      "to": 402.6,
+      "sid": 160,
+      "location": 2,
+      "content": "单另一条线呢就是d级",
+      "music": 0.0
+    },
+    {
+      "from": 405.38,
+      "to": 407.62,
+      "sid": 161,
+      "location": 2,
+      "content": "不管是n沟道还是p勾的",
+      "music": 0.0
+    },
+    {
+      "from": 407.62,
+      "to": 410.38,
+      "sid": 162,
+      "location": 2,
+      "content": "这就是对于mos管的这个图上",
+      "music": 0.0
+    },
+    {
+      "from": 410.38,
+      "to": 411.7,
+      "sid": 163,
+      "location": 2,
+      "content": "我们读电路图的时候",
+      "music": 0.0
+    },
+    {
+      "from": 411.7,
+      "to": 413.98,
+      "sid": 164,
+      "location": 2,
+      "content": "对于mos管的一个简单的判断方法",
+      "music": 0.0
+    },
+    {
+      "from": 414.18,
+      "to": 417.78,
+      "sid": 165,
+      "location": 2,
+      "content": "那么如何分区分p沟道还是n沟道呢",
+      "music": 0.0
+    },
+    {
+      "from": 417.78,
+      "to": 421.44,
+      "sid": 166,
+      "location": 2,
+      "content": "这个也可以区分我们在图上怎么区分呢",
+      "music": 0.0
+    },
+    {
+      "from": 421.44,
+      "to": 422.7,
+      "sid": 167,
+      "location": 2,
+      "content": "我们来看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 422.94,
+      "to": 425.1,
+      "sid": 168,
+      "location": 2,
+      "content": "对于箭头指向山脊的",
+      "music": 0.0
+    },
+    {
+      "from": 425.1,
+      "to": 426.44,
+      "sid": 169,
+      "location": 2,
+      "content": "我们说淡定的",
+      "music": 0.0
+    },
+    {
+      "from": 426.44,
+      "to": 428.45,
+      "sid": 170,
+      "location": 2,
+      "content": "这个是三级是肯定没错的",
+      "music": 0.0
+    },
+    {
+      "from": 428.45,
+      "to": 430.46,
+      "sid": 171,
+      "location": 2,
+      "content": "对于箭头指向山脊的",
+      "music": 0.0
+    },
+    {
+      "from": 430.46,
+      "to": 431.48,
+      "sid": 172,
+      "location": 2,
+      "content": "那就是n沟道",
+      "music": 0.0
+    },
+    {
+      "from": 431.48,
+      "to": 432.94,
+      "sid": 173,
+      "location": 2,
+      "content": "这就是个n mo",
+      "music": 0.0
+    },
+    {
+      "from": 432.94,
+      "to": 436.94,
+      "sid": 174,
+      "location": 2,
+      "content": "对于箭头背向升级的",
+      "music": 0.0
+    },
+    {
+      "from": 436.94,
+      "to": 438.72,
+      "sid": 175,
+      "location": 2,
+      "content": "那它就是一个p mos",
+      "music": 0.0
+    },
+    {
+      "from": 439.039,
+      "to": 443.119,
+      "sid": 176,
+      "location": 2,
+      "content": "这也是教我们如何在我们这个图纸当中",
+      "music": 0.0
+    },
+    {
+      "from": 443.119,
+      "to": 447.3,
+      "sid": 177,
+      "location": 2,
+      "content": "来判别是amos还是p mos",
+      "music": 0.0
+    },
+    {
+      "from": 448.8,
+      "to": 449.78,
+      "sid": 178,
+      "location": 2,
+      "content": "那么都说了",
+      "music": 0.0
+    },
+    {
+      "from": 449.78,
+      "to": 451.4,
+      "sid": 179,
+      "location": 2,
+      "content": "它里边有一个寄生二极管",
+      "music": 0.0
+    },
+    {
+      "from": 451.4,
+      "to": 452.78,
+      "sid": 180,
+      "location": 2,
+      "content": "寄生二极管的作用是什么",
+      "music": 0.0
+    },
+    {
+      "from": 452.78,
+      "to": 454.58,
+      "sid": 181,
+      "location": 2,
+      "content": "是保护保护作用对吧",
+      "music": 0.0
+    },
+    {
+      "from": 454.58,
+      "to": 457.1,
+      "sid": 182,
+      "location": 2,
+      "content": "那我们来判断一下它里边的寄生二极管",
+      "music": 0.0
+    },
+    {
+      "from": 457.1,
+      "to": 459.48,
+      "sid": 183,
+      "location": 2,
+      "content": "是方向是怎么样的",
+      "music": 0.0
+    },
+    {
+      "from": 460.62,
+      "to": 463.22,
+      "sid": 184,
+      "location": 2,
+      "content": "实际上对于一般的mos mos管来说",
+      "music": 0.0
+    },
+    {
+      "from": 463.22,
+      "to": 465.08,
+      "sid": 185,
+      "location": 2,
+      "content": "我们在电路当中画的时候",
+      "music": 0.0
+    },
+    {
+      "from": 465.08,
+      "to": 467.84,
+      "sid": 186,
+      "location": 2,
+      "content": "并不会把这个寄生二极管画出来的",
+      "music": 0.0
+    },
+    {
+      "from": 467.84,
+      "to": 469.7,
+      "sid": 187,
+      "location": 2,
+      "content": "但是它是确确实实存在的",
+      "music": 0.0
+    },
+    {
+      "from": 469.7,
+      "to": 471.5,
+      "sid": 188,
+      "location": 2,
+      "content": "我们要考虑到它的存在",
+      "music": 0.0
+    },
+    {
+      "from": 471.74,
+      "to": 474.56,
+      "sid": 189,
+      "location": 2,
+      "content": "那么寄生二极管的方向是怎样判断的呢",
+      "music": 0.0
+    },
+    {
+      "from": 474.56,
+      "to": 476.1,
+      "sid": 190,
+      "location": 2,
+      "content": "在n沟道里边",
+      "music": 0.0
+    },
+    {
+      "from": 476.38,
+      "to": 479.02,
+      "sid": 191,
+      "location": 2,
+      "content": "这个寄生二极管的这个方向",
+      "music": 0.0
+    },
+    {
+      "from": 479.02,
+      "to": 485.68,
+      "sid": 192,
+      "location": 2,
+      "content": "实际上是跟这个是由这个s极指向d级的",
+      "music": 0.0
+    },
+    {
+      "from": 485.68,
+      "to": 489.5,
+      "sid": 193,
+      "location": 2,
+      "content": "它是跟里边这个箭头的方向是一致的",
+      "music": 0.0
+    },
+    {
+      "from": 490.08,
+      "to": 493.2,
+      "sid": 194,
+      "location": 2,
+      "content": "而在于p勾到的mos管当中",
+      "music": 0.0
+    },
+    {
+      "from": 493.2,
+      "to": 496.2,
+      "sid": 195,
+      "location": 2,
+      "content": "它是由d级指向s级的",
+      "music": 0.0
+    },
+    {
+      "from": 496.2,
+      "to": 499.03,
+      "sid": 196,
+      "location": 2,
+      "content": "它也是跟这个箭头的方向是一致的",
+      "music": 0.0
+    },
+    {
+      "from": 499.03,
+      "to": 502.42,
+      "sid": 197,
+      "location": 2,
+      "content": "所以说不管是n沟道还是p沟道的mos管",
+      "music": 0.0
+    },
+    {
+      "from": 502.42,
+      "to": 504.73,
+      "sid": 198,
+      "location": 2,
+      "content": "中间衬底箭头的方向",
+      "music": 0.0
+    },
+    {
+      "from": 504.73,
+      "to": 506.88,
+      "sid": 199,
+      "location": 2,
+      "content": "和机身二极管的方向总是一致的",
+      "music": 0.0
+    },
+    {
+      "from": 508.699,
+      "to": 509.739,
+      "sid": 200,
+      "location": 2,
+      "content": "大家要问了",
+      "music": 0.0
+    },
+    {
+      "from": 509.739,
+      "to": 511.359,
+      "sid": 201,
+      "location": 2,
+      "content": "为什么是这样子的呢",
+      "music": 0.0
+    },
+    {
+      "from": 511.359,
+      "to": 513.849,
+      "sid": 202,
+      "location": 2,
+      "content": "因为可以看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 513.849,
+      "to": 517.74,
+      "sid": 203,
+      "location": 2,
+      "content": "如果我们的电流是这样通的导通的",
+      "music": 0.0
+    },
+    {
+      "from": 519.78,
+      "to": 521.459,
+      "sid": 204,
+      "location": 2,
+      "content": "如果是这样导通的",
+      "music": 0.0
+    },
+    {
+      "from": 521.54,
+      "to": 524.06,
+      "sid": 205,
+      "location": 2,
+      "content": "假如说我的二极管不是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 524.06,
+      "to": 526.07,
+      "sid": 206,
+      "location": 2,
+      "content": "我的二极管是这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 526.07,
+      "to": 527.4,
+      "sid": 207,
+      "location": 2,
+      "content": "反方向的",
+      "music": 0.0
+    },
+    {
+      "from": 527.4,
+      "to": 528.84,
+      "sid": 208,
+      "location": 2,
+      "content": "反方向的话",
+      "music": 0.0
+    },
+    {
+      "from": 528.84,
+      "to": 531.0,
+      "sid": 209,
+      "location": 2,
+      "content": "我这个mos管打开的话",
+      "music": 0.0
+    },
+    {
+      "from": 531.0,
+      "to": 532.2,
+      "sid": 210,
+      "location": 2,
+      "content": "我的电流是怎么流的",
+      "music": 0.0
+    },
+    {
+      "from": 532.2,
+      "to": 532.86,
+      "sid": 211,
+      "location": 2,
+      "content": "是这样留的",
+      "music": 0.0
+    },
+    {
+      "from": 532.86,
+      "to": 533.719,
+      "sid": 212,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 535.92,
+      "to": 538.88,
+      "sid": 213,
+      "location": 2,
+      "content": "而我的二极管是这个方向的",
+      "music": 0.0
+    },
+    {
+      "from": 538.88,
+      "to": 540.5,
+      "sid": 214,
+      "location": 2,
+      "content": "也就是它的阳极是在下面",
+      "music": 0.0
+    },
+    {
+      "from": 540.5,
+      "to": 541.91,
+      "sid": 215,
+      "location": 2,
+      "content": "阴极是在下面的话",
+      "music": 0.0
+    },
+    {
+      "from": 541.91,
+      "to": 545.3,
+      "sid": 216,
+      "location": 2,
+      "content": "我的二极管也是这样可以导通的",
+      "music": 0.0
+    },
+    {
+      "from": 545.98,
+      "to": 548.65,
+      "sid": 217,
+      "location": 2,
+      "content": "那么如果我的墨子管不打开的话",
+      "music": 0.0
+    },
+    {
+      "from": 548.65,
+      "to": 550.72,
+      "sid": 218,
+      "location": 2,
+      "content": "我这个回路也是导通的",
+      "music": 0.0
+    },
+    {
+      "from": 550.72,
+      "to": 553.39,
+      "sid": 219,
+      "location": 2,
+      "content": "所以说我的二极管不但没有起到保护作用",
+      "music": 0.0
+    },
+    {
+      "from": 553.39,
+      "to": 556.569,
+      "sid": 220,
+      "location": 2,
+      "content": "而且就是他一直是一个导通状态",
+      "music": 0.0
+    },
+    {
+      "from": 556.569,
+      "to": 558.489,
+      "sid": 221,
+      "location": 2,
+      "content": "那我的这个mos管",
+      "music": 0.0
+    },
+    {
+      "from": 558.489,
+      "to": 562.509,
+      "sid": 222,
+      "location": 2,
+      "content": "它就失去了这个开关管的这个实际的作用了",
+      "music": 0.0
+    },
+    {
+      "from": 562.509,
+      "to": 563.529,
+      "sid": 223,
+      "location": 2,
+      "content": "失去了它的意义",
+      "music": 0.0
+    },
+    {
+      "from": 563.529,
+      "to": 564.72,
+      "sid": 224,
+      "location": 2,
+      "content": "开关的意义了",
+      "music": 0.0
+    },
+    {
+      "from": 564.72,
+      "to": 568.9,
+      "sid": 225,
+      "location": 2,
+      "content": "所以说我的二极管不可能是啊相反方向放置的",
+      "music": 0.0
+    },
+    {
+      "from": 568.9,
+      "to": 571.3,
+      "sid": 226,
+      "location": 2,
+      "content": "因此说这个二极管的方向",
+      "music": 0.0
+    },
+    {
+      "from": 571.3,
+      "to": 574.819,
+      "sid": 227,
+      "location": 2,
+      "content": "会一直和我这个箭头的方向是一致的啊",
+      "music": 0.0
+    },
+    {
+      "from": 574.819,
+      "to": 577.219,
+      "sid": 228,
+      "location": 2,
+      "content": "这就是一个简单的这个二啊",
+      "music": 0.0
+    },
+    {
+      "from": 577.219,
+      "to": 579.67,
+      "sid": 229,
+      "location": 2,
+      "content": "寄生二极管方向的判别",
+      "music": 0.0
+    },
+    {
+      "from": 580.81,
+      "to": 582.92,
+      "sid": 230,
+      "location": 2,
+      "content": "那么mos管的开关条件",
+      "music": 0.0
+    },
+    {
+      "from": 583.4,
+      "to": 586.97,
+      "sid": 231,
+      "location": 2,
+      "content": "我们在实际是我们在实际设计的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 586.97,
+      "to": 589.859,
+      "sid": 232,
+      "location": 2,
+      "content": "我们要如何设计这个mos管",
+      "music": 0.0
+    },
+    {
+      "from": 590.22,
+      "to": 592.08,
+      "sid": 233,
+      "location": 2,
+      "content": "他有什么条件的时候",
+      "music": 0.0
+    },
+    {
+      "from": 592.08,
+      "to": 593.939,
+      "sid": 234,
+      "location": 2,
+      "content": "可以认为它是导通的",
+      "music": 0.0
+    },
+    {
+      "from": 595.92,
+      "to": 597.64,
+      "sid": 235,
+      "location": 2,
+      "content": "对于这个来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 598.94,
+      "to": 601.24,
+      "sid": 236,
+      "location": 2,
+      "content": "不管是n沟道还是p沟道的",
+      "music": 0.0
+    },
+    {
+      "from": 601.24,
+      "to": 605.9,
+      "sid": 237,
+      "location": 2,
+      "content": "我们都是以这一级和s级的电压来做比较",
+      "music": 0.0
+    },
+    {
+      "from": 605.9,
+      "to": 609.479,
+      "sid": 238,
+      "location": 2,
+      "content": "来判别这个mos管的开开端的",
+      "music": 0.0
+    },
+    {
+      "from": 609.82,
+      "to": 612.67,
+      "sid": 239,
+      "location": 2,
+      "content": "拿这个n沟道的mos管来说",
+      "music": 0.0
+    },
+    {
+      "from": 612.67,
+      "to": 615.45,
+      "sid": 240,
+      "location": 2,
+      "content": "当n沟道导通的时候",
+      "music": 0.0
+    },
+    {
+      "from": 615.45,
+      "to": 619.2,
+      "sid": 241,
+      "location": 2,
+      "content": "我们这个g级的电压是大于这个s级的电压",
+      "music": 0.0
+    },
+    {
+      "from": 619.2,
+      "to": 620.19,
+      "sid": 242,
+      "location": 2,
+      "content": "它大于它",
+      "music": 0.0
+    },
+    {
+      "from": 620.19,
+      "to": 622.92,
+      "sid": 243,
+      "location": 2,
+      "content": "然后它导通电流是这样流的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 623.6,
+      "to": 629.17,
+      "sid": 244,
+      "location": 2,
+      "content": "然后我的这个看这个mos这个这个寄生二极管",
+      "music": 0.0
+    },
+    {
+      "from": 629.17,
+      "to": 630.85,
+      "sid": 245,
+      "location": 2,
+      "content": "它的方向是这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 630.85,
+      "to": 631.93,
+      "sid": 246,
+      "location": 2,
+      "content": "它下面是阳极",
+      "music": 0.0
+    },
+    {
+      "from": 631.93,
+      "to": 633.49,
+      "sid": 247,
+      "location": 2,
+      "content": "上面是阴极",
+      "music": 0.0
+    },
+    {
+      "from": 633.49,
+      "to": 634.75,
+      "sid": 248,
+      "location": 2,
+      "content": "所以说我在这边留",
+      "music": 0.0
+    },
+    {
+      "from": 634.75,
+      "to": 637.14,
+      "sid": 249,
+      "location": 2,
+      "content": "它是流不过来的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 637.4,
+      "to": 638.96,
+      "sid": 250,
+      "location": 2,
+      "content": "它只能是这样流",
+      "music": 0.0
+    },
+    {
+      "from": 638.96,
+      "to": 640.4,
+      "sid": 251,
+      "location": 2,
+      "content": "一旦我这边关断了",
+      "music": 0.0
+    },
+    {
+      "from": 640.4,
+      "to": 641.72,
+      "sid": 252,
+      "location": 2,
+      "content": "我这边也有残余电流",
+      "music": 0.0
+    },
+    {
+      "from": 641.72,
+      "to": 643.28,
+      "sid": 253,
+      "location": 2,
+      "content": "可以通过这个机身二极管",
+      "music": 0.0
+    },
+    {
+      "from": 643.28,
+      "to": 644.819,
+      "sid": 254,
+      "location": 2,
+      "content": "然后形成一个回路",
+      "music": 0.0
+    },
+    {
+      "from": 647.0,
+      "to": 650.2,
+      "sid": 255,
+      "location": 2,
+      "content": "而对于p勾到呢也是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 650.2,
+      "to": 654.219,
+      "sid": 256,
+      "location": 2,
+      "content": "p勾到也是这一级和s级进行进行比较",
+      "music": 0.0
+    },
+    {
+      "from": 656.38,
+      "to": 660.439,
+      "sid": 257,
+      "location": 2,
+      "content": "当我的g级的电压小于s级电压的时候",
+      "music": 0.0
+    },
+    {
+      "from": 660.52,
+      "to": 662.8,
+      "sid": 258,
+      "location": 2,
+      "content": "那么我就导通了",
+      "music": 0.0
+    },
+    {
+      "from": 662.8,
+      "to": 663.28,
+      "sid": 259,
+      "location": 2,
+      "content": "导通了",
+      "music": 0.0
+    },
+    {
+      "from": 663.28,
+      "to": 664.42,
+      "sid": 260,
+      "location": 2,
+      "content": "是这样子走",
+      "music": 0.0
+    },
+    {
+      "from": 664.42,
+      "to": 667.12,
+      "sid": 261,
+      "location": 2,
+      "content": "还从s极流向d级对吧",
+      "music": 0.0
+    },
+    {
+      "from": 667.38,
+      "to": 669.48,
+      "sid": 262,
+      "location": 2,
+      "content": "然后还是同样的道理",
+      "music": 0.0
+    },
+    {
+      "from": 669.48,
+      "to": 672.42,
+      "sid": 263,
+      "location": 2,
+      "content": "我在这个计生二极管这边是不同的",
+      "music": 0.0
+    },
+    {
+      "from": 673.44,
+      "to": 675.14,
+      "sid": 264,
+      "location": 2,
+      "content": "而当我这边关断的时候",
+      "music": 0.0
+    },
+    {
+      "from": 675.14,
+      "to": 676.4,
+      "sid": 265,
+      "location": 2,
+      "content": "我的电流如果过大",
+      "music": 0.0
+    },
+    {
+      "from": 676.4,
+      "to": 680.15,
+      "sid": 266,
+      "location": 2,
+      "content": "可以通过这个二极管形成这样一个回路",
+      "music": 0.0
+    },
+    {
+      "from": 680.15,
+      "to": 681.11,
+      "sid": 267,
+      "location": 2,
+      "content": "进行保护",
+      "music": 0.0
+    },
+    {
+      "from": 681.11,
+      "to": 685.16,
+      "sid": 268,
+      "location": 2,
+      "content": "简单的认为这两种不管是n高的还是p勾的",
+      "music": 0.0
+    },
+    {
+      "from": 685.16,
+      "to": 687.18,
+      "sid": 269,
+      "location": 2,
+      "content": "当右击等于ui等于",
+      "music": 0.0
+    },
+    {
+      "from": 687.18,
+      "to": 689.1,
+      "sid": 270,
+      "location": 2,
+      "content": "当ug等于u s的时候",
+      "music": 0.0
+    },
+    {
+      "from": 689.1,
+      "to": 692.53,
+      "sid": 271,
+      "location": 2,
+      "content": "我们认为这二极管是这个mos管是截止的",
+      "music": 0.0
+    },
+    {
+      "from": 692.53,
+      "to": 696.12,
+      "sid": 272,
+      "location": 2,
+      "content": "这就是mos管的一个简单的判别方法",
+      "music": 0.0
+    },
+    {
+      "from": 697.66,
+      "to": 701.4,
+      "sid": 273,
+      "location": 2,
+      "content": "我们来看一下它实际的一个用途啊",
+      "music": 0.0
+    },
+    {
+      "from": 701.4,
+      "to": 702.9,
+      "sid": 274,
+      "location": 2,
+      "content": "实际的用途是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 702.9,
+      "to": 705.24,
+      "sid": 275,
+      "location": 2,
+      "content": "这个mos管以amos为例吧",
+      "music": 0.0
+    },
+    {
+      "from": 705.24,
+      "to": 709.92,
+      "sid": 276,
+      "location": 2,
+      "content": "它主要是mos管有信号切换对吧",
+      "music": 0.0
+    },
+    {
+      "from": 709.92,
+      "to": 710.88,
+      "sid": 277,
+      "location": 2,
+      "content": "我传递信号",
+      "music": 0.0
+    },
+    {
+      "from": 710.88,
+      "to": 714.42,
+      "sid": 278,
+      "location": 2,
+      "content": "信号切换导通或者是关断来",
+      "music": 0.0
+    },
+    {
+      "from": 714.44,
+      "to": 717.38,
+      "sid": 279,
+      "location": 2,
+      "content": "来让信号通过或者是不通过",
+      "music": 0.0
+    },
+    {
+      "from": 717.38,
+      "to": 719.96,
+      "sid": 280,
+      "location": 2,
+      "content": "然后还有一个是电压通断",
+      "music": 0.0
+    },
+    {
+      "from": 719.96,
+      "to": 723.6,
+      "sid": 281,
+      "location": 2,
+      "content": "这一般用在一个功率电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 723.6,
+      "to": 725.97,
+      "sid": 282,
+      "location": 2,
+      "content": "来表示电压的通和断",
+      "music": 0.0
+    },
+    {
+      "from": 725.97,
+      "to": 728.25,
+      "sid": 283,
+      "location": 2,
+      "content": "那么它对于这些呢",
+      "music": 0.0
+    },
+    {
+      "from": 728.25,
+      "to": 732.36,
+      "sid": 284,
+      "location": 2,
+      "content": "有一些那个常用的一些型号的mos管",
+      "music": 0.0
+    },
+    {
+      "from": 732.36,
+      "to": 733.8,
+      "sid": 285,
+      "location": 2,
+      "content": "大家可以了解一下",
+      "music": 0.0
+    },
+    {
+      "from": 733.8,
+      "to": 738.42,
+      "sid": 286,
+      "location": 2,
+      "content": "然后回头下去呢查一下他们的那个that",
+      "music": 0.0
+    },
+    {
+      "from": 738.42,
+      "to": 743.19,
+      "sid": 287,
+      "location": 2,
+      "content": "看一下里边对于这些mos管描述的一些参数嗯",
+      "music": 0.0
+    },
+    {
+      "from": 743.19,
+      "to": 744.96,
+      "sid": 288,
+      "location": 2,
+      "content": "他们两个呢也有一些不同",
+      "music": 0.0
+    },
+    {
+      "from": 744.96,
+      "to": 745.74,
+      "sid": 289,
+      "location": 2,
+      "content": "哪里不同呢",
+      "music": 0.0
+    },
+    {
+      "from": 745.74,
+      "to": 748.439,
+      "sid": 290,
+      "location": 2,
+      "content": "就是对于信号切换使用的mos管",
+      "music": 0.0
+    },
+    {
+      "from": 748.44,
+      "to": 751.92,
+      "sid": 291,
+      "location": 2,
+      "content": "他这个ug比u s一般大3~5伏就能导通了",
+      "music": 0.0
+    },
+    {
+      "from": 751.92,
+      "to": 753.42,
+      "sid": 292,
+      "location": 2,
+      "content": "而且只要它导通就可以",
+      "music": 0.0
+    },
+    {
+      "from": 753.42,
+      "to": 754.79,
+      "sid": 293,
+      "location": 2,
+      "content": "因为是信号嘛对吧",
+      "music": 0.0
+    },
+    {
+      "from": 754.79,
+      "to": 755.69,
+      "sid": 294,
+      "location": 2,
+      "content": "导通就可以",
+      "music": 0.0
+    },
+    {
+      "from": 755.69,
+      "to": 756.89,
+      "sid": 295,
+      "location": 2,
+      "content": "没有必要饱和导通",
+      "music": 0.0
+    },
+    {
+      "from": 756.89,
+      "to": 760.01,
+      "sid": 296,
+      "location": 2,
+      "content": "而但是对于这个电压通断的这种模组管",
+      "music": 0.0
+    },
+    {
+      "from": 760.01,
+      "to": 763.1,
+      "sid": 297,
+      "location": 2,
+      "content": "一般是用在功率电路当中呃",
+      "music": 0.0
+    },
+    {
+      "from": 763.1,
+      "to": 765.38,
+      "sid": 298,
+      "location": 2,
+      "content": "ug会比u s大10伏以上",
+      "music": 0.0
+    },
+    {
+      "from": 765.38,
+      "to": 766.82,
+      "sid": 299,
+      "location": 2,
+      "content": "并且开通的时候",
+      "music": 0.0
+    },
+    {
+      "from": 766.82,
+      "to": 770.14,
+      "sid": 300,
+      "location": 2,
+      "content": "他必须在一个保护导通状态嗯",
+      "music": 0.0
+    },
+    {
+      "from": 770.14,
+      "to": 772.75,
+      "sid": 301,
+      "location": 2,
+      "content": "p mos呢和amos是相反的",
+      "music": 0.0
+    },
+    {
+      "from": 772.75,
+      "to": 775.69,
+      "sid": 302,
+      "location": 2,
+      "content": "这个大家可以自己尝试一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 775.69,
+      "to": 778.14,
+      "sid": 303,
+      "location": 2,
+      "content": "mos管还有一个作用就是隔离作用",
+      "music": 0.0
+    },
+    {
+      "from": 778.94,
+      "to": 781.06,
+      "sid": 304,
+      "location": 2,
+      "content": "隔离作用通常是使用二极管",
+      "music": 0.0
+    },
+    {
+      "from": 781.06,
+      "to": 783.4,
+      "sid": 305,
+      "location": 2,
+      "content": "来实现电路的单向导通",
+      "music": 0.0
+    },
+    {
+      "from": 783.4,
+      "to": 785.88,
+      "sid": 306,
+      "location": 2,
+      "content": "而阻止反向导通",
+      "music": 0.0
+    },
+    {
+      "from": 786.02,
+      "to": 790.37,
+      "sid": 307,
+      "location": 2,
+      "content": "因为你想我们通常隔离作用是嗯",
+      "music": 0.0
+    },
+    {
+      "from": 790.37,
+      "to": 793.38,
+      "sid": 308,
+      "location": 2,
+      "content": "实现定律的单向导通性",
+      "music": 0.0
+    },
+    {
+      "from": 794.04,
+      "to": 795.02,
+      "sid": 309,
+      "location": 2,
+      "content": "我们是用什么",
+      "music": 0.0
+    },
+    {
+      "from": 795.02,
+      "to": 797.42,
+      "sid": 310,
+      "location": 2,
+      "content": "是用二极管来做对吧",
+      "music": 0.0
+    },
+    {
+      "from": 797.42,
+      "to": 799.1,
+      "sid": 311,
+      "location": 2,
+      "content": "但是二极管的话",
+      "music": 0.0
+    },
+    {
+      "from": 799.1,
+      "to": 801.8,
+      "sid": 312,
+      "location": 2,
+      "content": "实际上所有的二极管都是有压降的",
+      "music": 0.0
+    },
+    {
+      "from": 801.8,
+      "to": 807.16,
+      "sid": 313,
+      "location": 2,
+      "content": "它的最小压降在啊0.7伏是吧",
+      "music": 0.0
+    },
+    {
+      "from": 809.1,
+      "to": 812.04,
+      "sid": 314,
+      "location": 2,
+      "content": "而我的开关管如果导通的话",
+      "music": 0.0
+    },
+    {
+      "from": 812.04,
+      "to": 814.0,
+      "sid": 315,
+      "location": 2,
+      "content": "开关管的那个",
+      "music": 0.0
+    },
+    {
+      "from": 815.82,
+      "to": 818.76,
+      "sid": 316,
+      "location": 2,
+      "content": "方向寄生二",
+      "music": 0.0
+    },
+    {
+      "from": 818.76,
+      "to": 821.28,
+      "sid": 317,
+      "location": 2,
+      "content": "寄生二极管的方向和单向导通性",
+      "music": 0.0
+    },
+    {
+      "from": 821.28,
+      "to": 824.16,
+      "sid": 318,
+      "location": 2,
+      "content": "方向一致的情况下啊",
+      "music": 0.0
+    },
+    {
+      "from": 824.16,
+      "to": 825.479,
+      "sid": 319,
+      "location": 2,
+      "content": "做隔离作用",
+      "music": 0.0
+    },
+    {
+      "from": 825.78,
+      "to": 829.479,
+      "sid": 320,
+      "location": 2,
+      "content": "用帽子管那么能实现隔离作用",
+      "music": 0.0
+    },
+    {
+      "from": 830.0,
+      "to": 832.76,
+      "sid": 321,
+      "location": 2,
+      "content": "这个我们帽子管导通的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 832.76,
+      "to": 835.479,
+      "sid": 322,
+      "location": 2,
+      "content": "因为帽子管它一般都没有压降",
+      "music": 0.0
+    },
+    {
+      "from": 836.3,
+      "to": 838.39,
+      "sid": 323,
+      "location": 2,
+      "content": "但是在这里来讲的话",
+      "music": 0.0
+    },
+    {
+      "from": 838.39,
+      "to": 840.46,
+      "sid": 324,
+      "location": 2,
+      "content": "他应该就是用到mos管里边",
+      "music": 0.0
+    },
+    {
+      "from": 840.46,
+      "to": 842.68,
+      "sid": 325,
+      "location": 2,
+      "content": "那个二极管来做隔离了",
+      "music": 0.0
+    },
+    {
+      "from": 844.2,
+      "to": 848.6,
+      "sid": 326,
+      "location": 2,
+      "content": "因为mos管里边那带一个寄生二极管",
+      "music": 0.0
+    },
+    {
+      "from": 848.6,
+      "to": 851.66,
+      "sid": 327,
+      "location": 2,
+      "content": "它应该是用那个寄生二极管来做隔离",
+      "music": 0.0
+    },
+    {
+      "from": 851.66,
+      "to": 852.92,
+      "sid": 328,
+      "location": 2,
+      "content": "所以说这个",
+      "music": 0.0
+    },
+    {
+      "from": 855.96,
+      "to": 860.84,
+      "sid": 329,
+      "location": 2,
+      "content": "与做信号或者是做电压开关的不同",
+      "music": 0.0
+    },
+    {
+      "from": 860.84,
+      "to": 862.4,
+      "sid": 330,
+      "location": 2,
+      "content": "它的方向不同",
+      "music": 0.0
+    },
+    {
+      "from": 862.4,
+      "to": 863.84,
+      "sid": 331,
+      "location": 2,
+      "content": "应用的方向不同",
+      "music": 0.0
+    },
+    {
+      "from": 863.84,
+      "to": 867.0,
+      "sid": 332,
+      "location": 2,
+      "content": "它主要是用到mos管里边的那个二极管",
+      "music": 0.0
+    },
+    {
+      "from": 867.0,
+      "to": 870.24,
+      "sid": 333,
+      "location": 2,
+      "content": "这个呢啊回头我给大家找一个电路图",
+      "music": 0.0
+    },
+    {
+      "from": 870.24,
+      "to": 872.56,
+      "sid": 334,
+      "location": 2,
+      "content": "咱们来做一下详细的讲解",
+      "music": 0.0
+    },
+    {
+      "from": 876.8,
+      "to": 879.64,
+      "sid": 335,
+      "location": 2,
+      "content": "最后我们来看一下这个实物的判别",
+      "music": 0.0
+    },
+    {
+      "from": 879.64,
+      "to": 880.78,
+      "sid": 336,
+      "location": 2,
+      "content": "就是作为mos管",
+      "music": 0.0
+    },
+    {
+      "from": 880.78,
+      "to": 882.28,
+      "sid": 337,
+      "location": 2,
+      "content": "它有一个实物的判别",
+      "music": 0.0
+    },
+    {
+      "from": 882.28,
+      "to": 885.52,
+      "sid": 338,
+      "location": 2,
+      "content": "mos管的那个呃封装很多啊",
+      "music": 0.0
+    },
+    {
+      "from": 885.52,
+      "to": 887.459,
+      "sid": 339,
+      "location": 2,
+      "content": "有s o杠八的",
+      "music": 0.0
+    },
+    {
+      "from": 887.64,
+      "to": 889.41,
+      "sid": 340,
+      "location": 2,
+      "content": "d fn的",
+      "music": 0.0
+    },
+    {
+      "from": 889.41,
+      "to": 893.19,
+      "sid": 341,
+      "location": 2,
+      "content": "还有s o t r3 的嗯",
+      "music": 0.0
+    },
+    {
+      "from": 893.19,
+      "to": 897.12,
+      "sid": 342,
+      "location": 2,
+      "content": "还有大封装的",
+      "music": 0.0
+    },
+    {
+      "from": 897.12,
+      "to": 898.78,
+      "sid": 343,
+      "location": 2,
+      "content": "就是功率二极管的",
+      "music": 0.0
+    },
+    {
+      "from": 902.42,
+      "to": 906.1,
+      "sid": 344,
+      "location": 2,
+      "content": "我们先看一下简单的二极管怎么判断",
+      "music": 0.0
+    },
+    {
+      "from": 906.1,
+      "to": 911.12,
+      "sid": 345,
+      "location": 2,
+      "content": "就是通常都是用嗯万用表来判断",
+      "music": 0.0
+    },
+    {
+      "from": 911.12,
+      "to": 913.04,
+      "sid": 346,
+      "location": 2,
+      "content": "对于soo杠八呢",
+      "music": 0.0
+    },
+    {
+      "from": 913.04,
+      "to": 915.23,
+      "sid": 347,
+      "location": 2,
+      "content": "就是一般所有的器件上面",
+      "music": 0.0
+    },
+    {
+      "from": 915.23,
+      "to": 917.72,
+      "sid": 348,
+      "location": 2,
+      "content": "对于第一银角都会有一个标志",
+      "music": 0.0
+    },
+    {
+      "from": 917.72,
+      "to": 919.339,
+      "sid": 349,
+      "location": 2,
+      "content": "就是一个小圆点",
+      "music": 0.0
+    },
+    {
+      "from": 919.6,
+      "to": 921.28,
+      "sid": 350,
+      "location": 2,
+      "content": "呃啊so杠八的",
+      "music": 0.0
+    },
+    {
+      "from": 921.28,
+      "to": 925.1,
+      "sid": 351,
+      "location": 2,
+      "content": "他这个呢一般是一排这边",
+      "music": 0.0
+    },
+    {
+      "from": 925.1,
+      "to": 929.21,
+      "sid": 352,
+      "location": 2,
+      "content": "比如说这边四个通常都是那个地级",
+      "music": 0.0
+    },
+    {
+      "from": 929.21,
+      "to": 932.4,
+      "sid": 353,
+      "location": 2,
+      "content": "地级一般通常就位于单独的一边",
+      "music": 0.0
+    },
+    {
+      "from": 932.42,
+      "to": 934.43,
+      "sid": 354,
+      "location": 2,
+      "content": "然后第一个银角",
+      "music": 0.0
+    },
+    {
+      "from": 934.43,
+      "to": 938.68,
+      "sid": 355,
+      "location": 2,
+      "content": "第一个引脚通常就是g级",
+      "music": 0.0
+    },
+    {
+      "from": 941.58,
+      "to": 943.62,
+      "sid": 356,
+      "location": 2,
+      "content": "或者是s级",
+      "music": 0.0
+    },
+    {
+      "from": 943.62,
+      "to": 945.72,
+      "sid": 357,
+      "location": 2,
+      "content": "他的s级啊",
+      "music": 0.0
+    },
+    {
+      "from": 945.72,
+      "to": 948.87,
+      "sid": 358,
+      "location": 2,
+      "content": "你看他这个通常来说s级是三个",
+      "music": 0.0
+    },
+    {
+      "from": 948.87,
+      "to": 951.219,
+      "sid": 359,
+      "location": 2,
+      "content": "然后这一集是一个",
+      "music": 0.0
+    },
+    {
+      "from": 951.28,
+      "to": 954.28,
+      "sid": 360,
+      "location": 2,
+      "content": "这个通常情况下是这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 954.28,
+      "to": 956.5,
+      "sid": 361,
+      "location": 2,
+      "content": "大家拿到一个墨子管",
+      "music": 0.0
+    },
+    {
+      "from": 956.5,
+      "to": 957.76,
+      "sid": 362,
+      "location": 2,
+      "content": "如果说有条件的话",
+      "music": 0.0
+    },
+    {
+      "from": 957.76,
+      "to": 959.8,
+      "sid": 363,
+      "location": 2,
+      "content": "还是看一下那个data sheet",
+      "music": 0.0
+    },
+    {
+      "from": 959.8,
+      "to": 962.01,
+      "sid": 364,
+      "location": 2,
+      "content": "然后对一下它的封装",
+      "music": 0.0
+    },
+    {
+      "from": 962.01,
+      "to": 963.99,
+      "sid": 365,
+      "location": 2,
+      "content": "然后在我们画pcb的时候",
+      "music": 0.0
+    },
+    {
+      "from": 963.99,
+      "to": 965.67,
+      "sid": 366,
+      "location": 2,
+      "content": "尤其是我们在画pcb的时候",
+      "music": 0.0
+    },
+    {
+      "from": 965.67,
+      "to": 967.79,
+      "sid": 367,
+      "location": 2,
+      "content": "最好把这个核对一下",
+      "music": 0.0
+    },
+    {
+      "from": 967.79,
+      "to": 970.439,
+      "sid": 368,
+      "location": 2,
+      "content": "然后可以用万用表来测量一下",
+      "music": 0.0
+    },
+    {
+      "from": 971.84,
+      "to": 973.359,
+      "sid": 369,
+      "location": 2,
+      "content": "测量的话",
+      "music": 0.0
+    },
+    {
+      "from": 975.6,
+      "to": 976.76,
+      "sid": 370,
+      "location": 2,
+      "content": "怎么测量呢",
+      "music": 0.0
+    },
+    {
+      "from": 976.76,
+      "to": 978.26,
+      "sid": 371,
+      "location": 2,
+      "content": "就是可以",
+      "music": 0.0
+    },
+    {
+      "from": 978.26,
+      "to": 984.52,
+      "sid": 372,
+      "location": 2,
+      "content": "就是我们在认为他这个mos管的这个js级",
+      "music": 0.0
+    },
+    {
+      "from": 984.56,
+      "to": 987.14,
+      "sid": 373,
+      "location": 2,
+      "content": "还有jd级d级",
+      "music": 0.0
+    },
+    {
+      "from": 987.14,
+      "to": 988.82,
+      "sid": 374,
+      "location": 2,
+      "content": "在没有导导通之前",
+      "music": 0.0
+    },
+    {
+      "from": 988.82,
+      "to": 990.08,
+      "sid": 375,
+      "location": 2,
+      "content": "他们三个都是断的",
+      "music": 0.0
+    },
+    {
+      "from": 990.08,
+      "to": 992.96,
+      "sid": 376,
+      "location": 2,
+      "content": "就是你用蜂鸣器档量这相同的",
+      "music": 0.0
+    },
+    {
+      "from": 992.96,
+      "to": 995.29,
+      "sid": 377,
+      "location": 2,
+      "content": "这个应该都是不通的",
+      "music": 0.0
+    },
+    {
+      "from": 995.29,
+      "to": 998.93,
+      "sid": 378,
+      "location": 2,
+      "content": "所以说嗯像这种的话",
+      "music": 0.0
+    },
+    {
+      "from": 998.93,
+      "to": 1000.4,
+      "sid": 379,
+      "location": 2,
+      "content": "它一共八个演讲嘛",
+      "music": 0.0
+    },
+    {
+      "from": 1000.4,
+      "to": 1005.44,
+      "sid": 380,
+      "location": 2,
+      "content": "肯定是有有有一些是有几个是在一起的",
+      "music": 0.0
+    },
+    {
+      "from": 1005.44,
+      "to": 1009.02,
+      "sid": 381,
+      "location": 2,
+      "content": "因为我们对于mos管它只有三个级是吧",
+      "music": 0.0
+    },
+    {
+      "from": 1009.02,
+      "to": 1010.43,
+      "sid": 382,
+      "location": 2,
+      "content": "你现在是有八个音节",
+      "music": 0.0
+    },
+    {
+      "from": 1010.43,
+      "to": 1011.45,
+      "sid": 383,
+      "location": 2,
+      "content": "肯定是有一起的",
+      "music": 0.0
+    },
+    {
+      "from": 1011.45,
+      "to": 1015.64,
+      "sid": 384,
+      "location": 2,
+      "content": "而且像这种习惯性的东西都是一边都是d级吗",
+      "music": 0.0
+    },
+    {
+      "from": 1015.64,
+      "to": 1017.02,
+      "sid": 385,
+      "location": 2,
+      "content": "你把这个d级判断出来",
+      "music": 0.0
+    },
+    {
+      "from": 1017.02,
+      "to": 1017.86,
+      "sid": 386,
+      "location": 2,
+      "content": "一边都是导通",
+      "music": 0.0
+    },
+    {
+      "from": 1017.86,
+      "to": 1018.64,
+      "sid": 387,
+      "location": 2,
+      "content": "都是d级的话",
+      "music": 0.0
+    },
+    {
+      "from": 1018.64,
+      "to": 1019.48,
+      "sid": 388,
+      "location": 2,
+      "content": "一边是d级",
+      "music": 0.0
+    },
+    {
+      "from": 1019.48,
+      "to": 1024.14,
+      "sid": 389,
+      "location": 2,
+      "content": "然后这边判断s级和g级就很好判断了",
+      "music": 0.0
+    },
+    {
+      "from": 1024.14,
+      "to": 1029.2,
+      "sid": 390,
+      "location": 2,
+      "content": "下面这个d f n这个封装这个也很好判断",
+      "music": 0.0
+    },
+    {
+      "from": 1029.2,
+      "to": 1030.4,
+      "sid": 391,
+      "location": 2,
+      "content": "你一看就看出来了",
+      "music": 0.0
+    },
+    {
+      "from": 1030.4,
+      "to": 1031.829,
+      "sid": 392,
+      "location": 2,
+      "content": "这边都是相连的",
+      "music": 0.0
+    },
+    {
+      "from": 1031.829,
+      "to": 1035.23,
+      "sid": 393,
+      "location": 2,
+      "content": "然后这边基本上就是呃地级",
+      "music": 0.0
+    },
+    {
+      "from": 1035.23,
+      "to": 1040.22,
+      "sid": 394,
+      "location": 2,
+      "content": "然后这边区分一下s级和g级就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 1040.34,
+      "to": 1044.46,
+      "sid": 395,
+      "location": 2,
+      "content": "sot 23封装的呢也是",
+      "music": 0.0
+    },
+    {
+      "from": 1045.24,
+      "to": 1047.39,
+      "sid": 396,
+      "location": 2,
+      "content": "三个银角的这个mos管",
+      "music": 0.0
+    },
+    {
+      "from": 1047.39,
+      "to": 1049.639,
+      "sid": 397,
+      "location": 2,
+      "content": "这个呢通常用万用表",
+      "music": 0.0
+    },
+    {
+      "from": 1050.08,
+      "to": 1052.2,
+      "sid": 398,
+      "location": 2,
+      "content": "万用表调到二极管档",
+      "music": 0.0
+    },
+    {
+      "from": 1052.22,
+      "to": 1055.28,
+      "sid": 399,
+      "location": 2,
+      "content": "然后红笔接到d级",
+      "music": 0.0
+    },
+    {
+      "from": 1055.28,
+      "to": 1057.05,
+      "sid": 400,
+      "location": 2,
+      "content": "一般这个角是第几",
+      "music": 0.0
+    },
+    {
+      "from": 1057.05,
+      "to": 1057.68,
+      "sid": 401,
+      "location": 2,
+      "content": "当然了",
+      "music": 0.0
+    },
+    {
+      "from": 1057.68,
+      "to": 1059.18,
+      "sid": 402,
+      "location": 2,
+      "content": "这也是看你具体型号",
+      "music": 0.0
+    },
+    {
+      "from": 1059.18,
+      "to": 1061.659,
+      "sid": 403,
+      "location": 2,
+      "content": "大家要要看一下",
+      "music": 0.0
+    },
+    {
+      "from": 1062.62,
+      "to": 1064.62,
+      "sid": 404,
+      "location": 2,
+      "content": "然后另一个角js级",
+      "music": 0.0
+    },
+    {
+      "from": 1064.62,
+      "to": 1067.74,
+      "sid": 405,
+      "location": 2,
+      "content": "其实你现在对于一个未知型号的话",
+      "music": 0.0
+    },
+    {
+      "from": 1067.74,
+      "to": 1069.36,
+      "sid": 406,
+      "location": 2,
+      "content": "你可能不知道哪个是d j",
+      "music": 0.0
+    },
+    {
+      "from": 1069.36,
+      "to": 1070.2,
+      "sid": 407,
+      "location": 2,
+      "content": "哪个是s级",
+      "music": 0.0
+    },
+    {
+      "from": 1070.2,
+      "to": 1072.07,
+      "sid": 408,
+      "location": 2,
+      "content": "你可以测一下",
+      "music": 0.0
+    },
+    {
+      "from": 1072.07,
+      "to": 1076.399,
+      "sid": 409,
+      "location": 2,
+      "content": "然后如果说二极管的那个值低于0.7除以下",
+      "music": 0.0
+    },
+    {
+      "from": 1076.68,
+      "to": 1081.099,
+      "sid": 410,
+      "location": 2,
+      "content": "然后就反过来再测高于1.2上",
+      "music": 0.0
+    },
+    {
+      "from": 1081.099,
+      "to": 1083.949,
+      "sid": 411,
+      "location": 2,
+      "content": "r高于1.2以上",
+      "music": 0.0
+    },
+    {
+      "from": 1083.949,
+      "to": 1087.83,
+      "sid": 412,
+      "location": 2,
+      "content": "然后可以判断它是分mop mos呀",
+      "music": 0.0
+    },
+    {
+      "from": 1087.83,
+      "to": 1089.63,
+      "sid": 413,
+      "location": 2,
+      "content": "测量相反的就是p mos",
+      "music": 0.0
+    },
+    {
+      "from": 1089.63,
+      "to": 1093.04,
+      "sid": 414,
+      "location": 2,
+      "content": "就是这是一个简单判断np mos的一个方法",
+      "music": 0.0
+    },
+    {
+      "from": 1094.05,
+      "to": 1095.52,
+      "sid": 415,
+      "location": 2,
+      "content": "大家如果测多了",
+      "music": 0.0
+    },
+    {
+      "from": 1095.52,
+      "to": 1099.88,
+      "sid": 416,
+      "location": 2,
+      "content": "肯定就知道这种方法我们用的最多的",
+      "music": 0.0
+    },
+    {
+      "from": 1099.88,
+      "to": 1103.3,
+      "sid": 417,
+      "location": 2,
+      "content": "实际上是判断二极管好坏的一个方法",
+      "music": 0.0
+    },
+    {
+      "from": 1103.3,
+      "to": 1107.83,
+      "sid": 418,
+      "location": 2,
+      "content": "就是我们用表笔分别量这个嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1107.83,
+      "to": 1108.94,
+      "sid": 419,
+      "location": 2,
+      "content": "表笔的两端",
+      "music": 0.0
+    },
+    {
+      "from": 1108.94,
+      "to": 1113.16,
+      "sid": 420,
+      "location": 2,
+      "content": "分别量这个貌似管的三个引脚当中的",
+      "music": 0.0
+    },
+    {
+      "from": 1113.16,
+      "to": 1114.74,
+      "sid": 421,
+      "location": 2,
+      "content": "任意两个引脚",
+      "music": 0.0
+    },
+    {
+      "from": 1118.66,
+      "to": 1120.0,
+      "sid": 422,
+      "location": 2,
+      "content": "它不导通",
+      "music": 0.0
+    },
+    {
+      "from": 1120.0,
+      "to": 1123.22,
+      "sid": 423,
+      "location": 2,
+      "content": "但是呢有一个是低于0.7伏以下的",
+      "music": 0.0
+    },
+    {
+      "from": 1123.22,
+      "to": 1125.14,
+      "sid": 424,
+      "location": 2,
+      "content": "说明这个角是好的",
+      "music": 0.0
+    },
+    {
+      "from": 1125.14,
+      "to": 1127.06,
+      "sid": 425,
+      "location": 2,
+      "content": "如果说你在这个使用当中",
+      "music": 0.0
+    },
+    {
+      "from": 1127.06,
+      "to": 1128.5,
+      "sid": 426,
+      "location": 2,
+      "content": "这个mos管导通了",
+      "music": 0.0
+    },
+    {
+      "from": 1128.5,
+      "to": 1129.37,
+      "sid": 427,
+      "location": 2,
+      "content": "击穿了",
+      "music": 0.0
+    },
+    {
+      "from": 1129.37,
+      "to": 1131.53,
+      "sid": 428,
+      "location": 2,
+      "content": "那么你这个一量的话",
+      "music": 0.0
+    },
+    {
+      "from": 1131.53,
+      "to": 1132.77,
+      "sid": 429,
+      "location": 2,
+      "content": "它就会响",
+      "music": 0.0
+    },
+    {
+      "from": 1132.77,
+      "to": 1136.52,
+      "sid": 430,
+      "location": 2,
+      "content": "这是我们剪断判断墨子管好坏的一个方法",
+      "music": 0.0
+    },
+    {
+      "from": 1136.58,
+      "to": 1139.64,
+      "sid": 431,
+      "location": 2,
+      "content": "对于判断它是n mos还是p mos的话",
+      "music": 0.0
+    },
+    {
+      "from": 1139.64,
+      "to": 1143.64,
+      "sid": 432,
+      "location": 2,
+      "content": "这个我建议大家这个方法仅供参考",
+      "music": 0.0
+    },
+    {
+      "from": 1143.64,
+      "to": 1146.46,
+      "sid": 433,
+      "location": 2,
+      "content": "我建议大家还是就是多测量",
+      "music": 0.0
+    },
+    {
+      "from": 1146.46,
+      "to": 1147.99,
+      "sid": 434,
+      "location": 2,
+      "content": "在实际当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 1147.99,
+      "to": 1153.74,
+      "sid": 435,
+      "location": 2,
+      "content": "就是总结归纳自己的一个方法",
+      "music": 0.0
+    },
+    {
+      "from": 1155.86,
+      "to": 1157.29,
+      "sid": 436,
+      "location": 2,
+      "content": "mos的选型",
+      "music": 0.0
+    },
+    {
+      "from": 1157.29,
+      "to": 1158.52,
+      "sid": 437,
+      "location": 2,
+      "content": "貌似的选型呢",
+      "music": 0.0
+    },
+    {
+      "from": 1158.52,
+      "to": 1161.94,
+      "sid": 438,
+      "location": 2,
+      "content": "实际上我们在设计电路的当时候",
+      "music": 0.0
+    },
+    {
+      "from": 1161.94,
+      "to": 1163.72,
+      "sid": 439,
+      "location": 2,
+      "content": "我们首先要判断一下",
+      "music": 0.0
+    },
+    {
+      "from": 1163.72,
+      "to": 1168.02,
+      "sid": 440,
+      "location": 2,
+      "content": "我这个电路当中是使用amos还是要使用p mos",
+      "music": 0.0
+    },
+    {
+      "from": 1168.02,
+      "to": 1171.0,
+      "sid": 441,
+      "location": 2,
+      "content": "这是一个非常重要的一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 1171.42,
+      "to": 1172.5,
+      "sid": 442,
+      "location": 2,
+      "content": "另外一个呢",
+      "music": 0.0
+    },
+    {
+      "from": 1172.5,
+      "to": 1176.16,
+      "sid": 443,
+      "location": 2,
+      "content": "就是确定貌似管的额定电流和导通损耗",
+      "music": 0.0
+    },
+    {
+      "from": 1176.16,
+      "to": 1177.6,
+      "sid": 444,
+      "location": 2,
+      "content": "我们刚才已经说了",
+      "music": 0.0
+    },
+    {
+      "from": 1177.6,
+      "to": 1181.32,
+      "sid": 445,
+      "location": 2,
+      "content": "这个额定电流是决定这个mos管的",
+      "music": 0.0
+    },
+    {
+      "from": 1181.32,
+      "to": 1183.98,
+      "sid": 446,
+      "location": 2,
+      "content": "一个非常重要的参数",
+      "music": 0.0
+    },
+    {
+      "from": 1184.82,
+      "to": 1189.14,
+      "sid": 447,
+      "location": 2,
+      "content": "那么导通损耗呢同样是就是通常情况下",
+      "music": 0.0
+    },
+    {
+      "from": 1189.14,
+      "to": 1190.82,
+      "sid": 448,
+      "location": 2,
+      "content": "如果我的导通电阻大一点的话",
+      "music": 0.0
+    },
+    {
+      "from": 1190.82,
+      "to": 1192.38,
+      "sid": 449,
+      "location": 2,
+      "content": "我的导通损耗会比较大",
+      "music": 0.0
+    },
+    {
+      "from": 1192.38,
+      "to": 1197.78,
+      "sid": 450,
+      "location": 2,
+      "content": "尤其是在嗯一个功率电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 1199.66,
+      "to": 1201.7,
+      "sid": 451,
+      "location": 2,
+      "content": "它通过的电流会比较大的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1201.7,
+      "to": 1204.28,
+      "sid": 452,
+      "location": 2,
+      "content": "我们要必须考虑它的导通损耗",
+      "music": 0.0
+    },
+    {
+      "from": 1204.28,
+      "to": 1206.879,
+      "sid": 453,
+      "location": 2,
+      "content": "如果说它的导通损耗特别大",
+      "music": 0.0
+    },
+    {
+      "from": 1206.9,
+      "to": 1210.379,
+      "sid": 454,
+      "location": 2,
+      "content": "我们就需要给这个mos管加上一个散热片",
+      "music": 0.0
+    },
+    {
+      "from": 1213.06,
+      "to": 1216.32,
+      "sid": 455,
+      "location": 2,
+      "content": "加散热片的时候实际上要非常注意啊",
+      "music": 0.0
+    },
+    {
+      "from": 1216.32,
+      "to": 1217.4,
+      "sid": 456,
+      "location": 2,
+      "content": "这个加散热片的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1217.4,
+      "to": 1218.42,
+      "sid": 457,
+      "location": 2,
+      "content": "mos管加散热片",
+      "music": 0.0
+    },
+    {
+      "from": 1218.42,
+      "to": 1222.8,
+      "sid": 458,
+      "location": 2,
+      "content": "一定要给这个mos管后面加一些绝缘的东西",
+      "music": 0.0
+    },
+    {
+      "from": 1222.8,
+      "to": 1225.8,
+      "sid": 459,
+      "location": 2,
+      "content": "注意mos管和散热片之间的绝缘",
+      "music": 0.0
+    },
+    {
+      "from": 1226.92,
+      "to": 1228.24,
+      "sid": 460,
+      "location": 2,
+      "content": "我们来看一下它",
+      "music": 0.0
+    },
+    {
+      "from": 1228.24,
+      "to": 1230.7,
+      "sid": 461,
+      "location": 2,
+      "content": "这个是说这个器件的节温",
+      "music": 0.0
+    },
+    {
+      "from": 1230.7,
+      "to": 1232.98,
+      "sid": 462,
+      "location": 2,
+      "content": "器件的结论等于最大环境温度",
+      "music": 0.0
+    },
+    {
+      "from": 1232.98,
+      "to": 1238.5,
+      "sid": 463,
+      "location": 2,
+      "content": "加上热度与功率3号之间的功率耗散的乘积",
+      "music": 0.0
+    },
+    {
+      "from": 1243.02,
+      "to": 1247.36,
+      "sid": 464,
+      "location": 2,
+      "content": "最大功率耗散等于最大电流的平方",
+      "music": 0.0
+    },
+    {
+      "from": 1247.36,
+      "to": 1249.25,
+      "sid": 465,
+      "location": 2,
+      "content": "乘以它的导通电阻",
+      "music": 0.0
+    },
+    {
+      "from": 1249.25,
+      "to": 1254.67,
+      "sid": 466,
+      "location": 2,
+      "content": "实际上这也是就是忽略的孤寂的一个值",
+      "music": 0.0
+    },
+    {
+      "from": 1254.67,
+      "to": 1259.56,
+      "sid": 467,
+      "location": 2,
+      "content": "对于一般对于大电流的一个木塑管",
+      "music": 0.0
+    },
+    {
+      "from": 1259.56,
+      "to": 1263.4,
+      "sid": 468,
+      "location": 2,
+      "content": "我们通常是会给它加散热的东西",
+      "music": 0.0
+    },
+    {
+      "from": 1263.4,
+      "to": 1267.92,
+      "sid": 469,
+      "location": 2,
+      "content": "要不然给他就是通过选不同的封装形式",
+      "music": 0.0
+    },
+    {
+      "from": 1267.92,
+      "to": 1269.54,
+      "sid": 470,
+      "location": 2,
+      "content": "来考虑它的散热",
+      "music": 0.0
+    },
+    {
+      "from": 1269.54,
+      "to": 1272.24,
+      "sid": 471,
+      "location": 2,
+      "content": "或者是说我用厂家的这种mos管",
+      "music": 0.0
+    },
+    {
+      "from": 1272.24,
+      "to": 1274.72,
+      "sid": 472,
+      "location": 2,
+      "content": "我直接后面给它加一个散热片",
+      "music": 0.0
+    },
+    {
+      "from": 1274.72,
+      "to": 1276.28,
+      "sid": 473,
+      "location": 2,
+      "content": "但是对于这个散热片",
+      "music": 0.0
+    },
+    {
+      "from": 1276.28,
+      "to": 1277.18,
+      "sid": 474,
+      "location": 2,
+      "content": "大家要注意",
+      "music": 0.0
+    },
+    {
+      "from": 1277.18,
+      "to": 1281.18,
+      "sid": 475,
+      "location": 2,
+      "content": "它一定要是加一个呃绝缘的东西",
+      "music": 0.0
+    },
+    {
+      "from": 1283.3,
+      "to": 1287.43,
+      "sid": 476,
+      "location": 2,
+      "content": "涂上一点嗯绝缘硅脂",
+      "music": 0.0
+    },
+    {
+      "from": 1287.43,
+      "to": 1293.62,
+      "sid": 477,
+      "location": 2,
+      "content": "然后加上那个导热片给它来进行散热",
+      "music": 0.0
+    },
+    {
+      "from": 1293.62,
+      "to": 1295.48,
+      "sid": 478,
+      "location": 2,
+      "content": "还有它的一个开关性能",
+      "music": 0.0
+    },
+    {
+      "from": 1295.48,
+      "to": 1300.93,
+      "sid": 479,
+      "location": 2,
+      "content": "开关性能就是会出现一些开关损耗",
+      "music": 0.0
+    },
+    {
+      "from": 1300.93,
+      "to": 1302.91,
+      "sid": 480,
+      "location": 2,
+      "content": "比如说它的三级和漏级",
+      "music": 0.0
+    },
+    {
+      "from": 1302.91,
+      "to": 1308.02,
+      "sid": 481,
+      "location": 2,
+      "content": "三级和原级以及漏极和源极类的电影电容啊",
+      "music": 0.0
+    },
+    {
+      "from": 1308.02,
+      "to": 1310.27,
+      "sid": 482,
+      "location": 2,
+      "content": "是影响它的开关性能的重要因素",
+      "music": 0.0
+    },
+    {
+      "from": 1310.27,
+      "to": 1314.09,
+      "sid": 483,
+      "location": 2,
+      "content": "刚才我们在一开始讲他的那几几个参",
+      "music": 0.0
+    },
+    {
+      "from": 1315.47,
+      "to": 1319.29,
+      "sid": 484,
+      "location": 2,
+      "content": "几个参数的时候也讲到了嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1319.29,
+      "to": 1326.28,
+      "sid": 485,
+      "location": 2,
+      "content": "他的那个那个电容会影响它的开关性能",
+      "music": 0.0
+    },
+    {
+      "from": 1326.28,
+      "to": 1328.29,
+      "sid": 486,
+      "location": 2,
+      "content": "如果你的电容特别大的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1328.29,
+      "to": 1330.93,
+      "sid": 487,
+      "location": 2,
+      "content": "那它每次开通之前开",
+      "music": 0.0
+    },
+    {
+      "from": 1330.93,
+      "to": 1335.84,
+      "sid": 488,
+      "location": 2,
+      "content": "开通之前开关要对这个电容进行充电",
+      "music": 0.0
+    },
+    {
+      "from": 1336.54,
+      "to": 1339.77,
+      "sid": 489,
+      "location": 2,
+      "content": "会影响开关管的开关速度和效率",
+      "music": 0.0
+    },
+    {
+      "from": 1339.77,
+      "to": 1341.04,
+      "sid": 490,
+      "location": 2,
+      "content": "那么呢",
+      "music": 0.0
+    },
+    {
+      "from": 1343.12,
+      "to": 1346.54,
+      "sid": 491,
+      "location": 2,
+      "content": "我们在这个计算开关过程中",
+      "music": 0.0
+    },
+    {
+      "from": 1346.54,
+      "to": 1350.139,
+      "sid": 492,
+      "location": 2,
+      "content": "器件的总损耗通常要计算开关管的损耗呀",
+      "music": 0.0
+    },
+    {
+      "from": 1350.56,
+      "to": 1352.66,
+      "sid": 493,
+      "location": 2,
+      "content": "开开通的损耗呀",
+      "music": 0.0
+    },
+    {
+      "from": 1352.66,
+      "to": 1353.92,
+      "sid": 494,
+      "location": 2,
+      "content": "关断的损耗啊",
+      "music": 0.0
+    },
+    {
+      "from": 1353.92,
+      "to": 1359.54,
+      "sid": 495,
+      "location": 2,
+      "content": "这也是一个特别的一个特别的一个参数",
+      "music": 0.0
+    },
+    {
+      "from": 1359.54,
+      "to": 1362.0,
+      "sid": 496,
+      "location": 2,
+      "content": "大家选取的时候要注意一些",
+      "music": 0.0
+    },
+    {
+      "from": 1362.0,
+      "to": 1368.3,
+      "sid": 497,
+      "location": 2,
+      "content": "那么这就是貌似选型的一个一个注意事项",
+      "music": 0.0
+    },
+    {
+      "from": 1370.56,
+      "to": 1373.58,
+      "sid": 498,
+      "location": 2,
+      "content": "今天本来是要给大家讲一些电路图的",
+      "music": 0.0
+    },
+    {
+      "from": 1373.58,
+      "to": 1375.98,
+      "sid": 499,
+      "location": 2,
+      "content": "但是我这个电脑中没有图纸",
+      "music": 0.0
+    },
+    {
+      "from": 1375.98,
+      "to": 1377.72,
+      "sid": 500,
+      "location": 2,
+      "content": "我一会儿给大家再选一下",
+      "music": 0.0
+    }
+  ]
+}

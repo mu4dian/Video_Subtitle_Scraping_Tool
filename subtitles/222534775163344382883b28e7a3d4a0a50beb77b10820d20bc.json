@@ -1,0 +1,2972 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 2.06,
+      "to": 5.75,
+      "sid": 1,
+      "location": 2,
+      "content": "啊接下来呢我们一起来认识一下五五定时器",
+      "music": 0.0
+    },
+    {
+      "from": 5.75,
+      "to": 7.07,
+      "sid": 2,
+      "location": 2,
+      "content": "对于这种定时器呢",
+      "music": 0.0
+    },
+    {
+      "from": 7.07,
+      "to": 8.79,
+      "sid": 3,
+      "location": 2,
+      "content": "大家应该经常能听说",
+      "music": 0.0
+    },
+    {
+      "from": 8.79,
+      "to": 11.07,
+      "sid": 4,
+      "location": 2,
+      "content": "因为它在咱们那个仪器仪表啊",
+      "music": 0.0
+    },
+    {
+      "from": 11.07,
+      "to": 15.97,
+      "sid": 5,
+      "location": 2,
+      "content": "兼用电器呀以及电子测量等各各种产品当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 15.97,
+      "to": 18.03,
+      "sid": 6,
+      "location": 2,
+      "content": "经常能遇到呃",
+      "music": 0.0
+    },
+    {
+      "from": 18.03,
+      "to": 20.79,
+      "sid": 7,
+      "location": 2,
+      "content": "它呢主要是因为它的那个成本比较低",
+      "music": 0.0
+    },
+    {
+      "from": 20.79,
+      "to": 22.21,
+      "sid": 8,
+      "location": 2,
+      "content": "性能比较可靠",
+      "music": 0.0
+    },
+    {
+      "from": 22.21,
+      "to": 25.439,
+      "sid": 9,
+      "location": 2,
+      "content": "它的外接外接元器件也比较少",
+      "music": 0.0
+    },
+    {
+      "from": 25.439,
+      "to": 27.719,
+      "sid": 10,
+      "location": 2,
+      "content": "它只需要接几个电容呀",
+      "music": 0.0
+    },
+    {
+      "from": 27.719,
+      "to": 29.459,
+      "sid": 11,
+      "location": 2,
+      "content": "电阻呀就能够实现",
+      "music": 0.0
+    },
+    {
+      "from": 29.459,
+      "to": 31.75,
+      "sid": 12,
+      "location": 2,
+      "content": "比如说像多些振荡器",
+      "music": 0.0
+    },
+    {
+      "from": 31.75,
+      "to": 35.23,
+      "sid": 13,
+      "location": 2,
+      "content": "单稳态触发器以及使用特触发器等等",
+      "music": 0.0
+    },
+    {
+      "from": 35.23,
+      "to": 39.05,
+      "sid": 14,
+      "location": 2,
+      "content": "这种脉冲产生与变换电路它都可以呃",
+      "music": 0.0
+    },
+    {
+      "from": 39.05,
+      "to": 43.15,
+      "sid": 15,
+      "location": 2,
+      "content": "另外呢就是呃这个五五定时器啊",
+      "music": 0.0
+    },
+    {
+      "from": 43.15,
+      "to": 46.76,
+      "sid": 16,
+      "location": 2,
+      "content": "啊他在这个单片机当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 46.76,
+      "to": 49.0,
+      "sid": 17,
+      "location": 2,
+      "content": "确实就是也应用的比较多",
+      "music": 0.0
+    },
+    {
+      "from": 49.0,
+      "to": 51.76,
+      "sid": 18,
+      "location": 2,
+      "content": "我们先来了解一下它的一个基本知识啊",
+      "music": 0.0
+    },
+    {
+      "from": 51.76,
+      "to": 56.45,
+      "sid": 19,
+      "location": 2,
+      "content": "我们这节课主要从基础知识特点及功能应用啊",
+      "music": 0.0
+    },
+    {
+      "from": 56.45,
+      "to": 58.05,
+      "sid": 20,
+      "location": 2,
+      "content": "另外给大家留个思考题",
+      "music": 0.0
+    },
+    {
+      "from": 58.05,
+      "to": 59.68,
+      "sid": 21,
+      "location": 2,
+      "content": "从这几方面来介绍",
+      "music": 0.0
+    },
+    {
+      "from": 59.68,
+      "to": 61.48,
+      "sid": 22,
+      "location": 2,
+      "content": "先看一下基础知识",
+      "music": 0.0
+    },
+    {
+      "from": 61.48,
+      "to": 62.72,
+      "sid": 23,
+      "location": 2,
+      "content": "五五定时器啊",
+      "music": 0.0
+    },
+    {
+      "from": 62.72,
+      "to": 65.8,
+      "sid": 24,
+      "location": 2,
+      "content": "是一种模拟和数字功能相结合的",
+      "music": 0.0
+    },
+    {
+      "from": 65.8,
+      "to": 67.9,
+      "sid": 25,
+      "location": 2,
+      "content": "一个集成器件嗯",
+      "music": 0.0
+    },
+    {
+      "from": 67.9,
+      "to": 70.56,
+      "sid": 26,
+      "location": 2,
+      "content": "一般用这个双极型的叫555",
+      "music": 0.0
+    },
+    {
+      "from": 70.56,
+      "to": 73.6,
+      "sid": 27,
+      "location": 2,
+      "content": "用这个互补金属氧化物的工艺",
+      "music": 0.0
+    },
+    {
+      "from": 73.6,
+      "to": 75.57,
+      "sid": 28,
+      "location": 2,
+      "content": "做成的叫7555",
+      "music": 0.0
+    },
+    {
+      "from": 75.57,
+      "to": 77.95,
+      "sid": 29,
+      "location": 2,
+      "content": "除了这个单定时器之外",
+      "music": 0.0
+    },
+    {
+      "from": 77.95,
+      "to": 80.65,
+      "sid": 30,
+      "location": 2,
+      "content": "还有对应的双定时器",
+      "music": 0.0
+    },
+    {
+      "from": 82.02,
+      "to": 85.72,
+      "sid": 31,
+      "location": 2,
+      "content": "这个双定时器的内部啊一般都是用的晶体管",
+      "music": 0.0
+    },
+    {
+      "from": 85.72,
+      "to": 89.15,
+      "sid": 32,
+      "location": 2,
+      "content": "单定时器的内部呀用的是场效应管",
+      "music": 0.0
+    },
+    {
+      "from": 89.63,
+      "to": 93.51,
+      "sid": 33,
+      "location": 2,
+      "content": "我们来看一下五五定时器的这个电源工作范围",
+      "music": 0.0
+    },
+    {
+      "from": 93.51,
+      "to": 96.29,
+      "sid": 34,
+      "location": 2,
+      "content": "电源电压呀这个范围特别宽",
+      "music": 0.0
+    },
+    {
+      "from": 96.29,
+      "to": 100.26,
+      "sid": 35,
+      "location": 2,
+      "content": "与呃在4.5伏到16伏之间工作",
+      "music": 0.0
+    },
+    {
+      "from": 100.26,
+      "to": 103.71,
+      "sid": 36,
+      "location": 2,
+      "content": "而755呢一般是在3~18伏之间工作",
+      "music": 0.0
+    },
+    {
+      "from": 103.71,
+      "to": 106.49,
+      "sid": 37,
+      "location": 2,
+      "content": "驱动电流呢大概在200ma左右",
+      "music": 0.0
+    },
+    {
+      "from": 106.49,
+      "to": 111.119,
+      "sid": 38,
+      "location": 2,
+      "content": "因此啊它这个输出是可以和呃TTL或CMOS啊",
+      "music": 0.0
+    },
+    {
+      "from": 111.119,
+      "to": 113.96,
+      "sid": 39,
+      "location": 2,
+      "content": "或者是模拟电路电平啊相兼容的",
+      "music": 0.0
+    },
+    {
+      "from": 113.96,
+      "to": 119.12,
+      "sid": 40,
+      "location": 2,
+      "content": "我们来看一下它的一个特点和功能",
+      "music": 0.0
+    },
+    {
+      "from": 121.76,
+      "to": 124.96,
+      "sid": 41,
+      "location": 2,
+      "content": "这是一个555啊",
+      "music": 0.0
+    },
+    {
+      "from": 124.96,
+      "to": 128.7,
+      "sid": 42,
+      "location": 2,
+      "content": "这上面的主要特点主要是刚才我们刚才也说了",
+      "music": 0.0
+    },
+    {
+      "from": 128.7,
+      "to": 129.78,
+      "sid": 43,
+      "location": 2,
+      "content": "他的一个是成本低",
+      "music": 0.0
+    },
+    {
+      "from": 129.78,
+      "to": 131.35,
+      "sid": 44,
+      "location": 2,
+      "content": "一个性能可靠啊",
+      "music": 0.0
+    },
+    {
+      "from": 131.35,
+      "to": 135.37,
+      "sid": 45,
+      "location": 2,
+      "content": "呃它的内部呢包括两个电压比较器",
+      "music": 0.0
+    },
+    {
+      "from": 135.37,
+      "to": 137.85,
+      "sid": 46,
+      "location": 2,
+      "content": "三个等值串联电阻",
+      "music": 0.0
+    },
+    {
+      "from": 137.85,
+      "to": 139.29,
+      "sid": 47,
+      "location": 2,
+      "content": "一个rs触发器",
+      "music": 0.0
+    },
+    {
+      "from": 139.29,
+      "to": 141.25,
+      "sid": 48,
+      "location": 2,
+      "content": "一个放电管呃",
+      "music": 0.0
+    },
+    {
+      "from": 141.25,
+      "to": 143.54,
+      "sid": 49,
+      "location": 2,
+      "content": "以及一个功率输出极",
+      "music": 0.0
+    },
+    {
+      "from": 143.54,
+      "to": 146.18,
+      "sid": 50,
+      "location": 2,
+      "content": "它提供两个基准电压",
+      "music": 0.0
+    },
+    {
+      "from": 146.18,
+      "to": 148.3,
+      "sid": 51,
+      "location": 2,
+      "content": "一个是三分之v cc",
+      "music": 0.0
+    },
+    {
+      "from": 148.3,
+      "to": 150.91,
+      "sid": 52,
+      "location": 2,
+      "content": "一个是三分之2VCC",
+      "music": 0.0
+    },
+    {
+      "from": 151.71,
+      "to": 154.09,
+      "sid": 53,
+      "location": 2,
+      "content": "这是它的内部的一个特点对吧",
+      "music": 0.0
+    },
+    {
+      "from": 154.09,
+      "to": 155.95,
+      "sid": 54,
+      "location": 2,
+      "content": "额前面的这个特点",
+      "music": 0.0
+    },
+    {
+      "from": 155.95,
+      "to": 157.07,
+      "sid": 55,
+      "location": 2,
+      "content": "刚才我们已经讲了",
+      "music": 0.0
+    },
+    {
+      "from": 157.07,
+      "to": 157.69,
+      "sid": 56,
+      "location": 2,
+      "content": "成本低",
+      "music": 0.0
+    },
+    {
+      "from": 157.69,
+      "to": 158.45,
+      "sid": 57,
+      "location": 2,
+      "content": "性能可靠",
+      "music": 0.0
+    },
+    {
+      "from": 158.45,
+      "to": 161.01,
+      "sid": 58,
+      "location": 2,
+      "content": "外围元器件比较少啊",
+      "music": 0.0
+    },
+    {
+      "from": 161.01,
+      "to": 163.17,
+      "sid": 59,
+      "location": 2,
+      "content": "组合电路比较简单对吧",
+      "music": 0.0
+    },
+    {
+      "from": 163.17,
+      "to": 164.61,
+      "sid": 60,
+      "location": 2,
+      "content": "里边呢是内部特点",
+      "music": 0.0
+    },
+    {
+      "from": 164.61,
+      "to": 166.6,
+      "sid": 61,
+      "location": 2,
+      "content": "内部特点就是它的一些组成",
+      "music": 0.0
+    },
+    {
+      "from": 166.6,
+      "to": 167.66,
+      "sid": 62,
+      "location": 2,
+      "content": "比如说比较器",
+      "music": 0.0
+    },
+    {
+      "from": 167.66,
+      "to": 168.48,
+      "sid": 63,
+      "location": 2,
+      "content": "串联电阻",
+      "music": 0.0
+    },
+    {
+      "from": 168.48,
+      "to": 169.6,
+      "sid": 64,
+      "location": 2,
+      "content": "rs触发器",
+      "music": 0.0
+    },
+    {
+      "from": 169.6,
+      "to": 172.48,
+      "sid": 65,
+      "location": 2,
+      "content": "放电管以及它的功率输出极啊",
+      "music": 0.0
+    },
+    {
+      "from": 172.48,
+      "to": 174.76,
+      "sid": 66,
+      "location": 2,
+      "content": "还有两个电压基准",
+      "music": 0.0
+    },
+    {
+      "from": 174.76,
+      "to": 177.11,
+      "sid": 67,
+      "location": 2,
+      "content": "那么看一下它的功能",
+      "music": 0.0
+    },
+    {
+      "from": 177.11,
+      "to": 180.68,
+      "sid": 68,
+      "location": 2,
+      "content": "它的功能呢主要是两个比较器来决定的",
+      "music": 0.0
+    },
+    {
+      "from": 180.68,
+      "to": 183.32,
+      "sid": 69,
+      "location": 2,
+      "content": "两个比较器的输出电压控制",
+      "music": 0.0
+    },
+    {
+      "from": 183.32,
+      "to": 187.08,
+      "sid": 70,
+      "location": 2,
+      "content": "这个rs触发器以及放电管的一个状态",
+      "music": 0.0
+    },
+    {
+      "from": 187.39,
+      "to": 190.59,
+      "sid": 71,
+      "location": 2,
+      "content": "一般来说它这几个引脚的作用",
+      "music": 0.0
+    },
+    {
+      "from": 190.59,
+      "to": 192.04,
+      "sid": 72,
+      "location": 2,
+      "content": "我给大家介绍一下吧",
+      "music": 0.0
+    },
+    {
+      "from": 192.04,
+      "to": 195.04,
+      "sid": 73,
+      "location": 2,
+      "content": "呃像这个第一个引脚就不用介绍了",
+      "music": 0.0
+    },
+    {
+      "from": 195.04,
+      "to": 197.209,
+      "sid": 74,
+      "location": 2,
+      "content": "它一般就是电源的负或者是接地",
+      "music": 0.0
+    },
+    {
+      "from": 197.209,
+      "to": 198.589,
+      "sid": 75,
+      "location": 2,
+      "content": "对第二个引脚啊",
+      "music": 0.0
+    },
+    {
+      "from": 198.589,
+      "to": 201.149,
+      "sid": 76,
+      "location": 2,
+      "content": "第二个引脚是TD触发段",
+      "music": 0.0
+    },
+    {
+      "from": 201.149,
+      "to": 203.03,
+      "sid": 77,
+      "location": 2,
+      "content": "是一个D触发段啊",
+      "music": 0.0
+    },
+    {
+      "from": 203.03,
+      "to": 205.31,
+      "sid": 78,
+      "location": 2,
+      "content": "第三个引脚呢是输出端",
+      "music": 0.0
+    },
+    {
+      "from": 206.47,
+      "to": 208.68,
+      "sid": 79,
+      "location": 2,
+      "content": "第三个引脚是一个输出端",
+      "music": 0.0
+    },
+    {
+      "from": 208.68,
+      "to": 210.86,
+      "sid": 80,
+      "location": 2,
+      "content": "像这个第四个引脚",
+      "music": 0.0
+    },
+    {
+      "from": 210.86,
+      "to": 214.1,
+      "sid": 81,
+      "location": 2,
+      "content": "第四个引脚一般就是直接清零端",
+      "music": 0.0
+    },
+    {
+      "from": 214.1,
+      "to": 216.3,
+      "sid": 82,
+      "location": 2,
+      "content": "当这一端呢是低电平的时候",
+      "music": 0.0
+    },
+    {
+      "from": 216.3,
+      "to": 218.04,
+      "sid": 83,
+      "location": 2,
+      "content": "这个实际电路呀不工作",
+      "music": 0.0
+    },
+    {
+      "from": 218.04,
+      "to": 222.46,
+      "sid": 84,
+      "location": 2,
+      "content": "不管是啊低处罚点评啊",
+      "music": 0.0
+    },
+    {
+      "from": 222.46,
+      "to": 225.5,
+      "sid": 85,
+      "location": 2,
+      "content": "还是个不管是这个低处罚端是",
+      "music": 0.0
+    },
+    {
+      "from": 225.5,
+      "to": 230.81,
+      "sid": 86,
+      "location": 2,
+      "content": "还有这个呃高处罚端是高电平还是低电平啊",
+      "music": 0.0
+    },
+    {
+      "from": 230.81,
+      "to": 233.67,
+      "sid": 87,
+      "location": 2,
+      "content": "实际电路的输出端都是零的",
+      "music": 0.0
+    },
+    {
+      "from": 235.68,
+      "to": 237.6,
+      "sid": 88,
+      "location": 2,
+      "content": "如果这一端不用的时候",
+      "music": 0.0
+    },
+    {
+      "from": 237.6,
+      "to": 238.76,
+      "sid": 89,
+      "location": 2,
+      "content": "就应该接高电平",
+      "music": 0.0
+    },
+    {
+      "from": 238.76,
+      "to": 241.08,
+      "sid": 90,
+      "location": 2,
+      "content": "像这个电路当中属于这种四角",
+      "music": 0.0
+    },
+    {
+      "from": 241.08,
+      "to": 241.8,
+      "sid": 91,
+      "location": 2,
+      "content": "直接切定端",
+      "music": 0.0
+    },
+    {
+      "from": 241.8,
+      "to": 243.32,
+      "sid": 92,
+      "location": 2,
+      "content": "不用直接接到电源端来",
+      "music": 0.0
+    },
+    {
+      "from": 243.32,
+      "to": 244.78,
+      "sid": 93,
+      "location": 2,
+      "content": "就直接接高电平",
+      "music": 0.0
+    },
+    {
+      "from": 244.99,
+      "to": 249.05,
+      "sid": 94,
+      "location": 2,
+      "content": "这个五角呢五角是一个",
+      "music": 0.0
+    },
+    {
+      "from": 249.93,
+      "to": 251.77,
+      "sid": 95,
+      "location": 2,
+      "content": "呃控制电压端",
+      "music": 0.0
+    },
+    {
+      "from": 251.77,
+      "to": 255.61,
+      "sid": 96,
+      "location": 2,
+      "content": "控制电压端呢就是外接电压嗯",
+      "music": 0.0
+    },
+    {
+      "from": 255.61,
+      "to": 259.51,
+      "sid": 97,
+      "location": 2,
+      "content": "可改变内部的两个比较器的一个基准",
+      "music": 0.0
+    },
+    {
+      "from": 260.109,
+      "to": 263.469,
+      "sid": 98,
+      "location": 2,
+      "content": "如果这个端不用的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 263.469,
+      "to": 267.73,
+      "sid": 99,
+      "location": 2,
+      "content": "也要把它就是加上一个电容啊",
+      "music": 0.0
+    },
+    {
+      "from": 267.73,
+      "to": 270.03,
+      "sid": 100,
+      "location": 2,
+      "content": "串联接地并避免干扰",
+      "music": 0.0
+    },
+    {
+      "from": 270.03,
+      "to": 272.68,
+      "sid": 101,
+      "location": 2,
+      "content": "也就是说在这个里边这个四角是不用的",
+      "music": 0.0
+    },
+    {
+      "from": 272.68,
+      "to": 274.06,
+      "sid": 102,
+      "location": 2,
+      "content": "不用直接接高电平了",
+      "music": 0.0
+    },
+    {
+      "from": 274.06,
+      "to": 274.92,
+      "sid": 103,
+      "location": 2,
+      "content": "五角是不用的",
+      "music": 0.0
+    },
+    {
+      "from": 274.92,
+      "to": 276.81,
+      "sid": 104,
+      "location": 2,
+      "content": "直接接电容接地了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 276.81,
+      "to": 278.25,
+      "sid": 105,
+      "location": 2,
+      "content": "这个六角是一个什么呀",
+      "music": 0.0
+    },
+    {
+      "from": 278.25,
+      "to": 280.27,
+      "sid": 106,
+      "location": 2,
+      "content": "六角是一个高处发段",
+      "music": 0.0
+    },
+    {
+      "from": 280.27,
+      "to": 283.59,
+      "sid": 107,
+      "location": 2,
+      "content": "我们刚才讲的是二角是一个低处罚端",
+      "music": 0.0
+    },
+    {
+      "from": 283.59,
+      "to": 285.27,
+      "sid": 108,
+      "location": 2,
+      "content": "六角是一个高处罚端",
+      "music": 0.0
+    },
+    {
+      "from": 285.27,
+      "to": 286.31,
+      "sid": 109,
+      "location": 2,
+      "content": "那么现在看来",
+      "music": 0.0
+    },
+    {
+      "from": 286.31,
+      "to": 289.98,
+      "sid": 110,
+      "location": 2,
+      "content": "这个高处发端和低处罚端都接在一起了",
+      "music": 0.0
+    },
+    {
+      "from": 289.98,
+      "to": 291.62,
+      "sid": 111,
+      "location": 2,
+      "content": "呃七角是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 291.62,
+      "to": 292.88,
+      "sid": 112,
+      "location": 2,
+      "content": "七角是一个放电端",
+      "music": 0.0
+    },
+    {
+      "from": 292.88,
+      "to": 297.76,
+      "sid": 113,
+      "location": 2,
+      "content": "放电端呢嗯通常是与放电管的集电极相连的",
+      "music": 0.0
+    },
+    {
+      "from": 297.76,
+      "to": 300.62,
+      "sid": 114,
+      "location": 2,
+      "content": "作为定时器电容的一个放电",
+      "music": 0.0
+    },
+    {
+      "from": 300.9,
+      "to": 303.4,
+      "sid": 115,
+      "location": 2,
+      "content": "八角呢八角就是外接电源了",
+      "music": 0.0
+    },
+    {
+      "from": 303.4,
+      "to": 304.74,
+      "sid": 116,
+      "location": 2,
+      "content": "接VCC对吧",
+      "music": 0.0
+    },
+    {
+      "from": 304.74,
+      "to": 307.02,
+      "sid": 117,
+      "location": 2,
+      "content": "刚才我们讲的像那个TPL的",
+      "music": 0.0
+    },
+    {
+      "from": 307.02,
+      "to": 308.82,
+      "sid": 118,
+      "location": 2,
+      "content": "一般是4.5到16伏",
+      "music": 0.0
+    },
+    {
+      "from": 308.82,
+      "to": 311.82,
+      "sid": 119,
+      "location": 2,
+      "content": "像CMOS的一般就是3~18伏对吧",
+      "music": 0.0
+    },
+    {
+      "from": 312.82,
+      "to": 316.319,
+      "sid": 120,
+      "location": 2,
+      "content": "但是一般情况下我们都会用五伏呃",
+      "music": 0.0
+    },
+    {
+      "from": 316.319,
+      "to": 318.799,
+      "sid": 121,
+      "location": 2,
+      "content": "如果说这个一角接地",
+      "music": 0.0
+    },
+    {
+      "from": 318.799,
+      "to": 321.459,
+      "sid": 122,
+      "location": 2,
+      "content": "五角没有外接这个电压的时候",
+      "music": 0.0
+    },
+    {
+      "from": 321.459,
+      "to": 325.9,
+      "sid": 123,
+      "location": 2,
+      "content": "这个两个比较器的这个基准电压",
+      "music": 0.0
+    },
+    {
+      "from": 325.9,
+      "to": 330.5,
+      "sid": 124,
+      "location": 2,
+      "content": "通常就是刚才我们说的那种默认情况吧",
+      "music": 0.0
+    },
+    {
+      "from": 332.18,
+      "to": 337.54,
+      "sid": 125,
+      "location": 2,
+      "content": "这就是它内部的芯片的一个引脚功能额",
+      "music": 0.0
+    },
+    {
+      "from": 338.84,
+      "to": 341.5,
+      "sid": 126,
+      "location": 2,
+      "content": "其实他有一个这个功能表",
+      "music": 0.0
+    },
+    {
+      "from": 341.5,
+      "to": 342.88,
+      "sid": 127,
+      "location": 2,
+      "content": "我给大家画一下",
+      "music": 0.0
+    },
+    {
+      "from": 342.88,
+      "to": 346.52,
+      "sid": 128,
+      "location": 2,
+      "content": "就对于这个五五定时器啊",
+      "music": 0.0
+    },
+    {
+      "from": 346.52,
+      "to": 349.94,
+      "sid": 129,
+      "location": 2,
+      "content": "555定时器它有一个功能表给大家画一下",
+      "music": 0.0
+    },
+    {
+      "from": 349.94,
+      "to": 353.52,
+      "sid": 130,
+      "location": 2,
+      "content": "实际上这个定时器呢它有一个清零端嘛",
+      "music": 0.0
+    },
+    {
+      "from": 353.52,
+      "to": 356.88,
+      "sid": 131,
+      "location": 2,
+      "content": "我们刚才说了这个清零端就是",
+      "music": 0.0
+    },
+    {
+      "from": 358.08,
+      "to": 359.46,
+      "sid": 132,
+      "location": 2,
+      "content": "四角对吧",
+      "music": 0.0
+    },
+    {
+      "from": 359.46,
+      "to": 361.8,
+      "sid": 133,
+      "location": 2,
+      "content": "当然我对于我们这个来说",
+      "music": 0.0
+    },
+    {
+      "from": 361.8,
+      "to": 364.72,
+      "sid": 134,
+      "location": 2,
+      "content": "他这个四角是没有用的啊",
+      "music": 0.0
+    },
+    {
+      "from": 364.72,
+      "to": 369.09,
+      "sid": 135,
+      "location": 2,
+      "content": "还有一个清零清零端",
+      "music": 0.0
+    },
+    {
+      "from": 369.09,
+      "to": 376.02,
+      "sid": 136,
+      "location": 2,
+      "content": "有一个高处发端TH有一个低触发端TR",
+      "music": 0.0
+    },
+    {
+      "from": 376.02,
+      "to": 381.09,
+      "sid": 137,
+      "location": 2,
+      "content": "还有一个这个输出VO",
+      "music": 0.0
+    },
+    {
+      "from": 381.65,
+      "to": 385.18,
+      "sid": 138,
+      "location": 2,
+      "content": "有一个饭店馆tea嗯",
+      "music": 0.0
+    },
+    {
+      "from": 385.18,
+      "to": 386.68,
+      "sid": 139,
+      "location": 2,
+      "content": "它的功能是什么",
+      "music": 0.0
+    },
+    {
+      "from": 386.68,
+      "to": 388.8,
+      "sid": 140,
+      "location": 2,
+      "content": "我们通常有一个表",
+      "music": 0.0
+    },
+    {
+      "from": 388.8,
+      "to": 392.68,
+      "sid": 141,
+      "location": 2,
+      "content": "比如说我的这个清零端如果是零的话",
+      "music": 0.0
+    },
+    {
+      "from": 393.03,
+      "to": 395.39,
+      "sid": 142,
+      "location": 2,
+      "content": "我们刚才看的这是一就是不用了",
+      "music": 0.0
+    },
+    {
+      "from": 395.39,
+      "to": 396.15,
+      "sid": 143,
+      "location": 2,
+      "content": "都接成一了",
+      "music": 0.0
+    },
+    {
+      "from": 396.15,
+      "to": 397.48,
+      "sid": 144,
+      "location": 2,
+      "content": "如果清零的话",
+      "music": 0.0
+    },
+    {
+      "from": 397.48,
+      "to": 400.12,
+      "sid": 145,
+      "location": 2,
+      "content": "我们的高处罚端和低处罚单",
+      "music": 0.0
+    },
+    {
+      "from": 400.12,
+      "to": 404.55,
+      "sid": 146,
+      "location": 2,
+      "content": "不管这个高处罚端和低处罚端是核电平",
+      "music": 0.0
+    },
+    {
+      "from": 404.55,
+      "to": 407.87,
+      "sid": 147,
+      "location": 2,
+      "content": "我们的输出端都是零对吧",
+      "music": 0.0
+    },
+    {
+      "from": 407.87,
+      "to": 411.32,
+      "sid": 148,
+      "location": 2,
+      "content": "我们的放电管是导通的",
+      "music": 0.0
+    },
+    {
+      "from": 413.14,
+      "to": 416.06,
+      "sid": 149,
+      "location": 2,
+      "content": "功能就是什么直接清零",
+      "music": 0.0
+    },
+    {
+      "from": 420.8,
+      "to": 421.92,
+      "sid": 150,
+      "location": 2,
+      "content": "直接清零了",
+      "music": 0.0
+    },
+    {
+      "from": 423.32,
+      "to": 425.47,
+      "sid": 151,
+      "location": 2,
+      "content": "对于啊不用的情况",
+      "music": 0.0
+    },
+    {
+      "from": 425.47,
+      "to": 426.97,
+      "sid": 152,
+      "location": 2,
+      "content": "我们这个就是清零端",
+      "music": 0.0
+    },
+    {
+      "from": 426.97,
+      "to": 427.91,
+      "sid": 153,
+      "location": 2,
+      "content": "就是至一",
+      "music": 0.0
+    },
+    {
+      "from": 427.91,
+      "to": 431.51,
+      "sid": 154,
+      "location": 2,
+      "content": "然后如果说我的高处罚端是一零",
+      "music": 0.0
+    },
+    {
+      "from": 431.51,
+      "to": 433.3,
+      "sid": 155,
+      "location": 2,
+      "content": "低处罚端是一",
+      "music": 0.0
+    },
+    {
+      "from": 433.3,
+      "to": 437.62,
+      "sid": 156,
+      "location": 2,
+      "content": "那么我这这个时候呢实际上是没有输出的",
+      "music": 0.0
+    },
+    {
+      "from": 437.62,
+      "to": 438.84,
+      "sid": 157,
+      "location": 2,
+      "content": "没有输出",
+      "music": 0.0
+    },
+    {
+      "from": 438.84,
+      "to": 440.14,
+      "sid": 158,
+      "location": 2,
+      "content": "不是说没有输出",
+      "music": 0.0
+    },
+    {
+      "from": 440.14,
+      "to": 443.86,
+      "sid": 159,
+      "location": 2,
+      "content": "而是说我这个是保持上一个状态",
+      "music": 0.0
+    },
+    {
+      "from": 443.86,
+      "to": 445.48,
+      "sid": 160,
+      "location": 2,
+      "content": "保持上一个状态",
+      "music": 0.0
+    },
+    {
+      "from": 445.48,
+      "to": 447.22,
+      "sid": 161,
+      "location": 2,
+      "content": "这是保持",
+      "music": 0.0
+    },
+    {
+      "from": 449.14,
+      "to": 450.96,
+      "sid": 162,
+      "location": 2,
+      "content": "功能就是保持上一个状态",
+      "music": 0.0
+    },
+    {
+      "from": 450.96,
+      "to": 452.5,
+      "sid": 163,
+      "location": 2,
+      "content": "放电管保持上一个状态",
+      "music": 0.0
+    },
+    {
+      "from": 452.5,
+      "to": 454.34,
+      "sid": 164,
+      "location": 2,
+      "content": "然后功能也是保持上一个状态",
+      "music": 0.0
+    },
+    {
+      "from": 454.34,
+      "to": 456.12,
+      "sid": 165,
+      "location": 2,
+      "content": "当我这个清零端是一",
+      "music": 0.0
+    },
+    {
+      "from": 456.12,
+      "to": 457.84,
+      "sid": 166,
+      "location": 2,
+      "content": "然后高处发端是一",
+      "music": 0.0
+    },
+    {
+      "from": 457.84,
+      "to": 459.38,
+      "sid": 167,
+      "location": 2,
+      "content": "低触发端是零",
+      "music": 0.0
+    },
+    {
+      "from": 459.38,
+      "to": 462.23,
+      "sid": 168,
+      "location": 2,
+      "content": "那么我的这个输出呢也是零",
+      "music": 0.0
+    },
+    {
+      "from": 462.23,
+      "to": 466.9,
+      "sid": 169,
+      "location": 2,
+      "content": "这个时候我的这个放电管实际上是截止的嗯",
+      "music": 0.0
+    },
+    {
+      "from": 469.66,
+      "to": 471.94,
+      "sid": 170,
+      "location": 2,
+      "content": "这时候我的这个是截止的",
+      "music": 0.0
+    },
+    {
+      "from": 471.94,
+      "to": 474.1,
+      "sid": 171,
+      "location": 2,
+      "content": "我这个是至一功能",
+      "music": 0.0
+    },
+    {
+      "from": 474.1,
+      "to": 475.2,
+      "sid": 172,
+      "location": 2,
+      "content": "就是制衣啊",
+      "music": 0.0
+    },
+    {
+      "from": 475.2,
+      "to": 479.9,
+      "sid": 173,
+      "location": 2,
+      "content": "他是嗯就是这个性能端是一的时候",
+      "music": 0.0
+    },
+    {
+      "from": 479.9,
+      "to": 482.71,
+      "sid": 174,
+      "location": 2,
+      "content": "我的只要是高处发端是一",
+      "music": 0.0
+    },
+    {
+      "from": 482.71,
+      "to": 484.85,
+      "sid": 175,
+      "location": 2,
+      "content": "他这个放电管是零",
+      "music": 0.0
+    },
+    {
+      "from": 484.85,
+      "to": 487.32,
+      "sid": 176,
+      "location": 2,
+      "content": "然后这边是至一的呃",
+      "music": 0.0
+    },
+    {
+      "from": 487.32,
+      "to": 489.62,
+      "sid": 177,
+      "location": 2,
+      "content": "我如果说是清零端是一",
+      "music": 0.0
+    },
+    {
+      "from": 489.62,
+      "to": 491.3,
+      "sid": 178,
+      "location": 2,
+      "content": "我的高处罚端是零",
+      "music": 0.0
+    },
+    {
+      "from": 491.3,
+      "to": 495.57,
+      "sid": 179,
+      "location": 2,
+      "content": "低触发端也是零嗯我的输出是一",
+      "music": 0.0
+    },
+    {
+      "from": 495.57,
+      "to": 500.41,
+      "sid": 180,
+      "location": 2,
+      "content": "那么这个时候呢我的放电管也是截止的",
+      "music": 0.0
+    },
+    {
+      "from": 504.04,
+      "to": 506.32,
+      "sid": 181,
+      "location": 2,
+      "content": "我现在的功能也是智一",
+      "music": 0.0
+    },
+    {
+      "from": 506.32,
+      "to": 509.74,
+      "sid": 182,
+      "location": 2,
+      "content": "最后一种状况就是我清零端是一",
+      "music": 0.0
+    },
+    {
+      "from": 509.74,
+      "to": 511.34,
+      "sid": 183,
+      "location": 2,
+      "content": "我的高处罚端是一",
+      "music": 0.0
+    },
+    {
+      "from": 511.34,
+      "to": 513.069,
+      "sid": 184,
+      "location": 2,
+      "content": "低处罚端也是一",
+      "music": 0.0
+    },
+    {
+      "from": 513.069,
+      "to": 515.869,
+      "sid": 185,
+      "location": 2,
+      "content": "那么这时候呢我的输出是零",
+      "music": 0.0
+    },
+    {
+      "from": 515.869,
+      "to": 518.45,
+      "sid": 186,
+      "location": 2,
+      "content": "我的这个放电管是导通的",
+      "music": 0.0
+    },
+    {
+      "from": 518.45,
+      "to": 521.069,
+      "sid": 187,
+      "location": 2,
+      "content": "此时的功能也是清零",
+      "music": 0.0
+    },
+    {
+      "from": 521.389,
+      "to": 523.189,
+      "sid": 188,
+      "location": 2,
+      "content": "这就是它的一个基本的",
+      "music": 0.0
+    },
+    {
+      "from": 523.189,
+      "to": 525.349,
+      "sid": 189,
+      "location": 2,
+      "content": "这个五五定时器的一个功能表",
+      "music": 0.0
+    },
+    {
+      "from": 525.349,
+      "to": 525.889,
+      "sid": 190,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 525.889,
+      "to": 529.9,
+      "sid": 191,
+      "location": 2,
+      "content": "大家下去呢可以把这些啊绘制成一个表",
+      "music": 0.0
+    },
+    {
+      "from": 529.9,
+      "to": 534.25,
+      "sid": 192,
+      "location": 2,
+      "content": "这样子绘制成这样一个表啊",
+      "music": 0.0
+    },
+    {
+      "from": 534.25,
+      "to": 538.15,
+      "sid": 193,
+      "location": 2,
+      "content": "总结下来加到我们这一节的一个笔记当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 538.15,
+      "to": 539.15,
+      "sid": 194,
+      "location": 2,
+      "content": "以后用的时候",
+      "music": 0.0
+    },
+    {
+      "from": 539.15,
+      "to": 542.885,
+      "sid": 195,
+      "location": 2,
+      "content": "在用的过程当中再慢慢的理解这一块",
+      "music": 0.0
+    },
+    {
+      "from": 547.56,
+      "to": 550.32,
+      "sid": 196,
+      "location": 2,
+      "content": "好我们这块呢对于它的一个功能",
+      "music": 0.0
+    },
+    {
+      "from": 550.32,
+      "to": 552.849,
+      "sid": 197,
+      "location": 2,
+      "content": "我们就先讲到这呃",
+      "music": 0.0
+    },
+    {
+      "from": 552.849,
+      "to": 555.829,
+      "sid": 198,
+      "location": 2,
+      "content": "其实这个五五这个控制器呀",
+      "music": 0.0
+    },
+    {
+      "from": 555.829,
+      "to": 559.349,
+      "sid": 199,
+      "location": 2,
+      "content": "它的核心呢实际上就是嗯",
+      "music": 0.0
+    },
+    {
+      "from": 561.72,
+      "to": 563.08,
+      "sid": 200,
+      "location": 2,
+      "content": "里边的一个触发器",
+      "music": 0.0
+    },
+    {
+      "from": 563.08,
+      "to": 566.16,
+      "sid": 201,
+      "location": 2,
+      "content": "我们来从应用当中来看一下吧",
+      "music": 0.0
+    },
+    {
+      "from": 567.59,
+      "to": 571.15,
+      "sid": 202,
+      "location": 2,
+      "content": "看这个五五的一个应用啊啊555的应用",
+      "music": 0.0
+    },
+    {
+      "from": 571.15,
+      "to": 574.32,
+      "sid": 203,
+      "location": 2,
+      "content": "首先呢是构成这个呃史密特触发器",
+      "music": 0.0
+    },
+    {
+      "from": 574.32,
+      "to": 578.49,
+      "sid": 204,
+      "location": 2,
+      "content": "它用于这个TTL系统的一个接口整形电路",
+      "music": 0.0
+    },
+    {
+      "from": 578.49,
+      "to": 580.55,
+      "sid": 205,
+      "location": 2,
+      "content": "或者是脉冲的一个电弧等等",
+      "music": 0.0
+    },
+    {
+      "from": 580.55,
+      "to": 582.33,
+      "sid": 206,
+      "location": 2,
+      "content": "那么它还可以构成什么呀",
+      "music": 0.0
+    },
+    {
+      "from": 582.33,
+      "to": 586.28,
+      "sid": 207,
+      "location": 2,
+      "content": "构成多谐振荡器组成信号产生电路",
+      "music": 0.0
+    },
+    {
+      "from": 586.92,
+      "to": 589.9,
+      "sid": 208,
+      "location": 2,
+      "content": "你看这还是刚才我们的一个电路是吧",
+      "music": 0.0
+    },
+    {
+      "from": 589.9,
+      "to": 592.8,
+      "sid": 209,
+      "location": 2,
+      "content": "嗯它它的这个一个震荡周期呢",
+      "music": 0.0
+    },
+    {
+      "from": 592.8,
+      "to": 598.58,
+      "sid": 210,
+      "location": 2,
+      "content": "实际上在这个图当中就是呃0.7乘以R1",
+      "music": 0.0
+    },
+    {
+      "from": 598.58,
+      "to": 599.6,
+      "sid": 211,
+      "location": 2,
+      "content": "加上二倍的R2",
+      "music": 0.0
+    },
+    {
+      "from": 599.6,
+      "to": 601.75,
+      "sid": 212,
+      "location": 2,
+      "content": "然后再乘以这个C啊",
+      "music": 0.0
+    },
+    {
+      "from": 601.75,
+      "to": 603.39,
+      "sid": 213,
+      "location": 2,
+      "content": "这就是它的一个震荡周期",
+      "music": 0.0
+    },
+    {
+      "from": 603.39,
+      "to": 606.02,
+      "sid": 214,
+      "location": 2,
+      "content": "这是组成的一个震荡期呃",
+      "music": 0.0
+    },
+    {
+      "from": 606.02,
+      "to": 609.48,
+      "sid": 215,
+      "location": 2,
+      "content": "对于构成的一个单稳态触发器呢",
+      "music": 0.0
+    },
+    {
+      "from": 609.48,
+      "to": 611.67,
+      "sid": 216,
+      "location": 2,
+      "content": "用于延时",
+      "music": 0.0
+    },
+    {
+      "from": 612.39,
+      "to": 614.85,
+      "sid": 217,
+      "location": 2,
+      "content": "整形以及一些定时开关当中",
+      "music": 0.0
+    },
+    {
+      "from": 614.85,
+      "to": 616.23,
+      "sid": 218,
+      "location": 2,
+      "content": "这个五五应用电路啊",
+      "music": 0.0
+    },
+    {
+      "from": 616.23,
+      "to": 620.2,
+      "sid": 219,
+      "location": 2,
+      "content": "用这三种方式当中的一种或者是多种组合起来",
+      "music": 0.0
+    },
+    {
+      "from": 620.2,
+      "to": 622.78,
+      "sid": 220,
+      "location": 2,
+      "content": "可以形成各种实用的电路图",
+      "music": 0.0
+    },
+    {
+      "from": 622.78,
+      "to": 624.88,
+      "sid": 221,
+      "location": 2,
+      "content": "比如说这个定时器呀",
+      "music": 0.0
+    },
+    {
+      "from": 624.88,
+      "to": 625.94,
+      "sid": 222,
+      "location": 2,
+      "content": "分频器呀",
+      "music": 0.0
+    },
+    {
+      "from": 625.94,
+      "to": 627.98,
+      "sid": 223,
+      "location": 2,
+      "content": "脉冲信号发生器呀",
+      "music": 0.0
+    },
+    {
+      "from": 627.98,
+      "to": 629.94,
+      "sid": 224,
+      "location": 2,
+      "content": "元元件参数呀",
+      "music": 0.0
+    },
+    {
+      "from": 629.94,
+      "to": 631.78,
+      "sid": 225,
+      "location": 2,
+      "content": "电路检测等等",
+      "music": 0.0
+    },
+    {
+      "from": 632.54,
+      "to": 634.38,
+      "sid": 226,
+      "location": 2,
+      "content": "这是五五定时器啊",
+      "music": 0.0
+    },
+    {
+      "from": 634.38,
+      "to": 634.86,
+      "sid": 227,
+      "location": 2,
+      "content": "看一下",
+      "music": 0.0
+    },
+    {
+      "from": 634.86,
+      "to": 637.86,
+      "sid": 228,
+      "location": 2,
+      "content": "这是五五定时器构成的一个单稳态触发器",
+      "music": 0.0
+    },
+    {
+      "from": 638.86,
+      "to": 640.02,
+      "sid": 229,
+      "location": 2,
+      "content": "一个具体的电路",
+      "music": 0.0
+    },
+    {
+      "from": 640.02,
+      "to": 645.26,
+      "sid": 230,
+      "location": 2,
+      "content": "然后看一下就是啊一般电源接五伏对吧",
+      "music": 0.0
+    },
+    {
+      "from": 645.26,
+      "to": 647.58,
+      "sid": 231,
+      "location": 2,
+      "content": "输出端呃",
+      "music": 0.0
+    },
+    {
+      "from": 647.58,
+      "to": 648.98,
+      "sid": 232,
+      "location": 2,
+      "content": "五没有用",
+      "music": 0.0
+    },
+    {
+      "from": 648.98,
+      "to": 651.51,
+      "sid": 233,
+      "location": 2,
+      "content": "直接加个电容接地了",
+      "music": 0.0
+    },
+    {
+      "from": 653.16,
+      "to": 654.18,
+      "sid": 234,
+      "location": 2,
+      "content": "二和六",
+      "music": 0.0
+    },
+    {
+      "from": 654.18,
+      "to": 656.12,
+      "sid": 235,
+      "location": 2,
+      "content": "这是高处八段",
+      "music": 0.0
+    },
+    {
+      "from": 656.12,
+      "to": 657.84,
+      "sid": 236,
+      "location": 2,
+      "content": "低处八段",
+      "music": 0.0
+    },
+    {
+      "from": 659.62,
+      "to": 663.64,
+      "sid": 237,
+      "location": 2,
+      "content": "就是那个七角七角",
+      "music": 0.0
+    },
+    {
+      "from": 663.64,
+      "to": 667.18,
+      "sid": 238,
+      "location": 2,
+      "content": "刚才咱们看的是一个",
+      "music": 0.0
+    },
+    {
+      "from": 670.12,
+      "to": 675.6,
+      "sid": 239,
+      "location": 2,
+      "content": "七角应该是刚才七角应该是一个放电端对吧",
+      "music": 0.0
+    },
+    {
+      "from": 675.6,
+      "to": 676.82,
+      "sid": 240,
+      "location": 2,
+      "content": "七角是一个放电端",
+      "music": 0.0
+    },
+    {
+      "from": 676.82,
+      "to": 678.84,
+      "sid": 241,
+      "location": 2,
+      "content": "对它七角是一个放电端",
+      "music": 0.0
+    },
+    {
+      "from": 678.84,
+      "to": 681.34,
+      "sid": 242,
+      "location": 2,
+      "content": "放电端接到这边了",
+      "music": 0.0
+    },
+    {
+      "from": 684.44,
+      "to": 687.7,
+      "sid": 243,
+      "location": 2,
+      "content": "这就是他的一个典型的单稳态触发器",
+      "music": 0.0
+    },
+    {
+      "from": 687.7,
+      "to": 691.65,
+      "sid": 244,
+      "location": 2,
+      "content": "嗯下面呢是多谐振荡器",
+      "music": 0.0
+    },
+    {
+      "from": 691.65,
+      "to": 694.47,
+      "sid": 245,
+      "location": 2,
+      "content": "我们来看一下多谐振荡器是怎么接的啊",
+      "music": 0.0
+    },
+    {
+      "from": 694.47,
+      "to": 698.0,
+      "sid": 246,
+      "location": 2,
+      "content": "多谐振荡器跟我们刚才那个图也是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 706.46,
+      "to": 708.76,
+      "sid": 247,
+      "location": 2,
+      "content": "你看一下在这个实例啊",
+      "music": 0.0
+    },
+    {
+      "from": 708.76,
+      "to": 710.92,
+      "sid": 248,
+      "location": 2,
+      "content": "就是门控制灯开关",
+      "music": 0.0
+    },
+    {
+      "from": 710.92,
+      "to": 712.86,
+      "sid": 249,
+      "location": 2,
+      "content": "门控灯开门",
+      "music": 0.0
+    },
+    {
+      "from": 712.86,
+      "to": 716.4,
+      "sid": 250,
+      "location": 2,
+      "content": "门控灯开关在这个电路当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 716.4,
+      "to": 719.78,
+      "sid": 251,
+      "location": 2,
+      "content": "它的核心实际上你看是一个555定时器",
+      "music": 0.0
+    },
+    {
+      "from": 719.78,
+      "to": 722.36,
+      "sid": 252,
+      "location": 2,
+      "content": "加一个D触发器",
+      "music": 0.0
+    },
+    {
+      "from": 724.18,
+      "to": 725.62,
+      "sid": 253,
+      "location": 2,
+      "content": "这个五五定时器",
+      "music": 0.0
+    },
+    {
+      "from": 725.62,
+      "to": 727.46,
+      "sid": 254,
+      "location": 2,
+      "content": "这个是接成的一个什么电路",
+      "music": 0.0
+    },
+    {
+      "from": 727.46,
+      "to": 728.84,
+      "sid": 255,
+      "location": 2,
+      "content": "咱们大家看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 728.84,
+      "to": 731.94,
+      "sid": 256,
+      "location": 2,
+      "content": "看一下对照一下上面的电路",
+      "music": 0.0
+    },
+    {
+      "from": 735.58,
+      "to": 736.3,
+      "sid": 257,
+      "location": 2,
+      "content": "看一下",
+      "music": 0.0
+    },
+    {
+      "from": 736.3,
+      "to": 742.3,
+      "sid": 258,
+      "location": 2,
+      "content": "实际上它接乘的是一个这个单稳态触发器对吧",
+      "music": 0.0
+    },
+    {
+      "from": 750.22,
+      "to": 751.94,
+      "sid": 259,
+      "location": 2,
+      "content": "这个单稳态触发器呢",
+      "music": 0.0
+    },
+    {
+      "from": 751.94,
+      "to": 755.96,
+      "sid": 260,
+      "location": 2,
+      "content": "它去除触点跳动对电路工作的一个影响",
+      "music": 0.0
+    },
+    {
+      "from": 755.96,
+      "to": 758.469,
+      "sid": 261,
+      "location": 2,
+      "content": "去除这个触点触动啊",
+      "music": 0.0
+    },
+    {
+      "from": 758.469,
+      "to": 761.26,
+      "sid": 262,
+      "location": 2,
+      "content": "对这个电路",
+      "music": 0.0
+    },
+    {
+      "from": 762.36,
+      "to": 763.76,
+      "sid": 263,
+      "location": 2,
+      "content": "工作的一个影响",
+      "music": 0.0
+    },
+    {
+      "from": 763.76,
+      "to": 765.16,
+      "sid": 264,
+      "location": 2,
+      "content": "这个D触发器呢",
+      "music": 0.0
+    },
+    {
+      "from": 765.16,
+      "to": 770.97,
+      "sid": 265,
+      "location": 2,
+      "content": "D触发器你看他把这个KO非呃接回到输入端",
+      "music": 0.0
+    },
+    {
+      "from": 770.97,
+      "to": 775.33,
+      "sid": 266,
+      "location": 2,
+      "content": "它实际上是形成了一个T撇触发器的一个形式",
+      "music": 0.0
+    },
+    {
+      "from": 775.33,
+      "to": 778.9,
+      "sid": 267,
+      "location": 2,
+      "content": "利用它呢来利用它的这个输出呀",
+      "music": 0.0
+    },
+    {
+      "from": 778.9,
+      "to": 782.16,
+      "sid": 268,
+      "location": 2,
+      "content": "来控制这个可控硅的一个开通和关闭",
+      "music": 0.0
+    },
+    {
+      "from": 782.16,
+      "to": 786.14,
+      "sid": 269,
+      "location": 2,
+      "content": "从而控制这个电灯的一个呃开通与啊",
+      "music": 0.0
+    },
+    {
+      "from": 786.14,
+      "to": 790.88,
+      "sid": 270,
+      "location": 2,
+      "content": "官面平时如果当这个房门关闭的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 790.88,
+      "to": 794.06,
+      "sid": 271,
+      "location": 2,
+      "content": "安装在这个呃安装呃",
+      "music": 0.0
+    },
+    {
+      "from": 794.06,
+      "to": 795.96,
+      "sid": 272,
+      "location": 2,
+      "content": "安装在这个",
+      "music": 0.0
+    },
+    {
+      "from": 797.5,
+      "to": 800.48,
+      "sid": 273,
+      "location": 2,
+      "content": "门门扇这个边缘的这个小磁铁呀",
+      "music": 0.0
+    },
+    {
+      "from": 800.48,
+      "to": 801.46,
+      "sid": 274,
+      "location": 2,
+      "content": "你看一关闭啊",
+      "music": 0.0
+    },
+    {
+      "from": 801.46,
+      "to": 806.54,
+      "sid": 275,
+      "location": 2,
+      "content": "这个小磁铁啊受这个外力磁力的一个吸合作用",
+      "music": 0.0
+    },
+    {
+      "from": 806.54,
+      "to": 809.319,
+      "sid": 276,
+      "location": 2,
+      "content": "这个单稳态电路呀",
+      "music": 0.0
+    },
+    {
+      "from": 809.319,
+      "to": 811.079,
+      "sid": 277,
+      "location": 2,
+      "content": "因为这个输入脉冲为高电平",
+      "music": 0.0
+    },
+    {
+      "from": 811.079,
+      "to": 812.819,
+      "sid": 278,
+      "location": 2,
+      "content": "而处于待触发的状态",
+      "music": 0.0
+    },
+    {
+      "from": 812.819,
+      "to": 817.7,
+      "sid": 279,
+      "location": 2,
+      "content": "此时呢这个双稳态电路的输出端呀为低电平啊",
+      "music": 0.0
+    },
+    {
+      "from": 817.7,
+      "to": 822.29,
+      "sid": 280,
+      "location": 2,
+      "content": "可控硅呢就是因为没有触发电流啊阻断",
+      "music": 0.0
+    },
+    {
+      "from": 822.29,
+      "to": 824.3,
+      "sid": 281,
+      "location": 2,
+      "content": "所以说这个灯就不亮",
+      "music": 0.0
+    },
+    {
+      "from": 824.3,
+      "to": 825.76,
+      "sid": 282,
+      "location": 2,
+      "content": "当有人一推门",
+      "music": 0.0
+    },
+    {
+      "from": 825.76,
+      "to": 829.26,
+      "sid": 283,
+      "location": 2,
+      "content": "这个小磁铁就会随着这个门扇离开呀",
+      "music": 0.0
+    },
+    {
+      "from": 829.26,
+      "to": 833.35,
+      "sid": 284,
+      "location": 2,
+      "content": "这个弹簧就会随着这个门扇哎",
+      "music": 0.0
+    },
+    {
+      "from": 833.35,
+      "to": 834.21,
+      "sid": 285,
+      "location": 2,
+      "content": "有人一推门",
+      "music": 0.0
+    },
+    {
+      "from": 834.21,
+      "to": 835.01,
+      "sid": 286,
+      "location": 2,
+      "content": "门扇一离开",
+      "music": 0.0
+    },
+    {
+      "from": 835.01,
+      "to": 838.86,
+      "sid": 287,
+      "location": 2,
+      "content": "这个弹簧管也也断开一次啊",
+      "music": 0.0
+    },
+    {
+      "from": 838.86,
+      "to": 842.4,
+      "sid": 288,
+      "location": 2,
+      "content": "这个弹簧管的常开触点",
+      "music": 0.0
+    },
+    {
+      "from": 843.45,
+      "to": 846.57,
+      "sid": 289,
+      "location": 2,
+      "content": "会因为这个暂时失去这个外磁力的作用",
+      "music": 0.0
+    },
+    {
+      "from": 846.57,
+      "to": 847.81,
+      "sid": 290,
+      "location": 2,
+      "content": "靠自身的这个弹力啊",
+      "music": 0.0
+    },
+    {
+      "from": 847.81,
+      "to": 849.26,
+      "sid": 291,
+      "location": 2,
+      "content": "张开吸合一次",
+      "music": 0.0
+    },
+    {
+      "from": 849.26,
+      "to": 852.86,
+      "sid": 292,
+      "location": 2,
+      "content": "实际上由于这个弹簧管的一个触点的抖动啊",
+      "music": 0.0
+    },
+    {
+      "from": 852.86,
+      "to": 856.0,
+      "sid": 293,
+      "location": 2,
+      "content": "要重复几次的这种张开吸合的过程",
+      "music": 0.0
+    },
+    {
+      "from": 856.0,
+      "to": 861.44,
+      "sid": 294,
+      "location": 2,
+      "content": "这个单稳态触发的这个单稳态触发的这个CP端",
+      "music": 0.0
+    },
+    {
+      "from": 863.04,
+      "to": 865.64,
+      "sid": 295,
+      "location": 2,
+      "content": "能够在这个弹簧管的这个一处",
+      "music": 0.0
+    },
+    {
+      "from": 865.64,
+      "to": 868.68,
+      "sid": 296,
+      "location": 2,
+      "content": "弹簧管的这个触点这儿呃",
+      "music": 0.0
+    },
+    {
+      "from": 868.68,
+      "to": 873.12,
+      "sid": 297,
+      "location": 2,
+      "content": "第一次张开时获得一个负脉冲信号",
+      "music": 0.0
+    },
+    {
+      "from": 873.12,
+      "to": 878.5,
+      "sid": 298,
+      "location": 2,
+      "content": "当这个使这个单稳态触发器翻转翻转为站稳泰",
+      "music": 0.0
+    },
+    {
+      "from": 878.5,
+      "to": 881.98,
+      "sid": 299,
+      "location": 2,
+      "content": "当这个输出由低电平变为高电平的时候",
+      "music": 0.0
+    },
+    {
+      "from": 881.98,
+      "to": 884.12,
+      "sid": 300,
+      "location": 2,
+      "content": "低电平变为高电平的时候",
+      "music": 0.0
+    },
+    {
+      "from": 884.12,
+      "to": 886.9,
+      "sid": 301,
+      "location": 2,
+      "content": "这时候这个电容器废啊",
+      "music": 0.0
+    },
+    {
+      "from": 887.569,
+      "to": 891.649,
+      "sid": 302,
+      "location": 2,
+      "content": "这时候这个电容器呃经过这个R充电",
+      "music": 0.0
+    },
+    {
+      "from": 891.649,
+      "to": 893.429,
+      "sid": 303,
+      "location": 2,
+      "content": "电容器经过R充电呢",
+      "music": 0.0
+    },
+    {
+      "from": 893.429,
+      "to": 896.69,
+      "sid": 304,
+      "location": 2,
+      "content": "就使这个复位端的R上升",
+      "music": 0.0
+    },
+    {
+      "from": 896.69,
+      "to": 901.51,
+      "sid": 305,
+      "location": 2,
+      "content": "当上升到这个复位电瓶2/3伏的时候",
+      "music": 0.0
+    },
+    {
+      "from": 903.46,
+      "to": 906.76,
+      "sid": 306,
+      "location": 2,
+      "content": "上升到这个复位电瓶2/3伏的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 906.76,
+      "to": 911.51,
+      "sid": 307,
+      "location": 2,
+      "content": "就是这个单出这个单稳态触发器啊",
+      "music": 0.0
+    },
+    {
+      "from": 911.51,
+      "to": 912.73,
+      "sid": 308,
+      "location": 2,
+      "content": "它就复位了",
+      "music": 0.0
+    },
+    {
+      "from": 912.73,
+      "to": 915.45,
+      "sid": 309,
+      "location": 2,
+      "content": "K又恢复为低电平了",
+      "music": 0.0
+    },
+    {
+      "from": 915.61,
+      "to": 918.58,
+      "sid": 310,
+      "location": 2,
+      "content": "它就恢复为低电平了",
+      "music": 0.0
+    },
+    {
+      "from": 923.36,
+      "to": 926.72,
+      "sid": 311,
+      "location": 2,
+      "content": "其实对于这个单稳态电路的这个时间常数啊",
+      "music": 0.0
+    },
+    {
+      "from": 926.72,
+      "to": 931.4,
+      "sid": 312,
+      "location": 2,
+      "content": "T呢它经常嗯通常是T等于1.1R乘C",
+      "music": 0.0
+    },
+    {
+      "from": 931.4,
+      "to": 934.29,
+      "sid": 313,
+      "location": 2,
+      "content": "它有效的将这个弹簧的弹簧管",
+      "music": 0.0
+    },
+    {
+      "from": 934.29,
+      "to": 936.41,
+      "sid": 314,
+      "location": 2,
+      "content": "这个具体的抖动信号现象啊",
+      "music": 0.0
+    },
+    {
+      "from": 936.41,
+      "to": 939.94,
+      "sid": 315,
+      "location": 2,
+      "content": "它这个脉冲信号展宽为单个脉冲",
+      "music": 0.0
+    },
+    {
+      "from": 939.94,
+      "to": 942.86,
+      "sid": 316,
+      "location": 2,
+      "content": "就是当正脉冲同时加在",
+      "music": 0.0
+    },
+    {
+      "from": 942.86,
+      "to": 946.32,
+      "sid": 317,
+      "location": 2,
+      "content": "这个T触发器的这个CP端的时候",
+      "music": 0.0
+    },
+    {
+      "from": 948.84,
+      "to": 950.8,
+      "sid": 318,
+      "location": 2,
+      "content": "输出由低电平变为高电平",
+      "music": 0.0
+    },
+    {
+      "from": 950.8,
+      "to": 955.36,
+      "sid": 319,
+      "location": 2,
+      "content": "这个可控硅的控制机压就获得额正向触发电流",
+      "music": 0.0
+    },
+    {
+      "from": 955.36,
+      "to": 958.7,
+      "sid": 320,
+      "location": 2,
+      "content": "而导通刚进来的人一离开",
+      "music": 0.0
+    },
+    {
+      "from": 958.7,
+      "to": 960.42,
+      "sid": 321,
+      "location": 2,
+      "content": "然后门再一次打开",
+      "music": 0.0
+    },
+    {
+      "from": 960.42,
+      "to": 961.06,
+      "sid": 322,
+      "location": 2,
+      "content": "关断",
+      "music": 0.0
+    },
+    {
+      "from": 961.06,
+      "to": 963.2,
+      "sid": 323,
+      "location": 2,
+      "content": "那么弹簧管呢同样的动作",
+      "music": 0.0
+    },
+    {
+      "from": 963.2,
+      "to": 964.25,
+      "sid": 324,
+      "location": 2,
+      "content": "单触发器",
+      "music": 0.0
+    },
+    {
+      "from": 964.25,
+      "to": 968.41,
+      "sid": 325,
+      "location": 2,
+      "content": "这个单稳态触发器同样就是输出一个正正脉冲",
+      "music": 0.0
+    },
+    {
+      "from": 968.41,
+      "to": 971.96,
+      "sid": 326,
+      "location": 2,
+      "content": "于是呢这个T触发器他输出一个正脉冲",
+      "music": 0.0
+    },
+    {
+      "from": 971.96,
+      "to": 975.68,
+      "sid": 327,
+      "location": 2,
+      "content": "那么这个T除他就就再次的这个",
+      "music": 0.0
+    },
+    {
+      "from": 977.36,
+      "to": 978.62,
+      "sid": 328,
+      "location": 2,
+      "content": "翻转为低电平",
+      "music": 0.0
+    },
+    {
+      "from": 978.62,
+      "to": 980.54,
+      "sid": 329,
+      "location": 2,
+      "content": "那么可控硅呢失去触发电",
+      "music": 0.0
+    },
+    {
+      "from": 980.54,
+      "to": 981.74,
+      "sid": 330,
+      "location": 2,
+      "content": "触发电流啊",
+      "music": 0.0
+    },
+    {
+      "from": 981.74,
+      "to": 984.1,
+      "sid": 331,
+      "location": 2,
+      "content": "并在这个交流电过零时关断",
+      "music": 0.0
+    },
+    {
+      "from": 984.1,
+      "to": 986.74,
+      "sid": 332,
+      "location": 2,
+      "content": "那么电灯呢就自动的熄灭了",
+      "music": 0.0
+    },
+    {
+      "from": 986.74,
+      "to": 987.96,
+      "sid": 333,
+      "location": 2,
+      "content": "光敏电阻呢",
+      "music": 0.0
+    },
+    {
+      "from": 987.96,
+      "to": 993.1,
+      "sid": 334,
+      "location": 2,
+      "content": "就是这个R光敏电阻R和可调电阻R",
+      "music": 0.0
+    },
+    {
+      "from": 995.42,
+      "to": 997.44,
+      "sid": 335,
+      "location": 2,
+      "content": "构成了一个光控电路啊",
+      "music": 0.0
+    },
+    {
+      "from": 997.44,
+      "to": 999.74,
+      "sid": 336,
+      "location": 2,
+      "content": "构成一个光控电路",
+      "music": 0.0
+    },
+    {
+      "from": 1002.44,
+      "to": 1006.16,
+      "sid": 337,
+      "location": 2,
+      "content": "在白天呢这个光敏电阻啊受到自然光照射",
+      "music": 0.0
+    },
+    {
+      "from": 1006.16,
+      "to": 1007.18,
+      "sid": 338,
+      "location": 2,
+      "content": "组织比较小",
+      "music": 0.0
+    },
+    {
+      "from": 1007.18,
+      "to": 1009.76,
+      "sid": 339,
+      "location": 2,
+      "content": "这个T1撇触发器啊就至零端",
+      "music": 0.0
+    },
+    {
+      "from": 1009.76,
+      "to": 1012.72,
+      "sid": 340,
+      "location": 2,
+      "content": "而这个电位呀大于1/2伏",
+      "music": 0.0
+    },
+    {
+      "from": 1012.72,
+      "to": 1015.47,
+      "sid": 341,
+      "location": 2,
+      "content": "所以说无论门被推开多少次呀",
+      "music": 0.0
+    },
+    {
+      "from": 1015.47,
+      "to": 1017.41,
+      "sid": 342,
+      "location": 2,
+      "content": "这个电路强制至零",
+      "music": 0.0
+    },
+    {
+      "from": 1017.41,
+      "to": 1020.67,
+      "sid": 343,
+      "location": 2,
+      "content": "这个KR始终始终为一个低电平",
+      "music": 0.0
+    },
+    {
+      "from": 1020.67,
+      "to": 1022.51,
+      "sid": 344,
+      "location": 2,
+      "content": "这个电灯呢不会发光",
+      "music": 0.0
+    },
+    {
+      "from": 1022.51,
+      "to": 1025.88,
+      "sid": 345,
+      "location": 2,
+      "content": "当晚上呢呃自然光照减弱了",
+      "music": 0.0
+    },
+    {
+      "from": 1025.88,
+      "to": 1027.94,
+      "sid": 346,
+      "location": 2,
+      "content": "这个触发器就至零了",
+      "music": 0.0
+    },
+    {
+      "from": 1027.94,
+      "to": 1030.06,
+      "sid": 347,
+      "location": 2,
+      "content": "这个T1撇触发器就置零了",
+      "music": 0.0
+    },
+    {
+      "from": 1030.06,
+      "to": 1032.68,
+      "sid": 348,
+      "location": 2,
+      "content": "那么这个R电位呢就小于12伏",
+      "music": 0.0
+    },
+    {
+      "from": 1032.68,
+      "to": 1035.77,
+      "sid": 349,
+      "location": 2,
+      "content": "强制复位就被自动解除了",
+      "music": 0.0
+    },
+    {
+      "from": 1035.77,
+      "to": 1040.31,
+      "sid": 350,
+      "location": 2,
+      "content": "这就是呃门控灯开关的一个具体的原理",
+      "music": 0.0
+    },
+    {
+      "from": 1040.31,
+      "to": 1042.39,
+      "sid": 351,
+      "location": 2,
+      "content": "那么大家下去呢",
+      "music": 0.0
+    },
+    {
+      "from": 1042.39,
+      "to": 1046.92,
+      "sid": 352,
+      "location": 2,
+      "content": "可以再具体的自己自己再好好的想一想",
+      "music": 0.0
+    },
+    {
+      "from": 1046.92,
+      "to": 1049.52,
+      "sid": 353,
+      "location": 2,
+      "content": "嗯下面呢针对这个555定时器呢",
+      "music": 0.0
+    },
+    {
+      "from": 1049.52,
+      "to": 1052.11,
+      "sid": 354,
+      "location": 2,
+      "content": "给大家留一个思考题啊",
+      "music": 0.0
+    },
+    {
+      "from": 1052.11,
+      "to": 1054.08,
+      "sid": 355,
+      "location": 2,
+      "content": "主要是定时和延时",
+      "music": 0.0
+    },
+    {
+      "from": 1054.08,
+      "to": 1056.08,
+      "sid": 356,
+      "location": 2,
+      "content": "这是一个单稳态触发器啊",
+      "music": 0.0
+    },
+    {
+      "from": 1056.08,
+      "to": 1058.52,
+      "sid": 357,
+      "location": 2,
+      "content": "它构成的一个定时电路",
+      "music": 0.0
+    },
+    {
+      "from": 1058.52,
+      "to": 1060.6,
+      "sid": 358,
+      "location": 2,
+      "content": "或者是它可以构成一个定时电路",
+      "music": 0.0
+    },
+    {
+      "from": 1060.6,
+      "to": 1062.12,
+      "sid": 359,
+      "location": 2,
+      "content": "或者是一个延时电路",
+      "music": 0.0
+    },
+    {
+      "from": 1062.12,
+      "to": 1065.2,
+      "sid": 360,
+      "location": 2,
+      "content": "与继电器或者是驱动放大电路配合呢",
+      "music": 0.0
+    },
+    {
+      "from": 1065.2,
+      "to": 1067.0,
+      "sid": 361,
+      "location": 2,
+      "content": "可以实现这个自动控制呀",
+      "music": 0.0
+    },
+    {
+      "from": 1067.0,
+      "to": 1068.9,
+      "sid": 362,
+      "location": 2,
+      "content": "定时开关呀功能",
+      "music": 0.0
+    },
+    {
+      "from": 1068.9,
+      "to": 1072.2,
+      "sid": 363,
+      "location": 2,
+      "content": "嗯下面呢这就是一个定时电路的一个图",
+      "music": 0.0
+    },
+    {
+      "from": 1072.2,
+      "to": 1073.54,
+      "sid": 364,
+      "location": 2,
+      "content": "大家可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 1073.54,
+      "to": 1076.79,
+      "sid": 365,
+      "location": 2,
+      "content": "怎么用这个来实现一个定时器啊",
+      "music": 0.0
+    },
+    {
+      "from": 1076.79,
+      "to": 1079.19,
+      "sid": 366,
+      "location": 2,
+      "content": "定某一个具体的时长",
+      "music": 0.0
+    },
+    {
+      "from": 1079.19,
+      "to": 1083.31,
+      "sid": 367,
+      "location": 2,
+      "content": "是怎么通过它的一个具体的一个波形来反映的",
+      "music": 0.0
+    },
+    {
+      "from": 1083.31,
+      "to": 1087.09,
+      "sid": 368,
+      "location": 2,
+      "content": "这就是五五定时器的一些基本的知识",
+      "music": 0.0
+    },
+    {
+      "from": 1087.09,
+      "to": 1088.57,
+      "sid": 369,
+      "location": 2,
+      "content": "讲的比较粗糙",
+      "music": 0.0
+    },
+    {
+      "from": 1088.57,
+      "to": 1091.02,
+      "sid": 370,
+      "location": 2,
+      "content": "大家回去呢再具体的整理一下",
+      "music": 0.0
+    }
+  ]
+}

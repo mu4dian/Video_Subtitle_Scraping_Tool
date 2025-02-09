@@ -1,0 +1,1820 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 1.24,
+      "to": 4.8,
+      "sid": 1,
+      "location": 2,
+      "content": "下面呢我们来看一下计数器嗯",
+      "music": 0.0
+    },
+    {
+      "from": 4.8,
+      "to": 8.04,
+      "sid": 2,
+      "location": 2,
+      "content": "在上一节当中呢我们也提到了计数器",
+      "music": 0.0
+    },
+    {
+      "from": 8.04,
+      "to": 11.469,
+      "sid": 3,
+      "location": 2,
+      "content": "在这里我们再做一下简单的一个讲解",
+      "music": 0.0
+    },
+    {
+      "from": 11.469,
+      "to": 15.72,
+      "sid": 4,
+      "location": 2,
+      "content": "看一下计数器的计数器的逻辑功能以及分类",
+      "music": 0.0
+    },
+    {
+      "from": 16.68,
+      "to": 18.35,
+      "sid": 5,
+      "location": 2,
+      "content": "计数器是什么",
+      "music": 0.0
+    },
+    {
+      "from": 18.35,
+      "to": 19.64,
+      "sid": 6,
+      "location": 2,
+      "content": "实现什么功能呢",
+      "music": 0.0
+    },
+    {
+      "from": 19.64,
+      "to": 23.98,
+      "sid": 7,
+      "location": 2,
+      "content": "它实际上是对输入时钟脉冲的一个技术功能",
+      "music": 0.0
+    },
+    {
+      "from": 23.98,
+      "to": 28.94,
+      "sid": 8,
+      "location": 2,
+      "content": "那么它可以用于分频定时产生节拍脉冲",
+      "music": 0.0
+    },
+    {
+      "from": 28.94,
+      "to": 32.5,
+      "sid": 9,
+      "location": 2,
+      "content": "以及对脉冲序列及数字运算等等",
+      "music": 0.0
+    },
+    {
+      "from": 32.5,
+      "to": 34.66,
+      "sid": 10,
+      "location": 2,
+      "content": "那么对于计数器呢",
+      "music": 0.0
+    },
+    {
+      "from": 34.66,
+      "to": 36.16,
+      "sid": 11,
+      "location": 2,
+      "content": "它也有几种分类",
+      "music": 0.0
+    },
+    {
+      "from": 36.16,
+      "to": 40.06,
+      "sid": 12,
+      "location": 2,
+      "content": "首先按照脉冲的输入方式分为同步和异步",
+      "music": 0.0
+    },
+    {
+      "from": 40.06,
+      "to": 40.98,
+      "sid": 13,
+      "location": 2,
+      "content": "计数器",
+      "music": 0.0
+    },
+    {
+      "from": 40.98,
+      "to": 44.22,
+      "sid": 14,
+      "location": 2,
+      "content": "按照近卫的体质分为二进制",
+      "music": 0.0
+    },
+    {
+      "from": 44.22,
+      "to": 48.279,
+      "sid": 15,
+      "location": 2,
+      "content": "十进制以及任意进制的一个计数器",
+      "music": 0.0
+    },
+    {
+      "from": 51.46,
+      "to": 54.54,
+      "sid": 16,
+      "location": 2,
+      "content": "最后呢按照逻辑功能分为加法",
+      "music": 0.0
+    },
+    {
+      "from": 54.54,
+      "to": 57.21,
+      "sid": 17,
+      "location": 2,
+      "content": "减法以及可逆计数器",
+      "music": 0.0
+    },
+    {
+      "from": 57.21,
+      "to": 61.08,
+      "sid": 18,
+      "location": 2,
+      "content": "这就是计数器的一个逻辑功能及其分类",
+      "music": 0.0
+    },
+    {
+      "from": 61.08,
+      "to": 66.42,
+      "sid": 19,
+      "location": 2,
+      "content": "我们首先在这个里边看一下二进制计数器",
+      "music": 0.0
+    },
+    {
+      "from": 68.68,
+      "to": 70.62,
+      "sid": 20,
+      "location": 2,
+      "content": "二进制计数器呀",
+      "music": 0.0
+    },
+    {
+      "from": 70.62,
+      "to": 72.84,
+      "sid": 21,
+      "location": 2,
+      "content": "同时它会分成两个类别",
+      "music": 0.0
+    },
+    {
+      "from": 72.84,
+      "to": 75.58,
+      "sid": 22,
+      "location": 2,
+      "content": "一个是异步计数器",
+      "music": 0.0
+    },
+    {
+      "from": 75.58,
+      "to": 77.53,
+      "sid": 23,
+      "location": 2,
+      "content": "一个是同步计数器",
+      "music": 0.0
+    },
+    {
+      "from": 77.53,
+      "to": 83.04,
+      "sid": 24,
+      "location": 2,
+      "content": "那么它它就是一个按照这个定位体征",
+      "music": 0.0
+    },
+    {
+      "from": 83.04,
+      "to": 84.45,
+      "sid": 25,
+      "location": 2,
+      "content": "它就是二进制",
+      "music": 0.0
+    },
+    {
+      "from": 84.45,
+      "to": 86.1,
+      "sid": 26,
+      "location": 2,
+      "content": "这个就不用多说了",
+      "music": 0.0
+    },
+    {
+      "from": 86.1,
+      "to": 88.05,
+      "sid": 27,
+      "location": 2,
+      "content": "看一下异步计数器",
+      "music": 0.0
+    },
+    {
+      "from": 88.05,
+      "to": 91.14,
+      "sid": 28,
+      "location": 2,
+      "content": "对于二进制异步计数器呢",
+      "music": 0.0
+    },
+    {
+      "from": 91.14,
+      "to": 93.51,
+      "sid": 29,
+      "location": 2,
+      "content": "这就是它的一个简单的一个图",
+      "music": 0.0
+    },
+    {
+      "from": 93.51,
+      "to": 97.84,
+      "sid": 30,
+      "location": 2,
+      "content": "这是一个四个jk触发器啊",
+      "music": 0.0
+    },
+    {
+      "from": 97.84,
+      "to": 100.66,
+      "sid": 31,
+      "location": 2,
+      "content": "构成了一个t触发器",
+      "music": 0.0
+    },
+    {
+      "from": 100.66,
+      "to": 103.9,
+      "sid": 32,
+      "location": 2,
+      "content": "当j等于k等于一的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 103.9,
+      "to": 104.8,
+      "sid": 33,
+      "location": 2,
+      "content": "是这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 108.04,
+      "to": 110.16,
+      "sid": 34,
+      "location": 2,
+      "content": "这是它的一个波形图",
+      "music": 0.0
+    },
+    {
+      "from": 111.96,
+      "to": 113.539,
+      "sid": 35,
+      "location": 2,
+      "content": "这是它的状态图",
+      "music": 0.0
+    },
+    {
+      "from": 114.18,
+      "to": 117.08,
+      "sid": 36,
+      "location": 2,
+      "content": "我们从这个状态图可以看出来啊",
+      "music": 0.0
+    },
+    {
+      "from": 117.08,
+      "to": 120.09,
+      "sid": 37,
+      "location": 2,
+      "content": "从这个初态这个四个都是零开始",
+      "music": 0.0
+    },
+    {
+      "from": 120.09,
+      "to": 122.04,
+      "sid": 38,
+      "location": 2,
+      "content": "每输入一个技术脉冲",
+      "music": 0.0
+    },
+    {
+      "from": 122.04,
+      "to": 126.09,
+      "sid": 39,
+      "location": 2,
+      "content": "那么它的那个状态就按照二进制的规律加一",
+      "music": 0.0
+    },
+    {
+      "from": 126.09,
+      "to": 129.4,
+      "sid": 40,
+      "location": 2,
+      "content": "你看这是00000001",
+      "music": 0.0
+    },
+    {
+      "from": 129.4,
+      "to": 132.89,
+      "sid": 41,
+      "location": 2,
+      "content": "加一之后进位00100011",
+      "music": 0.0
+    },
+    {
+      "from": 132.89,
+      "to": 136.97,
+      "sid": 42,
+      "location": 2,
+      "content": "这就是二进制加法计数器的一个基本的一个",
+      "music": 0.0
+    },
+    {
+      "from": 136.97,
+      "to": 138.47,
+      "sid": 43,
+      "location": 2,
+      "content": "一个逻辑关系",
+      "music": 0.0
+    },
+    {
+      "from": 138.47,
+      "to": 142.459,
+      "sid": 44,
+      "location": 2,
+      "content": "同时呢我们从这个时序图当中可以看出来啊",
+      "music": 0.0
+    },
+    {
+      "from": 142.459,
+      "to": 148.52,
+      "sid": 45,
+      "location": 2,
+      "content": "这个ko 0 k1 q0 q1 q2 q3 ",
+      "music": 0.0
+    },
+    {
+      "from": 148.52,
+      "to": 152.78,
+      "sid": 46,
+      "location": 2,
+      "content": "它们的周期分别是这个cp端cp的",
+      "music": 0.0
+    },
+    {
+      "from": 152.78,
+      "to": 154.579,
+      "sid": 47,
+      "location": 2,
+      "content": "你看这是他的二倍",
+      "music": 0.0
+    },
+    {
+      "from": 154.579,
+      "to": 156.289,
+      "sid": 48,
+      "location": 2,
+      "content": "这个是它的四倍",
+      "music": 0.0
+    },
+    {
+      "from": 156.289,
+      "to": 158.149,
+      "sid": 49,
+      "location": 2,
+      "content": "这是他的八倍",
+      "music": 0.0
+    },
+    {
+      "from": 158.149,
+      "to": 160.72,
+      "sid": 50,
+      "location": 2,
+      "content": "这个是它的16倍对吧",
+      "music": 0.0
+    },
+    {
+      "from": 161.44,
+      "to": 164.86,
+      "sid": 51,
+      "location": 2,
+      "content": "因此呢它可以作为分频器来使用",
+      "music": 0.0
+    },
+    {
+      "from": 165.26,
+      "to": 168.2,
+      "sid": 52,
+      "location": 2,
+      "content": "那么对于一波二进制的计数器呢",
+      "music": 0.0
+    },
+    {
+      "from": 168.2,
+      "to": 170.61,
+      "sid": 53,
+      "location": 2,
+      "content": "它的结构比较简单啊",
+      "music": 0.0
+    },
+    {
+      "from": 170.61,
+      "to": 172.83,
+      "sid": 54,
+      "location": 2,
+      "content": "改变即连触发器的个数",
+      "music": 0.0
+    },
+    {
+      "from": 172.83,
+      "to": 177.12,
+      "sid": 55,
+      "location": 2,
+      "content": "可以很方便地改变二进制计数器的位数",
+      "music": 0.0
+    },
+    {
+      "from": 178.64,
+      "to": 180.4,
+      "sid": 56,
+      "location": 2,
+      "content": "如果他是这是由四个",
+      "music": 0.0
+    },
+    {
+      "from": 180.4,
+      "to": 182.38,
+      "sid": 57,
+      "location": 2,
+      "content": "如果它是由n个计数器",
+      "music": 0.0
+    },
+    {
+      "from": 182.38,
+      "to": 184.39,
+      "sid": 58,
+      "location": 2,
+      "content": "n个触发器构成",
+      "music": 0.0
+    },
+    {
+      "from": 184.39,
+      "to": 186.28,
+      "sid": 59,
+      "location": 2,
+      "content": "n位二进制的计数器",
+      "music": 0.0
+    },
+    {
+      "from": 186.28,
+      "to": 191.299,
+      "sid": 60,
+      "location": 2,
+      "content": "或者是摩的m2 的n次方计数器",
+      "music": 0.0
+    },
+    {
+      "from": 191.299,
+      "to": 194.059,
+      "sid": 61,
+      "location": 2,
+      "content": "或者是二的n次方分频器啊",
+      "music": 0.0
+    },
+    {
+      "from": 194.059,
+      "to": 195.769,
+      "sid": 62,
+      "location": 2,
+      "content": "都是可以实现的",
+      "music": 0.0
+    },
+    {
+      "from": 195.769,
+      "to": 200.14,
+      "sid": 63,
+      "location": 2,
+      "content": "那么下面来看一下二进制的一个减法计数器",
+      "music": 0.0
+    },
+    {
+      "from": 200.999,
+      "to": 202.309,
+      "sid": 64,
+      "location": 2,
+      "content": "它也是有",
+      "music": 0.0
+    },
+    {
+      "from": 202.309,
+      "to": 205.819,
+      "sid": 65,
+      "location": 2,
+      "content": "它是由d触发器构成的tp触发器",
+      "music": 0.0
+    },
+    {
+      "from": 205.819,
+      "to": 208.81,
+      "sid": 66,
+      "location": 2,
+      "content": "那么由于都是上升沿触发的",
+      "music": 0.11666666180555735
+    },
+    {
+      "from": 208.81,
+      "to": 211.75,
+      "sid": 67,
+      "location": 2,
+      "content": "应该将低位触发器的ko端",
+      "music": 0.0
+    },
+    {
+      "from": 211.75,
+      "to": 213.94,
+      "sid": 68,
+      "location": 2,
+      "content": "第一位触发器的ko端",
+      "music": 0.0999999944444479
+    },
+    {
+      "from": 214.04,
+      "to": 218.8,
+      "sid": 69,
+      "location": 2,
+      "content": "与相邻高位触发器的时钟脉冲数段相连",
+      "music": 0.0
+    },
+    {
+      "from": 219.019,
+      "to": 224.32,
+      "sid": 70,
+      "location": 2,
+      "content": "从零端取位取借位符号啊",
+      "music": 0.0
+    },
+    {
+      "from": 224.32,
+      "to": 225.84,
+      "sid": 71,
+      "location": 2,
+      "content": "这是它的一个",
+      "music": 0.0
+    },
+    {
+      "from": 228.04,
+      "to": 230.34,
+      "sid": 72,
+      "location": 2,
+      "content": "这是它的这边是它的一个数据图",
+      "music": 0.0
+    },
+    {
+      "from": 230.34,
+      "to": 234.1,
+      "sid": 73,
+      "location": 2,
+      "content": "这是它的一个逻辑图",
+      "music": 0.08421052188365469
+    },
+    {
+      "from": 241.54,
+      "to": 245.76,
+      "sid": 74,
+      "location": 2,
+      "content": "那么异步计数器呢实际上是串行计数器啊",
+      "music": 0.0
+    },
+    {
+      "from": 245.76,
+      "to": 247.74,
+      "sid": 75,
+      "location": 2,
+      "content": "它的工作速度比较低",
+      "music": 0.0
+    },
+    {
+      "from": 247.74,
+      "to": 249.9,
+      "sid": 76,
+      "location": 2,
+      "content": "为了提高他的技术速率呀",
+      "music": 0.0
+    },
+    {
+      "from": 249.9,
+      "to": 252.2,
+      "sid": 77,
+      "location": 2,
+      "content": "可以采用同步计数器",
+      "music": 0.0
+    },
+    {
+      "from": 254.52,
+      "to": 257.24,
+      "sid": 78,
+      "location": 2,
+      "content": "用揭开触发器和d触发器呢",
+      "music": 0.0
+    },
+    {
+      "from": 257.24,
+      "to": 260.82,
+      "sid": 79,
+      "location": 2,
+      "content": "都可以很方便地组成二进制异步的计数器",
+      "music": 0.0
+    },
+    {
+      "from": 264.6,
+      "to": 269.099,
+      "sid": 80,
+      "location": 2,
+      "content": "比如说将计数器接成t一撇触发器",
+      "music": 0.0
+    },
+    {
+      "from": 269.099,
+      "to": 272.549,
+      "sid": 81,
+      "location": 2,
+      "content": "然后根据加法减法计数的方式",
+      "music": 0.0
+    },
+    {
+      "from": 272.549,
+      "to": 275.63,
+      "sid": 82,
+      "location": 2,
+      "content": "以及触发器上升沿还是下降沿",
+      "music": 0.0
+    },
+    {
+      "from": 275.63,
+      "to": 278.75,
+      "sid": 83,
+      "location": 2,
+      "content": "来决定各触发器之间的联系",
+      "music": 0.0
+    },
+    {
+      "from": 278.75,
+      "to": 281.18,
+      "sid": 84,
+      "location": 2,
+      "content": "那么对于加计数器呢",
+      "music": 0.0
+    },
+    {
+      "from": 281.18,
+      "to": 282.92,
+      "sid": 85,
+      "location": 2,
+      "content": "上升也要处罚",
+      "music": 0.0
+    },
+    {
+      "from": 284.1,
+      "to": 286.04,
+      "sid": 86,
+      "location": 2,
+      "content": "主要是一上升沿",
+      "music": 0.0
+    },
+    {
+      "from": 286.04,
+      "to": 290.3,
+      "sid": 87,
+      "location": 2,
+      "content": "那处罚则应该将第一位触发器的ko端",
+      "music": 0.0
+    },
+    {
+      "from": 290.3,
+      "to": 293.32,
+      "sid": 88,
+      "location": 2,
+      "content": "和相邻高位触发器的cp端相连",
+      "music": 0.0
+    },
+    {
+      "from": 294.16,
+      "to": 295.92,
+      "sid": 89,
+      "location": 2,
+      "content": "那么下降也要处罚呢",
+      "music": 0.0
+    },
+    {
+      "from": 295.92,
+      "to": 297.78,
+      "sid": 90,
+      "location": 2,
+      "content": "将低位触发器的ko端",
+      "music": 0.0
+    },
+    {
+      "from": 297.78,
+      "to": 300.56,
+      "sid": 91,
+      "location": 2,
+      "content": "和相邻高位触发器的cp端相连",
+      "music": 0.0
+    },
+    {
+      "from": 301.9,
+      "to": 305.19,
+      "sid": 92,
+      "location": 2,
+      "content": "这就是下凡",
+      "music": 0.0
+    },
+    {
+      "from": 305.19,
+      "to": 308.08,
+      "sid": 93,
+      "location": 2,
+      "content": "这就是那个加计数器",
+      "music": 0.0
+    },
+    {
+      "from": 309.139,
+      "to": 311.079,
+      "sid": 94,
+      "location": 2,
+      "content": "而对于减计数器呢",
+      "music": 0.0
+    },
+    {
+      "from": 311.079,
+      "to": 313.749,
+      "sid": 95,
+      "location": 2,
+      "content": "它的连接方法与加计数器相反",
+      "music": 0.0
+    },
+    {
+      "from": 313.749,
+      "to": 315.63,
+      "sid": 96,
+      "location": 2,
+      "content": "我们在这就不多说了",
+      "music": 0.0
+    },
+    {
+      "from": 315.63,
+      "to": 317.85,
+      "sid": 97,
+      "location": 2,
+      "content": "这个小节这一部分的内容呢",
+      "music": 0.0
+    },
+    {
+      "from": 317.85,
+      "to": 323.9,
+      "sid": 98,
+      "location": 2,
+      "content": "还需要大家下课之后自己嗯在那个多读几遍",
+      "music": 0.0
+    },
+    {
+      "from": 323.9,
+      "to": 325.04,
+      "sid": 99,
+      "location": 2,
+      "content": "深化理解",
+      "music": 0.0
+    },
+    {
+      "from": 326.34,
+      "to": 329.34,
+      "sid": 100,
+      "location": 2,
+      "content": "这就是二进制异步计数器",
+      "music": 0.0
+    },
+    {
+      "from": 330.06,
+      "to": 332.75,
+      "sid": 101,
+      "location": 2,
+      "content": "看一下二进制同步计数器",
+      "music": 0.0
+    },
+    {
+      "from": 332.75,
+      "to": 336.44,
+      "sid": 102,
+      "location": 2,
+      "content": "二进制同步计数器呢分为同步加法计数器",
+      "music": 0.0
+    },
+    {
+      "from": 336.44,
+      "to": 340.43,
+      "sid": 103,
+      "location": 2,
+      "content": "同步减法计数器以及可逆计数器",
+      "music": 0.0
+    },
+    {
+      "from": 340.43,
+      "to": 341.78,
+      "sid": 104,
+      "location": 2,
+      "content": "对于加法计数器",
+      "music": 0.0
+    },
+    {
+      "from": 341.78,
+      "to": 345.26,
+      "sid": 105,
+      "location": 2,
+      "content": "我们刚才已经在刚才那一篇章已经说了",
+      "music": 0.0
+    },
+    {
+      "from": 346.24,
+      "to": 351.19,
+      "sid": 106,
+      "location": 2,
+      "content": "那么对于同步的一个加法计数计数器呢",
+      "music": 0.0
+    },
+    {
+      "from": 351.19,
+      "to": 354.1,
+      "sid": 107,
+      "location": 2,
+      "content": "首先要把所有的cp端都连在一起",
+      "music": 0.0
+    },
+    {
+      "from": 354.1,
+      "to": 355.96,
+      "sid": 108,
+      "location": 2,
+      "content": "接上技术脉冲",
+      "music": 0.0
+    },
+    {
+      "from": 358.139,
+      "to": 360.979,
+      "sid": 109,
+      "location": 2,
+      "content": "常用的这个244位",
+      "music": 0.0
+    },
+    {
+      "from": 360.979,
+      "to": 364.28,
+      "sid": 110,
+      "location": 2,
+      "content": "二进制同步加法计数器的芯片啊",
+      "music": 0.0
+    },
+    {
+      "from": 364.28,
+      "to": 365.6,
+      "sid": 111,
+      "location": 2,
+      "content": "常见的有这个芯片",
+      "music": 0.0
+    },
+    {
+      "from": 365.6,
+      "to": 368.26,
+      "sid": 112,
+      "location": 2,
+      "content": "74x14161 ",
+      "music": 0.0
+    },
+    {
+      "from": 368.539,
+      "to": 371.67,
+      "sid": 113,
+      "location": 2,
+      "content": "这是他的一个真值表",
+      "music": 0.0
+    },
+    {
+      "from": 371.67,
+      "to": 376.08,
+      "sid": 114,
+      "location": 2,
+      "content": "最左最左边代表的是技术脉冲序号",
+      "music": 0.0
+    },
+    {
+      "from": 376.08,
+      "to": 377.88,
+      "sid": 115,
+      "location": 2,
+      "content": "就是那第几个",
+      "music": 0.0
+    },
+    {
+      "from": 377.92,
+      "to": 380.38,
+      "sid": 116,
+      "location": 2,
+      "content": "后面这是它的电路的状态",
+      "music": 0.0
+    },
+    {
+      "from": 380.38,
+      "to": 384.349,
+      "sid": 117,
+      "location": 2,
+      "content": "最后面是等效的十进制的一个数值啊",
+      "music": 0.0
+    },
+    {
+      "from": 384.349,
+      "to": 386.42,
+      "sid": 118,
+      "location": 2,
+      "content": "这就是它的一个图纸",
+      "music": 0.0
+    },
+    {
+      "from": 393.319,
+      "to": 396.8,
+      "sid": 119,
+      "location": 2,
+      "content": "这就是二进制同步加法计数器",
+      "music": 0.0
+    },
+    {
+      "from": 398.259,
+      "to": 399.959,
+      "sid": 120,
+      "location": 2,
+      "content": "还有一个是可逆",
+      "music": 0.0
+    },
+    {
+      "from": 399.959,
+      "to": 401.759,
+      "sid": 121,
+      "location": 2,
+      "content": "还有一个是减法计数器",
+      "music": 0.0
+    },
+    {
+      "from": 401.759,
+      "to": 404.93,
+      "sid": 122,
+      "location": 2,
+      "content": "减法计数器我就不再多重复了",
+      "music": 0.0
+    },
+    {
+      "from": 404.93,
+      "to": 406.25,
+      "sid": 123,
+      "location": 2,
+      "content": "它的基本原理",
+      "music": 0.0
+    },
+    {
+      "from": 406.25,
+      "to": 411.46,
+      "sid": 124,
+      "location": 2,
+      "content": "实际上是和那加法计数器是相似的",
+      "music": 0.056265983215696654
+    },
+    {
+      "from": 411.64,
+      "to": 414.52,
+      "sid": 125,
+      "location": 2,
+      "content": "还有就是一个可逆计数器",
+      "music": 0.0
+    },
+    {
+      "from": 414.52,
+      "to": 417.61,
+      "sid": 126,
+      "location": 2,
+      "content": "这个可逆计数器是怎么工作的呢",
+      "music": 0.0
+    },
+    {
+      "from": 417.61,
+      "to": 420.22,
+      "sid": 127,
+      "location": 2,
+      "content": "啊他可逆计数器嘛",
+      "music": 0.0
+    },
+    {
+      "from": 420.22,
+      "to": 423.7,
+      "sid": 128,
+      "location": 2,
+      "content": "顾名思义就是既能做加减法的计数器",
+      "music": 0.0
+    },
+    {
+      "from": 423.7,
+      "to": 426.21,
+      "sid": 129,
+      "location": 2,
+      "content": "又能做减法的计数器",
+      "music": 0.0
+    },
+    {
+      "from": 426.21,
+      "to": 428.49,
+      "sid": 130,
+      "location": 2,
+      "content": "这是它的一个公式",
+      "music": 0.0
+    },
+    {
+      "from": 430.71,
+      "to": 432.34,
+      "sid": 131,
+      "location": 2,
+      "content": "这是它的一个图纸",
+      "music": 0.0
+    },
+    {
+      "from": 436.84,
+      "to": 439.05,
+      "sid": 132,
+      "location": 2,
+      "content": "当控制信号这个差",
+      "music": 0.0
+    },
+    {
+      "from": 439.05,
+      "to": 442.59,
+      "sid": 133,
+      "location": 2,
+      "content": "控制信号这个差等于一的时候",
+      "music": 0.0
+    },
+    {
+      "from": 442.59,
+      "to": 445.28,
+      "sid": 134,
+      "location": 2,
+      "content": "从f f一到f f3 ",
+      "music": 0.0
+    },
+    {
+      "from": 448.12,
+      "to": 452.08,
+      "sid": 135,
+      "location": 2,
+      "content": "这个他们的阶段和k端",
+      "music": 0.0
+    },
+    {
+      "from": 452.08,
+      "to": 455.08,
+      "sid": 136,
+      "location": 2,
+      "content": "分别于低位各触发器的q2 段相连",
+      "music": 0.0
+    },
+    {
+      "from": 455.08,
+      "to": 458.6,
+      "sid": 137,
+      "location": 2,
+      "content": "这个是做加减记记述的",
+      "music": 0.0
+    },
+    {
+      "from": 458.6,
+      "to": 462.23,
+      "sid": 138,
+      "location": 2,
+      "content": "那么当控制端这个x等于零的时候",
+      "music": 0.0
+    },
+    {
+      "from": 462.23,
+      "to": 464.76,
+      "sid": 139,
+      "location": 2,
+      "content": "f f一到f f3 中",
+      "music": 0.0
+    },
+    {
+      "from": 464.76,
+      "to": 469.1,
+      "sid": 140,
+      "location": 2,
+      "content": "各阶k端分别和低位触发器的ko端反向相连",
+      "music": 0.0
+    },
+    {
+      "from": 469.1,
+      "to": 472.38,
+      "sid": 141,
+      "location": 2,
+      "content": "这时候呢是做减法计数",
+      "music": 0.0
+    },
+    {
+      "from": 475.9,
+      "to": 479.56,
+      "sid": 142,
+      "location": 2,
+      "content": "这就是二进制同步可逆计数器",
+      "music": 0.0
+    },
+    {
+      "from": 484.48,
+      "to": 487.44,
+      "sid": 143,
+      "location": 2,
+      "content": "我们前面了解了二进制的计数器",
+      "music": 0.0
+    },
+    {
+      "from": 487.44,
+      "to": 490.89,
+      "sid": 144,
+      "location": 2,
+      "content": "我们下面来了解一下非二进制的计数器",
+      "music": 0.0
+    },
+    {
+      "from": 490.89,
+      "to": 494.84,
+      "sid": 145,
+      "location": 2,
+      "content": "非二进制是非二二进制计数器呢",
+      "music": 0.0
+    },
+    {
+      "from": 494.84,
+      "to": 496.73,
+      "sid": 146,
+      "location": 2,
+      "content": "我给大家举了几个例子",
+      "music": 0.0
+    },
+    {
+      "from": 497.87,
+      "to": 502.72,
+      "sid": 147,
+      "location": 2,
+      "content": "第一个呢是呃这个首先来讲一下定义啊",
+      "music": 0.0
+    },
+    {
+      "from": 502.72,
+      "to": 505.51,
+      "sid": 148,
+      "location": 2,
+      "content": "就是这个非二进制计数器",
+      "music": 0.0
+    },
+    {
+      "from": 505.51,
+      "to": 509.51,
+      "sid": 149,
+      "location": 2,
+      "content": "它也分比如说十进制或者是任意进制",
+      "music": 0.0
+    },
+    {
+      "from": 509.51,
+      "to": 513.44,
+      "sid": 150,
+      "location": 2,
+      "content": "那么n进制的计数器呢就称为摩n计数器",
+      "music": 0.0
+    },
+    {
+      "from": 513.44,
+      "to": 515.96,
+      "sid": 151,
+      "location": 2,
+      "content": "n等于二的n次方的时候",
+      "music": 0.0
+    },
+    {
+      "from": 515.96,
+      "to": 519.67,
+      "sid": 152,
+      "location": 2,
+      "content": "也就是前面的n位二进制计数器",
+      "music": 0.0
+    },
+    {
+      "from": 519.67,
+      "to": 521.41,
+      "sid": 153,
+      "location": 2,
+      "content": "当不相等的时候",
+      "music": 0.0
+    },
+    {
+      "from": 521.41,
+      "to": 523.87,
+      "sid": 154,
+      "location": 2,
+      "content": "就为非二进制计数器",
+      "music": 0.0
+    },
+    {
+      "from": 523.87,
+      "to": 525.43,
+      "sid": 155,
+      "location": 2,
+      "content": "非二进制计数器中",
+      "music": 0.0
+    },
+    {
+      "from": 525.43,
+      "to": 527.96,
+      "sid": 156,
+      "location": 2,
+      "content": "用的最多的就是十进制计数器",
+      "music": 0.0
+    },
+    {
+      "from": 527.96,
+      "to": 531.44,
+      "sid": 157,
+      "location": 2,
+      "content": "那么以下面这两个为例子来讲解一下",
+      "music": 0.0
+    },
+    {
+      "from": 531.44,
+      "to": 536.24,
+      "sid": 158,
+      "location": 2,
+      "content": "这个呢是一个8432bcd码的同步",
+      "music": 0.0
+    },
+    {
+      "from": 536.24,
+      "to": 537.8,
+      "sid": 159,
+      "location": 2,
+      "content": "十进制计数器",
+      "music": 0.0
+    },
+    {
+      "from": 538.76,
+      "to": 541.22,
+      "sid": 160,
+      "location": 2,
+      "content": "我们看这个计数器的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 541.22,
+      "to": 545.21,
+      "sid": 161,
+      "location": 2,
+      "content": "我们也要同时了解他的这个针织表啊",
+      "music": 0.0
+    },
+    {
+      "from": 545.21,
+      "to": 547.1,
+      "sid": 162,
+      "location": 2,
+      "content": "看一下它的这个时序图",
+      "music": 0.0
+    },
+    {
+      "from": 547.1,
+      "to": 551.74,
+      "sid": 163,
+      "location": 2,
+      "content": "和他的这个最后的这个原理图嗯",
+      "music": 0.0
+    },
+    {
+      "from": 559.28,
+      "to": 565.22,
+      "sid": 164,
+      "location": 2,
+      "content": "在下面呢就是b48421 bcd码的异步事件",
+      "music": 0.0
+    },
+    {
+      "from": 565.22,
+      "to": 569.579,
+      "sid": 165,
+      "location": 2,
+      "content": "之加法计数器也是由他这几个",
+      "music": 0.0
+    },
+    {
+      "from": 576.8,
+      "to": 579.55,
+      "sid": 166,
+      "location": 2,
+      "content": "触发器有几个触发器同连",
+      "music": 0.0
+    },
+    {
+      "from": 579.55,
+      "to": 582.74,
+      "sid": 167,
+      "location": 2,
+      "content": "连接成连接组合成而成的",
+      "music": 0.0
+    },
+    {
+      "from": 587.38,
+      "to": 590.34,
+      "sid": 168,
+      "location": 2,
+      "content": "这个是同步十进制加法计数器",
+      "music": 0.0
+    },
+    {
+      "from": 590.34,
+      "to": 592.68,
+      "sid": 169,
+      "location": 2,
+      "content": "它有一个这个真值表",
+      "music": 0.0
+    },
+    {
+      "from": 592.68,
+      "to": 594.92,
+      "sid": 170,
+      "location": 2,
+      "content": "大家在用的时候",
+      "music": 0.0
+    },
+    {
+      "from": 594.92,
+      "to": 599.24,
+      "sid": 171,
+      "location": 2,
+      "content": "要充分考虑到真实表以及它的各种状态",
+      "music": 0.0
+    },
+    {
+      "from": 599.24,
+      "to": 602.459,
+      "sid": 172,
+      "location": 2,
+      "content": "这就是非二进制的一个计数器",
+      "music": 0.0
+    },
+    {
+      "from": 604.14,
+      "to": 608.9,
+      "sid": 173,
+      "location": 2,
+      "content": "下面对这种集成计数器啊做一个比较",
+      "music": 0.0
+    },
+    {
+      "from": 611.06,
+      "to": 615.73,
+      "sid": 174,
+      "location": 2,
+      "content": "看实际上他这种呃技术模式啊",
+      "music": 0.0
+    },
+    {
+      "from": 615.73,
+      "to": 619.62,
+      "sid": 175,
+      "location": 2,
+      "content": "这个触发器的cp之间的关系",
+      "music": 0.0
+    },
+    {
+      "from": 620.64,
+      "to": 623.24,
+      "sid": 176,
+      "location": 2,
+      "content": "都在这个表里边就反映出来了",
+      "music": 0.0
+    },
+    {
+      "from": 623.24,
+      "to": 626.24,
+      "sid": 177,
+      "location": 2,
+      "content": "这是他们常见的一些触发器的类型",
+      "music": 0.0
+    },
+    {
+      "from": 626.24,
+      "to": 628.94,
+      "sid": 178,
+      "location": 2,
+      "content": "这是它的一个技术模式啊",
+      "music": 0.0
+    },
+    {
+      "from": 628.94,
+      "to": 633.66,
+      "sid": 179,
+      "location": 2,
+      "content": "这是他的一个清零方式以及预制树的一个方式",
+      "music": 0.0
+    },
+    {
+      "from": 634.04,
+      "to": 637.97,
+      "sid": 180,
+      "location": 2,
+      "content": "这就是即时集成计数器的一个比较",
+      "music": 0.0
+    },
+    {
+      "from": 637.97,
+      "to": 640.94,
+      "sid": 181,
+      "location": 2,
+      "content": "大家在用的时候具体能用到哪一个",
+      "music": 0.0
+    },
+    {
+      "from": 640.94,
+      "to": 642.339,
+      "sid": 182,
+      "location": 2,
+      "content": "然后选哪一个",
+      "music": 0.0
+    },
+    {
+      "from": 647.4,
+      "to": 651.219,
+      "sid": 183,
+      "location": 2,
+      "content": "最后呢我们来看一下这个计数器的功能",
+      "music": 0.0
+    },
+    {
+      "from": 653.42,
+      "to": 655.3,
+      "sid": 184,
+      "location": 2,
+      "content": "计数器有什么功能呢",
+      "music": 0.0
+    },
+    {
+      "from": 655.3,
+      "to": 658.54,
+      "sid": 185,
+      "location": 2,
+      "content": "首先就是计数器容量的扩展",
+      "music": 0.0
+    },
+    {
+      "from": 658.54,
+      "to": 662.17,
+      "sid": 186,
+      "location": 2,
+      "content": "我们通过计数器可以将容量扩展啊",
+      "music": 0.0
+    },
+    {
+      "from": 662.17,
+      "to": 663.49,
+      "sid": 187,
+      "location": 2,
+      "content": "一个是同步节点",
+      "music": 0.0
+    },
+    {
+      "from": 663.49,
+      "to": 665.04,
+      "sid": 188,
+      "location": 2,
+      "content": "一个是异步机电",
+      "music": 0.0
+    },
+    {
+      "from": 665.18,
+      "to": 668.75,
+      "sid": 189,
+      "location": 2,
+      "content": "另外一个呢就是组成任意进制的计数器",
+      "music": 0.0
+    },
+    {
+      "from": 668.75,
+      "to": 670.459,
+      "sid": 190,
+      "location": 2,
+      "content": "这个在这个",
+      "music": 0.0
+    },
+    {
+      "from": 673.22,
+      "to": 679.04,
+      "sid": 191,
+      "location": 2,
+      "content": "非二进制计数器里边啊也有讲过它的一个电影",
+      "music": 0.0
+    },
+    {
+      "from": 679.04,
+      "to": 683.099,
+      "sid": 192,
+      "location": 2,
+      "content": "看n进制计数器又称为模n次方计数器",
+      "music": 0.0
+    },
+    {
+      "from": 689.46,
+      "to": 691.54,
+      "sid": 193,
+      "location": 2,
+      "content": "再看一下这个",
+      "music": 0.0
+    },
+    {
+      "from": 694.06,
+      "to": 697.08,
+      "sid": 194,
+      "location": 2,
+      "content": "啊这就是组装任意进制的一个计数器",
+      "music": 0.0
+    },
+    {
+      "from": 697.08,
+      "to": 699.06,
+      "sid": 195,
+      "location": 2,
+      "content": "组装任意进制的一个计数器呢",
+      "music": 0.0
+    },
+    {
+      "from": 699.06,
+      "to": 702.49,
+      "sid": 196,
+      "location": 2,
+      "content": "就是用现有的二进制和十进制计数器",
+      "music": 0.0
+    },
+    {
+      "from": 702.49,
+      "to": 705.16,
+      "sid": 197,
+      "location": 2,
+      "content": "利用其清零端或者是预制端",
+      "music": 0.0
+    },
+    {
+      "from": 705.16,
+      "to": 707.95,
+      "sid": 198,
+      "location": 2,
+      "content": "外加适当的门电路连接长的",
+      "music": 0.0
+    },
+    {
+      "from": 707.95,
+      "to": 711.07,
+      "sid": 199,
+      "location": 2,
+      "content": "它有两种方法来进行这种制作",
+      "music": 0.0
+    },
+    {
+      "from": 711.07,
+      "to": 712.93,
+      "sid": 200,
+      "location": 2,
+      "content": "一个是反馈清零端",
+      "music": 0.0
+    },
+    {
+      "from": 712.93,
+      "to": 715.219,
+      "sid": 201,
+      "location": 2,
+      "content": "一个是反馈质数端",
+      "music": 0.0
+    },
+    {
+      "from": 717.26,
+      "to": 721.12,
+      "sid": 202,
+      "location": 2,
+      "content": "再来看一下组成分频器是如何组成的",
+      "music": 0.0
+    },
+    {
+      "from": 721.12,
+      "to": 723.58,
+      "sid": 203,
+      "location": 2,
+      "content": "刚才我们在前面的那个例子当中",
+      "music": 0.0
+    },
+    {
+      "from": 723.58,
+      "to": 726.61,
+      "sid": 204,
+      "location": 2,
+      "content": "可能有图纸已经看得很清楚了啊",
+      "music": 0.0
+    },
+    {
+      "from": 729.13,
+      "to": 730.38,
+      "sid": 205,
+      "location": 2,
+      "content": "有一个这个",
+      "music": 0.0
+    },
+    {
+      "from": 746.52,
+      "to": 749.979,
+      "sid": 206,
+      "location": 2,
+      "content": "好在下面呢我们来看一下分频器",
+      "music": 0.0
+    },
+    {
+      "from": 750.16,
+      "to": 754.54,
+      "sid": 207,
+      "location": 2,
+      "content": "分频器呢你看这个是某石英晶体振荡器",
+      "music": 0.0
+    },
+    {
+      "from": 754.54,
+      "to": 755.62,
+      "sid": 208,
+      "location": 2,
+      "content": "输出脉冲信号",
+      "music": 0.0
+    },
+    {
+      "from": 755.62,
+      "to": 759.16,
+      "sid": 209,
+      "location": 2,
+      "content": "是这些用74161组成分频器",
+      "music": 0.0
+    },
+    {
+      "from": 759.16,
+      "to": 763.43,
+      "sid": 210,
+      "location": 2,
+      "content": "把这个分别为1Hz的脉冲信号啊",
+      "music": 0.0
+    },
+    {
+      "from": 763.43,
+      "to": 767.04,
+      "sid": 211,
+      "location": 2,
+      "content": "这个呢具体在实际当中实际上是这样连的",
+      "music": 0.0
+    },
+    {
+      "from": 769.6,
+      "to": 773.16,
+      "sid": 212,
+      "location": 2,
+      "content": "这个呢作为一个思考题给大家留下来啊",
+      "music": 0.0
+    },
+    {
+      "from": 773.16,
+      "to": 775.17,
+      "sid": 213,
+      "location": 2,
+      "content": "大家一会儿等讲完了之后",
+      "music": 0.0
+    },
+    {
+      "from": 775.17,
+      "to": 778.359,
+      "sid": 214,
+      "location": 2,
+      "content": "认真思考一下这个是如何做到的",
+      "music": 0.0
+    },
+    {
+      "from": 778.359,
+      "to": 781.839,
+      "sid": 215,
+      "location": 2,
+      "content": "将这个频率为这些的啊",
+      "music": 0.0
+    },
+    {
+      "from": 781.839,
+      "to": 784.28,
+      "sid": 216,
+      "location": 2,
+      "content": "做成一个1Hz的脉冲信号",
+      "music": 0.0
+    },
+    {
+      "from": 787.6,
+      "to": 790.06,
+      "sid": 217,
+      "location": 2,
+      "content": "组成序列信号发生器",
+      "music": 0.0
+    },
+    {
+      "from": 791.78,
+      "to": 793.54,
+      "sid": 218,
+      "location": 2,
+      "content": "这个序列信号啊",
+      "music": 0.0
+    },
+    {
+      "from": 793.54,
+      "to": 797.52,
+      "sid": 219,
+      "location": 2,
+      "content": "就是在时钟脉冲的一个嗯作用下",
+      "music": 0.1103448237811919
+    },
+    {
+      "from": 797.52,
+      "to": 801.62,
+      "sid": 220,
+      "location": 2,
+      "content": "产生的一一串周期性的二进制信号",
+      "music": 0.0
+    },
+    {
+      "from": 804.22,
+      "to": 807.349,
+      "sid": 221,
+      "location": 2,
+      "content": "最后呢是组成脉冲分配器",
+      "music": 0.0
+    },
+    {
+      "from": 807.349,
+      "to": 810.589,
+      "sid": 222,
+      "location": 2,
+      "content": "在数学系统中定时部件的组成部分呀",
+      "music": 0.0
+    },
+    {
+      "from": 810.589,
+      "to": 812.089,
+      "sid": 223,
+      "location": 2,
+      "content": "在时钟脉冲的作用下",
+      "music": 0.0
+    },
+    {
+      "from": 812.089,
+      "to": 815.92,
+      "sid": 224,
+      "location": 2,
+      "content": "顺序是每一个输出量输出节拍",
+      "music": 0.0
+    },
+    {
+      "from": 815.92,
+      "to": 818.5,
+      "sid": 225,
+      "location": 2,
+      "content": "脉冲与协调各部分的工作",
+      "music": 0.0
+    },
+    {
+      "from": 818.5,
+      "to": 821.2,
+      "sid": 226,
+      "location": 2,
+      "content": "这就是脉冲分配器的一个作用",
+      "music": 0.0
+    }
+  ]
+}

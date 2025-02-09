@@ -1,0 +1,2956 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 2.38,
+      "to": 5.439,
+      "sid": 1,
+      "location": 2,
+      "content": "下面给大家讲一下格力放大器呃",
+      "music": 0.0
+    },
+    {
+      "from": 5.439,
+      "to": 6.979,
+      "sid": 2,
+      "location": 2,
+      "content": "为什么讲隔离放大器呢",
+      "music": 0.0
+    },
+    {
+      "from": 6.979,
+      "to": 8.779,
+      "sid": 3,
+      "location": 2,
+      "content": "因为在这个模拟技术当中",
+      "music": 0.0
+    },
+    {
+      "from": 8.779,
+      "to": 10.899,
+      "sid": 4,
+      "location": 2,
+      "content": "有许多隔离技术是非常重要的",
+      "music": 0.0
+    },
+    {
+      "from": 10.899,
+      "to": 12.33,
+      "sid": 5,
+      "location": 2,
+      "content": "在许多应用当中",
+      "music": 0.0
+    },
+    {
+      "from": 12.33,
+      "to": 15.17,
+      "sid": 6,
+      "location": 2,
+      "content": "传感器和接收数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 15.17,
+      "to": 16.69,
+      "sid": 7,
+      "location": 2,
+      "content": "接收数据的系统之间呢",
+      "music": 0.0
+    },
+    {
+      "from": 16.69,
+      "to": 19.509,
+      "sid": 8,
+      "location": 2,
+      "content": "最好不要有直接的电电器连接啊",
+      "music": 0.0
+    },
+    {
+      "from": 19.509,
+      "to": 21.979,
+      "sid": 9,
+      "location": 2,
+      "content": "这点有时是非常重要的",
+      "music": 0.0
+    },
+    {
+      "from": 21.979,
+      "to": 25.579,
+      "sid": 10,
+      "location": 2,
+      "content": "嗯这样可能是为了防止系统一半产生的危险",
+      "music": 0.0
+    },
+    {
+      "from": 25.579,
+      "to": 27.079,
+      "sid": 11,
+      "location": 2,
+      "content": "电压或者是电流呀",
+      "music": 0.0
+    },
+    {
+      "from": 27.079,
+      "to": 30.38,
+      "sid": 12,
+      "location": 2,
+      "content": "给另外一半造成了损坏的可能性",
+      "music": 0.0
+    },
+    {
+      "from": 30.82,
+      "to": 33.92,
+      "sid": 13,
+      "location": 2,
+      "content": "或者是为了断开难以处理的接地环路",
+      "music": 0.0
+    },
+    {
+      "from": 33.92,
+      "to": 37.03,
+      "sid": 14,
+      "location": 2,
+      "content": "嗯所以说呢这个隔离系统非常重要",
+      "music": 0.0
+    },
+    {
+      "from": 37.03,
+      "to": 39.95,
+      "sid": 15,
+      "location": 2,
+      "content": "在前面的啊基础元器件当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 39.95,
+      "to": 42.94,
+      "sid": 16,
+      "location": 2,
+      "content": "我们也学习了一些具有隔离性质的",
+      "music": 0.0
+    },
+    {
+      "from": 42.94,
+      "to": 44.6,
+      "sid": 17,
+      "location": 2,
+      "content": "一些基础元器件",
+      "music": 0.0
+    },
+    {
+      "from": 44.6,
+      "to": 47.89,
+      "sid": 18,
+      "location": 2,
+      "content": "比如说我们是呃学习的变压器",
+      "music": 0.0
+    },
+    {
+      "from": 47.89,
+      "to": 51.49,
+      "sid": 19,
+      "location": 2,
+      "content": "变压器呢它具有隔离隔离的作用",
+      "music": 0.0
+    },
+    {
+      "from": 51.49,
+      "to": 53.39,
+      "sid": 20,
+      "location": 2,
+      "content": "那么它利用的是磁场",
+      "music": 0.0
+    },
+    {
+      "from": 53.39,
+      "to": 57.69,
+      "sid": 21,
+      "location": 2,
+      "content": "还有一种呢就是我们通常说的那个光偶",
+      "music": 0.0
+    },
+    {
+      "from": 57.69,
+      "to": 61.27,
+      "sid": 22,
+      "location": 2,
+      "content": "光偶呢它是利用光来传递信号",
+      "music": 0.0
+    },
+    {
+      "from": 61.27,
+      "to": 64.33,
+      "sid": 23,
+      "location": 2,
+      "content": "然后呢没有直接的电气信号",
+      "music": 0.0
+    },
+    {
+      "from": 64.33,
+      "to": 69.63,
+      "sid": 24,
+      "location": 2,
+      "content": "这样呢也也也造也那个构造了一个隔离系统",
+      "music": 0.0
+    },
+    {
+      "from": 69.63,
+      "to": 72.45,
+      "sid": 25,
+      "location": 2,
+      "content": "所以说呢隔离放大器还是挺重要的",
+      "music": 0.0
+    },
+    {
+      "from": 72.45,
+      "to": 76.35,
+      "sid": 26,
+      "location": 2,
+      "content": "我们今天学的隔离放大器呢啊也是用呃",
+      "music": 0.0
+    },
+    {
+      "from": 76.35,
+      "to": 80.45,
+      "sid": 27,
+      "location": 2,
+      "content": "也是利用了变压器或者是光线隔离的",
+      "music": 0.0
+    },
+    {
+      "from": 80.45,
+      "to": 83.01,
+      "sid": 28,
+      "location": 2,
+      "content": "这种基本的原理来做成的",
+      "music": 0.0
+    },
+    {
+      "from": 83.01,
+      "to": 86.61,
+      "sid": 29,
+      "location": 2,
+      "content": "首先我们来看一下隔离放大器的定义",
+      "music": 0.0
+    },
+    {
+      "from": 93.3,
+      "to": 95.66,
+      "sid": 30,
+      "location": 2,
+      "content": "我们来看一下隔离放大器呢",
+      "music": 0.0
+    },
+    {
+      "from": 95.66,
+      "to": 98.88,
+      "sid": 31,
+      "location": 2,
+      "content": "它是一种特殊的测量的测量放大电路",
+      "music": 0.0
+    },
+    {
+      "from": 98.88,
+      "to": 101.76,
+      "sid": 32,
+      "location": 2,
+      "content": "它的输入输出和电源电路之间呢",
+      "music": 0.0
+    },
+    {
+      "from": 101.76,
+      "to": 103.49,
+      "sid": 33,
+      "location": 2,
+      "content": "没有直接的电路耦合",
+      "music": 0.0
+    },
+    {
+      "from": 103.49,
+      "to": 107.47,
+      "sid": 34,
+      "location": 2,
+      "content": "就是信号在传输的过程中没有公共的接地端",
+      "music": 0.0
+    },
+    {
+      "from": 107.47,
+      "to": 111.55,
+      "sid": 35,
+      "location": 2,
+      "content": "输入电路和放大器的输出之间",
+      "music": 0.0
+    },
+    {
+      "from": 111.91,
+      "to": 114.99,
+      "sid": 36,
+      "location": 2,
+      "content": "由欧欧姆隔离的器件",
+      "music": 0.0
+    },
+    {
+      "from": 114.99,
+      "to": 119.78,
+      "sid": 37,
+      "location": 2,
+      "content": "它的组成呢实际上就是呃用呃",
+      "music": 0.0
+    },
+    {
+      "from": 119.78,
+      "to": 122.22,
+      "sid": 38,
+      "location": 2,
+      "content": "仪器放大器或者是运放",
+      "music": 0.0
+    },
+    {
+      "from": 122.22,
+      "to": 125.78,
+      "sid": 39,
+      "location": 2,
+      "content": "加上这个隔离电路而组合而成的",
+      "music": 0.0
+    },
+    {
+      "from": 125.98,
+      "to": 129.14,
+      "sid": 40,
+      "location": 2,
+      "content": "只要是它的电信号之间没有欧姆的连续性",
+      "music": 0.0
+    },
+    {
+      "from": 129.14,
+      "to": 130.09,
+      "sid": 41,
+      "location": 2,
+      "content": "就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 130.09,
+      "to": 131.81,
+      "sid": 42,
+      "location": 2,
+      "content": "那么它有什么作用呢",
+      "music": 0.0
+    },
+    {
+      "from": 131.81,
+      "to": 135.09,
+      "sid": 43,
+      "location": 2,
+      "content": "其实这个作用刚才我们在初始的呃开题当中",
+      "music": 0.0
+    },
+    {
+      "from": 135.09,
+      "to": 138.109,
+      "sid": 44,
+      "location": 2,
+      "content": "已经介绍了它有哪些作用啊",
+      "music": 0.0
+    },
+    {
+      "from": 138.109,
+      "to": 142.53,
+      "sid": 45,
+      "location": 2,
+      "content": "它的作用呢呃一个是对模拟信号进行隔离",
+      "music": 0.0
+    },
+    {
+      "from": 142.53,
+      "to": 144.53,
+      "sid": 46,
+      "location": 2,
+      "content": "并按照一定的比例放大",
+      "music": 0.0
+    },
+    {
+      "from": 144.53,
+      "to": 146.79,
+      "sid": 47,
+      "location": 2,
+      "content": "叫隔离放大器嘛对吧",
+      "music": 0.0
+    },
+    {
+      "from": 146.79,
+      "to": 147.73,
+      "sid": 48,
+      "location": 2,
+      "content": "顾名思义",
+      "music": 0.0
+    },
+    {
+      "from": 147.73,
+      "to": 148.55,
+      "sid": 49,
+      "location": 2,
+      "content": "一个是隔离",
+      "music": 0.0
+    },
+    {
+      "from": 148.55,
+      "to": 149.51,
+      "sid": 50,
+      "location": 2,
+      "content": "一个是放大",
+      "music": 0.0
+    },
+    {
+      "from": 149.51,
+      "to": 151.71,
+      "sid": 51,
+      "location": 2,
+      "content": "在这个隔离和放大的过程中呢",
+      "music": 0.0
+    },
+    {
+      "from": 151.71,
+      "to": 155.289,
+      "sid": 52,
+      "location": 2,
+      "content": "要保证输出的信号失真要小啊",
+      "music": 0.0
+    },
+    {
+      "from": 155.289,
+      "to": 156.729,
+      "sid": 53,
+      "location": 2,
+      "content": "线性度和精度呀",
+      "music": 0.0
+    },
+    {
+      "from": 156.729,
+      "to": 157.489,
+      "sid": 54,
+      "location": 2,
+      "content": "宽度呀",
+      "music": 0.0
+    },
+    {
+      "from": 157.489,
+      "to": 160.72,
+      "sid": 55,
+      "location": 2,
+      "content": "隔离耐压呀等这些参数呢啊",
+      "music": 0.0
+    },
+    {
+      "from": 160.72,
+      "to": 163.84,
+      "sid": 56,
+      "location": 2,
+      "content": "都要达到那个一定的标准",
+      "music": 0.0
+    },
+    {
+      "from": 164.56,
+      "to": 166.1,
+      "sid": 57,
+      "location": 2,
+      "content": "不能说我隔离了",
+      "music": 0.0
+    },
+    {
+      "from": 166.1,
+      "to": 169.4,
+      "sid": 58,
+      "location": 2,
+      "content": "然后输入和输出就完全不挨边儿了",
+      "music": 0.0
+    },
+    {
+      "from": 169.4,
+      "to": 172.04,
+      "sid": 59,
+      "location": 2,
+      "content": "那是没有意义的那种隔离对吧",
+      "music": 0.0
+    },
+    {
+      "from": 172.04,
+      "to": 174.819,
+      "sid": 60,
+      "location": 2,
+      "content": "我们要使这个输入输出啊",
+      "music": 0.0
+    },
+    {
+      "from": 174.819,
+      "to": 175.979,
+      "sid": 61,
+      "location": 2,
+      "content": "它的线性度呀",
+      "music": 0.0
+    },
+    {
+      "from": 175.979,
+      "to": 178.659,
+      "sid": 62,
+      "location": 2,
+      "content": "精度呀等等要达到一定的标准",
+      "music": 0.0
+    },
+    {
+      "from": 178.659,
+      "to": 181.37,
+      "sid": 63,
+      "location": 2,
+      "content": "达到我们可测试要求的一种标准",
+      "music": 0.0
+    },
+    {
+      "from": 181.37,
+      "to": 184.73,
+      "sid": 64,
+      "location": 2,
+      "content": "同时呢保护了电子仪器设备以及人身",
+      "music": 0.0
+    },
+    {
+      "from": 184.73,
+      "to": 185.85,
+      "sid": 65,
+      "location": 2,
+      "content": "人身的安全",
+      "music": 0.0
+    },
+    {
+      "from": 185.85,
+      "to": 188.75,
+      "sid": 66,
+      "location": 2,
+      "content": "这就是隔离放大器的一种作用",
+      "music": 0.0
+    },
+    {
+      "from": 188.75,
+      "to": 190.71,
+      "sid": 67,
+      "location": 2,
+      "content": "那么隔离放大器呢",
+      "music": 0.0
+    },
+    {
+      "from": 190.71,
+      "to": 195.089,
+      "sid": 68,
+      "location": 2,
+      "content": "它应用于高共模电压环境下的小信号测量",
+      "music": 0.0
+    },
+    {
+      "from": 195.089,
+      "to": 199.13,
+      "sid": 69,
+      "location": 2,
+      "content": "对被测量的对象和数据采集系统而予以隔离",
+      "music": 0.0
+    },
+    {
+      "from": 199.13,
+      "to": 201.19,
+      "sid": 70,
+      "location": 2,
+      "content": "从而提高它的共模抑制比",
+      "music": 0.0
+    },
+    {
+      "from": 201.19,
+      "to": 204.53,
+      "sid": 71,
+      "location": 2,
+      "content": "保护电子仪器设备以及人身的安全",
+      "music": 0.0
+    },
+    {
+      "from": 204.53,
+      "to": 206.29,
+      "sid": 72,
+      "location": 2,
+      "content": "比如说在电信呀",
+      "music": 0.0
+    },
+    {
+      "from": 206.29,
+      "to": 207.03,
+      "sid": 73,
+      "location": 2,
+      "content": "电力呀",
+      "music": 0.0
+    },
+    {
+      "from": 207.03,
+      "to": 208.15,
+      "sid": 74,
+      "location": 2,
+      "content": "石油石化",
+      "music": 0.0
+    },
+    {
+      "from": 208.15,
+      "to": 210.29,
+      "sid": 75,
+      "location": 2,
+      "content": "环保水处理等等",
+      "music": 0.0
+    },
+    {
+      "from": 210.29,
+      "to": 213.29,
+      "sid": 76,
+      "location": 2,
+      "content": "许多方面都用到了这个隔离放大",
+      "music": 0.0
+    },
+    {
+      "from": 213.29,
+      "to": 214.81,
+      "sid": 77,
+      "location": 2,
+      "content": "隔离放大器",
+      "music": 0.0
+    },
+    {
+      "from": 214.81,
+      "to": 218.49,
+      "sid": 78,
+      "location": 2,
+      "content": "那么它按照这个耦合方式的不同啊",
+      "music": 0.0
+    },
+    {
+      "from": 218.49,
+      "to": 220.45,
+      "sid": 79,
+      "location": 2,
+      "content": "我们下面来看一下它的分类",
+      "music": 0.0
+    },
+    {
+      "from": 220.45,
+      "to": 224.43,
+      "sid": 80,
+      "location": 2,
+      "content": "那么隔离放大器按照耦合方式的不同呢",
+      "music": 0.0
+    },
+    {
+      "from": 224.43,
+      "to": 226.31,
+      "sid": 81,
+      "location": 2,
+      "content": "可以分为放大器",
+      "music": 0.0
+    },
+    {
+      "from": 226.31,
+      "to": 229.48,
+      "sid": 82,
+      "location": 2,
+      "content": "耦合电容耦合和光电耦合",
+      "music": 0.0
+    },
+    {
+      "from": 229.48,
+      "to": 231.68,
+      "sid": 83,
+      "location": 2,
+      "content": "放大器耦合和光电耦合呢",
+      "music": 0.0
+    },
+    {
+      "from": 231.68,
+      "to": 234.08,
+      "sid": 84,
+      "location": 2,
+      "content": "实际上我们之前也已经了解过了",
+      "music": 0.0
+    },
+    {
+      "from": 234.08,
+      "to": 236.53,
+      "sid": 85,
+      "location": 2,
+      "content": "那么其次呢还有一个电容耦合",
+      "music": 0.0
+    },
+    {
+      "from": 236.53,
+      "to": 239.31,
+      "sid": 86,
+      "location": 2,
+      "content": "那么按照隔离模式分呢",
+      "music": 0.0
+    },
+    {
+      "from": 239.31,
+      "to": 243.17,
+      "sid": 87,
+      "location": 2,
+      "content": "它分为两口耦合和三口耦合",
+      "music": 0.0
+    },
+    {
+      "from": 243.17,
+      "to": 245.71,
+      "sid": 88,
+      "location": 2,
+      "content": "我们来看一下两口两口",
+      "music": 0.0
+    },
+    {
+      "from": 245.71,
+      "to": 247.45,
+      "sid": 89,
+      "location": 2,
+      "content": "两口隔离和三口隔离",
+      "music": 0.0
+    },
+    {
+      "from": 247.45,
+      "to": 249.13,
+      "sid": 90,
+      "location": 2,
+      "content": "我们来看一下两口隔离",
+      "music": 0.0
+    },
+    {
+      "from": 249.13,
+      "to": 251.73,
+      "sid": 91,
+      "location": 2,
+      "content": "两口隔离是指信号的输入部分",
+      "music": 0.0
+    },
+    {
+      "from": 251.73,
+      "to": 255.45,
+      "sid": 92,
+      "location": 2,
+      "content": "和信号的输出部分欧姆隔离啊",
+      "music": 0.0
+    },
+    {
+      "from": 255.45,
+      "to": 258.299,
+      "sid": 93,
+      "location": 2,
+      "content": "采取其他的措施进行电源的隔离",
+      "music": 0.0
+    },
+    {
+      "from": 258.299,
+      "to": 260.899,
+      "sid": 94,
+      "location": 2,
+      "content": "那么三口偶三口隔离呢",
+      "music": 0.0
+    },
+    {
+      "from": 260.899,
+      "to": 263.799,
+      "sid": 95,
+      "location": 2,
+      "content": "是指输入输出以及供电部分三部分",
+      "music": 0.0
+    },
+    {
+      "from": 263.799,
+      "to": 265.67,
+      "sid": 96,
+      "location": 2,
+      "content": "彼此的欧姆隔离",
+      "music": 0.0
+    },
+    {
+      "from": 265.67,
+      "to": 266.51,
+      "sid": 97,
+      "location": 2,
+      "content": "这个呢",
+      "music": 0.0
+    },
+    {
+      "from": 266.51,
+      "to": 270.83,
+      "sid": 98,
+      "location": 2,
+      "content": "后面我们会呃给大家举一个具体的一个例子",
+      "music": 0.0
+    },
+    {
+      "from": 270.83,
+      "to": 273.36,
+      "sid": 99,
+      "location": 2,
+      "content": "来让大家实际的感受一下",
+      "music": 0.0
+    },
+    {
+      "from": 273.36,
+      "to": 278.3,
+      "sid": 100,
+      "location": 2,
+      "content": "那么下面是列出的就是常见的变压器耦合的",
+      "music": 0.0
+    },
+    {
+      "from": 278.3,
+      "to": 280.96,
+      "sid": 101,
+      "location": 2,
+      "content": "隔离放大器的一个类型",
+      "music": 0.0
+    },
+    {
+      "from": 281.24,
+      "to": 284.1,
+      "sid": 102,
+      "location": 2,
+      "content": "大家可以就是下面了解一下",
+      "music": 0.0
+    },
+    {
+      "from": 284.1,
+      "to": 288.789,
+      "sid": 103,
+      "location": 2,
+      "content": "像这个啊SO系列的这个隔离放大器呀",
+      "music": 0.0
+    },
+    {
+      "from": 289.149,
+      "to": 293.33,
+      "sid": 104,
+      "location": 2,
+      "content": "想给大家嗯多介绍一点",
+      "music": 0.0
+    },
+    {
+      "from": 293.33,
+      "to": 295.15,
+      "sid": 105,
+      "location": 2,
+      "content": "这个ISO系列呢",
+      "music": 0.0
+    },
+    {
+      "from": 295.15,
+      "to": 300.23,
+      "sid": 106,
+      "location": 2,
+      "content": "实际上也是我们经常用到的一个一个一个系列",
+      "music": 0.0
+    },
+    {
+      "from": 301.78,
+      "to": 304.83,
+      "sid": 107,
+      "location": 2,
+      "content": "我们来看一下这个ISO系列",
+      "music": 0.0
+    },
+    {
+      "from": 304.83,
+      "to": 306.43,
+      "sid": 108,
+      "location": 2,
+      "content": "这个ISOO系列",
+      "music": 0.0
+    },
+    {
+      "from": 306.43,
+      "to": 308.27,
+      "sid": 109,
+      "location": 2,
+      "content": "我这有几个图片啊",
+      "music": 0.0
+    },
+    {
+      "from": 308.27,
+      "to": 311.43,
+      "sid": 110,
+      "location": 2,
+      "content": "so o这是so o系列的一个呃",
+      "music": 0.0
+    },
+    {
+      "from": 311.43,
+      "to": 313.33,
+      "sid": 111,
+      "location": 2,
+      "content": "无源的一个隔离放大器",
+      "music": 0.0
+    },
+    {
+      "from": 313.33,
+      "to": 315.67,
+      "sid": 112,
+      "location": 2,
+      "content": "也就是说里边没有电压源嗯",
+      "music": 0.0
+    },
+    {
+      "from": 315.67,
+      "to": 318.41,
+      "sid": 113,
+      "location": 2,
+      "content": "它的基本原理图是这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 319.219,
+      "to": 323.619,
+      "sid": 114,
+      "location": 2,
+      "content": "四到20ma的一个隔离放大器的原理图",
+      "music": 0.0
+    },
+    {
+      "from": 324.98,
+      "to": 327.62,
+      "sid": 115,
+      "location": 2,
+      "content": "下面再来看一下这个啊",
+      "music": 0.0
+    },
+    {
+      "from": 327.62,
+      "to": 330.45,
+      "sid": 116,
+      "location": 2,
+      "content": "这个这看这是输入输出啊",
+      "music": 0.0
+    },
+    {
+      "from": 330.45,
+      "to": 331.91,
+      "sid": 117,
+      "location": 2,
+      "content": "它中间没有电源",
+      "music": 0.0
+    },
+    {
+      "from": 331.91,
+      "to": 333.41,
+      "sid": 118,
+      "location": 2,
+      "content": "看这个呢是有圆的",
+      "music": 0.0
+    },
+    {
+      "from": 333.41,
+      "to": 333.81,
+      "sid": 119,
+      "location": 2,
+      "content": "有圆的",
+      "music": 0.0
+    },
+    {
+      "from": 333.81,
+      "to": 335.51,
+      "sid": 120,
+      "location": 2,
+      "content": "也就是说它中间有电源",
+      "music": 0.0
+    },
+    {
+      "from": 335.51,
+      "to": 338.66,
+      "sid": 121,
+      "location": 2,
+      "content": "那么它这边呢通过一个呃隔离装置",
+      "music": 0.0
+    },
+    {
+      "from": 338.66,
+      "to": 340.06,
+      "sid": 122,
+      "location": 2,
+      "content": "或者是放大器啊",
+      "music": 0.0
+    },
+    {
+      "from": 340.06,
+      "to": 342.66,
+      "sid": 123,
+      "location": 2,
+      "content": "或者是不是或者是那个变压器之类的",
+      "music": 0.0
+    },
+    {
+      "from": 342.66,
+      "to": 344.22,
+      "sid": 124,
+      "location": 2,
+      "content": "然后提供给输入部分",
+      "music": 0.0
+    },
+    {
+      "from": 344.22,
+      "to": 347.68,
+      "sid": 125,
+      "location": 2,
+      "content": "那么这边呢是通过一个隔离部分",
+      "music": 0.0
+    },
+    {
+      "from": 347.68,
+      "to": 349.64,
+      "sid": 126,
+      "location": 2,
+      "content": "比如说变压器之类的啊",
+      "music": 0.0
+    },
+    {
+      "from": 349.64,
+      "to": 350.86,
+      "sid": 127,
+      "location": 2,
+      "content": "提供给输出部分",
+      "music": 0.0
+    },
+    {
+      "from": 350.86,
+      "to": 352.12,
+      "sid": 128,
+      "location": 2,
+      "content": "它分输入部分",
+      "music": 0.0
+    },
+    {
+      "from": 352.12,
+      "to": 353.72,
+      "sid": 129,
+      "location": 2,
+      "content": "输出部分以及电源部分嘛",
+      "music": 0.0
+    },
+    {
+      "from": 353.72,
+      "to": 356.62,
+      "sid": 130,
+      "location": 2,
+      "content": "也就是说它的电源部分和输入和输出",
+      "music": 0.0
+    },
+    {
+      "from": 356.62,
+      "to": 357.98,
+      "sid": 131,
+      "location": 2,
+      "content": "分别都是隔离的",
+      "music": 0.0
+    },
+    {
+      "from": 357.98,
+      "to": 361.33,
+      "sid": 132,
+      "location": 2,
+      "content": "这就是它的一个呃隔离的",
+      "music": 0.0
+    },
+    {
+      "from": 361.33,
+      "to": 367.53,
+      "sid": 133,
+      "location": 2,
+      "content": "这个有有源的这个隔离放大器的一个原理图",
+      "music": 0.0
+    },
+    {
+      "from": 368.8,
+      "to": 371.24,
+      "sid": 134,
+      "location": 2,
+      "content": "那么我们再回过头来看",
+      "music": 0.0
+    },
+    {
+      "from": 371.24,
+      "to": 376.08,
+      "sid": 135,
+      "location": 2,
+      "content": "还有这个AD公司的一些隔离放大器的一些芯片",
+      "music": 0.0
+    },
+    {
+      "from": 376.08,
+      "to": 380.07,
+      "sid": 136,
+      "location": 2,
+      "content": "这是利用电容耦合的隔离放大器啊",
+      "music": 0.0
+    },
+    {
+      "from": 380.07,
+      "to": 383.15,
+      "sid": 137,
+      "location": 2,
+      "content": "也是有许多ISO系列的啊",
+      "music": 0.0
+    },
+    {
+      "from": 383.15,
+      "to": 387.23,
+      "sid": 138,
+      "location": 2,
+      "content": "还有利用光电耦合的隔离放大器",
+      "music": 0.0
+    },
+    {
+      "from": 392.18,
+      "to": 396.14,
+      "sid": 139,
+      "location": 2,
+      "content": "那么一些隔离放大器呢提供了内置的DC",
+      "music": 0.0
+    },
+    {
+      "from": 396.14,
+      "to": 397.22,
+      "sid": 140,
+      "location": 2,
+      "content": "DC变换器",
+      "music": 0.0
+    },
+    {
+      "from": 397.22,
+      "to": 398.76,
+      "sid": 141,
+      "location": 2,
+      "content": "以简化电路",
+      "music": 0.0
+    },
+    {
+      "from": 398.76,
+      "to": 399.78,
+      "sid": 142,
+      "location": 2,
+      "content": "节省空间",
+      "music": 0.0
+    },
+    {
+      "from": 399.78,
+      "to": 401.15,
+      "sid": 143,
+      "location": 2,
+      "content": "降低成本",
+      "music": 0.0
+    },
+    {
+      "from": 401.26,
+      "to": 403.04,
+      "sid": 144,
+      "location": 2,
+      "content": "提高性能啊",
+      "music": 0.0
+    },
+    {
+      "from": 403.04,
+      "to": 406.16,
+      "sid": 145,
+      "location": 2,
+      "content": "这些呢就包括这些",
+      "music": 0.0
+    },
+    {
+      "from": 409.66,
+      "to": 414.07,
+      "sid": 146,
+      "location": 2,
+      "content": "这个三端隔离就三端隔离",
+      "music": 0.0
+    },
+    {
+      "from": 414.07,
+      "to": 418.35,
+      "sid": 147,
+      "location": 2,
+      "content": "就是刚才我们嗯说到的那个原理图",
+      "music": 0.0
+    },
+    {
+      "from": 418.35,
+      "to": 419.99,
+      "sid": 148,
+      "location": 2,
+      "content": "有点像这个啊",
+      "music": 0.0
+    },
+    {
+      "from": 419.99,
+      "to": 422.284,
+      "sid": 149,
+      "location": 2,
+      "content": "我们一会来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 423.82,
+      "to": 427.9,
+      "sid": 150,
+      "location": 2,
+      "content": "我们来看一下隔离放大器的一个基本原理",
+      "music": 0.0
+    },
+    {
+      "from": 427.9,
+      "to": 428.74,
+      "sid": 151,
+      "location": 2,
+      "content": "以及特性",
+      "music": 0.0
+    },
+    {
+      "from": 429.82,
+      "to": 431.8,
+      "sid": 152,
+      "location": 2,
+      "content": "先看一下它的基本原理吧",
+      "music": 0.0
+    },
+    {
+      "from": 431.8,
+      "to": 433.4,
+      "sid": 153,
+      "location": 2,
+      "content": "我们这隔离放大器呢",
+      "music": 0.0
+    },
+    {
+      "from": 433.4,
+      "to": 435.6,
+      "sid": 154,
+      "location": 2,
+      "content": "实际上它是由哪几部分组成的",
+      "music": 0.0
+    },
+    {
+      "from": 435.6,
+      "to": 437.0,
+      "sid": 155,
+      "location": 2,
+      "content": "刚才已经说过了",
+      "music": 0.0
+    },
+    {
+      "from": 437.0,
+      "to": 439.43,
+      "sid": 156,
+      "location": 2,
+      "content": "实际上是由输入放大器",
+      "music": 0.0
+    },
+    {
+      "from": 439.43,
+      "to": 440.69,
+      "sid": 157,
+      "location": 2,
+      "content": "输出放大器",
+      "music": 0.0
+    },
+    {
+      "from": 440.69,
+      "to": 443.13,
+      "sid": 158,
+      "location": 2,
+      "content": "隔离器以及隔离电源组成的",
+      "music": 0.0
+    },
+    {
+      "from": 443.13,
+      "to": 445.85,
+      "sid": 159,
+      "location": 2,
+      "content": "这是指有源的隔离放大器",
+      "music": 0.0
+    },
+    {
+      "from": 445.85,
+      "to": 446.96,
+      "sid": 160,
+      "location": 2,
+      "content": "对吧啊",
+      "music": 0.0
+    },
+    {
+      "from": 446.96,
+      "to": 447.78,
+      "sid": 161,
+      "location": 2,
+      "content": "在这里边呢",
+      "music": 0.0
+    },
+    {
+      "from": 447.78,
+      "to": 451.62,
+      "sid": 162,
+      "location": 2,
+      "content": "你看啊这是输入输出中间有隔离壁对吧",
+      "music": 0.0
+    },
+    {
+      "from": 451.62,
+      "to": 456.65,
+      "sid": 163,
+      "location": 2,
+      "content": "呃看他的这个输入地和输出地实际上是不同的",
+      "music": 0.0
+    },
+    {
+      "from": 456.65,
+      "to": 457.69,
+      "sid": 164,
+      "location": 2,
+      "content": "网络符号",
+      "music": 0.0
+    },
+    {
+      "from": 457.69,
+      "to": 460.3,
+      "sid": 165,
+      "location": 2,
+      "content": "说明这两个地是不同的",
+      "music": 0.0
+    },
+    {
+      "from": 460.3,
+      "to": 461.14,
+      "sid": 166,
+      "location": 2,
+      "content": "不共地的",
+      "music": 0.0
+    },
+    {
+      "from": 461.14,
+      "to": 464.0,
+      "sid": 167,
+      "location": 2,
+      "content": "说明这是中间是有隔离层的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 464.0,
+      "to": 467.2,
+      "sid": 168,
+      "location": 2,
+      "content": "然后呢大家了解一下这几个含义",
+      "music": 0.0
+    },
+    {
+      "from": 467.2,
+      "to": 469.09,
+      "sid": 169,
+      "location": 2,
+      "content": "一个是差模输入电压",
+      "music": 0.0
+    },
+    {
+      "from": 469.09,
+      "to": 470.93,
+      "sid": 170,
+      "location": 2,
+      "content": "一个是共模输入电压",
+      "music": 0.0
+    },
+    {
+      "from": 470.93,
+      "to": 472.41,
+      "sid": 171,
+      "location": 2,
+      "content": "还有一个隔离膜电压",
+      "music": 0.0
+    },
+    {
+      "from": 472.41,
+      "to": 475.31,
+      "sid": 172,
+      "location": 2,
+      "content": "隔离膜电压就是加在两种地之间啊",
+      "music": 0.0
+    },
+    {
+      "from": 475.31,
+      "to": 477.74,
+      "sid": 173,
+      "location": 2,
+      "content": "两种D之间隔离地上的",
+      "music": 0.0
+    },
+    {
+      "from": 477.74,
+      "to": 480.82,
+      "sid": 174,
+      "location": 2,
+      "content": "我们来看一下它的一个特点",
+      "music": 0.0
+    },
+    {
+      "from": 481.45,
+      "to": 484.37,
+      "sid": 175,
+      "location": 2,
+      "content": "对于输入放大器及其电源呢",
+      "music": 0.0
+    },
+    {
+      "from": 484.37,
+      "to": 487.27,
+      "sid": 176,
+      "location": 2,
+      "content": "嗯它是复制的啊",
+      "music": 0.0
+    },
+    {
+      "from": 487.27,
+      "to": 490.91,
+      "sid": 177,
+      "location": 2,
+      "content": "放大器的输入端复制它的泄漏电流比较小",
+      "music": 0.0
+    },
+    {
+      "from": 490.91,
+      "to": 492.63,
+      "sid": 178,
+      "location": 2,
+      "content": "泄漏电流比较小",
+      "music": 0.0
+    },
+    {
+      "from": 492.63,
+      "to": 496.95,
+      "sid": 179,
+      "location": 2,
+      "content": "那么隔离电阻呢一般就是采用变压器呀",
+      "music": 0.0
+    },
+    {
+      "from": 496.95,
+      "to": 498.85,
+      "sid": 180,
+      "location": 2,
+      "content": "换或者是光耦合器啊",
+      "music": 0.0
+    },
+    {
+      "from": 498.85,
+      "to": 503.17,
+      "sid": 181,
+      "location": 2,
+      "content": "隔离电阻一般都是1012欧啊",
+      "music": 0.0
+    },
+    {
+      "from": 503.17,
+      "to": 505.51,
+      "sid": 182,
+      "location": 2,
+      "content": "这是给举了一个固定的值",
+      "music": 0.0
+    },
+    {
+      "from": 505.51,
+      "to": 508.45,
+      "sid": 183,
+      "location": 2,
+      "content": "那么格力电容呢它也有一个典型值",
+      "music": 0.0
+    },
+    {
+      "from": 508.45,
+      "to": 510.25,
+      "sid": 184,
+      "location": 2,
+      "content": "二是皮法呃",
+      "music": 0.0
+    },
+    {
+      "from": 510.25,
+      "to": 513.45,
+      "sid": 185,
+      "location": 2,
+      "content": "隔离放大器的输出和输入是隔离的",
+      "music": 0.0
+    },
+    {
+      "from": 513.45,
+      "to": 516.95,
+      "sid": 186,
+      "location": 2,
+      "content": "那么消除了通过公共地端的干扰",
+      "music": 0.0
+    },
+    {
+      "from": 516.95,
+      "to": 519.75,
+      "sid": 187,
+      "location": 2,
+      "content": "提高了电路的共模抑制比",
+      "music": 0.0
+    },
+    {
+      "from": 519.75,
+      "to": 524.16,
+      "sid": 188,
+      "location": 2,
+      "content": "那么这就是隔离放大器的几个基本的特点",
+      "music": 0.0
+    },
+    {
+      "from": 524.16,
+      "to": 526.22,
+      "sid": 189,
+      "location": 2,
+      "content": "大家了解一下就好",
+      "music": 0.0
+    },
+    {
+      "from": 526.22,
+      "to": 529.2,
+      "sid": 190,
+      "location": 2,
+      "content": "对于隔离放大器的输出啊",
+      "music": 0.0
+    },
+    {
+      "from": 529.2,
+      "to": 532.41,
+      "sid": 191,
+      "location": 2,
+      "content": "输出呢它有一个具体的公式",
+      "music": 0.0
+    },
+    {
+      "from": 532.41,
+      "to": 535.25,
+      "sid": 192,
+      "location": 2,
+      "content": "咱们来看一下这个公式是什么意思啊",
+      "music": 0.0
+    },
+    {
+      "from": 535.25,
+      "to": 536.51,
+      "sid": 193,
+      "location": 2,
+      "content": "大家不必啊",
+      "music": 0.0
+    },
+    {
+      "from": 536.51,
+      "to": 537.65,
+      "sid": 194,
+      "location": 2,
+      "content": "死记住这个公式",
+      "music": 0.0
+    },
+    {
+      "from": 537.65,
+      "to": 541.15,
+      "sid": 195,
+      "location": 2,
+      "content": "我们只要理解这个公式的含义就可以了啊",
+      "music": 0.0
+    },
+    {
+      "from": 541.15,
+      "to": 542.89,
+      "sid": 196,
+      "location": 2,
+      "content": "对于这个公式当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 542.89,
+      "to": 544.95,
+      "sid": 197,
+      "location": 2,
+      "content": "这个是输出对吧",
+      "music": 0.0
+    },
+    {
+      "from": 544.95,
+      "to": 549.79,
+      "sid": 198,
+      "location": 2,
+      "content": "这个呢是输入级的差模增益",
+      "music": 0.0
+    },
+    {
+      "from": 551.09,
+      "to": 553.65,
+      "sid": 199,
+      "location": 2,
+      "content": "这个呢是输入端的差模电压",
+      "music": 0.0
+    },
+    {
+      "from": 554.97,
+      "to": 558.77,
+      "sid": 200,
+      "location": 2,
+      "content": "这个呢是输入级的一个共模抑制比",
+      "music": 0.0
+    },
+    {
+      "from": 559.719,
+      "to": 565.279,
+      "sid": 201,
+      "location": 2,
+      "content": "UC是对输入输入端公共地的一个共模电压",
+      "music": 0.0
+    },
+    {
+      "from": 565.279,
+      "to": 567.91,
+      "sid": 202,
+      "location": 2,
+      "content": "UD呢是刚才我们说过了",
+      "music": 0.0
+    },
+    {
+      "from": 567.91,
+      "to": 569.49,
+      "sid": 203,
+      "location": 2,
+      "content": "是输入端的差模电压",
+      "music": 0.0
+    },
+    {
+      "from": 569.49,
+      "to": 571.17,
+      "sid": 204,
+      "location": 2,
+      "content": "共模电压比差模电压",
+      "music": 0.0
+    },
+    {
+      "from": 571.17,
+      "to": 573.909,
+      "sid": 205,
+      "location": 2,
+      "content": "这个是一个隔离膜电压",
+      "music": 0.0
+    },
+    {
+      "from": 573.909,
+      "to": 577.45,
+      "sid": 206,
+      "location": 2,
+      "content": "就是两个D之间的一个电压是吧",
+      "music": 0.0
+    },
+    {
+      "from": 577.45,
+      "to": 580.65,
+      "sid": 207,
+      "location": 2,
+      "content": "压在两地之间的一个电压",
+      "music": 0.0
+    },
+    {
+      "from": 583.54,
+      "to": 587.06,
+      "sid": 208,
+      "location": 2,
+      "content": "下面这个就是输入级的共模抑制呃",
+      "music": 0.0
+    },
+    {
+      "from": 587.06,
+      "to": 589.18,
+      "sid": 209,
+      "location": 2,
+      "content": "呃这个是输入端公共地",
+      "music": 0.0
+    },
+    {
+      "from": 589.18,
+      "to": 592.15,
+      "sid": 210,
+      "location": 2,
+      "content": "到输出端公共地的一个隔离层抑制比",
+      "music": 0.0
+    },
+    {
+      "from": 592.15,
+      "to": 594.7,
+      "sid": 211,
+      "location": 2,
+      "content": "对于这个隔离膜电压",
+      "music": 0.0
+    },
+    {
+      "from": 594.7,
+      "to": 597.18,
+      "sid": 212,
+      "location": 2,
+      "content": "我们来看一下这个隔离器两端",
+      "music": 0.0
+    },
+    {
+      "from": 597.18,
+      "to": 601.02,
+      "sid": 213,
+      "location": 2,
+      "content": "或者是输入与输出端两个公共地之间",
+      "music": 0.0
+    },
+    {
+      "from": 601.02,
+      "to": 604.91,
+      "sid": 214,
+      "location": 2,
+      "content": "能够承受的共模电压叫做隔离膜电压",
+      "music": 0.0
+    },
+    {
+      "from": 604.91,
+      "to": 608.01,
+      "sid": 215,
+      "location": 2,
+      "content": "那么它它对误差的影响比较大",
+      "music": 0.0
+    },
+    {
+      "from": 608.01,
+      "to": 612.92,
+      "sid": 216,
+      "location": 2,
+      "content": "通常额定的隔离峰值呢电压高达5000伏",
+      "music": 0.0
+    },
+    {
+      "from": 613.64,
+      "to": 615.44,
+      "sid": 217,
+      "location": 2,
+      "content": "对于这些基本知识呢",
+      "music": 0.0
+    },
+    {
+      "from": 615.44,
+      "to": 617.04,
+      "sid": 218,
+      "location": 2,
+      "content": "大家了解一下就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 617.04,
+      "to": 620.36,
+      "sid": 219,
+      "location": 2,
+      "content": "因为我们在实际应用这个隔离放大器的时候",
+      "music": 0.0
+    },
+    {
+      "from": 620.36,
+      "to": 625.17,
+      "sid": 220,
+      "location": 2,
+      "content": "这只是隔离放大器的一个内部的一个一个原理",
+      "music": 0.0
+    },
+    {
+      "from": 625.17,
+      "to": 626.81,
+      "sid": 221,
+      "location": 2,
+      "content": "或者是知识",
+      "music": 0.0
+    },
+    {
+      "from": 627.36,
+      "to": 630.16,
+      "sid": 222,
+      "location": 2,
+      "content": "我们了解了里边的原理和组成呢",
+      "music": 0.0
+    },
+    {
+      "from": 630.16,
+      "to": 633.759,
+      "sid": 223,
+      "location": 2,
+      "content": "更呃有利于我们对这个模块",
+      "music": 0.0
+    },
+    {
+      "from": 633.759,
+      "to": 636.819,
+      "sid": 224,
+      "location": 2,
+      "content": "或者是说对这个芯片来进行应用",
+      "music": 0.0
+    },
+    {
+      "from": 636.819,
+      "to": 641.079,
+      "sid": 225,
+      "location": 2,
+      "content": "下面我们来看一下这个隔离放大器的一个特性",
+      "music": 0.0
+    },
+    {
+      "from": 641.079,
+      "to": 643.039,
+      "sid": 226,
+      "location": 2,
+      "content": "那么刚才我们已经说过",
+      "music": 0.0
+    },
+    {
+      "from": 643.039,
+      "to": 644.039,
+      "sid": 227,
+      "location": 2,
+      "content": "隔离放大器呢",
+      "music": 0.0
+    },
+    {
+      "from": 644.039,
+      "to": 645.679,
+      "sid": 228,
+      "location": 2,
+      "content": "它是一种特殊的放大器",
+      "music": 0.0
+    },
+    {
+      "from": 645.679,
+      "to": 647.53,
+      "sid": 229,
+      "location": 2,
+      "content": "它具有隔离作用对吧",
+      "music": 0.0
+    },
+    {
+      "from": 647.53,
+      "to": 649.01,
+      "sid": 230,
+      "location": 2,
+      "content": "除了他的增益呀",
+      "music": 0.0
+    },
+    {
+      "from": 649.01,
+      "to": 650.13,
+      "sid": 231,
+      "location": 2,
+      "content": "输入阻抗呀",
+      "music": 0.0
+    },
+    {
+      "from": 650.13,
+      "to": 651.97,
+      "sid": 232,
+      "location": 2,
+      "content": "偏置电流呀",
+      "music": 0.0
+    },
+    {
+      "from": 652.21,
+      "to": 653.37,
+      "sid": 233,
+      "location": 2,
+      "content": "频率呃",
+      "music": 0.0
+    },
+    {
+      "from": 653.37,
+      "to": 656.43,
+      "sid": 234,
+      "location": 2,
+      "content": "响应以及失调电压和非线性等",
+      "music": 0.0
+    },
+    {
+      "from": 656.43,
+      "to": 658.45,
+      "sid": 235,
+      "location": 2,
+      "content": "一般放大器的性能之外啊",
+      "music": 0.0
+    },
+    {
+      "from": 658.45,
+      "to": 660.4,
+      "sid": 236,
+      "location": 2,
+      "content": "它还有其他的性能",
+      "music": 0.0
+    },
+    {
+      "from": 660.4,
+      "to": 663.24,
+      "sid": 237,
+      "location": 2,
+      "content": "比如说它的最大隔离膜电压",
+      "music": 0.0
+    },
+    {
+      "from": 663.24,
+      "to": 664.56,
+      "sid": 238,
+      "location": 2,
+      "content": "最大隔离膜电压呢",
+      "music": 0.0
+    },
+    {
+      "from": 664.56,
+      "to": 668.47,
+      "sid": 239,
+      "location": 2,
+      "content": "就是刚才我们说的那个输入地和输出地呢",
+      "music": 0.0
+    },
+    {
+      "from": 668.47,
+      "to": 669.63,
+      "sid": 240,
+      "location": 2,
+      "content": "它是隔离的",
+      "music": 0.0
+    },
+    {
+      "from": 669.63,
+      "to": 671.95,
+      "sid": 241,
+      "location": 2,
+      "content": "它不是同一个网络标号",
+      "music": 0.0
+    },
+    {
+      "from": 671.95,
+      "to": 675.34,
+      "sid": 242,
+      "location": 2,
+      "content": "那么所以呢他们并不是在同一个电位上",
+      "music": 0.0
+    },
+    {
+      "from": 675.34,
+      "to": 679.52,
+      "sid": 243,
+      "location": 2,
+      "content": "它们之间的那个电位差就叫做隔离电压",
+      "music": 0.0
+    },
+    {
+      "from": 680.54,
+      "to": 682.6,
+      "sid": 244,
+      "location": 2,
+      "content": "刚才我们说了呃",
+      "music": 0.0
+    },
+    {
+      "from": 682.6,
+      "to": 685.04,
+      "sid": 245,
+      "location": 2,
+      "content": "一般的隔离电压要大于5000伏",
+      "music": 0.0
+    },
+    {
+      "from": 685.04,
+      "to": 688.49,
+      "sid": 246,
+      "location": 2,
+      "content": "那么这个最大隔离膜电压",
+      "music": 0.0
+    },
+    {
+      "from": 688.49,
+      "to": 691.38,
+      "sid": 247,
+      "location": 2,
+      "content": "决定了系统共模电压的完全极限",
+      "music": 0.0
+    },
+    {
+      "from": 691.38,
+      "to": 692.94,
+      "sid": 248,
+      "location": 2,
+      "content": "一般要大于2000伏",
+      "music": 0.0
+    },
+    {
+      "from": 692.94,
+      "to": 696.06,
+      "sid": 249,
+      "location": 2,
+      "content": "我们刚刚那个说的是最大要达到5000伏对吧",
+      "music": 0.0
+    },
+    {
+      "from": 696.06,
+      "to": 697.94,
+      "sid": 250,
+      "location": 2,
+      "content": "呃隔离膜抑制呢",
+      "music": 0.0
+    },
+    {
+      "from": 697.94,
+      "to": 701.67,
+      "sid": 251,
+      "location": 2,
+      "content": "隔离膜抑制实际上就是一个共模抑制",
+      "music": 0.0
+    },
+    {
+      "from": 701.67,
+      "to": 705.819,
+      "sid": 252,
+      "location": 2,
+      "content": "比对于普通的运放或者是仪器放大器来说",
+      "music": 0.0
+    },
+    {
+      "from": 705.819,
+      "to": 706.939,
+      "sid": 253,
+      "location": 2,
+      "content": "共模抑制啊",
+      "music": 0.0
+    },
+    {
+      "from": 706.939,
+      "to": 708.779,
+      "sid": 254,
+      "location": 2,
+      "content": "是指放大器输出端",
+      "music": 0.0
+    },
+    {
+      "from": 708.779,
+      "to": 712.119,
+      "sid": 255,
+      "location": 2,
+      "content": "对于构模输入电压的一个抑制",
+      "music": 0.0
+    },
+    {
+      "from": 712.119,
+      "to": 716.2,
+      "sid": 256,
+      "location": 2,
+      "content": "一般啊对于这个隔离放大器来说",
+      "music": 0.0
+    },
+    {
+      "from": 716.2,
+      "to": 720.34,
+      "sid": 257,
+      "location": 2,
+      "content": "构膜抑制呢嗯指的是",
+      "music": 0.0
+    },
+    {
+      "from": 723.74,
+      "to": 728.859,
+      "sid": 258,
+      "location": 2,
+      "content": "输入放大器的差动信号经过隔离B的同时啊",
+      "music": 0.0
+    },
+    {
+      "from": 728.859,
+      "to": 730.759,
+      "sid": 259,
+      "location": 2,
+      "content": "对共模输入的一个抑制",
+      "music": 0.0
+    },
+    {
+      "from": 730.759,
+      "to": 733.099,
+      "sid": 260,
+      "location": 2,
+      "content": "所以说叫做隔离膜抑制",
+      "music": 0.0
+    },
+    {
+      "from": 733.099,
+      "to": 735.85,
+      "sid": 261,
+      "location": 2,
+      "content": "这也是它的一个特性呃",
+      "music": 0.0
+    },
+    {
+      "from": 735.85,
+      "to": 737.41,
+      "sid": 262,
+      "location": 2,
+      "content": "最后呢来给大家看一下",
+      "music": 0.0
+    },
+    {
+      "from": 737.41,
+      "to": 740.23,
+      "sid": 263,
+      "location": 2,
+      "content": "这个隔离电压及其漏电流啊",
+      "music": 0.0
+    },
+    {
+      "from": 740.23,
+      "to": 743.92,
+      "sid": 264,
+      "location": 2,
+      "content": "这个隔离电压呢实际上就是指连续使用的时候",
+      "music": 0.0
+    },
+    {
+      "from": 743.92,
+      "to": 747.01,
+      "sid": 265,
+      "location": 2,
+      "content": "它这个隔离壁啊能承受的一个额定值",
+      "music": 0.0
+    },
+    {
+      "from": 747.01,
+      "to": 749.01,
+      "sid": 266,
+      "location": 2,
+      "content": "那么隔离壁的漏电流呢",
+      "music": 0.0
+    },
+    {
+      "from": 749.01,
+      "to": 751.53,
+      "sid": 267,
+      "location": 2,
+      "content": "与实际承受的隔离电压有关系",
+      "music": 0.0
+    },
+    {
+      "from": 751.53,
+      "to": 756.49,
+      "sid": 268,
+      "location": 2,
+      "content": "一般交流的漏电流的均方根呀在Z安量级的",
+      "music": 0.0
+    },
+    {
+      "from": 756.49,
+      "to": 759.97,
+      "sid": 269,
+      "location": 2,
+      "content": "而直流的漏电流的在纳安量级的",
+      "music": 0.0
+    },
+    {
+      "from": 759.97,
+      "to": 763.15,
+      "sid": 270,
+      "location": 2,
+      "content": "他们这个都比较小对吧",
+      "music": 0.0
+    },
+    {
+      "from": 763.82,
+      "to": 765.0,
+      "sid": 271,
+      "location": 2,
+      "content": "讲了这么多呢",
+      "music": 0.0
+    },
+    {
+      "from": 765.0,
+      "to": 768.8,
+      "sid": 272,
+      "location": 2,
+      "content": "我们还是最后还要落实到实际的应用当中",
+      "music": 0.0
+    },
+    {
+      "from": 768.8,
+      "to": 772.8,
+      "sid": 273,
+      "location": 2,
+      "content": "那么接下来呢我们来举一个具体的例子呃",
+      "music": 0.0
+    },
+    {
+      "from": 772.8,
+      "to": 776.16,
+      "sid": 274,
+      "location": 2,
+      "content": "一个三端的隔离放隔离放大器",
+      "music": 0.0
+    },
+    {
+      "from": 776.16,
+      "to": 779.56,
+      "sid": 275,
+      "location": 2,
+      "content": "我们来看一下B210这个隔离放大器",
+      "music": 0.0
+    },
+    {
+      "from": 779.56,
+      "to": 781.82,
+      "sid": 276,
+      "location": 2,
+      "content": "以及它在实际例子当中的应用",
+      "music": 0.0
+    },
+    {
+      "from": 781.82,
+      "to": 785.69,
+      "sid": 277,
+      "location": 2,
+      "content": "给大家增加一下对这个器件的一个理解",
+      "music": 0.0
+    },
+    {
+      "from": 786.17,
+      "to": 790.18,
+      "sid": 278,
+      "location": 2,
+      "content": "先来看一下ad2103吨隔离放大器",
+      "music": 0.0
+    },
+    {
+      "from": 790.18,
+      "to": 792.08,
+      "sid": 279,
+      "location": 2,
+      "content": "先来了解一下这个",
+      "music": 0.0
+    },
+    {
+      "from": 792.08,
+      "to": 794.86,
+      "sid": 280,
+      "location": 2,
+      "content": "这就是一个ADR203根隔离放大器",
+      "music": 0.0
+    },
+    {
+      "from": 794.86,
+      "to": 796.08,
+      "sid": 281,
+      "location": 2,
+      "content": "的一个原理图",
+      "music": 0.0
+    },
+    {
+      "from": 796.08,
+      "to": 799.11,
+      "sid": 282,
+      "location": 2,
+      "content": "那么对于两两端隔离放大器啊",
+      "music": 0.0
+    },
+    {
+      "from": 799.11,
+      "to": 803.34,
+      "sid": 283,
+      "location": 2,
+      "content": "它的输出和这个输出端和电源是没有隔离的",
+      "music": 0.0
+    },
+    {
+      "from": 803.34,
+      "to": 805.86,
+      "sid": 284,
+      "location": 2,
+      "content": "而对于这个三端的一个隔离放大器",
+      "music": 0.0
+    },
+    {
+      "from": 805.86,
+      "to": 807.78,
+      "sid": 285,
+      "location": 2,
+      "content": "大家可以看出来这个输入部分",
+      "music": 0.0
+    },
+    {
+      "from": 807.78,
+      "to": 811.069,
+      "sid": 286,
+      "location": 2,
+      "content": "输出部分以及电源部分都是相互隔离的",
+      "music": 0.0
+    },
+    {
+      "from": 811.069,
+      "to": 812.989,
+      "sid": 287,
+      "location": 2,
+      "content": "那么在这个系统当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 812.989,
+      "to": 816.7,
+      "sid": 288,
+      "location": 2,
+      "content": "要求这个输入的这个呃输入端",
+      "music": 0.0
+    },
+    {
+      "from": 816.7,
+      "to": 820.78,
+      "sid": 289,
+      "location": 2,
+      "content": "电源输入端采用双引脚直流电源供电",
+      "music": 0.0
+    },
+    {
+      "from": 821.28,
+      "to": 824.22,
+      "sid": 290,
+      "location": 2,
+      "content": "他们的它的内部电量器呢是50K赫兹",
+      "music": 0.0
+    },
+    {
+      "from": 824.22,
+      "to": 826.6,
+      "sid": 291,
+      "location": 2,
+      "content": "将这个直流电源转换成交流",
+      "music": 0.0
+    },
+    {
+      "from": 826.6,
+      "to": 829.48,
+      "sid": 292,
+      "location": 2,
+      "content": "再由变压器耦合至屏蔽输入部分",
+      "music": 0.0
+    },
+    {
+      "from": 829.48,
+      "to": 831.6,
+      "sid": 293,
+      "location": 2,
+      "content": "然后转换成直流啊",
+      "music": 0.0
+    },
+    {
+      "from": 831.6,
+      "to": 835.0,
+      "sid": 294,
+      "location": 2,
+      "content": "这个直流呢就供给输入及以及辅助功率",
+      "music": 0.0
+    },
+    {
+      "from": 835.0,
+      "to": 836.7,
+      "sid": 295,
+      "location": 2,
+      "content": "这个输出使用",
+      "music": 0.0
+    },
+    {
+      "from": 836.7,
+      "to": 838.7,
+      "sid": 296,
+      "location": 2,
+      "content": "而它的这个看一下",
+      "music": 0.0
+    },
+    {
+      "from": 838.7,
+      "to": 839.94,
+      "sid": 297,
+      "location": 2,
+      "content": "我们看一下下面说明啊",
+      "music": 0.0
+    },
+    {
+      "from": 839.94,
+      "to": 841.2,
+      "sid": 298,
+      "location": 2,
+      "content": "他这个交流载波呀",
+      "music": 0.0
+    },
+    {
+      "from": 841.2,
+      "to": 845.46,
+      "sid": 299,
+      "location": 2,
+      "content": "同样是由输入级放大器输出进行调制的",
+      "music": 0.0
+    },
+    {
+      "from": 845.46,
+      "to": 849.22,
+      "sid": 300,
+      "location": 2,
+      "content": "再由这个变压器耦合制输入输出端",
+      "music": 0.0
+    },
+    {
+      "from": 849.83,
+      "to": 853.75,
+      "sid": 301,
+      "location": 2,
+      "content": "接着由一个向内敏感的调制器调解",
+      "music": 0.0
+    },
+    {
+      "from": 853.75,
+      "to": 855.13,
+      "sid": 302,
+      "location": 2,
+      "content": "经过滤波之后",
+      "music": 0.0
+    },
+    {
+      "from": 855.13,
+      "to": 858.09,
+      "sid": 303,
+      "location": 2,
+      "content": "利用从载波获得的一个隔离直流电源",
+      "music": 0.0
+    },
+    {
+      "from": 858.09,
+      "to": 860.2,
+      "sid": 304,
+      "location": 2,
+      "content": "进行缓冲呃",
+      "music": 0.0
+    },
+    {
+      "from": 860.2,
+      "to": 861.54,
+      "sid": 305,
+      "location": 2,
+      "content": "AD210呢",
+      "music": 0.0
+    },
+    {
+      "from": 861.54,
+      "to": 865.54,
+      "sid": 306,
+      "location": 2,
+      "content": "它允许用户来选择这个增益",
+      "music": 0.0
+    },
+    {
+      "from": 866.5,
+      "to": 870.3,
+      "sid": 307,
+      "location": 2,
+      "content": "是利用外部电阻和输入部分的一个运算放大器",
+      "music": 0.0
+    },
+    {
+      "from": 870.3,
+      "to": 871.06,
+      "sid": 308,
+      "location": 2,
+      "content": "来选择的",
+      "music": 0.0
+    },
+    {
+      "from": 871.06,
+      "to": 872.42,
+      "sid": 309,
+      "location": 2,
+      "content": "它这个增益的范围呢",
+      "music": 0.0
+    },
+    {
+      "from": 872.42,
+      "to": 876.67,
+      "sid": 310,
+      "location": 2,
+      "content": "从1~100带宽呢大概是20K赫兹",
+      "music": 0.0
+    },
+    {
+      "from": 876.99,
+      "to": 878.47,
+      "sid": 311,
+      "location": 2,
+      "content": "它的电压范围",
+      "music": 0.0
+    },
+    {
+      "from": 878.47,
+      "to": 879.95,
+      "sid": 312,
+      "location": 2,
+      "content": "它的隔离电压范围啊",
+      "music": 0.0
+    },
+    {
+      "from": 879.95,
+      "to": 881.95,
+      "sid": 313,
+      "location": 2,
+      "content": "也有一个呃隔离的电压范围",
+      "music": 0.0
+    },
+    {
+      "from": 881.95,
+      "to": 883.37,
+      "sid": 314,
+      "location": 2,
+      "content": "大家可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 883.37,
+      "to": 885.81,
+      "sid": 315,
+      "location": 2,
+      "content": "它是一个三端口的隔离放大器啊",
+      "music": 0.0
+    },
+    {
+      "from": 885.81,
+      "to": 888.33,
+      "sid": 316,
+      "location": 2,
+      "content": "所以说他那个电源电路啊",
+      "music": 0.0
+    },
+    {
+      "from": 888.33,
+      "to": 892.839,
+      "sid": 317,
+      "location": 2,
+      "content": "同时是和输入集和输出集隔离的",
+      "music": 0.0
+    },
+    {
+      "from": 893.569,
+      "to": 896.249,
+      "sid": 318,
+      "location": 2,
+      "content": "这个咱们前面已经说过了",
+      "music": 0.0
+    },
+    {
+      "from": 900.12,
+      "to": 902.28,
+      "sid": 319,
+      "location": 2,
+      "content": "他利用这个是什么呀",
+      "music": 0.0
+    },
+    {
+      "from": 902.28,
+      "to": 904.6,
+      "sid": 320,
+      "location": 2,
+      "content": "这个是利用变压器来进行隔离的",
+      "music": 0.0
+    },
+    {
+      "from": 904.6,
+      "to": 906.08,
+      "sid": 321,
+      "location": 2,
+      "content": "刚才我们也已经说过了",
+      "music": 0.0
+    },
+    {
+      "from": 906.08,
+      "to": 909.22,
+      "sid": 322,
+      "location": 2,
+      "content": "这就是这个AD210的一个基本的原理",
+      "music": 0.0
+    },
+    {
+      "from": 909.45,
+      "to": 912.53,
+      "sid": 323,
+      "location": 2,
+      "content": "我们来看一下这个ad210",
+      "music": 0.0
+    },
+    {
+      "from": 912.53,
+      "to": 916.52,
+      "sid": 324,
+      "location": 2,
+      "content": "在电机电流检测当中的一个应用啊",
+      "music": 0.0
+    },
+    {
+      "from": 916.52,
+      "to": 918.65,
+      "sid": 325,
+      "location": 2,
+      "content": "这是连接了一个电机",
+      "music": 0.0
+    },
+    {
+      "from": 918.65,
+      "to": 921.93,
+      "sid": 326,
+      "location": 2,
+      "content": "他那个AD210呢是和一个ad620",
+      "music": 0.0
+    },
+    {
+      "from": 921.93,
+      "to": 924.47,
+      "sid": 327,
+      "location": 2,
+      "content": "这个仪表放大器配合使用的",
+      "music": 0.0
+    },
+    {
+      "from": 924.47,
+      "to": 925.87,
+      "sid": 328,
+      "location": 2,
+      "content": "这是AD210",
+      "music": 0.0
+    },
+    {
+      "from": 925.87,
+      "to": 928.15,
+      "sid": 329,
+      "location": 2,
+      "content": "那刚才我们讲到的那个例子对吧",
+      "music": 0.0
+    },
+    {
+      "from": 929.15,
+      "to": 930.11,
+      "sid": 330,
+      "location": 2,
+      "content": "可以看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 930.11,
+      "to": 934.86,
+      "sid": 331,
+      "location": 2,
+      "content": "他这边这个有一个这个这个部分啊",
+      "music": 0.0
+    },
+    {
+      "from": 934.86,
+      "to": 936.44,
+      "sid": 332,
+      "location": 2,
+      "content": "这个15伏",
+      "music": 0.0
+    },
+    {
+      "from": 936.72,
+      "to": 937.92,
+      "sid": 333,
+      "location": 2,
+      "content": "这个15伏呢",
+      "music": 0.0
+    },
+    {
+      "from": 937.92,
+      "to": 942.7,
+      "sid": 334,
+      "location": 2,
+      "content": "实际上是给AD21D620来进行啊",
+      "music": 0.0
+    },
+    {
+      "from": 942.7,
+      "to": 945.2,
+      "sid": 335,
+      "location": 2,
+      "content": "电源的提供电源的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 948.32,
+      "to": 951.96,
+      "sid": 336,
+      "location": 2,
+      "content": "输入部分的正-15伏隔离电源为AD",
+      "music": 0.0
+    },
+    {
+      "from": 951.96,
+      "to": 954.36,
+      "sid": 337,
+      "location": 2,
+      "content": "为ad620供电对吧",
+      "music": 0.0
+    },
+    {
+      "from": 954.36,
+      "to": 956.97,
+      "sid": 338,
+      "location": 2,
+      "content": "ad620则检测",
+      "music": 0.0
+    },
+    {
+      "from": 957.999,
+      "to": 960.799,
+      "sid": 339,
+      "location": 2,
+      "content": "电流检测电阻上的小样",
+      "music": 0.0
+    },
+    {
+      "from": 960.799,
+      "to": 964.159,
+      "sid": 340,
+      "location": 2,
+      "content": "检测这个检测电阻上面的一个",
+      "music": 0.0
+    },
+    {
+      "from": 964.159,
+      "to": 965.819,
+      "sid": 341,
+      "location": 2,
+      "content": "这是一个检测电阻对吧",
+      "music": 0.0
+    },
+    {
+      "from": 965.819,
+      "to": 967.51,
+      "sid": 342,
+      "location": 2,
+      "content": "检测这上面的一个压降",
+      "music": 0.0
+    },
+    {
+      "from": 967.51,
+      "to": 969.87,
+      "sid": 343,
+      "location": 2,
+      "content": "那么它的输入及运算放大器呀",
+      "music": 0.0
+    },
+    {
+      "from": 969.87,
+      "to": 973.07,
+      "sid": 344,
+      "location": 2,
+      "content": "作为单位增益的跟随器",
+      "music": 0.0
+    },
+    {
+      "from": 973.71,
+      "to": 977.83,
+      "sid": 345,
+      "location": 2,
+      "content": "将其误差贡献值啊降至最小",
+      "music": 0.0
+    },
+    {
+      "from": 981.7,
+      "to": 986.58,
+      "sid": 346,
+      "location": 2,
+      "content": "另外呢在这个在这个图当中大家可以看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 986.58,
+      "to": 989.319,
+      "sid": 347,
+      "location": 2,
+      "content": "就是这个AB620呀",
+      "music": 0.0
+    },
+    {
+      "from": 989.319,
+      "to": 991.759,
+      "sid": 348,
+      "location": 2,
+      "content": "前置它作为一个前置放大器",
+      "music": 0.0
+    },
+    {
+      "from": 991.759,
+      "to": 995.599,
+      "sid": 349,
+      "location": 2,
+      "content": "它用作这个系统调整的一个控制点",
+      "music": 0.0
+    },
+    {
+      "from": 996.64,
+      "to": 998.72,
+      "sid": 350,
+      "location": 2,
+      "content": "并且那产生",
+      "music": 0.0
+    },
+    {
+      "from": 1001.2,
+      "to": 1002.86,
+      "sid": 351,
+      "location": 2,
+      "content": "产生一个电压",
+      "music": 0.0
+    },
+    {
+      "from": 1002.86,
+      "to": 1006.68,
+      "sid": 352,
+      "location": 2,
+      "content": "这个电压呢与这个电机的电流成比例",
+      "music": 0.0
+    },
+    {
+      "from": 1007.64,
+      "to": 1009.6,
+      "sid": 353,
+      "location": 2,
+      "content": "那么具体的这个比例值呢",
+      "music": 0.0
+    },
+    {
+      "from": 1009.6,
+      "to": 1011.92,
+      "sid": 354,
+      "location": 2,
+      "content": "它取决于这个检测电阻值",
+      "music": 0.0
+    },
+    {
+      "from": 1011.92,
+      "to": 1013.08,
+      "sid": 355,
+      "location": 2,
+      "content": "检测电阻值",
+      "music": 0.0
+    },
+    {
+      "from": 1013.08,
+      "to": 1017.959,
+      "sid": 356,
+      "location": 2,
+      "content": "以及这个由ad620的这个RG",
+      "music": 0.0
+    },
+    {
+      "from": 1019.079,
+      "to": 1021.56,
+      "sid": 357,
+      "location": 2,
+      "content": "他俩设置的一个增益",
+      "music": 0.0
+    },
+    {
+      "from": 1021.92,
+      "to": 1023.28,
+      "sid": 358,
+      "location": 2,
+      "content": "那么AD620呢",
+      "music": 0.0
+    },
+    {
+      "from": 1023.28,
+      "to": 1025.74,
+      "sid": 359,
+      "location": 2,
+      "content": "还可以提高整个系统的一个精度",
+      "music": 0.0
+    },
+    {
+      "from": 1025.74,
+      "to": 1027.64,
+      "sid": 360,
+      "location": 2,
+      "content": "使这个",
+      "music": 0.0
+    },
+    {
+      "from": 1029.11,
+      "to": 1029.99,
+      "sid": 361,
+      "location": 2,
+      "content": "漂移啊",
+      "music": 0.0
+    },
+    {
+      "from": 1029.99,
+      "to": 1032.67,
+      "sid": 362,
+      "location": 2,
+      "content": "电压漂移值量比较小",
+      "music": 0.0
+    },
+    {
+      "from": 1037.48,
+      "to": 1041.56,
+      "sid": 363,
+      "location": 2,
+      "content": "从而对这个电机的一个电流呀",
+      "music": 0.0
+    },
+    {
+      "from": 1041.56,
+      "to": 1043.66,
+      "sid": 364,
+      "location": 2,
+      "content": "电流检测做了一个控制",
+      "music": 0.0
+    },
+    {
+      "from": 1043.66,
+      "to": 1044.62,
+      "sid": 365,
+      "location": 2,
+      "content": "隔离控制",
+      "music": 0.0
+    },
+    {
+      "from": 1044.62,
+      "to": 1049.899,
+      "sid": 366,
+      "location": 2,
+      "content": "这就是呃隔离放大器在电机当中的一个使用",
+      "music": 0.0
+    },
+    {
+      "from": 1050.98,
+      "to": 1053.04,
+      "sid": 367,
+      "location": 2,
+      "content": "那么关于隔离放大器呢",
+      "music": 0.0
+    },
+    {
+      "from": 1053.04,
+      "to": 1055.7,
+      "sid": 368,
+      "location": 2,
+      "content": "我们就暂且讲这么多",
+      "music": 0.0
+    }
+  ]
+}

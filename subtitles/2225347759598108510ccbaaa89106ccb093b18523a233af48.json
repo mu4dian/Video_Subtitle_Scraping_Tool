@@ -1,0 +1,3276 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 7.92,
+      "to": 8.28,
+      "sid": 1,
+      "location": 2,
+      "content": "hello",
+      "music": 0.0
+    },
+    {
+      "from": 8.28,
+      "to": 9.26,
+      "sid": 2,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 10.959,
+      "to": 13.379,
+      "sid": 3,
+      "location": 2,
+      "content": "今天我们接着讲电容器",
+      "music": 0.0
+    },
+    {
+      "from": 13.379,
+      "to": 18.24,
+      "sid": 4,
+      "location": 2,
+      "content": "电容器实际上也是非常常见的一个基本元器件",
+      "music": 0.0
+    },
+    {
+      "from": 18.54,
+      "to": 20.7,
+      "sid": 5,
+      "location": 2,
+      "content": "咱们还是跟上节课一样",
+      "music": 0.0
+    },
+    {
+      "from": 20.7,
+      "to": 23.28,
+      "sid": 6,
+      "location": 2,
+      "content": "先来看一下电容的一些图片",
+      "music": 0.0
+    },
+    {
+      "from": 23.28,
+      "to": 25.34,
+      "sid": 7,
+      "location": 2,
+      "content": "给大家一个感性的认识",
+      "music": 0.0
+    },
+    {
+      "from": 26.06,
+      "to": 30.6,
+      "sid": 8,
+      "location": 2,
+      "content": "这就是一个x电容插件电容",
+      "music": 0.0
+    },
+    {
+      "from": 31.34,
+      "to": 33.339,
+      "sid": 9,
+      "location": 2,
+      "content": "这也是一个产家电容",
+      "music": 0.0
+    },
+    {
+      "from": 36.58,
+      "to": 43.86,
+      "sid": 10,
+      "location": 2,
+      "content": "这是电解电容坦电容贴片电容嗯",
+      "music": 0.0
+    },
+    {
+      "from": 43.86,
+      "to": 49.22,
+      "sid": 11,
+      "location": 2,
+      "content": "这是各类电容给大家看这段看这些图片呢",
+      "music": 0.0
+    },
+    {
+      "from": 49.22,
+      "to": 52.28,
+      "sid": 12,
+      "location": 2,
+      "content": "主要是让大家能有一个感性的认识啊",
+      "music": 0.0
+    },
+    {
+      "from": 52.28,
+      "to": 55.44,
+      "sid": 13,
+      "location": 2,
+      "content": "能在咱们的身边的电子产品当中",
+      "music": 0.0
+    },
+    {
+      "from": 55.44,
+      "to": 57.6,
+      "sid": 14,
+      "location": 2,
+      "content": "能够准确地认出啊",
+      "music": 0.0
+    },
+    {
+      "from": 57.6,
+      "to": 59.44,
+      "sid": 15,
+      "location": 2,
+      "content": "这个元器件就是电容",
+      "music": 0.0
+    },
+    {
+      "from": 59.7,
+      "to": 62.37,
+      "sid": 16,
+      "location": 2,
+      "content": "这对我们的学习也有一定的帮助",
+      "music": 0.0
+    },
+    {
+      "from": 62.37,
+      "to": 64.47,
+      "sid": 17,
+      "location": 2,
+      "content": "那么下面我们来看一下电容",
+      "music": 0.0
+    },
+    {
+      "from": 64.47,
+      "to": 66.12,
+      "sid": 18,
+      "location": 2,
+      "content": "具体什么是电容呢",
+      "music": 0.0
+    },
+    {
+      "from": 66.12,
+      "to": 68.77,
+      "sid": 19,
+      "location": 2,
+      "content": "我们要对电容有一个基础的认识",
+      "music": 0.0
+    },
+    {
+      "from": 68.77,
+      "to": 70.24,
+      "sid": 20,
+      "location": 2,
+      "content": "什么是电容呀",
+      "music": 0.0
+    },
+    {
+      "from": 70.24,
+      "to": 71.41,
+      "sid": 21,
+      "location": 2,
+      "content": "简单的来讲",
+      "music": 0.0
+    },
+    {
+      "from": 71.41,
+      "to": 74.26,
+      "sid": 22,
+      "location": 2,
+      "content": "电容呢就是由金属电极间",
+      "music": 0.0
+    },
+    {
+      "from": 74.26,
+      "to": 77.52,
+      "sid": 23,
+      "location": 2,
+      "content": "夹着一层绝缘电介质来组成的",
+      "music": 0.0
+    },
+    {
+      "from": 78.24,
+      "to": 83.39,
+      "sid": 24,
+      "location": 2,
+      "content": "那么百百度百科上把电容解释成是装电的容器",
+      "music": 0.0
+    },
+    {
+      "from": 83.39,
+      "to": 85.82,
+      "sid": 25,
+      "location": 2,
+      "content": "我觉得这个比喻也比较形象",
+      "music": 0.0
+    },
+    {
+      "from": 85.82,
+      "to": 87.88,
+      "sid": 26,
+      "location": 2,
+      "content": "比较容易大家理解",
+      "music": 0.0
+    },
+    {
+      "from": 88.14,
+      "to": 94.07,
+      "sid": 27,
+      "location": 2,
+      "content": "那么金属的电极上面聚集着很多电荷",
+      "music": 0.0
+    },
+    {
+      "from": 94.07,
+      "to": 96.92,
+      "sid": 28,
+      "location": 2,
+      "content": "然后形成形成了电位差",
+      "music": 0.0
+    },
+    {
+      "from": 96.92,
+      "to": 101.03,
+      "sid": 29,
+      "location": 2,
+      "content": "这就是电容带有一定的电压嗯",
+      "music": 0.0
+    },
+    {
+      "from": 101.03,
+      "to": 103.25,
+      "sid": 30,
+      "location": 2,
+      "content": "因此呢电容是一个储能元件",
+      "music": 0.0
+    },
+    {
+      "from": 103.25,
+      "to": 104.57,
+      "sid": 31,
+      "location": 2,
+      "content": "它跟电阻不一样",
+      "music": 0.0
+    },
+    {
+      "from": 104.57,
+      "to": 106.34,
+      "sid": 32,
+      "location": 2,
+      "content": "我们上节课所讲的电阻",
+      "music": 0.0
+    },
+    {
+      "from": 106.34,
+      "to": 110.94,
+      "sid": 33,
+      "location": 2,
+      "content": "它是一个耗能元件嗯通过他的那个对",
+      "music": 0.0
+    },
+    {
+      "from": 110.94,
+      "to": 113.88,
+      "sid": 34,
+      "location": 2,
+      "content": "通过他的那个电流有一定的阻碍作用",
+      "music": 0.0
+    },
+    {
+      "from": 113.88,
+      "to": 116.039,
+      "sid": 35,
+      "location": 2,
+      "content": "因此它上面有一定的压降",
+      "music": 0.0
+    },
+    {
+      "from": 116.22,
+      "to": 118.259,
+      "sid": 36,
+      "location": 2,
+      "content": "会造成一定的损耗",
+      "music": 0.0
+    },
+    {
+      "from": 118.58,
+      "to": 121.64,
+      "sid": 37,
+      "location": 2,
+      "content": "那么电容有哪些基本参数呢",
+      "music": 0.0
+    },
+    {
+      "from": 121.64,
+      "to": 123.71,
+      "sid": 38,
+      "location": 2,
+      "content": "电容其实就有一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 123.71,
+      "to": 126.24,
+      "sid": 39,
+      "location": 2,
+      "content": "有一个参数是电容值",
+      "music": 0.0
+    },
+    {
+      "from": 126.24,
+      "to": 129.99,
+      "sid": 40,
+      "location": 2,
+      "content": "电容值也就是通常是用这个c来表示啊",
+      "music": 0.0
+    },
+    {
+      "from": 129.99,
+      "to": 132.37,
+      "sid": 41,
+      "location": 2,
+      "content": "它的单位是法拉",
+      "music": 0.0
+    },
+    {
+      "from": 132.37,
+      "to": 134.62,
+      "sid": 42,
+      "location": 2,
+      "content": "然后呢它还有一个电压",
+      "music": 0.0
+    },
+    {
+      "from": 134.62,
+      "to": 137.29,
+      "sid": 43,
+      "location": 2,
+      "content": "电压是用来做什么用的呢",
+      "music": 0.0
+    },
+    {
+      "from": 137.29,
+      "to": 139.6,
+      "sid": 44,
+      "location": 2,
+      "content": "电压实际上就是任何的",
+      "music": 0.0
+    },
+    {
+      "from": 139.6,
+      "to": 142.42,
+      "sid": 45,
+      "location": 2,
+      "content": "大家都知道任何的绝缘体它都不是绝对的啊",
+      "music": 0.0
+    },
+    {
+      "from": 142.42,
+      "to": 145.03,
+      "sid": 46,
+      "location": 2,
+      "content": "当电压超过它的耐压值的时候",
+      "music": 0.0
+    },
+    {
+      "from": 145.03,
+      "to": 147.16,
+      "sid": 47,
+      "location": 2,
+      "content": "这个绝缘物体它就会被击穿的",
+      "music": 0.0
+    },
+    {
+      "from": 147.16,
+      "to": 148.46,
+      "sid": 48,
+      "location": 2,
+      "content": "电容也不例外",
+      "music": 0.0
+    },
+    {
+      "from": 148.46,
+      "to": 152.51,
+      "sid": 49,
+      "location": 2,
+      "content": "所以呢电容它有一个限制电压啊",
+      "music": 0.0
+    },
+    {
+      "from": 152.51,
+      "to": 154.38,
+      "sid": 50,
+      "location": 2,
+      "content": "也就是它的一个耐压值",
+      "music": 0.0
+    },
+    {
+      "from": 155.7,
+      "to": 158.06,
+      "sid": 51,
+      "location": 2,
+      "content": "那么电容的通常的计算公式呢",
+      "music": 0.0
+    },
+    {
+      "from": 158.06,
+      "to": 160.28,
+      "sid": 52,
+      "location": 2,
+      "content": "就是这个c等于ko比u",
+      "music": 0.0
+    },
+    {
+      "from": 160.28,
+      "to": 165.729,
+      "sid": 53,
+      "location": 2,
+      "content": "这个ko呢实际上就是嗯夹在金属电极板上的电",
+      "music": 0.0
+    },
+    {
+      "from": 165.729,
+      "to": 170.139,
+      "sid": 54,
+      "location": 2,
+      "content": "电荷的绝对值就是这个k它的单位是库伦",
+      "music": 0.0
+    },
+    {
+      "from": 170.139,
+      "to": 172.64,
+      "sid": 55,
+      "location": 2,
+      "content": "然后ko比上u就等于电容",
+      "music": 0.0
+    },
+    {
+      "from": 173.439,
+      "to": 175.859,
+      "sid": 56,
+      "location": 2,
+      "content": "他的单位刚才我们已经说过了啊",
+      "music": 0.0
+    },
+    {
+      "from": 175.859,
+      "to": 177.92,
+      "sid": 57,
+      "location": 2,
+      "content": "他的单位实际上就是法拉",
+      "music": 0.0
+    },
+    {
+      "from": 177.92,
+      "to": 179.66,
+      "sid": 58,
+      "location": 2,
+      "content": "但是大家需要注意的是",
+      "music": 0.0
+    },
+    {
+      "from": 179.66,
+      "to": 181.94,
+      "sid": 59,
+      "location": 2,
+      "content": "法拉其实是一个很大的单位",
+      "music": 0.0
+    },
+    {
+      "from": 181.94,
+      "to": 183.98,
+      "sid": 60,
+      "location": 2,
+      "content": "在咱们经常使用的电容",
+      "music": 0.0
+    },
+    {
+      "from": 183.98,
+      "to": 185.55,
+      "sid": 61,
+      "location": 2,
+      "content": "很少用到这个单位",
+      "music": 0.0
+    },
+    {
+      "from": 185.55,
+      "to": 187.83,
+      "sid": 62,
+      "location": 2,
+      "content": "所以呢他还有其他的一些单位",
+      "music": 0.0
+    },
+    {
+      "from": 187.83,
+      "to": 190.29,
+      "sid": 63,
+      "location": 2,
+      "content": "比如说微法纳法皮法",
+      "music": 0.0
+    },
+    {
+      "from": 190.29,
+      "to": 192.56,
+      "sid": 64,
+      "location": 2,
+      "content": "他们跟法拉是什么关系呢",
+      "music": 0.0
+    },
+    {
+      "from": 192.619,
+      "to": 195.319,
+      "sid": 65,
+      "location": 2,
+      "content": "一皮法等于十的-3次方纳法",
+      "music": 0.0
+    },
+    {
+      "from": 195.319,
+      "to": 197.629,
+      "sid": 66,
+      "location": 2,
+      "content": "一捺法等于十的-3次方v法",
+      "music": 0.0
+    },
+    {
+      "from": 197.629,
+      "to": 202.4,
+      "sid": 67,
+      "location": 2,
+      "content": "v法和法之间应该是译法等于十的六次方位法",
+      "music": 0.0
+    },
+    {
+      "from": 202.4,
+      "to": 204.92,
+      "sid": 68,
+      "location": 2,
+      "content": "这个大家可以下去自己查一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 204.92,
+      "to": 209.18,
+      "sid": 69,
+      "location": 2,
+      "content": "因为有很多就是很多同学在呃",
+      "music": 0.0
+    },
+    {
+      "from": 209.18,
+      "to": 210.5,
+      "sid": 70,
+      "location": 2,
+      "content": "接触到电容的时候",
+      "music": 0.0
+    },
+    {
+      "from": 210.5,
+      "to": 213.55,
+      "sid": 71,
+      "location": 2,
+      "content": "让他找一个都有多少皮法的电容",
+      "music": 0.0
+    },
+    {
+      "from": 213.55,
+      "to": 215.59,
+      "sid": 72,
+      "location": 2,
+      "content": "或者多少多少纳法的电容啊",
+      "music": 0.0
+    },
+    {
+      "from": 215.59,
+      "to": 216.79,
+      "sid": 73,
+      "location": 2,
+      "content": "他有的时候找不到",
+      "music": 0.0
+    },
+    {
+      "from": 216.79,
+      "to": 219.34,
+      "sid": 74,
+      "location": 2,
+      "content": "因为他不知道这些单位的换算关系",
+      "music": 0.0
+    },
+    {
+      "from": 219.64,
+      "to": 223.0,
+      "sid": 75,
+      "location": 2,
+      "content": "另外呢说到这些找电容的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 223.0,
+      "to": 226.339,
+      "sid": 76,
+      "location": 2,
+      "content": "也有一些电容上面它是啊怎么表示的呢",
+      "music": 0.0
+    },
+    {
+      "from": 226.339,
+      "to": 228.349,
+      "sid": 77,
+      "location": 2,
+      "content": "怎么表示电容的这些值呢",
+      "music": 0.0
+    },
+    {
+      "from": 228.349,
+      "to": 231.82,
+      "sid": 78,
+      "location": 2,
+      "content": "这就说到了电容的一些标识方法啊",
+      "music": 0.0
+    },
+    {
+      "from": 231.82,
+      "to": 234.58,
+      "sid": 79,
+      "location": 2,
+      "content": "大部分电容呢其实是直标法",
+      "music": 0.0
+    },
+    {
+      "from": 234.58,
+      "to": 237.709,
+      "sid": 80,
+      "location": 2,
+      "content": "就是直接来表示电容的容值",
+      "music": 0.0
+    },
+    {
+      "from": 237.709,
+      "to": 240.229,
+      "sid": 81,
+      "location": 2,
+      "content": "比如说举个例子啊",
+      "music": 0.0
+    },
+    {
+      "from": 240.229,
+      "to": 244.159,
+      "sid": 82,
+      "location": 2,
+      "content": "我们经常在我们的贴片电容的后面会标注",
+      "music": 0.0
+    },
+    {
+      "from": 244.159,
+      "to": 246.869,
+      "sid": 83,
+      "location": 2,
+      "content": "这个电容是473嗯",
+      "music": 0.0
+    },
+    {
+      "from": 246.869,
+      "to": 247.949,
+      "sid": 84,
+      "location": 2,
+      "content": "这是什么意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 247.949,
+      "to": 250.37,
+      "sid": 85,
+      "location": 2,
+      "content": "这说明这个电容的容值是多少呢",
+      "music": 0.0
+    },
+    {
+      "from": 250.37,
+      "to": 253.25,
+      "sid": 86,
+      "location": 2,
+      "content": "啊按照咱们上一节课讲的电阻的话",
+      "music": 0.0
+    },
+    {
+      "from": 253.25,
+      "to": 255.62,
+      "sid": 87,
+      "location": 2,
+      "content": "如果一个电阻标是473的话",
+      "music": 0.0
+    },
+    {
+      "from": 255.62,
+      "to": 259.62,
+      "sid": 88,
+      "location": 2,
+      "content": "那大家肯定会说是47x10的三次方欧姆",
+      "music": 0.0
+    },
+    {
+      "from": 259.92,
+      "to": 263.46,
+      "sid": 89,
+      "location": 2,
+      "content": "而现在呢他那个电阻的话",
+      "music": 0.0
+    },
+    {
+      "from": 263.46,
+      "to": 265.62,
+      "sid": 90,
+      "location": 2,
+      "content": "它是以欧姆为基准的",
+      "music": 0.0
+    },
+    {
+      "from": 265.62,
+      "to": 269.1,
+      "sid": 91,
+      "location": 2,
+      "content": "然后473就是47x10的三次方欧姆",
+      "music": 0.0
+    },
+    {
+      "from": 269.1,
+      "to": 270.93,
+      "sid": 92,
+      "location": 2,
+      "content": "也就是47k欧姆",
+      "music": 0.0
+    },
+    {
+      "from": 270.93,
+      "to": 273.33,
+      "sid": 93,
+      "location": 2,
+      "content": "那么对于电容来说啊",
+      "music": 0.0
+    },
+    {
+      "from": 273.33,
+      "to": 277.02,
+      "sid": 94,
+      "location": 2,
+      "content": "电容的基本单位啊是法拉不错",
+      "music": 0.0
+    },
+    {
+      "from": 277.02,
+      "to": 279.36,
+      "sid": 95,
+      "location": 2,
+      "content": "但是他在读书的时候",
+      "music": 0.0
+    },
+    {
+      "from": 279.36,
+      "to": 281.16,
+      "sid": 96,
+      "location": 2,
+      "content": "他是以批发为基准的",
+      "music": 0.0
+    },
+    {
+      "from": 281.16,
+      "to": 283.44,
+      "sid": 97,
+      "location": 2,
+      "content": "也就是说这种的读法应该是",
+      "music": 0.0
+    },
+    {
+      "from": 283.44,
+      "to": 285.54,
+      "sid": 98,
+      "location": 2,
+      "content": "47x10的三次方皮法",
+      "music": 0.0
+    },
+    {
+      "from": 285.54,
+      "to": 287.58,
+      "sid": 99,
+      "location": 2,
+      "content": "也就是47纳法",
+      "music": 0.0
+    },
+    {
+      "from": 287.58,
+      "to": 290.5,
+      "sid": 100,
+      "location": 2,
+      "content": "大家看一下他换算过来是不是这样",
+      "music": 0.0
+    },
+    {
+      "from": 290.539,
+      "to": 294.49,
+      "sid": 101,
+      "location": 2,
+      "content": "这是说明了电容的一种直接的表示方法啊",
+      "music": 0.0
+    },
+    {
+      "from": 294.49,
+      "to": 298.09,
+      "sid": 102,
+      "location": 2,
+      "content": "另外一种啊跟电阻的一种表示方法",
+      "music": 0.0
+    },
+    {
+      "from": 298.09,
+      "to": 298.99,
+      "sid": 103,
+      "location": 2,
+      "content": "其实挺接近的",
+      "music": 0.0
+    },
+    {
+      "from": 298.99,
+      "to": 300.75,
+      "sid": 104,
+      "location": 2,
+      "content": "就是它的一个色标法",
+      "music": 0.0
+    },
+    {
+      "from": 300.75,
+      "to": 305.49,
+      "sid": 105,
+      "location": 2,
+      "content": "色标法的读取方法跟电阻也很像",
+      "music": 0.0
+    },
+    {
+      "from": 305.49,
+      "to": 310.0,
+      "sid": 106,
+      "location": 2,
+      "content": "就是参照那个色标图表来对照来读读取一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 310.18,
+      "to": 312.61,
+      "sid": 107,
+      "location": 2,
+      "content": "这个我们就不再多说了",
+      "music": 0.0
+    },
+    {
+      "from": 312.61,
+      "to": 316.37,
+      "sid": 108,
+      "location": 2,
+      "content": "另外呢啊我们在这个电容",
+      "music": 0.0
+    },
+    {
+      "from": 316.37,
+      "to": 319.37,
+      "sid": 109,
+      "location": 2,
+      "content": "在这个测试电容的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 319.37,
+      "to": 322.36,
+      "sid": 110,
+      "location": 2,
+      "content": "怎么能够测试到电容的容值呢",
+      "music": 0.0
+    },
+    {
+      "from": 323.66,
+      "to": 326.68,
+      "sid": 111,
+      "location": 2,
+      "content": "嗯比较常见的就是我们用数字电桥",
+      "music": 0.0
+    },
+    {
+      "from": 326.68,
+      "to": 330.58,
+      "sid": 112,
+      "location": 2,
+      "content": "可以精确地测量出呃电容的容值",
+      "music": 0.0
+    },
+    {
+      "from": 330.74,
+      "to": 334.71,
+      "sid": 113,
+      "location": 2,
+      "content": "然后还有呢就是比如说呃用万用表",
+      "music": 0.0
+    },
+    {
+      "from": 334.71,
+      "to": 337.29,
+      "sid": 114,
+      "location": 2,
+      "content": "有一些万用表是有电容档的",
+      "music": 0.0
+    },
+    {
+      "from": 337.29,
+      "to": 339.28,
+      "sid": 115,
+      "location": 2,
+      "content": "可以测出呃电容值",
+      "music": 0.0
+    },
+    {
+      "from": 339.28,
+      "to": 341.26,
+      "sid": 116,
+      "location": 2,
+      "content": "但大部分应该是没有的",
+      "music": 0.0
+    },
+    {
+      "from": 341.26,
+      "to": 344.5,
+      "sid": 117,
+      "location": 2,
+      "content": "但是我们在呃电路的调试啊",
+      "music": 0.0
+    },
+    {
+      "from": 344.5,
+      "to": 347.85,
+      "sid": 118,
+      "location": 2,
+      "content": "或者是呃维护产品的时候",
+      "music": 0.0
+    },
+    {
+      "from": 347.85,
+      "to": 352.11,
+      "sid": 119,
+      "location": 2,
+      "content": "通常需要测一下这个电容是好的还是坏的呀",
+      "music": 0.0
+    },
+    {
+      "from": 352.11,
+      "to": 355.15,
+      "sid": 120,
+      "location": 2,
+      "content": "嗯这可以用我们的万用表",
+      "music": 0.0
+    },
+    {
+      "from": 355.15,
+      "to": 357.1,
+      "sid": 121,
+      "location": 2,
+      "content": "万用万用表的分明气到",
+      "music": 0.0
+    },
+    {
+      "from": 357.1,
+      "to": 360.52,
+      "sid": 122,
+      "location": 2,
+      "content": "来检测这个电容是好的还是坏的啊",
+      "music": 0.0
+    },
+    {
+      "from": 360.52,
+      "to": 362.93,
+      "sid": 123,
+      "location": 2,
+      "content": "下面我给大家总结了一下这个方法",
+      "music": 0.0
+    },
+    {
+      "from": 362.93,
+      "to": 365.03,
+      "sid": 124,
+      "location": 2,
+      "content": "大家可以如果有兴趣的话",
+      "music": 0.0
+    },
+    {
+      "from": 365.03,
+      "to": 368.39,
+      "sid": 125,
+      "location": 2,
+      "content": "可以在嗯课下用万用表来试一下",
+      "music": 0.0
+    },
+    {
+      "from": 368.39,
+      "to": 371.3,
+      "sid": 126,
+      "location": 2,
+      "content": "就是用数字万用表的蜂鸣器的啊",
+      "music": 0.0
+    },
+    {
+      "from": 371.3,
+      "to": 373.79,
+      "sid": 127,
+      "location": 2,
+      "content": "来加在这个电容器的两端",
+      "music": 0.0
+    },
+    {
+      "from": 373.79,
+      "to": 376.049,
+      "sid": 128,
+      "location": 2,
+      "content": "快速的检测电容器的好坏",
+      "music": 0.0
+    },
+    {
+      "from": 376.049,
+      "to": 378.84,
+      "sid": 129,
+      "location": 2,
+      "content": "因为电容一般上面是带电的啊",
+      "music": 0.0
+    },
+    {
+      "from": 378.84,
+      "to": 382.53,
+      "sid": 130,
+      "location": 2,
+      "content": "刚开始夹到上面应该是能听到一些响声",
+      "music": 0.0
+    },
+    {
+      "from": 382.53,
+      "to": 384.57,
+      "sid": 131,
+      "location": 2,
+      "content": "然后慢慢响声没有了",
+      "music": 0.0
+    },
+    {
+      "from": 384.57,
+      "to": 388.04,
+      "sid": 132,
+      "location": 2,
+      "content": "然后再再再对调测一次啊",
+      "music": 0.0
+    },
+    {
+      "from": 388.04,
+      "to": 391.8,
+      "sid": 133,
+      "location": 2,
+      "content": "大家能看出来这个电容的好与坏",
+      "music": 0.0
+    },
+    {
+      "from": 392.24,
+      "to": 396.28,
+      "sid": 134,
+      "location": 2,
+      "content": "这就是对电容的一个基础认识啊",
+      "music": 0.0
+    },
+    {
+      "from": 398.72,
+      "to": 402.82,
+      "sid": 135,
+      "location": 2,
+      "content": "另外呢我们在一些原理图当中",
+      "music": 0.0
+    },
+    {
+      "from": 402.82,
+      "to": 404.6,
+      "sid": 136,
+      "location": 2,
+      "content": "电容是怎么表示的",
+      "music": 0.0
+    },
+    {
+      "from": 404.78,
+      "to": 407.24,
+      "sid": 137,
+      "location": 2,
+      "content": "我也给大家画了一下原理",
+      "music": 0.0
+    },
+    {
+      "from": 407.24,
+      "to": 410.07,
+      "sid": 138,
+      "location": 2,
+      "content": "涂装中基本上是这样表示的啊",
+      "music": 0.0
+    },
+    {
+      "from": 410.07,
+      "to": 411.9,
+      "sid": 139,
+      "location": 2,
+      "content": "有的同学就奇怪了啊",
+      "music": 0.0
+    },
+    {
+      "from": 411.9,
+      "to": 414.75,
+      "sid": 140,
+      "location": 2,
+      "content": "后面这两种电容标有正号是",
+      "music": 0.0
+    },
+    {
+      "from": 414.75,
+      "to": 416.03,
+      "sid": 141,
+      "location": 2,
+      "content": "这是什么意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 416.03,
+      "to": 418.61,
+      "sid": 142,
+      "location": 2,
+      "content": "其实就是对于一些电容来说",
+      "music": 0.0
+    },
+    {
+      "from": 418.61,
+      "to": 420.08,
+      "sid": 143,
+      "location": 2,
+      "content": "它是有极性的",
+      "music": 0.0
+    },
+    {
+      "from": 420.08,
+      "to": 423.11,
+      "sid": 144,
+      "location": 2,
+      "content": "这就是咱们普通的一些电容啊",
+      "music": 0.0
+    },
+    {
+      "from": 423.11,
+      "to": 424.64,
+      "sid": 145,
+      "location": 2,
+      "content": "这是一个可变电容",
+      "music": 0.0
+    },
+    {
+      "from": 424.64,
+      "to": 427.13,
+      "sid": 146,
+      "location": 2,
+      "content": "这两个呢比如说我们的电解电容",
+      "music": 0.0
+    },
+    {
+      "from": 427.13,
+      "to": 430.16,
+      "sid": 147,
+      "location": 2,
+      "content": "就是刚才我们图片当中看到的",
+      "music": 0.0
+    },
+    {
+      "from": 430.539,
+      "to": 433.599,
+      "sid": 148,
+      "location": 2,
+      "content": "你看看它有有有极限的这种",
+      "music": 0.0
+    },
+    {
+      "from": 433.599,
+      "to": 434.859,
+      "sid": 149,
+      "location": 2,
+      "content": "他一般都有标识啊",
+      "music": 0.0
+    },
+    {
+      "from": 434.859,
+      "to": 436.22,
+      "sid": 150,
+      "location": 2,
+      "content": "这是一个电解电容",
+      "music": 0.0
+    },
+    {
+      "from": 436.22,
+      "to": 438.41,
+      "sid": 151,
+      "location": 2,
+      "content": "这是一个坦电容啊",
+      "music": 0.0
+    },
+    {
+      "from": 438.41,
+      "to": 441.35,
+      "sid": 152,
+      "location": 2,
+      "content": "这两个电容你看跟其他的电容不一样",
+      "music": 0.0
+    },
+    {
+      "from": 441.35,
+      "to": 443.57,
+      "sid": 153,
+      "location": 2,
+      "content": "它都是其他内容都没有",
+      "music": 0.0
+    },
+    {
+      "from": 443.57,
+      "to": 446.27,
+      "sid": 154,
+      "location": 2,
+      "content": "就是任何的就是标识",
+      "music": 0.0
+    },
+    {
+      "from": 446.27,
+      "to": 447.82,
+      "sid": 155,
+      "location": 2,
+      "content": "这这种是有的",
+      "music": 0.0
+    },
+    {
+      "from": 447.82,
+      "to": 449.14,
+      "sid": 156,
+      "location": 2,
+      "content": "像电解电容",
+      "music": 0.0
+    },
+    {
+      "from": 449.14,
+      "to": 451.96,
+      "sid": 157,
+      "location": 2,
+      "content": "它一一般这个标识符号的这一段",
+      "music": 0.0
+    },
+    {
+      "from": 451.96,
+      "to": 453.78,
+      "sid": 158,
+      "location": 2,
+      "content": "是表示电容的负极",
+      "music": 0.0
+    },
+    {
+      "from": 454.2,
+      "to": 458.76,
+      "sid": 159,
+      "location": 2,
+      "content": "而坦电容呢一般是表示符号的正极啊",
+      "music": 0.0
+    },
+    {
+      "from": 458.76,
+      "to": 462.03,
+      "sid": 160,
+      "location": 2,
+      "content": "大家一定在呃接线的时候不要接错了",
+      "music": 0.0
+    },
+    {
+      "from": 462.03,
+      "to": 463.47,
+      "sid": 161,
+      "location": 2,
+      "content": "比如说像电解电容",
+      "music": 0.0
+    },
+    {
+      "from": 463.47,
+      "to": 465.18,
+      "sid": 162,
+      "location": 2,
+      "content": "它里边是有电解液的",
+      "music": 0.0
+    },
+    {
+      "from": 465.18,
+      "to": 466.92,
+      "sid": 163,
+      "location": 2,
+      "content": "如果说你接错了",
+      "music": 0.0
+    },
+    {
+      "from": 466.92,
+      "to": 468.82,
+      "sid": 164,
+      "location": 2,
+      "content": "它会受热嗯",
+      "music": 0.0
+    },
+    {
+      "from": 468.82,
+      "to": 469.63,
+      "sid": 165,
+      "location": 2,
+      "content": "膨胀的",
+      "music": 0.0
+    },
+    {
+      "from": 469.63,
+      "to": 471.13,
+      "sid": 166,
+      "location": 2,
+      "content": "然后就会炸掉啊",
+      "music": 0.0
+    },
+    {
+      "from": 471.13,
+      "to": 473.24,
+      "sid": 167,
+      "location": 2,
+      "content": "电解液很难闻的",
+      "music": 0.0
+    },
+    {
+      "from": 473.38,
+      "to": 476.06,
+      "sid": 168,
+      "location": 2,
+      "content": "这也是一件比较危险的事情",
+      "music": 0.0
+    },
+    {
+      "from": 477.12,
+      "to": 480.96,
+      "sid": 169,
+      "location": 2,
+      "content": "这是电容在原理图当中的一种表示方法",
+      "music": 0.0
+    },
+    {
+      "from": 482.44,
+      "to": 484.5,
+      "sid": 170,
+      "location": 2,
+      "content": "那么第二步呢",
+      "music": 0.0
+    },
+    {
+      "from": 484.5,
+      "to": 489.48,
+      "sid": 171,
+      "location": 2,
+      "content": "我们来看一下电容的一些特点和它的作用啊",
+      "music": 0.0
+    },
+    {
+      "from": 489.48,
+      "to": 493.299,
+      "sid": 172,
+      "location": 2,
+      "content": "电容呢不同材质的电容嗯",
+      "music": 0.0
+    },
+    {
+      "from": 493.299,
+      "to": 494.649,
+      "sid": 173,
+      "location": 2,
+      "content": "其实功能不一样",
+      "music": 0.0
+    },
+    {
+      "from": 494.649,
+      "to": 496.749,
+      "sid": 174,
+      "location": 2,
+      "content": "它的特性也有所区别",
+      "music": 0.0
+    },
+    {
+      "from": 496.749,
+      "to": 498.069,
+      "sid": 175,
+      "location": 2,
+      "content": "我们只说一下",
+      "music": 0.0
+    },
+    {
+      "from": 498.069,
+      "to": 501.919,
+      "sid": 176,
+      "location": 2,
+      "content": "就是通用电容的一些通用的特性啊",
+      "music": 0.0
+    },
+    {
+      "from": 501.919,
+      "to": 504.859,
+      "sid": 177,
+      "location": 2,
+      "content": "比如说电容是隔直通交的",
+      "music": 0.0
+    },
+    {
+      "from": 504.859,
+      "to": 506.419,
+      "sid": 178,
+      "location": 2,
+      "content": "什么叫隔直通交呀",
+      "music": 0.0
+    },
+    {
+      "from": 506.419,
+      "to": 508.549,
+      "sid": 179,
+      "location": 2,
+      "content": "就是对于直流电源来说",
+      "music": 0.0
+    },
+    {
+      "from": 508.549,
+      "to": 512.219,
+      "sid": 180,
+      "location": 2,
+      "content": "电容就相当于就不让直流电过去",
+      "music": 0.0
+    },
+    {
+      "from": 512.219,
+      "to": 513.599,
+      "sid": 181,
+      "location": 2,
+      "content": "它就相当于断路",
+      "music": 0.0
+    },
+    {
+      "from": 513.599,
+      "to": 515.219,
+      "sid": 182,
+      "location": 2,
+      "content": "但是对于交流电来说",
+      "music": 0.0
+    },
+    {
+      "from": 515.219,
+      "to": 516.17,
+      "sid": 183,
+      "location": 2,
+      "content": "它是通的",
+      "music": 0.0
+    },
+    {
+      "from": 516.17,
+      "to": 518.21,
+      "sid": 184,
+      "location": 2,
+      "content": "这个呢也很好理解啊",
+      "music": 0.0
+    },
+    {
+      "from": 518.21,
+      "to": 520.9,
+      "sid": 185,
+      "location": 2,
+      "content": "因为交流电它是一个正弦吗",
+      "music": 0.0
+    },
+    {
+      "from": 521.04,
+      "to": 522.84,
+      "sid": 186,
+      "location": 2,
+      "content": "交流电是这样子的吗",
+      "music": 0.0
+    },
+    {
+      "from": 522.84,
+      "to": 524.61,
+      "sid": 187,
+      "location": 2,
+      "content": "正确吗是吧",
+      "music": 0.0
+    },
+    {
+      "from": 524.61,
+      "to": 528.11,
+      "sid": 188,
+      "location": 2,
+      "content": "那么对于可以看到这个交流电的电压",
+      "music": 0.0
+    },
+    {
+      "from": 528.11,
+      "to": 530.09,
+      "sid": 189,
+      "location": 2,
+      "content": "它是不断的变化的啊",
+      "music": 0.0
+    },
+    {
+      "from": 530.09,
+      "to": 532.52,
+      "sid": 190,
+      "location": 2,
+      "content": "其实对对于一个电容来说",
+      "music": 0.0
+    },
+    {
+      "from": 532.52,
+      "to": 535.0,
+      "sid": 191,
+      "location": 2,
+      "content": "就是两个极板里边有电解",
+      "music": 0.0
+    },
+    {
+      "from": 537.16,
+      "to": 540.12,
+      "sid": 192,
+      "location": 2,
+      "content": "一小电荷吸附在两端",
+      "music": 0.0
+    },
+    {
+      "from": 540.88,
+      "to": 543.24,
+      "sid": 193,
+      "location": 2,
+      "content": "实际上对于一个电容电容来说",
+      "music": 0.0
+    },
+    {
+      "from": 543.24,
+      "to": 544.8,
+      "sid": 194,
+      "location": 2,
+      "content": "如果它的电压是不断变化的",
+      "music": 0.0
+    },
+    {
+      "from": 544.8,
+      "to": 548.17,
+      "sid": 195,
+      "location": 2,
+      "content": "就相当于这个电容在不断的充电放电啊",
+      "music": 0.0
+    },
+    {
+      "from": 548.17,
+      "to": 550.45,
+      "sid": 196,
+      "location": 2,
+      "content": "就好像把电导通了一样",
+      "music": 0.0
+    },
+    {
+      "from": 550.45,
+      "to": 553.939,
+      "sid": 197,
+      "location": 2,
+      "content": "实际上这也跟这个交流电的一个特点有关系啊",
+      "music": 0.0
+    },
+    {
+      "from": 554.68,
+      "to": 559.47,
+      "sid": 198,
+      "location": 2,
+      "content": "第二个特点呢就是电容器上的电压不能突变",
+      "music": 0.0
+    },
+    {
+      "from": 559.47,
+      "to": 564.58,
+      "sid": 199,
+      "location": 2,
+      "content": "这是因为它这个电压是怎么形成的",
+      "music": 0.0
+    },
+    {
+      "from": 564.58,
+      "to": 568.05,
+      "sid": 200,
+      "location": 2,
+      "content": "电压是这些电荷积累",
+      "music": 0.0
+    },
+    {
+      "from": 568.05,
+      "to": 571.74,
+      "sid": 201,
+      "location": 2,
+      "content": "然后两端形成电位差形成的这个电压",
+      "music": 0.0
+    },
+    {
+      "from": 571.74,
+      "to": 574.92,
+      "sid": 202,
+      "location": 2,
+      "content": "但是这个电荷的积累是需要一段时间的",
+      "music": 0.0
+    },
+    {
+      "from": 574.92,
+      "to": 578.71,
+      "sid": 203,
+      "location": 2,
+      "content": "因此啊这个电压它不可能是突变的",
+      "music": 0.0
+    },
+    {
+      "from": 578.71,
+      "to": 582.599,
+      "sid": 204,
+      "location": 2,
+      "content": "它必须得是在一段时间内啊有所变化",
+      "music": 0.0
+    },
+    {
+      "from": 583.56,
+      "to": 585.959,
+      "sid": 205,
+      "location": 2,
+      "content": "所以这个就不难理解了",
+      "music": 0.0
+    },
+    {
+      "from": 587.58,
+      "to": 590.48,
+      "sid": 206,
+      "location": 2,
+      "content": "这是它的两个特点是通用的特点啊",
+      "music": 0.0
+    },
+    {
+      "from": 590.48,
+      "to": 594.24,
+      "sid": 207,
+      "location": 2,
+      "content": "其实就是对于不同的不同材质的电容嗯",
+      "music": 0.0
+    },
+    {
+      "from": 594.24,
+      "to": 598.63,
+      "sid": 208,
+      "location": 2,
+      "content": "它每个电容的优点和缺点是不一样的",
+      "music": 0.0
+    },
+    {
+      "from": 598.63,
+      "to": 601.0,
+      "sid": 209,
+      "location": 2,
+      "content": "我们只是讲到哦",
+      "music": 0.0
+    },
+    {
+      "from": 601.0,
+      "to": 604.06,
+      "sid": 210,
+      "location": 2,
+      "content": "所有电容的一个通用的一个特性",
+      "music": 0.0
+    },
+    {
+      "from": 604.06,
+      "to": 606.599,
+      "sid": 211,
+      "location": 2,
+      "content": "那么电容有哪些作用呢",
+      "music": 0.0
+    },
+    {
+      "from": 607.84,
+      "to": 610.59,
+      "sid": 212,
+      "location": 2,
+      "content": "首先电容它是一个储能源",
+      "music": 0.0
+    },
+    {
+      "from": 610.59,
+      "to": 612.42,
+      "sid": 213,
+      "location": 2,
+      "content": "储能元器件啊",
+      "music": 0.0
+    },
+    {
+      "from": 612.42,
+      "to": 615.74,
+      "sid": 214,
+      "location": 2,
+      "content": "它最主要的作用还是储能",
+      "music": 0.0
+    },
+    {
+      "from": 618.28,
+      "to": 623.13,
+      "sid": 215,
+      "location": 2,
+      "content": "储能就是通过整流器收集电荷",
+      "music": 0.0
+    },
+    {
+      "from": 623.13,
+      "to": 628.78,
+      "sid": 216,
+      "location": 2,
+      "content": "然后呢嗯就是存储的能量",
+      "music": 0.0
+    },
+    {
+      "from": 628.78,
+      "to": 631.829,
+      "sid": 217,
+      "location": 2,
+      "content": "通过变换器引线控制到电源的输出端",
+      "music": 0.0
+    },
+    {
+      "from": 631.829,
+      "to": 634.949,
+      "sid": 218,
+      "location": 2,
+      "content": "这个在很多的电源的输出端",
+      "music": 0.0
+    },
+    {
+      "from": 634.949,
+      "to": 639.76,
+      "sid": 219,
+      "location": 2,
+      "content": "它都会有电容作为储能作用",
+      "music": 0.0
+    },
+    {
+      "from": 640.64,
+      "to": 641.98,
+      "sid": 220,
+      "location": 2,
+      "content": "我们来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 641.98,
+      "to": 646.12,
+      "sid": 221,
+      "location": 2,
+      "content": "就是比如说上节课我们画了一个boss的电路",
+      "music": 0.0
+    },
+    {
+      "from": 646.12,
+      "to": 648.18,
+      "sid": 222,
+      "location": 2,
+      "content": "对像这种boss的电路",
+      "music": 0.0
+    },
+    {
+      "from": 648.92,
+      "to": 652.0,
+      "sid": 223,
+      "location": 2,
+      "content": "如果用在电源当中做一个boss电路的话",
+      "music": 0.0
+    },
+    {
+      "from": 652.0,
+      "to": 655.72,
+      "sid": 224,
+      "location": 2,
+      "content": "他可能就是它可能会升压呀升压",
+      "music": 0.0
+    },
+    {
+      "from": 655.72,
+      "to": 658.26,
+      "sid": 225,
+      "location": 2,
+      "content": "然后这边就会一般就会有一个电容",
+      "music": 0.0
+    },
+    {
+      "from": 660.08,
+      "to": 661.93,
+      "sid": 226,
+      "location": 2,
+      "content": "然后呢还有滤波作用",
+      "music": 0.0
+    },
+    {
+      "from": 661.93,
+      "to": 666.15,
+      "sid": 227,
+      "location": 2,
+      "content": "滤波作用其实也是电容的一个呃基本作用啊",
+      "music": 0.0
+    },
+    {
+      "from": 666.15,
+      "to": 668.76,
+      "sid": 228,
+      "location": 2,
+      "content": "就是对于滤波的话",
+      "music": 0.0
+    },
+    {
+      "from": 668.76,
+      "to": 670.9,
+      "sid": 229,
+      "location": 2,
+      "content": "大家就记住",
+      "music": 0.0
+    },
+    {
+      "from": 672.04,
+      "to": 675.24,
+      "sid": 230,
+      "location": 2,
+      "content": "滤波是把一定频段的那个信号",
+      "music": 0.0
+    },
+    {
+      "from": 675.24,
+      "to": 677.54,
+      "sid": 231,
+      "location": 2,
+      "content": "从总信号中去除啊",
+      "music": 0.0
+    },
+    {
+      "from": 677.54,
+      "to": 680.54,
+      "sid": 232,
+      "location": 2,
+      "content": "就是大电容率低频",
+      "music": 0.0
+    },
+    {
+      "from": 680.54,
+      "to": 682.64,
+      "sid": 233,
+      "location": 2,
+      "content": "小电容率高频",
+      "music": 0.0
+    },
+    {
+      "from": 682.64,
+      "to": 686.45,
+      "sid": 234,
+      "location": 2,
+      "content": "这个呢就是相相反的啊",
+      "music": 0.0
+    },
+    {
+      "from": 686.45,
+      "to": 688.18,
+      "sid": 235,
+      "location": 2,
+      "content": "大家可以记一下",
+      "music": 0.0
+    },
+    {
+      "from": 691.08,
+      "to": 692.06,
+      "sid": 236,
+      "location": 2,
+      "content": "这是滤波",
+      "music": 0.0
+    },
+    {
+      "from": 692.06,
+      "to": 695.63,
+      "sid": 237,
+      "location": 2,
+      "content": "我们来看一下例子滤波啊",
+      "music": 0.0
+    },
+    {
+      "from": 695.63,
+      "to": 697.28,
+      "sid": 238,
+      "location": 2,
+      "content": "比如说这个吧",
+      "music": 0.0
+    },
+    {
+      "from": 697.7,
+      "to": 700.04,
+      "sid": 239,
+      "location": 2,
+      "content": "这是一个简单的滤波",
+      "music": 0.0
+    },
+    {
+      "from": 700.04,
+      "to": 701.78,
+      "sid": 240,
+      "location": 2,
+      "content": "这是一个低通滤波",
+      "music": 0.0
+    },
+    {
+      "from": 701.78,
+      "to": 703.46,
+      "sid": 241,
+      "location": 2,
+      "content": "低通滤波是什么呀",
+      "music": 0.0
+    },
+    {
+      "from": 703.46,
+      "to": 707.56,
+      "sid": 242,
+      "location": 2,
+      "content": "低通嘛只允许低频的通过",
+      "music": 0.0
+    },
+    {
+      "from": 707.56,
+      "to": 712.13,
+      "sid": 243,
+      "location": 2,
+      "content": "高频的就给就是给滤滤除",
+      "music": 0.0
+    },
+    {
+      "from": 712.13,
+      "to": 713.87,
+      "sid": 244,
+      "location": 2,
+      "content": "或者是把信号减弱",
+      "music": 0.0
+    },
+    {
+      "from": 713.87,
+      "to": 715.73,
+      "sid": 245,
+      "location": 2,
+      "content": "这是一个低层滤波",
+      "music": 0.0
+    },
+    {
+      "from": 715.73,
+      "to": 719.04,
+      "sid": 246,
+      "location": 2,
+      "content": "然后如果我把这两个换一下",
+      "music": 0.0
+    },
+    {
+      "from": 725.16,
+      "to": 726.359,
+      "sid": 247,
+      "location": 2,
+      "content": "换一下",
+      "music": 0.0
+    },
+    {
+      "from": 727.16,
+      "to": 730.18,
+      "sid": 248,
+      "location": 2,
+      "content": "当然你这个值要再去匹配的啊",
+      "music": 0.0
+    },
+    {
+      "from": 730.18,
+      "to": 733.0,
+      "sid": 249,
+      "location": 2,
+      "content": "并不是说我把元器件换完了",
+      "music": 0.0
+    },
+    {
+      "from": 733.0,
+      "to": 734.86,
+      "sid": 250,
+      "location": 2,
+      "content": "可能就就好使啊",
+      "music": 0.0
+    },
+    {
+      "from": 734.86,
+      "to": 739.74,
+      "sid": 251,
+      "location": 2,
+      "content": "这个值也要看具体的那个应用再做具体的匹配",
+      "music": 0.0
+    },
+    {
+      "from": 741.58,
+      "to": 744.479,
+      "sid": 252,
+      "location": 2,
+      "content": "咱们画的只是一个粗略的那个",
+      "music": 0.0
+    },
+    {
+      "from": 746.1,
+      "to": 753.579,
+      "sid": 253,
+      "location": 2,
+      "content": "原理图像这个就是这是这就是一个高通用户啊",
+      "music": 0.0
+    },
+    {
+      "from": 754.08,
+      "to": 757.92,
+      "sid": 254,
+      "location": 2,
+      "content": "高通滤波就是把低频的滤去",
+      "music": 0.0
+    },
+    {
+      "from": 757.92,
+      "to": 759.12,
+      "sid": 255,
+      "location": 2,
+      "content": "指上高频的",
+      "music": 0.0
+    },
+    {
+      "from": 759.12,
+      "to": 760.68,
+      "sid": 256,
+      "location": 2,
+      "content": "通过高通滤波",
+      "music": 0.0
+    },
+    {
+      "from": 760.68,
+      "to": 763.219,
+      "sid": 257,
+      "location": 2,
+      "content": "然后还有什么作用呢",
+      "music": 0.0
+    },
+    {
+      "from": 763.52,
+      "to": 766.22,
+      "sid": 258,
+      "location": 2,
+      "content": "比如说退偶旁路",
+      "music": 0.0
+    },
+    {
+      "from": 766.22,
+      "to": 769.02,
+      "sid": 259,
+      "location": 2,
+      "content": "其实这个退偶和旁路啊",
+      "music": 0.0
+    },
+    {
+      "from": 769.28,
+      "to": 771.89,
+      "sid": 260,
+      "location": 2,
+      "content": "从本质上来讲",
+      "music": 0.0
+    },
+    {
+      "from": 771.89,
+      "to": 775.52,
+      "sid": 261,
+      "location": 2,
+      "content": "它跟这个滤波没有太大的区别",
+      "music": 0.0
+    },
+    {
+      "from": 775.52,
+      "to": 779.16,
+      "sid": 262,
+      "location": 2,
+      "content": "它就是它俩都是滤除吗",
+      "music": 0.0
+    },
+    {
+      "from": 779.16,
+      "to": 780.6,
+      "sid": 263,
+      "location": 2,
+      "content": "滤滤波都是滤波",
+      "music": 0.0
+    },
+    {
+      "from": 780.6,
+      "to": 782.58,
+      "sid": 264,
+      "location": 2,
+      "content": "但是他俩绿的是高频噪声",
+      "music": 0.0
+    },
+    {
+      "from": 782.58,
+      "to": 786.359,
+      "sid": 265,
+      "location": 2,
+      "content": "就是退伍和旁路都是绿的高频噪声",
+      "music": 0.0
+    },
+    {
+      "from": 787.02,
+      "to": 790.41,
+      "sid": 266,
+      "location": 2,
+      "content": "那么呃tww呢一般都是在那个",
+      "music": 0.0
+    },
+    {
+      "from": 790.41,
+      "to": 794.22,
+      "sid": 267,
+      "location": 2,
+      "content": "比如说大家可以经常看到有一些芯片啊",
+      "music": 0.0
+    },
+    {
+      "from": 794.22,
+      "to": 795.06,
+      "sid": 268,
+      "location": 2,
+      "content": "我看看啊",
+      "music": 0.0
+    },
+    {
+      "from": 795.06,
+      "to": 796.18,
+      "sid": 269,
+      "location": 2,
+      "content": "看一下这个吧",
+      "music": 0.0
+    },
+    {
+      "from": 796.18,
+      "to": 798.31,
+      "sid": 270,
+      "location": 2,
+      "content": "你看有一些芯片芯片",
+      "music": 0.0
+    },
+    {
+      "from": 798.31,
+      "to": 802.9,
+      "sid": 271,
+      "location": 2,
+      "content": "或者是有一些呃弱弱的宫殿低压供电",
+      "music": 0.0
+    },
+    {
+      "from": 802.9,
+      "to": 804.16,
+      "sid": 272,
+      "location": 2,
+      "content": "看这个信号过来",
+      "music": 0.0
+    },
+    {
+      "from": 804.16,
+      "to": 805.0,
+      "sid": 273,
+      "location": 2,
+      "content": "3.3伏啊",
+      "music": 0.0
+    },
+    {
+      "from": 805.0,
+      "to": 807.62,
+      "sid": 274,
+      "location": 2,
+      "content": "它旁边就会有一个呃电容",
+      "music": 0.0
+    },
+    {
+      "from": 807.62,
+      "to": 808.28,
+      "sid": 275,
+      "location": 2,
+      "content": "有电容",
+      "music": 0.0
+    },
+    {
+      "from": 808.28,
+      "to": 810.02,
+      "sid": 276,
+      "location": 2,
+      "content": "这个电容在pcb布板的时候",
+      "music": 0.0
+    },
+    {
+      "from": 810.02,
+      "to": 813.579,
+      "sid": 277,
+      "location": 2,
+      "content": "也要求尽量的挨着这个电源键",
+      "music": 0.0
+    },
+    {
+      "from": 813.9,
+      "to": 819.959,
+      "sid": 278,
+      "location": 2,
+      "content": "它实际上就是起到了一个呃提供这个局部电压",
+      "music": 0.0
+    },
+    {
+      "from": 820.4,
+      "to": 821.54,
+      "sid": 279,
+      "location": 2,
+      "content": "局部电压",
+      "music": 0.0
+    },
+    {
+      "from": 821.54,
+      "to": 826.85,
+      "sid": 280,
+      "location": 2,
+      "content": "就是而且会把这些这个电压过来的时候呃",
+      "music": 0.0
+    },
+    {
+      "from": 826.85,
+      "to": 829.839,
+      "sid": 281,
+      "location": 2,
+      "content": "电路中所带的一些噪声去除",
+      "music": 0.0
+    },
+    {
+      "from": 831.24,
+      "to": 834.02,
+      "sid": 282,
+      "location": 2,
+      "content": "就是去到防止这个电压过来的时候",
+      "music": 0.0
+    },
+    {
+      "from": 834.02,
+      "to": 837.02,
+      "sid": 283,
+      "location": 2,
+      "content": "带的带的那些噪声对整个电路有干扰",
+      "music": 0.0
+    },
+    {
+      "from": 837.02,
+      "to": 839.339,
+      "sid": 284,
+      "location": 2,
+      "content": "实际上就是起到这样一个作用",
+      "music": 0.0
+    },
+    {
+      "from": 839.5,
+      "to": 843.28,
+      "sid": 285,
+      "location": 2,
+      "content": "那么这通常就是退就是退偶电容",
+      "music": 0.0
+    },
+    {
+      "from": 843.28,
+      "to": 846.3,
+      "sid": 286,
+      "location": 2,
+      "content": "那么旁路电容呢",
+      "music": 0.0
+    },
+    {
+      "from": 846.3,
+      "to": 848.16,
+      "sid": 287,
+      "location": 2,
+      "content": "旁路电容其实跟他很像",
+      "music": 0.0
+    },
+    {
+      "from": 848.16,
+      "to": 851.06,
+      "sid": 288,
+      "location": 2,
+      "content": "但是旁路电容呢一般都是在嗯",
+      "music": 0.0
+    },
+    {
+      "from": 851.06,
+      "to": 852.83,
+      "sid": 289,
+      "location": 2,
+      "content": "电路的输入端",
+      "music": 0.0
+    },
+    {
+      "from": 852.83,
+      "to": 854.42,
+      "sid": 290,
+      "location": 2,
+      "content": "输入端用到的",
+      "music": 0.0
+    },
+    {
+      "from": 854.42,
+      "to": 858.28,
+      "sid": 291,
+      "location": 2,
+      "content": "而且就是对于退偶电路电容和旁路电容",
+      "music": 0.0
+    },
+    {
+      "from": 858.28,
+      "to": 860.86,
+      "sid": 292,
+      "location": 2,
+      "content": "他们俩的取值上有区别啊",
+      "music": 0.0
+    },
+    {
+      "from": 860.86,
+      "to": 864.48,
+      "sid": 293,
+      "location": 2,
+      "content": "像那个旁路电容",
+      "music": 0.0
+    },
+    {
+      "from": 864.48,
+      "to": 869.0,
+      "sid": 294,
+      "location": 2,
+      "content": "旁路电容一般都比较大一点",
+      "music": 0.0
+    },
+    {
+      "from": 871.6,
+      "to": 874.89,
+      "sid": 295,
+      "location": 2,
+      "content": "咱们来看一下还有其他的什么作用啊",
+      "music": 0.0
+    },
+    {
+      "from": 874.89,
+      "to": 876.21,
+      "sid": 296,
+      "location": 2,
+      "content": "lca谐振",
+      "music": 0.0
+    },
+    {
+      "from": 876.21,
+      "to": 877.59,
+      "sid": 297,
+      "location": 2,
+      "content": "lc谐振呢",
+      "music": 0.0
+    },
+    {
+      "from": 877.59,
+      "to": 882.42,
+      "sid": 298,
+      "location": 2,
+      "content": "其实在就是有一些做电源的里边经常用到",
+      "music": 0.0
+    },
+    {
+      "from": 883.34,
+      "to": 884.92,
+      "sid": 299,
+      "location": 2,
+      "content": "还有就是电容",
+      "music": 0.0
+    },
+    {
+      "from": 884.92,
+      "to": 886.0,
+      "sid": 300,
+      "location": 2,
+      "content": "还有一些其他的",
+      "music": 0.0
+    },
+    {
+      "from": 886.0,
+      "to": 888.34,
+      "sid": 301,
+      "location": 2,
+      "content": "比如说积分积分电路",
+      "music": 0.0
+    },
+    {
+      "from": 888.34,
+      "to": 889.18,
+      "sid": 302,
+      "location": 2,
+      "content": "积分电路呀",
+      "music": 0.0
+    },
+    {
+      "from": 889.18,
+      "to": 890.08,
+      "sid": 303,
+      "location": 2,
+      "content": "微分电路呀",
+      "music": 0.0
+    },
+    {
+      "from": 890.08,
+      "to": 891.22,
+      "sid": 304,
+      "location": 2,
+      "content": "这是一个积分电路",
+      "music": 0.0
+    },
+    {
+      "from": 891.22,
+      "to": 893.0,
+      "sid": 305,
+      "location": 2,
+      "content": "这就是电容嗯",
+      "music": 0.0
+    },
+    {
+      "from": 893.0,
+      "to": 895.94,
+      "sid": 306,
+      "location": 2,
+      "content": "积分电路还有一些嗯芯片",
+      "music": 0.0
+    },
+    {
+      "from": 895.94,
+      "to": 900.82,
+      "sid": 307,
+      "location": 2,
+      "content": "芯片的那个频率通常是用电容呀",
+      "music": 0.0
+    },
+    {
+      "from": 900.82,
+      "to": 902.839,
+      "sid": 308,
+      "location": 2,
+      "content": "电阻呀来设定的",
+      "music": 0.0
+    },
+    {
+      "from": 902.839,
+      "to": 905.029,
+      "sid": 309,
+      "location": 2,
+      "content": "其实电容的作用挺多的",
+      "music": 0.0
+    },
+    {
+      "from": 905.029,
+      "to": 908.74,
+      "sid": 310,
+      "location": 2,
+      "content": "大家可以根据我的这些啊",
+      "music": 0.0
+    },
+    {
+      "from": 908.74,
+      "to": 910.69,
+      "sid": 311,
+      "location": 2,
+      "content": "就是这几个方面嘛",
+      "music": 0.0
+    },
+    {
+      "from": 910.69,
+      "to": 912.73,
+      "sid": 312,
+      "location": 2,
+      "content": "大家再去总结更多的",
+      "music": 0.0
+    },
+    {
+      "from": 912.73,
+      "to": 916.459,
+      "sid": 313,
+      "location": 2,
+      "content": "然后去看一下有没有更多的那个作用",
+      "music": 0.0
+    },
+    {
+      "from": 917.08,
+      "to": 920.74,
+      "sid": 314,
+      "location": 2,
+      "content": "这是电容的一个基本作用",
+      "music": 0.0
+    },
+    {
+      "from": 920.74,
+      "to": 925.05,
+      "sid": 315,
+      "location": 2,
+      "content": "那么我们学习电容无非是学以致用啊",
+      "music": 0.0
+    },
+    {
+      "from": 925.05,
+      "to": 927.579,
+      "sid": 316,
+      "location": 2,
+      "content": "我们要学会怎么去选择电容",
+      "music": 0.0
+    },
+    {
+      "from": 927.579,
+      "to": 930.879,
+      "sid": 317,
+      "location": 2,
+      "content": "选择电容主要是从电容的功能上面",
+      "music": 0.0
+    },
+    {
+      "from": 930.879,
+      "to": 933.939,
+      "sid": 318,
+      "location": 2,
+      "content": "比如说我们首先要确定这个电容",
+      "music": 0.0
+    },
+    {
+      "from": 933.939,
+      "to": 935.97,
+      "sid": 319,
+      "location": 2,
+      "content": "在这个电路当中呃",
+      "music": 0.0
+    },
+    {
+      "from": 935.97,
+      "to": 937.26,
+      "sid": 320,
+      "location": 2,
+      "content": "用作什么功能",
+      "music": 0.0
+    },
+    {
+      "from": 937.26,
+      "to": 940.54,
+      "sid": 321,
+      "location": 2,
+      "content": "然后我们才去才能去选择它啊",
+      "music": 0.0
+    },
+    {
+      "from": 940.54,
+      "to": 943.21,
+      "sid": 322,
+      "location": 2,
+      "content": "我我用这个电容是做滤波用的",
+      "music": 0.0
+    },
+    {
+      "from": 943.21,
+      "to": 945.92,
+      "sid": 323,
+      "location": 2,
+      "content": "我是滤除高频的",
+      "music": 0.0
+    },
+    {
+      "from": 946.02,
+      "to": 947.1,
+      "sid": 324,
+      "location": 2,
+      "content": "高频段的",
+      "music": 0.0
+    },
+    {
+      "from": 947.1,
+      "to": 948.6,
+      "sid": 325,
+      "location": 2,
+      "content": "还是滤除低频段的",
+      "music": 0.0
+    },
+    {
+      "from": 948.6,
+      "to": 951.39,
+      "sid": 326,
+      "location": 2,
+      "content": "这就跟我选择的电容有关系",
+      "music": 0.0
+    },
+    {
+      "from": 951.39,
+      "to": 955.02,
+      "sid": 327,
+      "location": 2,
+      "content": "比如说我这个电容是用在输入端啊",
+      "music": 0.0
+    },
+    {
+      "from": 955.02,
+      "to": 956.49,
+      "sid": 328,
+      "location": 2,
+      "content": "交流输入端",
+      "music": 0.0
+    },
+    {
+      "from": 956.49,
+      "to": 959.46,
+      "sid": 329,
+      "location": 2,
+      "content": "像这种交流输入端嗯",
+      "music": 0.0
+    },
+    {
+      "from": 959.46,
+      "to": 961.62,
+      "sid": 330,
+      "location": 2,
+      "content": "我就可以选交流输入端",
+      "music": 0.0
+    },
+    {
+      "from": 961.62,
+      "to": 964.22,
+      "sid": 331,
+      "location": 2,
+      "content": "一般都选x电容y电容对吧",
+      "music": 0.0
+    },
+    {
+      "from": 964.22,
+      "to": 969.08,
+      "sid": 332,
+      "location": 2,
+      "content": "我用它来滤除我的共模干扰和差模干扰啊",
+      "music": 0.0
+    },
+    {
+      "from": 969.08,
+      "to": 974.12,
+      "sid": 333,
+      "location": 2,
+      "content": "要根据根据这些x电容和y电容是什么样的",
+      "music": 0.0
+    },
+    {
+      "from": 974.12,
+      "to": 975.2,
+      "sid": 334,
+      "location": 2,
+      "content": "刚才给大家放了",
+      "music": 0.0
+    },
+    {
+      "from": 975.2,
+      "to": 978.06,
+      "sid": 335,
+      "location": 2,
+      "content": "大家可以看一眼啊",
+      "music": 0.0
+    },
+    {
+      "from": 978.06,
+      "to": 979.86,
+      "sid": 336,
+      "location": 2,
+      "content": "这是个x电容啊",
+      "music": 0.0
+    },
+    {
+      "from": 979.86,
+      "to": 980.92,
+      "sid": 337,
+      "location": 2,
+      "content": "就是这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 982.96,
+      "to": 987.15,
+      "sid": 338,
+      "location": 2,
+      "content": "这实际上是实际上就是这些",
+      "music": 0.0
+    },
+    {
+      "from": 987.15,
+      "to": 990.13,
+      "sid": 339,
+      "location": 2,
+      "content": "就是首先我们要根据它的功能呃",
+      "music": 0.0
+    },
+    {
+      "from": 990.13,
+      "to": 992.92,
+      "sid": 340,
+      "location": 2,
+      "content": "然后呢材质材质呢",
+      "music": 0.0
+    },
+    {
+      "from": 992.92,
+      "to": 996.88,
+      "sid": 341,
+      "location": 2,
+      "content": "就是刚才我说的就是不同的那个电容",
+      "music": 0.0
+    },
+    {
+      "from": 996.88,
+      "to": 998.23,
+      "sid": 342,
+      "location": 2,
+      "content": "不同材质的电容",
+      "music": 0.0
+    },
+    {
+      "from": 998.23,
+      "to": 1003.52,
+      "sid": 343,
+      "location": 2,
+      "content": "它可能就是啊功能有所偏向",
+      "music": 0.0
+    },
+    {
+      "from": 1003.52,
+      "to": 1006.6,
+      "sid": 344,
+      "location": 2,
+      "content": "比如说我的电解电容和坦电容",
+      "music": 0.0
+    },
+    {
+      "from": 1006.6,
+      "to": 1007.56,
+      "sid": 345,
+      "location": 2,
+      "content": "坦电容",
+      "music": 0.0
+    },
+    {
+      "from": 1007.56,
+      "to": 1011.4,
+      "sid": 346,
+      "location": 2,
+      "content": "实际上也可以把它理解成是一种电解电容",
+      "music": 0.0
+    },
+    {
+      "from": 1011.4,
+      "to": 1013.56,
+      "sid": 347,
+      "location": 2,
+      "content": "但它俩就有很大的不一样呀",
+      "music": 0.0
+    },
+    {
+      "from": 1013.56,
+      "to": 1014.52,
+      "sid": 348,
+      "location": 2,
+      "content": "材质不一样",
+      "music": 0.0
+    },
+    {
+      "from": 1014.52,
+      "to": 1015.42,
+      "sid": 349,
+      "location": 2,
+      "content": "是不是",
+      "music": 0.0
+    },
+    {
+      "from": 1016.1,
+      "to": 1020.98,
+      "sid": 350,
+      "location": 2,
+      "content": "然后呢电解电容它一般有比较高的耐压值啊",
+      "music": 0.0
+    },
+    {
+      "from": 1020.98,
+      "to": 1024.76,
+      "sid": 351,
+      "location": 2,
+      "content": "弹电容呢他那个e s r可能稍微低一点",
+      "music": 0.0
+    },
+    {
+      "from": 1024.76,
+      "to": 1028.3,
+      "sid": 352,
+      "location": 2,
+      "content": "但是他的那个耐压值很低",
+      "music": 0.0
+    },
+    {
+      "from": 1028.3,
+      "to": 1033.04,
+      "sid": 353,
+      "location": 2,
+      "content": "产低电容好像最高也就是而不能高于16伏",
+      "music": 0.0
+    },
+    {
+      "from": 1033.04,
+      "to": 1036.04,
+      "sid": 354,
+      "location": 2,
+      "content": "目前好像没有高于16伏的台电容",
+      "music": 0.0
+    },
+    {
+      "from": 1036.04,
+      "to": 1038.92,
+      "sid": 355,
+      "location": 2,
+      "content": "这就是根据材质去选择",
+      "music": 0.0
+    },
+    {
+      "from": 1038.92,
+      "to": 1042.839,
+      "sid": 356,
+      "location": 2,
+      "content": "然后呢还有就是咱们最基本的参数",
+      "music": 0.0
+    },
+    {
+      "from": 1042.839,
+      "to": 1044.279,
+      "sid": 357,
+      "location": 2,
+      "content": "电容的一个基本参数",
+      "music": 0.0
+    },
+    {
+      "from": 1044.279,
+      "to": 1047.28,
+      "sid": 358,
+      "location": 2,
+      "content": "电容的容值以及电压耐压值",
+      "music": 0.0
+    },
+    {
+      "from": 1047.28,
+      "to": 1049.29,
+      "sid": 359,
+      "location": 2,
+      "content": "根据这些去选择电容",
+      "music": 0.0
+    },
+    {
+      "from": 1049.29,
+      "to": 1053.5,
+      "sid": 360,
+      "location": 2,
+      "content": "这都是大家在选择电容的时候需要考虑的一点",
+      "music": 0.0
+    },
+    {
+      "from": 1056.92,
+      "to": 1063.46,
+      "sid": 361,
+      "location": 2,
+      "content": "最后呢嗯其实就是想让大家在生活当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 1063.46,
+      "to": 1064.48,
+      "sid": 362,
+      "location": 2,
+      "content": "找一找",
+      "music": 0.0
+    },
+    {
+      "from": 1064.48,
+      "to": 1068.32,
+      "sid": 363,
+      "location": 2,
+      "content": "就是有没有电容影响的影响",
+      "music": 0.0
+    },
+    {
+      "from": 1068.32,
+      "to": 1072.39,
+      "sid": 364,
+      "location": 2,
+      "content": "就是电容能够影响到我们生活当中",
+      "music": 0.0
+    },
+    {
+      "from": 1072.39,
+      "to": 1074.81,
+      "sid": 365,
+      "location": 2,
+      "content": "一些产品的例子",
+      "music": 0.0
+    },
+    {
+      "from": 1074.81,
+      "to": 1076.49,
+      "sid": 366,
+      "location": 2,
+      "content": "其实很好想啊",
+      "music": 0.0
+    },
+    {
+      "from": 1076.49,
+      "to": 1079.31,
+      "sid": 367,
+      "location": 2,
+      "content": "比如说我们有一些电子设备",
+      "music": 0.0
+    },
+    {
+      "from": 1079.31,
+      "to": 1080.99,
+      "sid": 368,
+      "location": 2,
+      "content": "比如说我那个电源模块",
+      "music": 0.0
+    },
+    {
+      "from": 1080.99,
+      "to": 1082.94,
+      "sid": 369,
+      "location": 2,
+      "content": "我插上了之后",
+      "music": 0.0
+    },
+    {
+      "from": 1082.94,
+      "to": 1084.44,
+      "sid": 370,
+      "location": 2,
+      "content": "当我不想用了",
+      "music": 0.0
+    },
+    {
+      "from": 1084.44,
+      "to": 1085.37,
+      "sid": 371,
+      "location": 2,
+      "content": "插上了之后",
+      "music": 0.0
+    },
+    {
+      "from": 1085.37,
+      "to": 1087.17,
+      "sid": 372,
+      "location": 2,
+      "content": "它的显示灯都是亮的",
+      "music": 0.0
+    },
+    {
+      "from": 1087.17,
+      "to": 1089.0,
+      "sid": 373,
+      "location": 2,
+      "content": "但我不想用的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1089.0,
+      "to": 1091.86,
+      "sid": 374,
+      "location": 2,
+      "content": "我把那个电源断开了",
+      "music": 0.0
+    },
+    {
+      "from": 1091.86,
+      "to": 1092.58,
+      "sid": 375,
+      "location": 2,
+      "content": "断开了之后",
+      "music": 0.0
+    },
+    {
+      "from": 1092.58,
+      "to": 1094.92,
+      "sid": 376,
+      "location": 2,
+      "content": "它的显示灯并不是立刻",
+      "music": 0.0
+    },
+    {
+      "from": 1094.92,
+      "to": 1098.22,
+      "sid": 377,
+      "location": 2,
+      "content": "就就是并不是在我拔拔开的瞬间",
+      "music": 0.0
+    },
+    {
+      "from": 1098.22,
+      "to": 1100.98,
+      "sid": 378,
+      "location": 2,
+      "content": "然后那个显示灯就灭掉的",
+      "music": 0.0
+    },
+    {
+      "from": 1100.98,
+      "to": 1105.91,
+      "sid": 379,
+      "location": 2,
+      "content": "而是说显示灯还要闪那么几秒钟才会灭了",
+      "music": 0.0
+    },
+    {
+      "from": 1105.91,
+      "to": 1107.28,
+      "sid": 380,
+      "location": 2,
+      "content": "这是为什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 1107.34,
+      "to": 1110.52,
+      "sid": 381,
+      "location": 2,
+      "content": "就是因为它里边会有一些电容啊",
+      "music": 0.0
+    },
+    {
+      "from": 1110.52,
+      "to": 1113.55,
+      "sid": 382,
+      "location": 2,
+      "content": "可能这些电容并不是储能用的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1113.55,
+      "to": 1116.67,
+      "sid": 383,
+      "location": 2,
+      "content": "也有可能是滤波或者是其他作用的",
+      "music": 0.0
+    },
+    {
+      "from": 1116.67,
+      "to": 1118.47,
+      "sid": 384,
+      "location": 2,
+      "content": "但是因为里边是有电容的",
+      "music": 0.0
+    },
+    {
+      "from": 1118.47,
+      "to": 1121.94,
+      "sid": 385,
+      "location": 2,
+      "content": "所以它这个灯要等到电容里边的电量",
+      "music": 0.0
+    },
+    {
+      "from": 1121.94,
+      "to": 1123.02,
+      "sid": 386,
+      "location": 2,
+      "content": "释放完了之后",
+      "music": 0.0
+    },
+    {
+      "from": 1123.02,
+      "to": 1124.419,
+      "sid": 387,
+      "location": 2,
+      "content": "这个灯才会灭",
+      "music": 0.0
+    },
+    {
+      "from": 1124.82,
+      "to": 1125.9,
+      "sid": 388,
+      "location": 2,
+      "content": "另外一点呢",
+      "music": 0.0
+    },
+    {
+      "from": 1125.9,
+      "to": 1128.59,
+      "sid": 389,
+      "location": 2,
+      "content": "还有就是我们在听一些",
+      "music": 0.0
+    },
+    {
+      "from": 1128.59,
+      "to": 1131.23,
+      "sid": 390,
+      "location": 2,
+      "content": "就是现在好像很少了",
+      "music": 0.0
+    },
+    {
+      "from": 1131.23,
+      "to": 1133.93,
+      "sid": 391,
+      "location": 2,
+      "content": "原来我们在听那些随身听的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1133.93,
+      "to": 1138.5,
+      "sid": 392,
+      "location": 2,
+      "content": "就是如果我们买的比较差一点的那种随身听",
+      "music": 0.0
+    },
+    {
+      "from": 1138.5,
+      "to": 1141.56,
+      "sid": 393,
+      "location": 2,
+      "content": "我们会觉得它里边的噪音特别大啊",
+      "music": 0.0
+    },
+    {
+      "from": 1141.56,
+      "to": 1146.39,
+      "sid": 394,
+      "location": 2,
+      "content": "实际上就是里边的他一个呃滤波没有做好",
+      "music": 0.0
+    },
+    {
+      "from": 1146.39,
+      "to": 1149.78,
+      "sid": 395,
+      "location": 2,
+      "content": "然后我们当我们在用那个耳机听的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1149.78,
+      "to": 1153.46,
+      "sid": 396,
+      "location": 2,
+      "content": "就会出现就是很大的噪声啊",
+      "music": 0.0
+    },
+    {
+      "from": 1153.46,
+      "to": 1154.75,
+      "sid": 397,
+      "location": 2,
+      "content": "音质特别不好",
+      "music": 0.0
+    },
+    {
+      "from": 1154.75,
+      "to": 1156.52,
+      "sid": 398,
+      "location": 2,
+      "content": "实际上就是里边的滤波不好",
+      "music": 0.0
+    },
+    {
+      "from": 1156.52,
+      "to": 1158.62,
+      "sid": 399,
+      "location": 2,
+      "content": "在我们调电源模块的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1158.62,
+      "to": 1161.63,
+      "sid": 400,
+      "location": 2,
+      "content": "如果我们的某一部分做的不好的话",
+      "music": 0.0
+    },
+    {
+      "from": 1161.63,
+      "to": 1164.63,
+      "sid": 401,
+      "location": 2,
+      "content": "我们的电容选的不合适的话",
+      "music": 0.0
+    },
+    {
+      "from": 1164.63,
+      "to": 1168.68,
+      "sid": 402,
+      "location": 2,
+      "content": "就很容易就是发出那种滋滋的噪声啊",
+      "music": 0.0
+    },
+    {
+      "from": 1168.68,
+      "to": 1170.96,
+      "sid": 403,
+      "location": 2,
+      "content": "这都是电容的一些特点",
+      "music": 0.0
+    },
+    {
+      "from": 1170.96,
+      "to": 1174.42,
+      "sid": 404,
+      "location": 2,
+      "content": "希望大家也啊在课下思考一下",
+      "music": 0.0
+    },
+    {
+      "from": 1174.42,
+      "to": 1177.72,
+      "sid": 405,
+      "location": 2,
+      "content": "就是看看我们生活当中还有哪些电容",
+      "music": 0.0
+    },
+    {
+      "from": 1177.72,
+      "to": 1180.09,
+      "sid": 406,
+      "location": 2,
+      "content": "影响我们生活的一些小例子",
+      "music": 0.0
+    },
+    {
+      "from": 1180.09,
+      "to": 1183.36,
+      "sid": 407,
+      "location": 2,
+      "content": "这也是给大家留的一个课后思考题",
+      "music": 0.0
+    },
+    {
+      "from": 1183.38,
+      "to": 1186.12,
+      "sid": 408,
+      "location": 2,
+      "content": "嗯那么电容呢今天就先讲到这儿",
+      "music": 0.0
+    }
+  ]
+}

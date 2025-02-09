@@ -1,0 +1,2788 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 0.94,
+      "to": 4.75,
+      "sid": 1,
+      "location": 2,
+      "content": "接下来在二极管提高篇给大家讲一下整流桥",
+      "music": 0.0
+    },
+    {
+      "from": 4.75,
+      "to": 7.12,
+      "sid": 2,
+      "location": 2,
+      "content": "整流桥是我们在整流电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 7.12,
+      "to": 9.66,
+      "sid": 3,
+      "location": 2,
+      "content": "经常用到的一个元器件",
+      "music": 0.0
+    },
+    {
+      "from": 9.66,
+      "to": 12.84,
+      "sid": 4,
+      "location": 2,
+      "content": "那么首先我们来认识一下什么是整流桥",
+      "music": 0.0
+    },
+    {
+      "from": 19.699,
+      "to": 23.739,
+      "sid": 5,
+      "location": 2,
+      "content": "整流桥呢实际上就是由四个二极管组成的",
+      "music": 0.0
+    },
+    {
+      "from": 23.739,
+      "to": 26.99,
+      "sid": 6,
+      "location": 2,
+      "content": "一个组成的一个元器件",
+      "music": 0.0
+    },
+    {
+      "from": 26.99,
+      "to": 30.34,
+      "sid": 7,
+      "location": 2,
+      "content": "对于它的结构呢实际上是非常简单的",
+      "music": 0.0
+    },
+    {
+      "from": 31.6,
+      "to": 34.92,
+      "sid": 8,
+      "location": 2,
+      "content": "这就是一个含有整流桥的一个电路啊",
+      "music": 0.0
+    },
+    {
+      "from": 34.92,
+      "to": 37.14,
+      "sid": 9,
+      "location": 2,
+      "content": "这边输入的是一个交流电",
+      "music": 0.0
+    },
+    {
+      "from": 37.14,
+      "to": 38.66,
+      "sid": 10,
+      "location": 2,
+      "content": "经过一个变压器",
+      "music": 0.0
+    },
+    {
+      "from": 38.66,
+      "to": 39.62,
+      "sid": 11,
+      "location": 2,
+      "content": "变压器",
+      "music": 0.0
+    },
+    {
+      "from": 39.62,
+      "to": 42.279,
+      "sid": 12,
+      "location": 2,
+      "content": "然后经过整流桥把它整流成",
+      "music": 0.0
+    },
+    {
+      "from": 46.36,
+      "to": 48.51,
+      "sid": 13,
+      "location": 2,
+      "content": "整流成一个馒头波",
+      "music": 0.0
+    },
+    {
+      "from": 48.51,
+      "to": 50.379,
+      "sid": 14,
+      "location": 2,
+      "content": "然后经过一个滤波",
+      "music": 0.0
+    },
+    {
+      "from": 50.6,
+      "to": 54.38,
+      "sid": 15,
+      "location": 2,
+      "content": "然后再经过一个7805的一个稳压",
+      "music": 0.0
+    },
+    {
+      "from": 54.38,
+      "to": 56.85,
+      "sid": 16,
+      "location": 2,
+      "content": "最终输出5伏的一个电源",
+      "music": 0.0
+    },
+    {
+      "from": 56.85,
+      "to": 59.73,
+      "sid": 17,
+      "location": 2,
+      "content": "这就是整流桥的一个典型的应用图",
+      "music": 0.0
+    },
+    {
+      "from": 59.73,
+      "to": 62.31,
+      "sid": 18,
+      "location": 2,
+      "content": "那么我们在这个图纸当中可以看到啊",
+      "music": 0.0
+    },
+    {
+      "from": 62.31,
+      "to": 65.82,
+      "sid": 19,
+      "location": 2,
+      "content": "其实整流桥这个整流桥这个器件",
+      "music": 0.0
+    },
+    {
+      "from": 65.82,
+      "to": 68.04,
+      "sid": 20,
+      "location": 2,
+      "content": "实际上就是由四个二极管组成的",
+      "music": 0.0
+    },
+    {
+      "from": 68.04,
+      "to": 70.7,
+      "sid": 21,
+      "location": 2,
+      "content": "在一些小功率的一个呃",
+      "music": 0.0
+    },
+    {
+      "from": 70.7,
+      "to": 72.94,
+      "sid": 22,
+      "location": 2,
+      "content": "在大功率的一些电路当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 72.94,
+      "to": 75.1,
+      "sid": 23,
+      "location": 2,
+      "content": "我们可以用一些集成的整流桥",
+      "music": 0.0
+    },
+    {
+      "from": 75.1,
+      "to": 78.52,
+      "sid": 24,
+      "location": 2,
+      "content": "也就是说内部已经集成了四个二极管功能的",
+      "music": 0.0
+    },
+    {
+      "from": 78.52,
+      "to": 80.48,
+      "sid": 25,
+      "location": 2,
+      "content": "这样一个整流桥元器件",
+      "music": 0.0
+    },
+    {
+      "from": 80.48,
+      "to": 83.42,
+      "sid": 26,
+      "location": 2,
+      "content": "在对于一些小功率的元器件当中",
+      "music": 0.0
+    },
+    {
+      "from": 83.42,
+      "to": 85.739,
+      "sid": 27,
+      "location": 2,
+      "content": "如果我们为了降低成本呀",
+      "music": 0.0
+    },
+    {
+      "from": 85.739,
+      "to": 87.089,
+      "sid": 28,
+      "location": 2,
+      "content": "使用方便呀等等",
+      "music": 0.0
+    },
+    {
+      "from": 87.089,
+      "to": 91.079,
+      "sid": 29,
+      "location": 2,
+      "content": "我们可以就去在电路当中用四个二极管来搭建",
+      "music": 0.0
+    },
+    {
+      "from": 91.079,
+      "to": 94.7,
+      "sid": 30,
+      "location": 2,
+      "content": "这样一个具有整流桥整流效果的一个电路",
+      "music": 0.0
+    },
+    {
+      "from": 95.04,
+      "to": 97.8,
+      "sid": 31,
+      "location": 2,
+      "content": "那么对于整流桥的原理呢",
+      "music": 0.0
+    },
+    {
+      "from": 97.8,
+      "to": 100.6,
+      "sid": 32,
+      "location": 2,
+      "content": "实际上我们前面已经讲过了",
+      "music": 0.0
+    },
+    {
+      "from": 100.6,
+      "to": 102.43,
+      "sid": 33,
+      "location": 2,
+      "content": "有二极管的原理",
+      "music": 0.0
+    },
+    {
+      "from": 102.43,
+      "to": 105.94,
+      "sid": 34,
+      "location": 2,
+      "content": "那么现在实际上我们在用二极管的那个",
+      "music": 0.0
+    },
+    {
+      "from": 105.94,
+      "to": 109.3,
+      "sid": 35,
+      "location": 2,
+      "content": "原理和思想来考虑这个整流桥的原理",
+      "music": 0.0
+    },
+    {
+      "from": 109.3,
+      "to": 111.46,
+      "sid": 36,
+      "location": 2,
+      "content": "实际上是比较容易理解的",
+      "music": 0.0
+    },
+    {
+      "from": 111.46,
+      "to": 114.75,
+      "sid": 37,
+      "location": 2,
+      "content": "我们先来看一下这个整流桥电路图",
+      "music": 0.0
+    },
+    {
+      "from": 114.75,
+      "to": 115.53,
+      "sid": 38,
+      "location": 2,
+      "content": "可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 115.53,
+      "to": 117.57,
+      "sid": 39,
+      "location": 2,
+      "content": "这跟刚才那个实际上是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 117.57,
+      "to": 119.55,
+      "sid": 40,
+      "location": 2,
+      "content": "跟我们上面这个电路实际上是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 119.55,
+      "to": 121.81,
+      "sid": 41,
+      "location": 2,
+      "content": "就是交流通过变压器",
+      "music": 0.0
+    },
+    {
+      "from": 121.81,
+      "to": 124.5,
+      "sid": 42,
+      "location": 2,
+      "content": "然后连到这边来要整流",
+      "music": 0.0
+    },
+    {
+      "from": 124.5,
+      "to": 130.26,
+      "sid": 43,
+      "location": 2,
+      "content": "那么这呢实际上就是我们就是一个正常的一个",
+      "music": 0.0
+    },
+    {
+      "from": 131.6,
+      "to": 134.16,
+      "sid": 44,
+      "location": 2,
+      "content": "交流的一个正弦波对吧",
+      "music": 0.0
+    },
+    {
+      "from": 134.82,
+      "to": 138.83,
+      "sid": 45,
+      "location": 2,
+      "content": "然后看一下电流是怎么通过整流桥来进行",
+      "music": 0.0
+    },
+    {
+      "from": 138.83,
+      "to": 139.88,
+      "sid": 46,
+      "location": 2,
+      "content": "工作的",
+      "music": 0.0
+    },
+    {
+      "from": 139.88,
+      "to": 141.88,
+      "sid": 47,
+      "location": 2,
+      "content": "我们这边输入进来",
+      "music": 0.0
+    },
+    {
+      "from": 142.66,
+      "to": 146.62,
+      "sid": 48,
+      "location": 2,
+      "content": "我们知道这个二极管是有单向导通性的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 147.36,
+      "to": 149.36,
+      "sid": 49,
+      "location": 2,
+      "content": "单向导通我们看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 149.36,
+      "to": 152.16,
+      "sid": 50,
+      "location": 2,
+      "content": "它是经过这a过来",
+      "music": 0.0
+    },
+    {
+      "from": 159.42,
+      "to": 160.97,
+      "sid": 51,
+      "location": 2,
+      "content": "形成一个回路",
+      "music": 0.0
+    },
+    {
+      "from": 160.97,
+      "to": 164.57,
+      "sid": 52,
+      "location": 2,
+      "content": "这就是当我在正半轴的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 164.57,
+      "to": 166.96,
+      "sid": 53,
+      "location": 2,
+      "content": "这是我正半轴的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 167.019,
+      "to": 168.879,
+      "sid": 54,
+      "location": 2,
+      "content": "他是这样流流动的",
+      "music": 0.0
+    },
+    {
+      "from": 168.879,
+      "to": 171.279,
+      "sid": 55,
+      "location": 2,
+      "content": "我整个回路是这样形成一个回路的",
+      "music": 0.0
+    },
+    {
+      "from": 171.279,
+      "to": 176.7,
+      "sid": 56,
+      "location": 2,
+      "content": "要经过一个v一和v3 哎来形成回路",
+      "music": 0.0
+    },
+    {
+      "from": 176.7,
+      "to": 179.31,
+      "sid": 57,
+      "location": 2,
+      "content": "当我在负半周的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 179.31,
+      "to": 180.45,
+      "sid": 58,
+      "location": 2,
+      "content": "我是怎么工作的呢",
+      "music": 0.0
+    },
+    {
+      "from": 180.45,
+      "to": 181.26,
+      "sid": 59,
+      "location": 2,
+      "content": "我们看一下",
+      "music": 0.0
+    },
+    {
+      "from": 181.26,
+      "to": 183.4,
+      "sid": 60,
+      "location": 2,
+      "content": "当我在负半周的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 183.64,
+      "to": 185.56,
+      "sid": 61,
+      "location": 2,
+      "content": "说在这半轴的情况",
+      "music": 0.0
+    },
+    {
+      "from": 185.56,
+      "to": 186.73,
+      "sid": 62,
+      "location": 2,
+      "content": "负半轴的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 186.73,
+      "to": 190.21,
+      "sid": 63,
+      "location": 2,
+      "content": "负半周的情况实际上是我这段输的是正对吧",
+      "music": 0.0
+    },
+    {
+      "from": 190.21,
+      "to": 192.42,
+      "sid": 64,
+      "location": 2,
+      "content": "它实际上是这样工作的",
+      "music": 0.0
+    },
+    {
+      "from": 199.54,
+      "to": 200.94,
+      "sid": 65,
+      "location": 2,
+      "content": "这样形成一个回路",
+      "music": 0.0
+    },
+    {
+      "from": 200.94,
+      "to": 204.18,
+      "sid": 66,
+      "location": 2,
+      "content": "这就是我在负半轴的情况下啊",
+      "music": 0.0
+    },
+    {
+      "from": 204.66,
+      "to": 206.64,
+      "sid": 67,
+      "location": 2,
+      "content": "对这个原部进行了一个",
+      "music": 0.0
+    },
+    {
+      "from": 207.9,
+      "to": 210.42,
+      "sid": 68,
+      "location": 2,
+      "content": "通过整流桥的一个形成的一个回路",
+      "music": 0.0
+    },
+    {
+      "from": 211.559,
+      "to": 214.78,
+      "sid": 69,
+      "location": 2,
+      "content": "那么可以通过这个图纸我们看到啊",
+      "music": 0.0
+    },
+    {
+      "from": 214.78,
+      "to": 216.61,
+      "sid": 70,
+      "location": 2,
+      "content": "经过整流",
+      "music": 0.0
+    },
+    {
+      "from": 216.61,
+      "to": 218.56,
+      "sid": 71,
+      "location": 2,
+      "content": "我们看经过整流",
+      "music": 0.0
+    },
+    {
+      "from": 218.56,
+      "to": 221.14,
+      "sid": 72,
+      "location": 2,
+      "content": "我这个正弦波变成了馒头",
+      "music": 0.0
+    },
+    {
+      "from": 221.14,
+      "to": 223.149,
+      "sid": 73,
+      "location": 2,
+      "content": "不对吧",
+      "music": 0.0
+    },
+    {
+      "from": 223.149,
+      "to": 225.579,
+      "sid": 74,
+      "location": 2,
+      "content": "实际上是把下面这一部分折上去了",
+      "music": 0.0
+    },
+    {
+      "from": 225.579,
+      "to": 226.9,
+      "sid": 75,
+      "location": 2,
+      "content": "变成了馒头果",
+      "music": 0.0
+    },
+    {
+      "from": 228.6,
+      "to": 230.12,
+      "sid": 76,
+      "location": 2,
+      "content": "这是它的整流电压",
+      "music": 0.0
+    },
+    {
+      "from": 230.12,
+      "to": 231.86,
+      "sid": 77,
+      "location": 2,
+      "content": "这是它的整流电流",
+      "music": 0.0
+    },
+    {
+      "from": 235.02,
+      "to": 237.92,
+      "sid": 78,
+      "location": 2,
+      "content": "桥式整流电路的电压电流波形啊",
+      "music": 0.0
+    },
+    {
+      "from": 237.92,
+      "to": 240.98,
+      "sid": 79,
+      "location": 2,
+      "content": "我们在电路图绘制当中可以化成这种形式",
+      "music": 0.0
+    },
+    {
+      "from": 240.98,
+      "to": 243.3,
+      "sid": 80,
+      "location": 2,
+      "content": "这是一个简化的一个电路图",
+      "music": 0.0
+    },
+    {
+      "from": 243.3,
+      "to": 246.0,
+      "sid": 81,
+      "location": 2,
+      "content": "那么对于这个整流桥的应用呢啊",
+      "music": 0.0
+    },
+    {
+      "from": 246.0,
+      "to": 248.4,
+      "sid": 82,
+      "location": 2,
+      "content": "我们要考虑整流桥的一个散热",
+      "music": 0.0
+    },
+    {
+      "from": 248.72,
+      "to": 251.19,
+      "sid": 83,
+      "location": 2,
+      "content": "尤其是在大功率电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 251.19,
+      "to": 252.99,
+      "sid": 84,
+      "location": 2,
+      "content": "整流桥通过大电流的时候",
+      "music": 0.0
+    },
+    {
+      "from": 252.99,
+      "to": 255.15,
+      "sid": 85,
+      "location": 2,
+      "content": "我们要考虑整流桥的散热",
+      "music": 0.0
+    },
+    {
+      "from": 255.15,
+      "to": 257.01,
+      "sid": 86,
+      "location": 2,
+      "content": "必要的时候再整整",
+      "music": 0.0
+    },
+    {
+      "from": 257.01,
+      "to": 258.03,
+      "sid": 87,
+      "location": 2,
+      "content": "如果说功率比较小",
+      "music": 0.0
+    },
+    {
+      "from": 258.03,
+      "to": 261.279,
+      "sid": 88,
+      "location": 2,
+      "content": "我们可以把用那种贴片式的整流桥",
+      "music": 0.0
+    },
+    {
+      "from": 261.279,
+      "to": 262.989,
+      "sid": 89,
+      "location": 2,
+      "content": "然后通过板散热",
+      "music": 0.0
+    },
+    {
+      "from": 262.989,
+      "to": 265.45,
+      "sid": 90,
+      "location": 2,
+      "content": "如果对于一个大功率比较大",
+      "music": 0.0
+    },
+    {
+      "from": 265.45,
+      "to": 266.83,
+      "sid": 91,
+      "location": 2,
+      "content": "大电流的一个整流桥",
+      "music": 0.0
+    },
+    {
+      "from": 266.83,
+      "to": 270.01,
+      "sid": 92,
+      "location": 2,
+      "content": "我们就需要加整流桥的后面加上散热片",
+      "music": 0.0
+    },
+    {
+      "from": 270.01,
+      "to": 274.09,
+      "sid": 93,
+      "location": 2,
+      "content": "然后来对整流桥进行一个散热处理",
+      "music": 0.0
+    },
+    {
+      "from": 274.09,
+      "to": 277.03,
+      "sid": 94,
+      "location": 2,
+      "content": "这就是整流桥的一个基础的定义",
+      "music": 0.0
+    },
+    {
+      "from": 277.03,
+      "to": 279.12,
+      "sid": 95,
+      "location": 2,
+      "content": "以及原理的介绍",
+      "music": 0.0
+    },
+    {
+      "from": 279.12,
+      "to": 281.61,
+      "sid": 96,
+      "location": 2,
+      "content": "我们下面来看一下整流桥的参数",
+      "music": 0.0
+    },
+    {
+      "from": 281.61,
+      "to": 283.28,
+      "sid": 97,
+      "location": 2,
+      "content": "以及整流桥血型",
+      "music": 0.0
+    },
+    {
+      "from": 283.28,
+      "to": 284.84,
+      "sid": 98,
+      "location": 2,
+      "content": "整流桥的参数",
+      "music": 0.0
+    },
+    {
+      "from": 284.84,
+      "to": 289.16,
+      "sid": 99,
+      "location": 2,
+      "content": "实际上跟我们之前学的那个二极管的参数",
+      "music": 0.0
+    },
+    {
+      "from": 289.16,
+      "to": 290.39,
+      "sid": 100,
+      "location": 2,
+      "content": "就很相像了",
+      "music": 0.0
+    },
+    {
+      "from": 290.39,
+      "to": 291.59,
+      "sid": 101,
+      "location": 2,
+      "content": "正向电流",
+      "music": 0.0
+    },
+    {
+      "from": 291.59,
+      "to": 292.58,
+      "sid": 102,
+      "location": 2,
+      "content": "反向耐压",
+      "music": 0.0
+    },
+    {
+      "from": 292.58,
+      "to": 293.63,
+      "sid": 103,
+      "location": 2,
+      "content": "反向漏漏",
+      "music": 0.0
+    },
+    {
+      "from": 293.63,
+      "to": 295.11,
+      "sid": 104,
+      "location": 2,
+      "content": "电流和正向压降",
+      "music": 0.0
+    },
+    {
+      "from": 295.11,
+      "to": 298.35,
+      "sid": 105,
+      "location": 2,
+      "content": "这些我们在前面二极管的介绍当中",
+      "music": 0.0
+    },
+    {
+      "from": 298.35,
+      "to": 299.82,
+      "sid": 106,
+      "location": 2,
+      "content": "已经都有讲解了",
+      "music": 0.0
+    },
+    {
+      "from": 299.82,
+      "to": 302.07,
+      "sid": 107,
+      "location": 2,
+      "content": "那么我们在整流桥的选项当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 302.07,
+      "to": 306.07,
+      "sid": 108,
+      "location": 2,
+      "content": "主要是考虑电压和电流啊",
+      "music": 0.0
+    },
+    {
+      "from": 306.07,
+      "to": 307.78,
+      "sid": 109,
+      "location": 2,
+      "content": "它能承受的一个电流",
+      "music": 0.0
+    },
+    {
+      "from": 307.78,
+      "to": 309.71,
+      "sid": 110,
+      "location": 2,
+      "content": "以及它能承受的一个耐压值",
+      "music": 0.0
+    },
+    {
+      "from": 310.25,
+      "to": 312.65,
+      "sid": 111,
+      "location": 2,
+      "content": "根据它的这些参数来进行选择的",
+      "music": 0.0
+    },
+    {
+      "from": 312.65,
+      "to": 314.27,
+      "sid": 112,
+      "location": 2,
+      "content": "实际上这我就不多说了",
+      "music": 0.0
+    },
+    {
+      "from": 314.27,
+      "to": 316.939,
+      "sid": 113,
+      "location": 2,
+      "content": "这个大家应该比较容易理解",
+      "music": 0.0
+    },
+    {
+      "from": 316.939,
+      "to": 320.78,
+      "sid": 114,
+      "location": 2,
+      "content": "我们下面主要来讲一下整流桥的应用",
+      "music": 0.0
+    },
+    {
+      "from": 320.78,
+      "to": 323.54,
+      "sid": 115,
+      "location": 2,
+      "content": "那么我们知道在我们的实际电路当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 323.54,
+      "to": 325.4,
+      "sid": 116,
+      "location": 2,
+      "content": "有半波整流",
+      "music": 0.0
+    },
+    {
+      "from": 325.4,
+      "to": 326.78,
+      "sid": 117,
+      "location": 2,
+      "content": "通过整流桥应用",
+      "music": 0.0
+    },
+    {
+      "from": 326.78,
+      "to": 327.98,
+      "sid": 118,
+      "location": 2,
+      "content": "我们来引申一下",
+      "music": 0.0
+    },
+    {
+      "from": 327.98,
+      "to": 330.26,
+      "sid": 119,
+      "location": 2,
+      "content": "我们就是来学习一下半波整流",
+      "music": 0.0
+    },
+    {
+      "from": 330.26,
+      "to": 332.28,
+      "sid": 120,
+      "location": 2,
+      "content": "全波整流以及桥式整流",
+      "music": 0.0
+    },
+    {
+      "from": 333.78,
+      "to": 338.3,
+      "sid": 121,
+      "location": 2,
+      "content": "我们先来理解一下这几个整流的方式",
+      "music": 0.0
+    },
+    {
+      "from": 339.42,
+      "to": 342.85,
+      "sid": 122,
+      "location": 2,
+      "content": "我们先来看一下半波整流",
+      "music": 0.0
+    },
+    {
+      "from": 342.85,
+      "to": 344.95,
+      "sid": 123,
+      "location": 2,
+      "content": "这就是半波整流的一个原理",
+      "music": 0.0
+    },
+    {
+      "from": 344.95,
+      "to": 347.6,
+      "sid": 124,
+      "location": 2,
+      "content": "一个也有原理图电路图啊",
+      "music": 0.0
+    },
+    {
+      "from": 347.6,
+      "to": 350.03,
+      "sid": 125,
+      "location": 2,
+      "content": "这边是一个220伏的输入",
+      "music": 0.0
+    },
+    {
+      "from": 350.03,
+      "to": 354.239,
+      "sid": 126,
+      "location": 2,
+      "content": "那么这边的变压器中间有个抽头啊",
+      "music": 0.0
+    },
+    {
+      "from": 354.239,
+      "to": 362.31,
+      "sid": 127,
+      "location": 2,
+      "content": "它这个是原电电源变压器整流二极管负载电阻",
+      "music": 0.0
+    },
+    {
+      "from": 362.31,
+      "to": 363.68,
+      "sid": 128,
+      "location": 2,
+      "content": "那么呢",
+      "music": 0.0
+    },
+    {
+      "from": 368.98,
+      "to": 372.04,
+      "sid": 129,
+      "location": 2,
+      "content": "变压器呢是要把试点啊",
+      "music": 0.0
+    },
+    {
+      "from": 372.84,
+      "to": 374.33,
+      "sid": 130,
+      "location": 2,
+      "content": "这打错了",
+      "music": 0.0
+    },
+    {
+      "from": 374.33,
+      "to": 378.28,
+      "sid": 131,
+      "location": 2,
+      "content": "变压器是要把试试电",
+      "music": 0.0
+    },
+    {
+      "from": 390.36,
+      "to": 394.34,
+      "sid": 132,
+      "location": 2,
+      "content": "变压器需要把市电转换成所需要的交变电压",
+      "music": 0.0
+    },
+    {
+      "from": 394.34,
+      "to": 397.52,
+      "sid": 133,
+      "location": 2,
+      "content": "e2 e2 实际上就是这一点的电压",
+      "music": 0.0
+    },
+    {
+      "from": 397.52,
+      "to": 398.2,
+      "sid": 134,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 398.479,
+      "to": 401.819,
+      "sid": 135,
+      "location": 2,
+      "content": "这两端的电压哦",
+      "music": 0.0
+    },
+    {
+      "from": 401.819,
+      "to": 403.619,
+      "sid": 136,
+      "location": 2,
+      "content": "先是转换成这两类的经验",
+      "music": 0.0
+    },
+    {
+      "from": 403.619,
+      "to": 408.98,
+      "sid": 137,
+      "location": 2,
+      "content": "然后二极管再把交流转换成交流电",
+      "music": 0.0
+    },
+    {
+      "from": 408.98,
+      "to": 411.44,
+      "sid": 138,
+      "location": 2,
+      "content": "转换成脉动的直流电",
+      "music": 0.0
+    },
+    {
+      "from": 413.06,
+      "to": 414.7,
+      "sid": 139,
+      "location": 2,
+      "content": "整流的波形我们看一下",
+      "music": 0.0
+    },
+    {
+      "from": 414.7,
+      "to": 415.54,
+      "sid": 140,
+      "location": 2,
+      "content": "实际上是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 415.54,
+      "to": 422.58,
+      "sid": 141,
+      "location": 2,
+      "content": "跟前面我们讲那个整流桥的那个图纸是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 422.58,
+      "to": 423.36,
+      "sid": 142,
+      "location": 2,
+      "content": "看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 423.36,
+      "to": 424.5,
+      "sid": 143,
+      "location": 2,
+      "content": "这是市电输入",
+      "music": 0.0
+    },
+    {
+      "from": 424.5,
+      "to": 426.54,
+      "sid": 144,
+      "location": 2,
+      "content": "市电输入是一个正弦波",
+      "music": 0.0
+    },
+    {
+      "from": 426.54,
+      "to": 427.52,
+      "sid": 145,
+      "location": 2,
+      "content": "正弦波",
+      "music": 0.0
+    },
+    {
+      "from": 431.9,
+      "to": 434.92,
+      "sid": 146,
+      "location": 2,
+      "content": "经过这个二极管的整流之后",
+      "music": 0.0
+    },
+    {
+      "from": 434.92,
+      "to": 436.9,
+      "sid": 147,
+      "location": 2,
+      "content": "也就是说我只有在正半周的时候",
+      "music": 0.0
+    },
+    {
+      "from": 436.9,
+      "to": 439.74,
+      "sid": 148,
+      "location": 2,
+      "content": "你看只有在正半周的时候",
+      "music": 0.0
+    },
+    {
+      "from": 439.74,
+      "to": 442.65,
+      "sid": 149,
+      "location": 2,
+      "content": "正半周的时候它是单向导通的",
+      "music": 0.0
+    },
+    {
+      "from": 442.65,
+      "to": 444.36,
+      "sid": 150,
+      "location": 2,
+      "content": "当我在负半周的时候",
+      "music": 0.0
+    },
+    {
+      "from": 444.36,
+      "to": 445.47,
+      "sid": 151,
+      "location": 2,
+      "content": "我这边就是正",
+      "music": 0.0
+    },
+    {
+      "from": 445.47,
+      "to": 447.06,
+      "sid": 152,
+      "location": 2,
+      "content": "那我这样通是不通",
+      "music": 0.0
+    },
+    {
+      "from": 447.06,
+      "to": 447.81,
+      "sid": 153,
+      "location": 2,
+      "content": "通不过的",
+      "music": 0.0
+    },
+    {
+      "from": 447.81,
+      "to": 448.89,
+      "sid": 154,
+      "location": 2,
+      "content": "这边是截止的",
+      "music": 0.0
+    },
+    {
+      "from": 448.89,
+      "to": 451.22,
+      "sid": 155,
+      "location": 2,
+      "content": "所以说我只有在正半轴的时候",
+      "music": 0.0
+    },
+    {
+      "from": 451.22,
+      "to": 454.429,
+      "sid": 156,
+      "location": 2,
+      "content": "他是可以整整流的",
+      "music": 0.0
+    },
+    {
+      "from": 454.429,
+      "to": 456.799,
+      "sid": 157,
+      "location": 2,
+      "content": "所以说呢这就是一个半波整流",
+      "music": 0.0
+    },
+    {
+      "from": 456.799,
+      "to": 457.819,
+      "sid": 158,
+      "location": 2,
+      "content": "所谓的半波整流",
+      "music": 0.0
+    },
+    {
+      "from": 457.819,
+      "to": 459.48,
+      "sid": 159,
+      "location": 2,
+      "content": "负半周的时候整流不了",
+      "music": 0.0
+    },
+    {
+      "from": 460.06,
+      "to": 462.2,
+      "sid": 160,
+      "location": 2,
+      "content": "这样这种除去半周",
+      "music": 0.0
+    },
+    {
+      "from": 464.12,
+      "to": 466.66,
+      "sid": 161,
+      "location": 2,
+      "content": "整流的方法叫做半半波整流",
+      "music": 0.0
+    },
+    {
+      "from": 466.66,
+      "to": 469.78,
+      "sid": 162,
+      "location": 2,
+      "content": "有时候半波整流是以牺牲一半交流为代价",
+      "music": 0.0
+    },
+    {
+      "from": 469.78,
+      "to": 471.24,
+      "sid": 163,
+      "location": 2,
+      "content": "来换取整流效果的",
+      "music": 0.0
+    },
+    {
+      "from": 471.24,
+      "to": 474.34,
+      "sid": 164,
+      "location": 2,
+      "content": "所以说他的那个利用率是非常低的",
+      "music": 0.0
+    },
+    {
+      "from": 475.88,
+      "to": 479.54,
+      "sid": 165,
+      "location": 2,
+      "content": "这种呢经常用在高电压小电流的场合",
+      "music": 0.0
+    },
+    {
+      "from": 480.66,
+      "to": 483.99,
+      "sid": 166,
+      "location": 2,
+      "content": "在一般的无线电装置中比较少应用",
+      "music": 0.0
+    },
+    {
+      "from": 483.99,
+      "to": 485.67,
+      "sid": 167,
+      "location": 2,
+      "content": "那么下面来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 485.67,
+      "to": 490.079,
+      "sid": 168,
+      "location": 2,
+      "content": "是嗯在这个半波整流上做了一些调整",
+      "music": 0.0
+    },
+    {
+      "from": 490.079,
+      "to": 492.059,
+      "sid": 169,
+      "location": 2,
+      "content": "因为刚才我们看到了这边有个变压器",
+      "music": 0.0
+    },
+    {
+      "from": 492.059,
+      "to": 493.38,
+      "sid": 170,
+      "location": 2,
+      "content": "有个抽头啊",
+      "music": 0.0
+    },
+    {
+      "from": 493.4,
+      "to": 495.77,
+      "sid": 171,
+      "location": 2,
+      "content": "实际上这个是没有用的",
+      "music": 0.0
+    },
+    {
+      "from": 495.77,
+      "to": 498.53,
+      "sid": 172,
+      "location": 2,
+      "content": "我们现在把这个抽头用上哎",
+      "music": 0.0
+    },
+    {
+      "from": 498.53,
+      "to": 499.86,
+      "sid": 173,
+      "location": 2,
+      "content": "再连住一个",
+      "music": 0.0
+    },
+    {
+      "from": 500.78,
+      "to": 503.42,
+      "sid": 174,
+      "location": 2,
+      "content": "这边是两个二极管并联",
+      "music": 0.0
+    },
+    {
+      "from": 505.72,
+      "to": 506.76,
+      "sid": 175,
+      "location": 2,
+      "content": "这是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 506.76,
+      "to": 508.83,
+      "sid": 176,
+      "location": 2,
+      "content": "这就是在整流的",
+      "music": 0.0
+    },
+    {
+      "from": 508.83,
+      "to": 512.16,
+      "sid": 177,
+      "location": 2,
+      "content": "在半波整流的基础上做一些调整",
+      "music": 0.0
+    },
+    {
+      "from": 512.16,
+      "to": 514.959,
+      "sid": 178,
+      "location": 2,
+      "content": "来形成一个全波整流电路",
+      "music": 0.0
+    },
+    {
+      "from": 514.96,
+      "to": 518.98,
+      "sid": 179,
+      "location": 2,
+      "content": "全波整流电路呢可以看成是两个半波整流电路",
+      "music": 0.0
+    },
+    {
+      "from": 518.98,
+      "to": 520.169,
+      "sid": 180,
+      "location": 2,
+      "content": "组合而成的",
+      "music": 0.0
+    },
+    {
+      "from": 520.169,
+      "to": 523.049,
+      "sid": 181,
+      "location": 2,
+      "content": "变压器的这个次级线圈中间啊",
+      "music": 0.0
+    },
+    {
+      "from": 523.049,
+      "to": 524.399,
+      "sid": 182,
+      "location": 2,
+      "content": "需要有一个抽头",
+      "music": 0.0
+    },
+    {
+      "from": 524.399,
+      "to": 526.859,
+      "sid": 183,
+      "location": 2,
+      "content": "这个就是变压器的一个抽头",
+      "music": 0.0
+    },
+    {
+      "from": 529.72,
+      "to": 533.88,
+      "sid": 184,
+      "location": 2,
+      "content": "这个抽头呢把次级线圈分成两个对称的绕组",
+      "music": 0.0
+    },
+    {
+      "from": 536.2,
+      "to": 539.76,
+      "sid": 185,
+      "location": 2,
+      "content": "这这个点是他们俩的公共端是吧",
+      "music": 0.0
+    },
+    {
+      "from": 541.24,
+      "to": 542.58,
+      "sid": 186,
+      "location": 2,
+      "content": "他俩是对称的",
+      "music": 0.0
+    },
+    {
+      "from": 542.58,
+      "to": 546.06,
+      "sid": 187,
+      "location": 2,
+      "content": "这个电路跟这个这一边跟这边是对称的",
+      "music": 0.0
+    },
+    {
+      "from": 548.4,
+      "to": 551.78,
+      "sid": 188,
+      "location": 2,
+      "content": "引出大小相等但极性相反的两个变",
+      "music": 0.0
+    },
+    {
+      "from": 551.78,
+      "to": 557.4,
+      "sid": 189,
+      "location": 2,
+      "content": "两个电压e2 a e2 b构成两个回路",
+      "music": 0.0
+    },
+    {
+      "from": 557.4,
+      "to": 560.28,
+      "sid": 190,
+      "location": 2,
+      "content": "一个是这个回路对吧",
+      "music": 0.0
+    },
+    {
+      "from": 560.66,
+      "to": 563.76,
+      "sid": 191,
+      "location": 2,
+      "content": "一个是这个回路",
+      "music": 0.0
+    },
+    {
+      "from": 572.42,
+      "to": 577.939,
+      "sid": 192,
+      "location": 2,
+      "content": "一个是这个回路给大家再重新画一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 579.56,
+      "to": 580.96,
+      "sid": 193,
+      "location": 2,
+      "content": "构成了哪两个回路",
+      "music": 0.0
+    },
+    {
+      "from": 580.96,
+      "to": 582.22,
+      "sid": 194,
+      "location": 2,
+      "content": "给大家重新换一下",
+      "music": 0.0
+    },
+    {
+      "from": 582.22,
+      "to": 586.079,
+      "sid": 195,
+      "location": 2,
+      "content": "一个是e2 a d1 ",
+      "music": 0.0
+    },
+    {
+      "from": 588.28,
+      "to": 591.06,
+      "sid": 196,
+      "location": 2,
+      "content": "这边形成了一个回路对吧",
+      "music": 0.0
+    },
+    {
+      "from": 591.06,
+      "to": 593.25,
+      "sid": 197,
+      "location": 2,
+      "content": "还有一个回路是哪呢",
+      "music": 0.0
+    },
+    {
+      "from": 593.25,
+      "to": 595.04,
+      "sid": 198,
+      "location": 2,
+      "content": "e2 b",
+      "music": 0.0
+    },
+    {
+      "from": 598.46,
+      "to": 599.8,
+      "sid": 199,
+      "location": 2,
+      "content": "第二",
+      "music": 0.0
+    },
+    {
+      "from": 603.9,
+      "to": 605.3,
+      "sid": 200,
+      "location": 2,
+      "content": "这样的一个回路",
+      "music": 0.0
+    },
+    {
+      "from": 606.86,
+      "to": 607.7,
+      "sid": 201,
+      "location": 2,
+      "content": "两个回路",
+      "music": 0.0
+    },
+    {
+      "from": 607.7,
+      "to": 608.819,
+      "sid": 202,
+      "location": 2,
+      "content": "两个通路",
+      "music": 0.0
+    },
+    {
+      "from": 612.46,
+      "to": 615.78,
+      "sid": 203,
+      "location": 2,
+      "content": "我们来看一下这个回路是怎么工作的啊",
+      "music": 0.0
+    },
+    {
+      "from": 619.34,
+      "to": 621.34,
+      "sid": 204,
+      "location": 2,
+      "content": "当我在正半周的时候",
+      "music": 0.0
+    },
+    {
+      "from": 621.34,
+      "to": 622.24,
+      "sid": 205,
+      "location": 2,
+      "content": "正半周的时候",
+      "music": 0.0
+    },
+    {
+      "from": 622.24,
+      "to": 624.36,
+      "sid": 206,
+      "location": 2,
+      "content": "我们看一下谁是导通的",
+      "music": 0.0
+    },
+    {
+      "from": 624.36,
+      "to": 626.16,
+      "sid": 207,
+      "location": 2,
+      "content": "在正半周的时候",
+      "music": 0.0
+    },
+    {
+      "from": 626.16,
+      "to": 628.98,
+      "sid": 208,
+      "location": 2,
+      "content": "r e e d e是导通的",
+      "music": 0.0
+    },
+    {
+      "from": 628.98,
+      "to": 633.219,
+      "sid": 209,
+      "location": 2,
+      "content": "然后通过这个电阻r f z",
+      "music": 0.0
+    },
+    {
+      "from": 633.24,
+      "to": 637.64,
+      "sid": 210,
+      "location": 2,
+      "content": "然后通到这边来形成一个回路",
+      "music": 0.0
+    },
+    {
+      "from": 638.04,
+      "to": 641.99,
+      "sid": 211,
+      "location": 2,
+      "content": "比如说在正半周的时候是这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 641.99,
+      "to": 644.54,
+      "sid": 212,
+      "location": 2,
+      "content": "所以说在正半周的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 644.54,
+      "to": 645.62,
+      "sid": 213,
+      "location": 2,
+      "content": "整流成这样",
+      "music": 0.0
+    },
+    {
+      "from": 645.62,
+      "to": 649.88,
+      "sid": 214,
+      "location": 2,
+      "content": "那么对于这个回路在负半周的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 649.88,
+      "to": 653.9,
+      "sid": 215,
+      "location": 2,
+      "content": "负半周的时候实际上这边就是正了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 653.9,
+      "to": 654.92,
+      "sid": 216,
+      "location": 2,
+      "content": "这边是正了",
+      "music": 0.0
+    },
+    {
+      "from": 654.92,
+      "to": 657.49,
+      "sid": 217,
+      "location": 2,
+      "content": "那么就会通过第二",
+      "music": 0.0
+    },
+    {
+      "from": 657.49,
+      "to": 663.5,
+      "sid": 218,
+      "location": 2,
+      "content": "然后再通过这个电阻回到这边来形成一个回路",
+      "music": 0.0
+    },
+    {
+      "from": 665.06,
+      "to": 668.14,
+      "sid": 219,
+      "location": 2,
+      "content": "比如说他在正半周和负半周都工作了",
+      "music": 0.0
+    },
+    {
+      "from": 668.86,
+      "to": 671.76,
+      "sid": 220,
+      "location": 2,
+      "content": "正八粥和腐白粥都工作的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 671.82,
+      "to": 675.3,
+      "sid": 221,
+      "location": 2,
+      "content": "你看这是画的第一个二极管",
+      "music": 0.0
+    },
+    {
+      "from": 675.3,
+      "to": 677.76,
+      "sid": 222,
+      "location": 2,
+      "content": "第一这是画的第二个二极管",
+      "music": 0.0
+    },
+    {
+      "from": 677.76,
+      "to": 678.4,
+      "sid": 223,
+      "location": 2,
+      "content": "第二",
+      "music": 0.0
+    },
+    {
+      "from": 678.4,
+      "to": 681.16,
+      "sid": 224,
+      "location": 2,
+      "content": "那么如果我们把两个叠加起来的话",
+      "music": 0.0
+    },
+    {
+      "from": 681.16,
+      "to": 685.18,
+      "sid": 225,
+      "location": 2,
+      "content": "那么也就是说它在整个的周期内都有整流",
+      "music": 0.0
+    },
+    {
+      "from": 685.18,
+      "to": 690.28,
+      "sid": 226,
+      "location": 2,
+      "content": "这就是比我们之前讲的这个半波整流提高了",
+      "music": 0.0
+    },
+    {
+      "from": 690.28,
+      "to": 694.599,
+      "sid": 227,
+      "location": 2,
+      "content": "提高了一个电流的利用率对吧",
+      "music": 0.0
+    },
+    {
+      "from": 696.66,
+      "to": 699.68,
+      "sid": 228,
+      "location": 2,
+      "content": "你看这是跟刚才讲解的是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 699.68,
+      "to": 704.78,
+      "sid": 229,
+      "location": 2,
+      "content": "它实际上就是一个它的一个呃工作工作的过程",
+      "music": 0.0
+    },
+    {
+      "from": 704.78,
+      "to": 706.46,
+      "sid": 230,
+      "location": 2,
+      "content": "这是当正半周的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 706.46,
+      "to": 708.28,
+      "sid": 231,
+      "location": 2,
+      "content": "它是这样导通的是吧",
+      "music": 0.0
+    },
+    {
+      "from": 708.28,
+      "to": 710.14,
+      "sid": 232,
+      "location": 2,
+      "content": "当负半周的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 710.14,
+      "to": 711.4,
+      "sid": 233,
+      "location": 2,
+      "content": "它是从这儿是正",
+      "music": 0.0
+    },
+    {
+      "from": 711.4,
+      "to": 713.02,
+      "sid": 234,
+      "location": 2,
+      "content": "然后这样导通的",
+      "music": 0.0
+    },
+    {
+      "from": 715.34,
+      "to": 716.86,
+      "sid": 235,
+      "location": 2,
+      "content": "这个全波整流啊",
+      "music": 0.0
+    },
+    {
+      "from": 716.86,
+      "to": 718.66,
+      "sid": 236,
+      "location": 2,
+      "content": "虽然大大提高了整流的效率",
+      "music": 0.0
+    },
+    {
+      "from": 718.66,
+      "to": 721.12,
+      "sid": 237,
+      "location": 2,
+      "content": "但是变压器有一个是两段都抽头的",
+      "music": 0.0
+    },
+    {
+      "from": 721.12,
+      "to": 723.42,
+      "sid": 238,
+      "location": 2,
+      "content": "一个次级中间中心抽头",
+      "music": 0.0
+    },
+    {
+      "from": 724.24,
+      "to": 728.63,
+      "sid": 239,
+      "location": 2,
+      "content": "这在变压器制作上嗯是有一些麻烦",
+      "music": 0.0
+    },
+    {
+      "from": 728.63,
+      "to": 730.49,
+      "sid": 240,
+      "location": 2,
+      "content": "而且在这种电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 730.49,
+      "to": 731.57,
+      "sid": 241,
+      "location": 2,
+      "content": "大家可以看到啊",
+      "music": 0.0
+    },
+    {
+      "from": 731.57,
+      "to": 735.02,
+      "sid": 242,
+      "location": 2,
+      "content": "每只整流二极管承受的最大反向电压",
+      "music": 0.0
+    },
+    {
+      "from": 735.02,
+      "to": 739.459,
+      "sid": 243,
+      "location": 2,
+      "content": "是变压器次级电压的最大值的两倍",
+      "music": 0.0
+    },
+    {
+      "from": 741.18,
+      "to": 744.05,
+      "sid": 244,
+      "location": 2,
+      "content": "是变压器次级电压最大值的两倍",
+      "music": 0.0
+    },
+    {
+      "from": 744.05,
+      "to": 748.78,
+      "sid": 245,
+      "location": 2,
+      "content": "你看它实际上是次级变压器最大值的两倍",
+      "music": 0.0
+    },
+    {
+      "from": 748.78,
+      "to": 752.62,
+      "sid": 246,
+      "location": 2,
+      "content": "所以说呢这在这个二极管选型的成本上",
+      "music": 0.0
+    },
+    {
+      "from": 752.62,
+      "to": 756.34,
+      "sid": 247,
+      "location": 2,
+      "content": "就提高了这个二极管的一个选项成本",
+      "music": 0.0
+    },
+    {
+      "from": 756.34,
+      "to": 758.62,
+      "sid": 248,
+      "location": 2,
+      "content": "或者是二极管的一个使用成本",
+      "music": 0.0
+    },
+    {
+      "from": 758.82,
+      "to": 761.68,
+      "sid": 249,
+      "location": 2,
+      "content": "这在使用上还是有一些不方便",
+      "music": 0.0
+    },
+    {
+      "from": 761.68,
+      "to": 763.3,
+      "sid": 250,
+      "location": 2,
+      "content": "那么下面我们来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 763.3,
+      "to": 766.0,
+      "sid": 251,
+      "location": 2,
+      "content": "我们这节课主要讲的一个桥式整流电路",
+      "music": 0.0
+    },
+    {
+      "from": 766.0,
+      "to": 768.94,
+      "sid": 252,
+      "location": 2,
+      "content": "桥式整流电路呢它增加了两只二极管",
+      "music": 0.0
+    },
+    {
+      "from": 768.94,
+      "to": 772.27,
+      "sid": 253,
+      "location": 2,
+      "content": "也就是说我整个的是四四只二极管",
+      "music": 0.0
+    },
+    {
+      "from": 772.27,
+      "to": 774.8,
+      "sid": 254,
+      "location": 2,
+      "content": "那么连接成桥的方式",
+      "music": 0.0
+    },
+    {
+      "from": 775.72,
+      "to": 777.63,
+      "sid": 255,
+      "location": 2,
+      "content": "连接成桥的方式",
+      "music": 0.0
+    },
+    {
+      "from": 777.63,
+      "to": 782.21,
+      "sid": 256,
+      "location": 2,
+      "content": "在一定程度上就克服了全波整流的一个缺点",
+      "music": 0.0
+    },
+    {
+      "from": 782.21,
+      "to": 784.34,
+      "sid": 257,
+      "location": 2,
+      "content": "同时呢继承了全部整流的优点",
+      "music": 0.0
+    },
+    {
+      "from": 784.34,
+      "to": 786.359,
+      "sid": 258,
+      "location": 2,
+      "content": "就是电流利用率这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 787.0,
+      "to": 790.86,
+      "sid": 259,
+      "location": 2,
+      "content": "我们刚才已经对这个桥式电流的一个工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 790.86,
+      "to": 792.099,
+      "sid": 260,
+      "location": 2,
+      "content": "进行了讲解",
+      "music": 0.0
+    },
+    {
+      "from": 792.8,
+      "to": 795.28,
+      "sid": 261,
+      "location": 2,
+      "content": "我说当一二是正半轴的时候",
+      "music": 0.0
+    },
+    {
+      "from": 795.28,
+      "to": 799.48,
+      "sid": 262,
+      "location": 2,
+      "content": "也就是说正半轴当我的圆边输入正弦的正半轴",
+      "music": 0.0
+    },
+    {
+      "from": 799.48,
+      "to": 801.42,
+      "sid": 263,
+      "location": 2,
+      "content": "我们在这画比较方便啊",
+      "music": 0.0
+    },
+    {
+      "from": 805.0,
+      "to": 806.76,
+      "sid": 264,
+      "location": 2,
+      "content": "比如说在正半周的时候",
+      "music": 0.0
+    },
+    {
+      "from": 806.76,
+      "to": 808.26,
+      "sid": 265,
+      "location": 2,
+      "content": "在这一部分的时候",
+      "music": 0.0
+    },
+    {
+      "from": 808.26,
+      "to": 813.04,
+      "sid": 266,
+      "location": 2,
+      "content": "它是通过这哎这样这样进行工作的",
+      "music": 0.0
+    },
+    {
+      "from": 815.66,
+      "to": 817.18,
+      "sid": 267,
+      "location": 2,
+      "content": "我直接给画一下吧",
+      "music": 0.0
+    },
+    {
+      "from": 817.18,
+      "to": 819.319,
+      "sid": 268,
+      "location": 2,
+      "content": "大家看的更加清楚一点",
+      "music": 0.0
+    },
+    {
+      "from": 824.88,
+      "to": 826.959,
+      "sid": 269,
+      "location": 2,
+      "content": "唉这样形成一个回路",
+      "music": 0.0
+    },
+    {
+      "from": 827.18,
+      "to": 831.29,
+      "sid": 270,
+      "location": 2,
+      "content": "这时候呢是这个第一和第三啊",
+      "music": 0.0
+    },
+    {
+      "from": 831.29,
+      "to": 835.14,
+      "sid": 271,
+      "location": 2,
+      "content": "这两个二极管导通构成了回路",
+      "music": 0.0
+    },
+    {
+      "from": 835.14,
+      "to": 836.94,
+      "sid": 272,
+      "location": 2,
+      "content": "和这个负载构成回路",
+      "music": 0.0
+    },
+    {
+      "from": 836.94,
+      "to": 838.62,
+      "sid": 273,
+      "location": 2,
+      "content": "当我在负半周的时候",
+      "music": 0.0
+    },
+    {
+      "from": 838.62,
+      "to": 841.38,
+      "sid": 274,
+      "location": 2,
+      "content": "也就是在这这个这一块儿的时候",
+      "music": 0.0
+    },
+    {
+      "from": 841.38,
+      "to": 843.14,
+      "sid": 275,
+      "location": 2,
+      "content": "那么它是怎么",
+      "music": 0.0
+    },
+    {
+      "from": 845.2,
+      "to": 847.42,
+      "sid": 276,
+      "location": 2,
+      "content": "流通了呢我们来看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 850.88,
+      "to": 852.22,
+      "sid": 277,
+      "location": 2,
+      "content": "负半周的时候",
+      "music": 0.0
+    },
+    {
+      "from": 852.22,
+      "to": 853.78,
+      "sid": 278,
+      "location": 2,
+      "content": "这边也给画出图来了",
+      "music": 0.0
+    },
+    {
+      "from": 853.78,
+      "to": 854.74,
+      "sid": 279,
+      "location": 2,
+      "content": "负半周的时候",
+      "music": 0.0
+    },
+    {
+      "from": 854.74,
+      "to": 855.7,
+      "sid": 280,
+      "location": 2,
+      "content": "它实际上是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 855.7,
+      "to": 857.219,
+      "sid": 281,
+      "location": 2,
+      "content": "就这边是正对吧",
+      "music": 0.0
+    },
+    {
+      "from": 864.56,
+      "to": 866.939,
+      "sid": 282,
+      "location": 2,
+      "content": "嗯是这样形成一个回路的",
+      "music": 0.0
+    },
+    {
+      "from": 868.06,
+      "to": 869.52,
+      "sid": 283,
+      "location": 2,
+      "content": "这样重复下去呢",
+      "music": 0.0
+    },
+    {
+      "from": 869.52,
+      "to": 871.98,
+      "sid": 284,
+      "location": 2,
+      "content": "就会是在这个实际上",
+      "music": 0.0
+    },
+    {
+      "from": 871.98,
+      "to": 874.86,
+      "sid": 285,
+      "location": 2,
+      "content": "每每一个正半周和负半周都会通过负载的",
+      "music": 0.0
+    },
+    {
+      "from": 874.86,
+      "to": 877.78,
+      "sid": 286,
+      "location": 2,
+      "content": "也就是说在负载上得到了全波整流的电压",
+      "music": 0.0
+    },
+    {
+      "from": 877.78,
+      "to": 880.85,
+      "sid": 287,
+      "location": 2,
+      "content": "波形图和全波整流的波形图是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 880.85,
+      "to": 883.43,
+      "sid": 288,
+      "location": 2,
+      "content": "从这个这两个图了可以看出啊",
+      "music": 0.0
+    },
+    {
+      "from": 883.43,
+      "to": 886.77,
+      "sid": 289,
+      "location": 2,
+      "content": "就是它是由两只二极管",
+      "music": 0.0
+    },
+    {
+      "from": 886.77,
+      "to": 889.02,
+      "sid": 290,
+      "location": 2,
+      "content": "一起来串在这个电路当中的",
+      "music": 0.0
+    },
+    {
+      "from": 889.02,
+      "to": 891.8,
+      "sid": 291,
+      "location": 2,
+      "content": "因此呢它每个二极管的反向电压",
+      "music": 0.0
+    },
+    {
+      "from": 892.12,
+      "to": 895.84,
+      "sid": 292,
+      "location": 2,
+      "content": "就是等于这个刺激变压器的最大值就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 895.84,
+      "to": 898.78,
+      "sid": 293,
+      "location": 2,
+      "content": "比那个刚才咱们那个全波整流",
+      "music": 0.0
+    },
+    {
+      "from": 898.78,
+      "to": 902.61,
+      "sid": 294,
+      "location": 2,
+      "content": "电路的那个电压值要小一半",
+      "music": 0.0
+    },
+    {
+      "from": 902.61,
+      "to": 905.79,
+      "sid": 295,
+      "location": 2,
+      "content": "从而节省了这个二极管的一个挑选的成本",
+      "music": 0.0
+    },
+    {
+      "from": 905.79,
+      "to": 913.16,
+      "sid": 296,
+      "location": 2,
+      "content": "这就是啊我们的这个整流桥比那个整理整",
+      "music": 0.0
+    },
+    {
+      "from": 913.16,
+      "to": 918.64,
+      "sid": 297,
+      "location": 2,
+      "content": "桥式整流比半波和全波整流的一个优点嗯",
+      "music": 0.0
+    },
+    {
+      "from": 918.64,
+      "to": 921.16,
+      "sid": 298,
+      "location": 2,
+      "content": "下面举几个例子来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 921.16,
+      "to": 923.62,
+      "sid": 299,
+      "location": 2,
+      "content": "这个全波整流和桥式整流",
+      "music": 0.0
+    },
+    {
+      "from": 923.62,
+      "to": 927.82,
+      "sid": 300,
+      "location": 2,
+      "content": "在实际应用当中是怎么来用的",
+      "music": 0.0
+    },
+    {
+      "from": 927.82,
+      "to": 929.5,
+      "sid": 301,
+      "location": 2,
+      "content": "我们来看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 929.5,
+      "to": 932.579,
+      "sid": 302,
+      "location": 2,
+      "content": "这是我的一个主功率电路图",
+      "music": 0.0
+    },
+    {
+      "from": 932.7,
+      "to": 935.22,
+      "sid": 303,
+      "location": 2,
+      "content": "这个主播率电路最前面有些有变压器",
+      "music": 0.0
+    },
+    {
+      "from": 935.22,
+      "to": 938.93,
+      "sid": 304,
+      "location": 2,
+      "content": "后面加了一个二极管",
+      "music": 0.0
+    },
+    {
+      "from": 938.93,
+      "to": 940.34,
+      "sid": 305,
+      "location": 2,
+      "content": "两个二极管",
+      "music": 0.0
+    },
+    {
+      "from": 940.34,
+      "to": 943.319,
+      "sid": 306,
+      "location": 2,
+      "content": "这个变压器是中间大抽头的变压器",
+      "music": 0.0
+    },
+    {
+      "from": 943.4,
+      "to": 945.68,
+      "sid": 307,
+      "location": 2,
+      "content": "后面加了两个二极管",
+      "music": 0.0
+    },
+    {
+      "from": 945.68,
+      "to": 948.459,
+      "sid": 308,
+      "location": 2,
+      "content": "就是双通道的二极管",
+      "music": 0.0
+    },
+    {
+      "from": 950.62,
+      "to": 952.86,
+      "sid": 309,
+      "location": 2,
+      "content": "嗯在这个电路当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 952.86,
+      "to": 954.36,
+      "sid": 310,
+      "location": 2,
+      "content": "为什么用全波整流呢",
+      "music": 0.0
+    },
+    {
+      "from": 954.36,
+      "to": 956.46,
+      "sid": 311,
+      "location": 2,
+      "content": "因为我这个电路它是一个低压",
+      "music": 0.0
+    },
+    {
+      "from": 956.46,
+      "to": 958.359,
+      "sid": 312,
+      "location": 2,
+      "content": "大电流的一个输出",
+      "music": 0.0
+    },
+    {
+      "from": 958.36,
+      "to": 959.14,
+      "sid": 313,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 959.14,
+      "to": 961.36,
+      "sid": 314,
+      "location": 2,
+      "content": "在我选二极管的时候",
+      "music": 0.0
+    },
+    {
+      "from": 961.36,
+      "to": 963.76,
+      "sid": 315,
+      "location": 2,
+      "content": "就是如果我选到那么大的电流",
+      "music": 0.0
+    },
+    {
+      "from": 963.76,
+      "to": 966.2,
+      "sid": 316,
+      "location": 2,
+      "content": "一般它的电压都是非常大的",
+      "music": 0.0
+    },
+    {
+      "from": 966.2,
+      "to": 969.5,
+      "sid": 317,
+      "location": 2,
+      "content": "而我的输出电压呢是一个小电压",
+      "music": 0.0
+    },
+    {
+      "from": 970.22,
+      "to": 972.52,
+      "sid": 318,
+      "location": 2,
+      "content": "我这个大电压本身",
+      "music": 0.0
+    },
+    {
+      "from": 972.52,
+      "to": 977.59,
+      "sid": 319,
+      "location": 2,
+      "content": "大电流的这个二极管所所满足的这个大电压压",
+      "music": 0.0
+    },
+    {
+      "from": 977.59,
+      "to": 979.15,
+      "sid": 320,
+      "location": 2,
+      "content": "本身就满足了",
+      "music": 0.0
+    },
+    {
+      "from": 979.15,
+      "to": 980.63,
+      "sid": 321,
+      "location": 2,
+      "content": "我这个变压器",
+      "music": 0.0
+    },
+    {
+      "from": 980.63,
+      "to": 985.19,
+      "sid": 322,
+      "location": 2,
+      "content": "就是负变变压器副边的这个二倍的电压的",
+      "music": 0.0
+    },
+    {
+      "from": 985.19,
+      "to": 986.78,
+      "sid": 323,
+      "location": 2,
+      "content": "这样一个承受范围",
+      "music": 0.0
+    },
+    {
+      "from": 986.78,
+      "to": 988.94,
+      "sid": 324,
+      "location": 2,
+      "content": "所以说我这边用全波整流",
+      "music": 0.0
+    },
+    {
+      "from": 988.94,
+      "to": 992.42,
+      "sid": 325,
+      "location": 2,
+      "content": "不存在我们之前讲到的那个全波整流",
+      "music": 0.0
+    },
+    {
+      "from": 992.42,
+      "to": 994.22,
+      "sid": 326,
+      "location": 2,
+      "content": "存在的那个缺陷问题",
+      "music": 0.0
+    },
+    {
+      "from": 994.22,
+      "to": 997.6,
+      "sid": 327,
+      "location": 2,
+      "content": "所以我这个电路就用到了一个全波整流",
+      "music": 0.0
+    },
+    {
+      "from": 997.6,
+      "to": 999.79,
+      "sid": 328,
+      "location": 2,
+      "content": "那么看一下另外一个电路",
+      "music": 0.0
+    },
+    {
+      "from": 999.79,
+      "to": 1002.839,
+      "sid": 329,
+      "location": 2,
+      "content": "这个电路呢实际上跟刚才那个电路呢",
+      "music": 0.0
+    },
+    {
+      "from": 1002.839,
+      "to": 1005.989,
+      "sid": 330,
+      "location": 2,
+      "content": "是一个功率等级的一个电源输出",
+      "music": 0.0
+    },
+    {
+      "from": 1005.989,
+      "to": 1008.579,
+      "sid": 331,
+      "location": 2,
+      "content": "但是对于我这个电路来讲呢",
+      "music": 0.0
+    },
+    {
+      "from": 1008.7,
+      "to": 1014.7,
+      "sid": 332,
+      "location": 2,
+      "content": "我的输出是一个我的输出是一个就是大电压",
+      "music": 0.0
+    },
+    {
+      "from": 1014.7,
+      "to": 1017.5,
+      "sid": 333,
+      "location": 2,
+      "content": "对高电压我的电流不是很大",
+      "music": 0.0
+    },
+    {
+      "from": 1017.5,
+      "to": 1019.33,
+      "sid": 334,
+      "location": 2,
+      "content": "但是我的电压比较大",
+      "music": 0.0
+    },
+    {
+      "from": 1019.33,
+      "to": 1021.14,
+      "sid": 335,
+      "location": 2,
+      "content": "在这种情况下",
+      "music": 0.0
+    },
+    {
+      "from": 1021.14,
+      "to": 1024.35,
+      "sid": 336,
+      "location": 2,
+      "content": "我如果再用全波整流的话",
+      "music": 0.0
+    },
+    {
+      "from": 1024.35,
+      "to": 1027.56,
+      "sid": 337,
+      "location": 2,
+      "content": "我这个二极管所承受的那个电压",
+      "music": 0.0
+    },
+    {
+      "from": 1027.56,
+      "to": 1032.63,
+      "sid": 338,
+      "location": 2,
+      "content": "就是电压器复变电压的那个二倍",
+      "music": 0.0
+    },
+    {
+      "from": 1032.63,
+      "to": 1034.16,
+      "sid": 339,
+      "location": 2,
+      "content": "这样子的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 1034.16,
+      "to": 1038.36,
+      "sid": 340,
+      "location": 2,
+      "content": "就对我这个二极管的选项就显得都特别复杂",
+      "music": 0.0
+    },
+    {
+      "from": 1038.36,
+      "to": 1039.38,
+      "sid": 341,
+      "location": 2,
+      "content": "不太好选性",
+      "music": 0.0
+    },
+    {
+      "from": 1039.38,
+      "to": 1043.629,
+      "sid": 342,
+      "location": 2,
+      "content": "所以我在这种情况下选用的是啊桥式整流",
+      "music": 0.0
+    },
+    {
+      "from": 1043.629,
+      "to": 1045.519,
+      "sid": 343,
+      "location": 2,
+      "content": "从而改善了这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 1045.519,
+      "to": 1048.64,
+      "sid": 344,
+      "location": 2,
+      "content": "这就是在实际的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1048.64,
+      "to": 1050.56,
+      "sid": 345,
+      "location": 2,
+      "content": "就是产品制作当中",
+      "music": 0.0
+    },
+    {
+      "from": 1050.56,
+      "to": 1053.32,
+      "sid": 346,
+      "location": 2,
+      "content": "根据产品的输出和电流的输出",
+      "music": 0.0
+    },
+    {
+      "from": 1053.32,
+      "to": 1057.16,
+      "sid": 347,
+      "location": 2,
+      "content": "来对这个整流电路来进行的一个选择",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,3356 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 0.94,
+      "to": 2.8,
+      "sid": 1,
+      "location": 2,
+      "content": "接下来我们在电感提高篇呢",
+      "music": 0.0
+    },
+    {
+      "from": 2.8,
+      "to": 4.45,
+      "sid": 2,
+      "location": 2,
+      "content": "给大家讲一下变压器",
+      "music": 0.0
+    },
+    {
+      "from": 4.45,
+      "to": 7.24,
+      "sid": 3,
+      "location": 2,
+      "content": "变压器是我们在设计当中",
+      "music": 0.0
+    },
+    {
+      "from": 7.24,
+      "to": 9.82,
+      "sid": 4,
+      "location": 2,
+      "content": "非常常用的一个元器件",
+      "music": 0.0
+    },
+    {
+      "from": 10.6,
+      "to": 15.45,
+      "sid": 5,
+      "location": 2,
+      "content": "对于变压器呢呃大家或多或少的都听说过",
+      "music": 0.0
+    },
+    {
+      "from": 15.45,
+      "to": 18.0,
+      "sid": 6,
+      "location": 2,
+      "content": "我们先来看一下它的工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 18.64,
+      "to": 20.04,
+      "sid": 7,
+      "location": 2,
+      "content": "什么是变压器",
+      "music": 0.0
+    },
+    {
+      "from": 20.04,
+      "to": 22.86,
+      "sid": 8,
+      "location": 2,
+      "content": "变压器呢实际上就是利用电磁感应原理",
+      "music": 0.0
+    },
+    {
+      "from": 22.86,
+      "to": 26.06,
+      "sid": 9,
+      "location": 2,
+      "content": "来改变交流电压的一个装置",
+      "music": 0.0
+    },
+    {
+      "from": 27.48,
+      "to": 30.66,
+      "sid": 10,
+      "location": 2,
+      "content": "它的主要构件有初级线圈",
+      "music": 0.0
+    },
+    {
+      "from": 31.199,
+      "to": 34.279,
+      "sid": 11,
+      "location": 2,
+      "content": "次级线圈以及磁芯组成的",
+      "music": 0.0
+    },
+    {
+      "from": 34.279,
+      "to": 37.039,
+      "sid": 12,
+      "location": 2,
+      "content": "那么变压器呢就是当我圆圆边",
+      "music": 0.0
+    },
+    {
+      "from": 37.039,
+      "to": 42.48,
+      "sid": 13,
+      "location": 2,
+      "content": "或者说我的一次次给到一个交流电压的时候",
+      "music": 0.0
+    },
+    {
+      "from": 42.92,
+      "to": 46.64,
+      "sid": 14,
+      "location": 2,
+      "content": "圆圆边的闭合回路就会有一个交流电流",
+      "music": 0.0
+    },
+    {
+      "from": 46.64,
+      "to": 49.22,
+      "sid": 15,
+      "location": 2,
+      "content": "那么交流电流对于变化的电流来讲",
+      "music": 0.0
+    },
+    {
+      "from": 49.22,
+      "to": 52.269,
+      "sid": 16,
+      "location": 2,
+      "content": "在这个就会产生一个变化的磁场",
+      "music": 0.0
+    },
+    {
+      "from": 52.269,
+      "to": 55.62,
+      "sid": 17,
+      "location": 2,
+      "content": "变化的磁场就会在这个二次测",
+      "music": 0.0
+    },
+    {
+      "from": 55.62,
+      "to": 57.27,
+      "sid": 18,
+      "location": 2,
+      "content": "感应出一个感应磁场",
+      "music": 0.0
+    },
+    {
+      "from": 57.27,
+      "to": 59.46,
+      "sid": 19,
+      "location": 2,
+      "content": "如果二次测是一个闭合回路",
+      "music": 0.0
+    },
+    {
+      "from": 59.46,
+      "to": 61.8,
+      "sid": 20,
+      "location": 2,
+      "content": "那么感应磁场就会在这个闭合回路当中",
+      "music": 0.0
+    },
+    {
+      "from": 61.8,
+      "to": 63.32,
+      "sid": 21,
+      "location": 2,
+      "content": "形成一个感应电流",
+      "music": 0.0
+    },
+    {
+      "from": 64.48,
+      "to": 68.36,
+      "sid": 22,
+      "location": 2,
+      "content": "这就是能量从一次测传递到二次测的",
+      "music": 0.0
+    },
+    {
+      "from": 68.36,
+      "to": 69.32,
+      "sid": 23,
+      "location": 2,
+      "content": "这样一个过程",
+      "music": 0.0
+    },
+    {
+      "from": 69.32,
+      "to": 71.69,
+      "sid": 24,
+      "location": 2,
+      "content": "也是变压器的一个基础的工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 71.69,
+      "to": 73.19,
+      "sid": 25,
+      "location": 2,
+      "content": "那么在生活当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 73.19,
+      "to": 75.11,
+      "sid": 26,
+      "location": 2,
+      "content": "我们的变压器也非常常见啊",
+      "music": 0.0
+    },
+    {
+      "from": 75.11,
+      "to": 77.85,
+      "sid": 27,
+      "location": 2,
+      "content": "这是我们在户外经常看到的一个变压器",
+      "music": 0.0
+    },
+    {
+      "from": 77.85,
+      "to": 79.05,
+      "sid": 28,
+      "location": 2,
+      "content": "这种变压器呢",
+      "music": 0.0
+    },
+    {
+      "from": 79.05,
+      "to": 83.079,
+      "sid": 29,
+      "location": 2,
+      "content": "实际上就是把低压转换成高压来进行输送",
+      "music": 0.0
+    },
+    {
+      "from": 83.079,
+      "to": 85.149,
+      "sid": 30,
+      "location": 2,
+      "content": "然后等到快到入户的时候",
+      "music": 0.0
+    },
+    {
+      "from": 85.149,
+      "to": 87.88,
+      "sid": 31,
+      "location": 2,
+      "content": "再转换成低压供居民应用啊",
+      "music": 0.0
+    },
+    {
+      "from": 87.88,
+      "to": 91.39,
+      "sid": 32,
+      "location": 2,
+      "content": "这个我们在原来的课本当中应该都学到",
+      "music": 0.0
+    },
+    {
+      "from": 91.39,
+      "to": 92.47,
+      "sid": 33,
+      "location": 2,
+      "content": "转换成高压",
+      "music": 0.0
+    },
+    {
+      "from": 92.47,
+      "to": 96.679,
+      "sid": 34,
+      "location": 2,
+      "content": "是为了减少在传输过程当中的一个能量损耗",
+      "music": 0.0
+    },
+    {
+      "from": 97.84,
+      "to": 101.04,
+      "sid": 35,
+      "location": 2,
+      "content": "这个呢是我们在实验室当中经常用到的",
+      "music": 0.0
+    },
+    {
+      "from": 101.04,
+      "to": 102.66,
+      "sid": 36,
+      "location": 2,
+      "content": "一种自耦变压器",
+      "music": 0.0
+    },
+    {
+      "from": 102.66,
+      "to": 104.04,
+      "sid": 37,
+      "location": 2,
+      "content": "自耦变压器呢",
+      "music": 0.0
+    },
+    {
+      "from": 104.04,
+      "to": 109.67,
+      "sid": 38,
+      "location": 2,
+      "content": "实际上就是啊用来在实验室做实验当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 109.67,
+      "to": 113.4,
+      "sid": 39,
+      "location": 2,
+      "content": "为了改变电源电压用的方便的一种变压器",
+      "music": 0.0
+    },
+    {
+      "from": 113.4,
+      "to": 115.32,
+      "sid": 40,
+      "location": 2,
+      "content": "这个自耦变压器是什么意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 115.32,
+      "to": 117.93,
+      "sid": 41,
+      "location": 2,
+      "content": "就是原副边有直接电的联系",
+      "music": 0.0
+    },
+    {
+      "from": 117.93,
+      "to": 121.29,
+      "sid": 42,
+      "location": 2,
+      "content": "它的低压线圈实际上就是高压线圈的一部分",
+      "music": 0.0
+    },
+    {
+      "from": 121.29,
+      "to": 123.21,
+      "sid": 43,
+      "location": 2,
+      "content": "所以它叫做自偶变压器",
+      "music": 0.0
+    },
+    {
+      "from": 123.21,
+      "to": 124.59,
+      "sid": 44,
+      "location": 2,
+      "content": "下面这个变压器呢",
+      "music": 0.0
+    },
+    {
+      "from": 124.59,
+      "to": 128.07,
+      "sid": 45,
+      "location": 2,
+      "content": "是我们经常在一些设计的电路板当中用到的",
+      "music": 0.0
+    },
+    {
+      "from": 128.07,
+      "to": 130.98,
+      "sid": 46,
+      "location": 2,
+      "content": "一些高频变压器啊",
+      "music": 0.0
+    },
+    {
+      "from": 131.32,
+      "to": 132.76,
+      "sid": 47,
+      "location": 2,
+      "content": "也有公频变压器",
+      "music": 0.0
+    },
+    {
+      "from": 132.76,
+      "to": 135.67,
+      "sid": 48,
+      "location": 2,
+      "content": "工频变压器应该比它的个头要稍微大一点吧",
+      "music": 0.0
+    },
+    {
+      "from": 135.67,
+      "to": 139.98,
+      "sid": 49,
+      "location": 2,
+      "content": "嗯可以就是我们电路板当中用到的一些变压器",
+      "music": 0.0
+    },
+    {
+      "from": 140.619,
+      "to": 143.159,
+      "sid": 50,
+      "location": 2,
+      "content": "这就是变压器的一些基础知识",
+      "music": 0.0
+    },
+    {
+      "from": 143.159,
+      "to": 145.63,
+      "sid": 51,
+      "location": 2,
+      "content": "那么变压器有哪些呃",
+      "music": 0.0
+    },
+    {
+      "from": 145.63,
+      "to": 147.07,
+      "sid": 52,
+      "location": 2,
+      "content": "分类及其用途呢",
+      "music": 0.0
+    },
+    {
+      "from": 147.07,
+      "to": 149.77,
+      "sid": 53,
+      "location": 2,
+      "content": "实际上变压器用途很广泛啊",
+      "music": 0.0
+    },
+    {
+      "from": 149.77,
+      "to": 151.48,
+      "sid": 54,
+      "location": 2,
+      "content": "比如说改变电压",
+      "music": 0.0
+    },
+    {
+      "from": 151.48,
+      "to": 152.86,
+      "sid": 55,
+      "location": 2,
+      "content": "改变电流",
+      "music": 0.0
+    },
+    {
+      "from": 152.86,
+      "to": 156.13,
+      "sid": 56,
+      "location": 2,
+      "content": "改变阻抗阻抗的一个变换对吧",
+      "music": 0.0
+    },
+    {
+      "from": 156.13,
+      "to": 158.979,
+      "sid": 57,
+      "location": 2,
+      "content": "隔离稳压等等等等",
+      "music": 0.0
+    },
+    {
+      "from": 158.979,
+      "to": 160.94,
+      "sid": 58,
+      "location": 2,
+      "content": "这都是变压器的一个用途",
+      "music": 0.0
+    },
+    {
+      "from": 160.94,
+      "to": 164.66,
+      "sid": 59,
+      "location": 2,
+      "content": "那么变压器按用途分类怎么分类呢",
+      "music": 0.0
+    },
+    {
+      "from": 164.66,
+      "to": 167.66,
+      "sid": 60,
+      "location": 2,
+      "content": "变压器分类如果按用途来分呢",
+      "music": 0.0
+    },
+    {
+      "from": 170.059,
+      "to": 173.919,
+      "sid": 61,
+      "location": 2,
+      "content": "实际上呢可以分为电力变压器啊",
+      "music": 0.0
+    },
+    {
+      "from": 173.919,
+      "to": 175.359,
+      "sid": 62,
+      "location": 2,
+      "content": "高频变压器",
+      "music": 0.0
+    },
+    {
+      "from": 175.359,
+      "to": 176.9,
+      "sid": 63,
+      "location": 2,
+      "content": "互感变压器",
+      "music": 0.0
+    },
+    {
+      "from": 177.619,
+      "to": 180.009,
+      "sid": 64,
+      "location": 2,
+      "content": "还有专用变压器等等",
+      "music": 0.0
+    },
+    {
+      "from": 180.009,
+      "to": 181.719,
+      "sid": 65,
+      "location": 2,
+      "content": "如果按照像素来分呢",
+      "music": 0.0
+    },
+    {
+      "from": 181.719,
+      "to": 184.82,
+      "sid": 66,
+      "location": 2,
+      "content": "实际上就可以分为单向变压器",
+      "music": 0.0
+    },
+    {
+      "from": 184.82,
+      "to": 185.9,
+      "sid": 67,
+      "location": 2,
+      "content": "三相变压器",
+      "music": 0.0
+    },
+    {
+      "from": 185.9,
+      "to": 186.95,
+      "sid": 68,
+      "location": 2,
+      "content": "六项变压器",
+      "music": 0.0
+    },
+    {
+      "from": 186.95,
+      "to": 188.18,
+      "sid": 69,
+      "location": 2,
+      "content": "按照绕组分呢",
+      "music": 0.0
+    },
+    {
+      "from": 188.18,
+      "to": 190.1,
+      "sid": 70,
+      "location": 2,
+      "content": "可以分为单向绕组",
+      "music": 0.0
+    },
+    {
+      "from": 190.1,
+      "to": 191.75,
+      "sid": 71,
+      "location": 2,
+      "content": "三相绕组等等",
+      "music": 0.0
+    },
+    {
+      "from": 191.75,
+      "to": 194.399,
+      "sid": 72,
+      "location": 2,
+      "content": "大家就问什么是高频变压器啊",
+      "music": 0.0
+    },
+    {
+      "from": 194.399,
+      "to": 195.839,
+      "sid": 73,
+      "location": 2,
+      "content": "总听高频变压器",
+      "music": 0.0
+    },
+    {
+      "from": 195.839,
+      "to": 196.319,
+      "sid": 74,
+      "location": 2,
+      "content": "实际上",
+      "music": 0.0
+    },
+    {
+      "from": 196.319,
+      "to": 197.039,
+      "sid": 75,
+      "location": 2,
+      "content": "高频变压器",
+      "music": 0.0
+    },
+    {
+      "from": 197.039,
+      "to": 199.74,
+      "sid": 76,
+      "location": 2,
+      "content": "就是我们开关电源的一个重要组成部分",
+      "music": 0.0
+    },
+    {
+      "from": 200.14,
+      "to": 202.78,
+      "sid": 77,
+      "location": 2,
+      "content": "我们通常把工作频率超过中频",
+      "music": 0.0
+    },
+    {
+      "from": 202.78,
+      "to": 206.17,
+      "sid": 78,
+      "location": 2,
+      "content": "也就10k赫兹的变压器称为高频变压器",
+      "music": 0.0
+    },
+    {
+      "from": 206.17,
+      "to": 208.1,
+      "sid": 79,
+      "location": 2,
+      "content": "一般功率比较大的",
+      "music": 0.0
+    },
+    {
+      "from": 208.6,
+      "to": 210.76,
+      "sid": 80,
+      "location": 2,
+      "content": "就工作频率会稍微低一点",
+      "music": 0.0
+    },
+    {
+      "from": 210.76,
+      "to": 212.14,
+      "sid": 81,
+      "location": 2,
+      "content": "那么功率比较小呢",
+      "music": 0.0
+    },
+    {
+      "from": 212.14,
+      "to": 214.39,
+      "sid": 82,
+      "location": 2,
+      "content": "工作频率会稍微高一点",
+      "music": 0.0
+    },
+    {
+      "from": 214.39,
+      "to": 217.12,
+      "sid": 83,
+      "location": 2,
+      "content": "下面我们就以反击电路为例啊",
+      "music": 0.0
+    },
+    {
+      "from": 217.82,
+      "to": 221.57,
+      "sid": 84,
+      "location": 2,
+      "content": "来讲一下这个变压器在反击电路当中的应用",
+      "music": 0.0
+    },
+    {
+      "from": 221.57,
+      "to": 223.13,
+      "sid": 85,
+      "location": 2,
+      "content": "这个反接电路呢",
+      "music": 0.0
+    },
+    {
+      "from": 223.13,
+      "to": 229.239,
+      "sid": 86,
+      "location": 2,
+      "content": "实际上是一个先存储存后传递的一个电路啊",
+      "music": 0.0
+    },
+    {
+      "from": 229.239,
+      "to": 232.389,
+      "sid": 87,
+      "location": 2,
+      "content": "这个这个变压器在里边就是新储存能量",
+      "music": 0.0
+    },
+    {
+      "from": 232.389,
+      "to": 234.18,
+      "sid": 88,
+      "location": 2,
+      "content": "然后传递能量",
+      "music": 0.0
+    },
+    {
+      "from": 234.18,
+      "to": 236.34,
+      "sid": 89,
+      "location": 2,
+      "content": "那么反击电电路呢",
+      "music": 0.0
+    },
+    {
+      "from": 236.34,
+      "to": 238.5,
+      "sid": 90,
+      "location": 2,
+      "content": "实际上是非常基础的电路之一",
+      "music": 0.0
+    },
+    {
+      "from": 238.5,
+      "to": 240.24,
+      "sid": 91,
+      "location": 2,
+      "content": "我们经常说的有什么电路呀",
+      "music": 0.0
+    },
+    {
+      "from": 240.24,
+      "to": 242.8,
+      "sid": 92,
+      "location": 2,
+      "content": "比如说boss电路back电路",
+      "music": 0.0
+    },
+    {
+      "from": 242.8,
+      "to": 243.7,
+      "sid": 93,
+      "location": 2,
+      "content": "反击电路",
+      "music": 0.0
+    },
+    {
+      "from": 243.7,
+      "to": 245.14,
+      "sid": 94,
+      "location": 2,
+      "content": "正极电路等等",
+      "music": 0.0
+    },
+    {
+      "from": 245.619,
+      "to": 248.109,
+      "sid": 95,
+      "location": 2,
+      "content": "这就是一个典型的反击电路图",
+      "music": 0.0
+    },
+    {
+      "from": 248.109,
+      "to": 250.809,
+      "sid": 96,
+      "location": 2,
+      "content": "我们来看一下它是如何工作的啊",
+      "music": 0.0
+    },
+    {
+      "from": 250.809,
+      "to": 257.72,
+      "sid": 97,
+      "location": 2,
+      "content": "实际上在这儿我就是没有给大家画画图纸",
+      "music": 0.0
+    },
+    {
+      "from": 257.72,
+      "to": 259.16,
+      "sid": 98,
+      "location": 2,
+      "content": "我们先来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 259.98,
+      "to": 262.94,
+      "sid": 99,
+      "location": 2,
+      "content": "比如说我这个反接电路师",
+      "music": 0.0
+    },
+    {
+      "from": 262.94,
+      "to": 265.66,
+      "sid": 100,
+      "location": 2,
+      "content": "咱们先来看一下它的组成啊",
+      "music": 0.0
+    },
+    {
+      "from": 266.46,
+      "to": 268.52,
+      "sid": 101,
+      "location": 2,
+      "content": "反击电路是由什么组成的",
+      "music": 0.0
+    },
+    {
+      "from": 268.52,
+      "to": 273.04,
+      "sid": 102,
+      "location": 2,
+      "content": "是由一个反击变压器组成的反击变压器",
+      "music": 0.0
+    },
+    {
+      "from": 273.08,
+      "to": 275.03,
+      "sid": 103,
+      "location": 2,
+      "content": "然后是开关管",
+      "music": 0.0
+    },
+    {
+      "from": 275.03,
+      "to": 276.26,
+      "sid": 104,
+      "location": 2,
+      "content": "二极管",
+      "music": 0.0
+    },
+    {
+      "from": 276.26,
+      "to": 279.54,
+      "sid": 105,
+      "location": 2,
+      "content": "电容电阻组成的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 280.8,
+      "to": 282.59,
+      "sid": 106,
+      "location": 2,
+      "content": "它的器件非常的少",
+      "music": 0.0
+    },
+    {
+      "from": 282.59,
+      "to": 287.46,
+      "sid": 107,
+      "location": 2,
+      "content": "电路非常简洁嗯所以呢它比较适合多路输啊",
+      "music": 0.0
+    },
+    {
+      "from": 287.46,
+      "to": 289.11,
+      "sid": 108,
+      "location": 2,
+      "content": "所以呢它比较常用",
+      "music": 0.0
+    },
+    {
+      "from": 289.11,
+      "to": 291.409,
+      "sid": 109,
+      "location": 2,
+      "content": "而且它是比较适合多路输出",
+      "music": 0.0
+    },
+    {
+      "from": 291.409,
+      "to": 294.709,
+      "sid": 110,
+      "location": 2,
+      "content": "我们这节课呢主要先讲一下单端反击",
+      "music": 0.0
+    },
+    {
+      "from": 294.709,
+      "to": 298.98,
+      "sid": 111,
+      "location": 2,
+      "content": "就是我这个图来所说的这种单端反击电路",
+      "music": 0.0
+    },
+    {
+      "from": 298.98,
+      "to": 302.74,
+      "sid": 112,
+      "location": 2,
+      "content": "单端反击呢主要运用于250瓦以下的电路",
+      "music": 0.0
+    },
+    {
+      "from": 305.84,
+      "to": 307.78,
+      "sid": 113,
+      "location": 2,
+      "content": "我们先来看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 307.78,
+      "to": 312.94,
+      "sid": 114,
+      "location": 2,
+      "content": "这个对于这个反接电路当中的这个开关管",
+      "music": 0.0
+    },
+    {
+      "from": 312.94,
+      "to": 316.12,
+      "sid": 115,
+      "location": 2,
+      "content": "我们先给它做一个基本的开关管",
+      "music": 0.0
+    },
+    {
+      "from": 316.12,
+      "to": 319.12,
+      "sid": 116,
+      "location": 2,
+      "content": "它这边是要有一个驱动来进行工作的",
+      "music": 0.0
+    },
+    {
+      "from": 319.12,
+      "to": 321.2,
+      "sid": 117,
+      "location": 2,
+      "content": "我们看一下开关管的一个",
+      "music": 0.0
+    },
+    {
+      "from": 322.36,
+      "to": 324.54,
+      "sid": 118,
+      "location": 2,
+      "content": "我们先给假定开关管",
+      "music": 0.0
+    },
+    {
+      "from": 324.54,
+      "to": 325.8,
+      "sid": 119,
+      "location": 2,
+      "content": "它是这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 325.8,
+      "to": 327.92,
+      "sid": 120,
+      "location": 2,
+      "content": "有它的驱动波形是这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 337.639,
+      "to": 340.94,
+      "sid": 121,
+      "location": 2,
+      "content": "这这这个时刻是t0 ",
+      "music": 0.0
+    },
+    {
+      "from": 344.18,
+      "to": 346.24,
+      "sid": 122,
+      "location": 2,
+      "content": "这个时刻是t on",
+      "music": 0.0
+    },
+    {
+      "from": 351.06,
+      "to": 352.7,
+      "sid": 123,
+      "location": 2,
+      "content": "导通时刻对吧",
+      "music": 0.0
+    },
+    {
+      "from": 352.7,
+      "to": 354.56,
+      "sid": 124,
+      "location": 2,
+      "content": "下面我们来看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 354.7,
+      "to": 356.8,
+      "sid": 125,
+      "location": 2,
+      "content": "当t等于零的时候",
+      "music": 0.0
+    },
+    {
+      "from": 356.8,
+      "to": 358.54,
+      "sid": 126,
+      "location": 2,
+      "content": "开关管就导通了啊",
+      "music": 0.0
+    },
+    {
+      "from": 358.54,
+      "to": 360.49,
+      "sid": 127,
+      "location": 2,
+      "content": "给个高电平开关管导通了",
+      "music": 0.0
+    },
+    {
+      "from": 360.49,
+      "to": 366.21,
+      "sid": 128,
+      "location": 2,
+      "content": "那么呢这个电源通过开关管加在圆边的绕组上",
+      "music": 0.0
+    },
+    {
+      "from": 366.21,
+      "to": 367.29,
+      "sid": 129,
+      "location": 2,
+      "content": "通过开关管",
+      "music": 0.0
+    },
+    {
+      "from": 367.29,
+      "to": 368.73,
+      "sid": 130,
+      "location": 2,
+      "content": "这就形成一个闭合回路",
+      "music": 0.0
+    },
+    {
+      "from": 368.73,
+      "to": 370.47,
+      "sid": 131,
+      "location": 2,
+      "content": "加在圆边的绕组上",
+      "music": 0.0
+    },
+    {
+      "from": 370.47,
+      "to": 373.29,
+      "sid": 132,
+      "location": 2,
+      "content": "因此呢这个时候它这个词性是被磁化的",
+      "music": 0.0
+    },
+    {
+      "from": 373.29,
+      "to": 376.96,
+      "sid": 133,
+      "location": 2,
+      "content": "这个词性被磁化的磁性上的磁通有一个增加",
+      "music": 0.0
+    },
+    {
+      "from": 377.9,
+      "to": 379.48,
+      "sid": 134,
+      "location": 2,
+      "content": "有一个增加啊",
+      "music": 0.0
+    },
+    {
+      "from": 379.48,
+      "to": 382.8,
+      "sid": 135,
+      "location": 2,
+      "content": "增加了这里它有一个呃公式",
+      "music": 0.0
+    },
+    {
+      "from": 382.86,
+      "to": 385.68,
+      "sid": 136,
+      "location": 2,
+      "content": "磁通跟时间的一个比值",
+      "music": 0.0
+    },
+    {
+      "from": 385.68,
+      "to": 389.46,
+      "sid": 137,
+      "location": 2,
+      "content": "乘以它的圆边的匝数等于它原边的电压对吧",
+      "music": 0.0
+    },
+    {
+      "from": 391.639,
+      "to": 397.02,
+      "sid": 138,
+      "location": 2,
+      "content": "那么圆边的磁通会在副边上面",
+      "music": 0.0
+    },
+    {
+      "from": 397.02,
+      "to": 399.16,
+      "sid": 139,
+      "location": 2,
+      "content": "感应出一个感应电压来",
+      "music": 0.0
+    },
+    {
+      "from": 399.96,
+      "to": 401.75,
+      "sid": 140,
+      "location": 2,
+      "content": "这是它的同名端",
+      "music": 0.0
+    },
+    {
+      "from": 401.75,
+      "to": 404.3,
+      "sid": 141,
+      "location": 2,
+      "content": "也说这一端是圆边的",
+      "music": 0.0
+    },
+    {
+      "from": 404.3,
+      "to": 406.7,
+      "sid": 142,
+      "location": 2,
+      "content": "正这儿呢也是同名端",
+      "music": 0.0
+    },
+    {
+      "from": 406.7,
+      "to": 409.22,
+      "sid": 143,
+      "location": 2,
+      "content": "而这一端是负面的正感应",
+      "music": 0.0
+    },
+    {
+      "from": 409.22,
+      "to": 411.52,
+      "sid": 144,
+      "location": 2,
+      "content": "这是之前感应的电压对吧",
+      "music": 0.0
+    },
+    {
+      "from": 413.639,
+      "to": 418.26,
+      "sid": 145,
+      "location": 2,
+      "content": "那么圆边是这样子的一个回路",
+      "music": 0.0
+    },
+    {
+      "from": 420.92,
+      "to": 422.8,
+      "sid": 146,
+      "location": 2,
+      "content": "这边是正反应出来的",
+      "music": 0.0
+    },
+    {
+      "from": 422.8,
+      "to": 423.58,
+      "sid": 147,
+      "location": 2,
+      "content": "负边是这样",
+      "music": 0.0
+    },
+    {
+      "from": 423.58,
+      "to": 424.12,
+      "sid": 148,
+      "location": 2,
+      "content": "是正的",
+      "music": 0.0
+    },
+    {
+      "from": 424.12,
+      "to": 428.18,
+      "sid": 149,
+      "location": 2,
+      "content": "这是在t0 到t2 这个阶段",
+      "music": 0.0
+    },
+    {
+      "from": 428.2,
+      "to": 429.34,
+      "sid": 150,
+      "location": 2,
+      "content": "这边是正",
+      "music": 0.0
+    },
+    {
+      "from": 429.34,
+      "to": 430.06,
+      "sid": 151,
+      "location": 2,
+      "content": "这边是正",
+      "music": 0.0
+    },
+    {
+      "from": 430.06,
+      "to": 431.68,
+      "sid": 152,
+      "location": 2,
+      "content": "因为这边它有一个二极管",
+      "music": 0.0
+    },
+    {
+      "from": 431.68,
+      "to": 433.54,
+      "sid": 153,
+      "location": 2,
+      "content": "二极管是有单向导通性的",
+      "music": 0.0
+    },
+    {
+      "from": 433.54,
+      "to": 435.58,
+      "sid": 154,
+      "location": 2,
+      "content": "因此在这个时刻",
+      "music": 0.0
+    },
+    {
+      "from": 435.58,
+      "to": 437.09,
+      "sid": 155,
+      "location": 2,
+      "content": "t0 到t2 时刻",
+      "music": 0.0
+    },
+    {
+      "from": 437.09,
+      "to": 438.92,
+      "sid": 156,
+      "location": 2,
+      "content": "这一点是断开的",
+      "music": 0.0
+    },
+    {
+      "from": 439.72,
+      "to": 441.51,
+      "sid": 157,
+      "location": 2,
+      "content": "这一点是不导通的",
+      "music": 0.0
+    },
+    {
+      "from": 441.51,
+      "to": 443.58,
+      "sid": 158,
+      "location": 2,
+      "content": "那么我的负载是由谁供电呢",
+      "music": 0.0
+    },
+    {
+      "from": 443.58,
+      "to": 446.44,
+      "sid": 159,
+      "location": 2,
+      "content": "由这个负载是由这个",
+      "music": 0.0
+    },
+    {
+      "from": 448.28,
+      "to": 451.04,
+      "sid": 160,
+      "location": 2,
+      "content": "电容器来进行供电的",
+      "music": 0.0
+    },
+    {
+      "from": 456.879,
+      "to": 461.83,
+      "sid": 161,
+      "location": 2,
+      "content": "这个复边开路只有原边绕组工作",
+      "music": 0.0
+    },
+    {
+      "from": 461.83,
+      "to": 464.38,
+      "sid": 162,
+      "location": 2,
+      "content": "那么呢圆边的这个绕组",
+      "music": 0.0
+    },
+    {
+      "from": 464.38,
+      "to": 466.27,
+      "sid": 163,
+      "location": 2,
+      "content": "圆边变压器的原边",
+      "music": 0.0
+    },
+    {
+      "from": 466.27,
+      "to": 470.52,
+      "sid": 164,
+      "location": 2,
+      "content": "就只相当于一个电感量为l一的一个电感",
+      "music": 0.0
+    },
+    {
+      "from": 475.259,
+      "to": 478.459,
+      "sid": 165,
+      "location": 2,
+      "content": "当这个磁通增加到一定的程度的时候",
+      "music": 0.0
+    },
+    {
+      "from": 478.459,
+      "to": 481.099,
+      "sid": 166,
+      "location": 2,
+      "content": "开关管开关断了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 481.099,
+      "to": 483.619,
+      "sid": 167,
+      "location": 2,
+      "content": "那么开关管关断了",
+      "music": 0.0
+    },
+    {
+      "from": 483.619,
+      "to": 486.28,
+      "sid": 168,
+      "location": 2,
+      "content": "圆边就截止了",
+      "music": 0.0
+    },
+    {
+      "from": 487.28,
+      "to": 488.98,
+      "sid": 169,
+      "location": 2,
+      "content": "圆边就开路了",
+      "music": 0.0
+    },
+    {
+      "from": 488.98,
+      "to": 490.24,
+      "sid": 170,
+      "location": 2,
+      "content": "这就开路了",
+      "music": 0.0
+    },
+    {
+      "from": 490.24,
+      "to": 491.26,
+      "sid": 171,
+      "location": 2,
+      "content": "开关管关断了",
+      "music": 0.0
+    },
+    {
+      "from": 491.26,
+      "to": 492.49,
+      "sid": 172,
+      "location": 2,
+      "content": "圆边开路了",
+      "music": 0.0
+    },
+    {
+      "from": 492.49,
+      "to": 496.64,
+      "sid": 173,
+      "location": 2,
+      "content": "那么这个时候副边的感应电动势就反向了",
+      "music": 0.0
+    },
+    {
+      "from": 497.84,
+      "to": 499.07,
+      "sid": 174,
+      "location": 2,
+      "content": "这一段就为负",
+      "music": 0.0
+    },
+    {
+      "from": 499.07,
+      "to": 500.5,
+      "sid": 175,
+      "location": 2,
+      "content": "这段就为正",
+      "music": 0.0
+    },
+    {
+      "from": 501.42,
+      "to": 502.94,
+      "sid": 176,
+      "location": 2,
+      "content": "这端为正的话",
+      "music": 0.0
+    },
+    {
+      "from": 502.94,
+      "to": 504.98,
+      "sid": 177,
+      "location": 2,
+      "content": "这时候二极管就导通了",
+      "music": 0.0
+    },
+    {
+      "from": 504.98,
+      "to": 508.7,
+      "sid": 178,
+      "location": 2,
+      "content": "那么储存在变压器磁场当中的能量",
+      "music": 0.0
+    },
+    {
+      "from": 508.7,
+      "to": 510.71,
+      "sid": 179,
+      "location": 2,
+      "content": "就通过二极管进行释放",
+      "music": 0.0
+    },
+    {
+      "from": 510.71,
+      "to": 513.62,
+      "sid": 180,
+      "location": 2,
+      "content": "一边给这个电容器c充电",
+      "music": 0.0
+    },
+    {
+      "from": 513.62,
+      "to": 515.24,
+      "sid": 181,
+      "location": 2,
+      "content": "一边给负载供电",
+      "music": 0.0
+    },
+    {
+      "from": 517.02,
+      "to": 519.48,
+      "sid": 182,
+      "location": 2,
+      "content": "这时候呢只有副边绕组工作",
+      "music": 0.0
+    },
+    {
+      "from": 519.48,
+      "to": 520.98,
+      "sid": 183,
+      "location": 2,
+      "content": "圆边是开路的",
+      "music": 0.0
+    },
+    {
+      "from": 520.98,
+      "to": 523.74,
+      "sid": 184,
+      "location": 2,
+      "content": "那么这个负面的这个变压器副边",
+      "music": 0.0
+    },
+    {
+      "from": 523.74,
+      "to": 525.42,
+      "sid": 185,
+      "location": 2,
+      "content": "它实际上就相当于一个电感量",
+      "music": 0.0
+    },
+    {
+      "from": 525.42,
+      "to": 527.099,
+      "sid": 186,
+      "location": 2,
+      "content": "为l2 的一个电感",
+      "music": 0.0
+    },
+    {
+      "from": 527.2,
+      "to": 529.18,
+      "sid": 187,
+      "location": 2,
+      "content": "在这个过程当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 529.18,
+      "to": 531.4,
+      "sid": 188,
+      "location": 2,
+      "content": "变压器的磁芯被去除",
+      "music": 0.0
+    },
+    {
+      "from": 531.4,
+      "to": 534.06,
+      "sid": 189,
+      "location": 2,
+      "content": "那么它的这个磁通量f",
+      "music": 0.0
+    },
+    {
+      "from": 536.8,
+      "to": 538.42,
+      "sid": 190,
+      "location": 2,
+      "content": "也线性减小",
+      "music": 0.0
+    },
+    {
+      "from": 545.82,
+      "to": 548.06,
+      "sid": 191,
+      "location": 2,
+      "content": "实际上我们可以想象啊",
+      "music": 0.0
+    },
+    {
+      "from": 548.06,
+      "to": 550.88,
+      "sid": 192,
+      "location": 2,
+      "content": "其实在稳稳态的工作时候",
+      "music": 0.0
+    },
+    {
+      "from": 550.88,
+      "to": 555.1,
+      "sid": 193,
+      "location": 2,
+      "content": "它原边开通圆边开通时",
+      "music": 0.0
+    },
+    {
+      "from": 555.1,
+      "to": 559.57,
+      "sid": 194,
+      "location": 2,
+      "content": "这个磁通量的增长增长值和这个圆边断开",
+      "music": 0.0
+    },
+    {
+      "from": 559.57,
+      "to": 560.98,
+      "sid": 195,
+      "location": 2,
+      "content": "负边开通时",
+      "music": 0.0
+    },
+    {
+      "from": 560.98,
+      "to": 564.44,
+      "sid": 196,
+      "location": 2,
+      "content": "这个磁通量的减少量实际上是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 564.44,
+      "to": 566.84,
+      "sid": 197,
+      "location": 2,
+      "content": "也就是说能量从能量角度来看",
+      "music": 0.0
+    },
+    {
+      "from": 566.84,
+      "to": 570.38,
+      "sid": 198,
+      "location": 2,
+      "content": "是能量从这一端储存在这里边",
+      "music": 0.0
+    },
+    {
+      "from": 570.38,
+      "to": 573.17,
+      "sid": 199,
+      "location": 2,
+      "content": "然后又释放给这一段对吧",
+      "music": 0.0
+    },
+    {
+      "from": 573.17,
+      "to": 575.45,
+      "sid": 200,
+      "location": 2,
+      "content": "把它想象成理想的变压器",
+      "music": 0.0
+    },
+    {
+      "from": 575.45,
+      "to": 578.6,
+      "sid": 201,
+      "location": 2,
+      "content": "没有能量在传递过程中没有能量损耗的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 578.6,
+      "to": 581.729,
+      "sid": 202,
+      "location": 2,
+      "content": "实际上是能量先由它储存在这里边",
+      "music": 0.0
+    },
+    {
+      "from": 581.729,
+      "to": 583.13,
+      "sid": 203,
+      "location": 2,
+      "content": "然后再示范给它",
+      "music": 0.0
+    },
+    {
+      "from": 583.13,
+      "to": 585.89,
+      "sid": 204,
+      "location": 2,
+      "content": "这就是从能量角度来考虑",
+      "music": 0.0
+    },
+    {
+      "from": 585.89,
+      "to": 589.28,
+      "sid": 205,
+      "location": 2,
+      "content": "这个变压器的一个反反激电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 589.28,
+      "to": 590.72,
+      "sid": 206,
+      "location": 2,
+      "content": "变压器的一个工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 590.72,
+      "to": 593.42,
+      "sid": 207,
+      "location": 2,
+      "content": "或者是说反击电路的一个工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 594.6,
+      "to": 596.6,
+      "sid": 208,
+      "location": 2,
+      "content": "那么在这个电路当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 596.6,
+      "to": 600.23,
+      "sid": 209,
+      "location": 2,
+      "content": "实际上最关键的就有几个啊",
+      "music": 0.0
+    },
+    {
+      "from": 600.23,
+      "to": 601.37,
+      "sid": 210,
+      "location": 2,
+      "content": "器件的选型",
+      "music": 0.0
+    },
+    {
+      "from": 601.37,
+      "to": 602.9,
+      "sid": 211,
+      "location": 2,
+      "content": "因为器件比较小嘛",
+      "music": 0.0
+    },
+    {
+      "from": 602.9,
+      "to": 604.49,
+      "sid": 212,
+      "location": 2,
+      "content": "一个是mos管的选型",
+      "music": 0.0
+    },
+    {
+      "from": 604.49,
+      "to": 606.79,
+      "sid": 213,
+      "location": 2,
+      "content": "二极管的选型对吧",
+      "music": 0.0
+    },
+    {
+      "from": 606.79,
+      "to": 611.69,
+      "sid": 214,
+      "location": 2,
+      "content": "最重要的就是这个反激变压器的一个制作",
+      "music": 0.0
+    },
+    {
+      "from": 611.69,
+      "to": 613.82,
+      "sid": 215,
+      "location": 2,
+      "content": "对于反击变压器的绕制",
+      "music": 0.0
+    },
+    {
+      "from": 613.82,
+      "to": 620.16,
+      "sid": 216,
+      "location": 2,
+      "content": "这方面呢实际上给大家推荐一款软件叫mask啊",
+      "music": 0.0
+    },
+    {
+      "from": 620.16,
+      "to": 621.54,
+      "sid": 217,
+      "location": 2,
+      "content": "我这上面应该也有装",
+      "music": 0.0
+    },
+    {
+      "from": 621.54,
+      "to": 623.3,
+      "sid": 218,
+      "location": 2,
+      "content": "给大家开一个看看",
+      "music": 0.0
+    },
+    {
+      "from": 624.46,
+      "to": 628.8,
+      "sid": 219,
+      "location": 2,
+      "content": "mask是非常啊非常好用的一种",
+      "music": 0.0
+    },
+    {
+      "from": 630.12,
+      "to": 633.86,
+      "sid": 220,
+      "location": 2,
+      "content": "是非常好用的一种那个计算软件啊",
+      "music": 0.0
+    },
+    {
+      "from": 633.86,
+      "to": 639.28,
+      "sid": 221,
+      "location": 2,
+      "content": "因为我们在设计的时候就是可以",
+      "music": 0.0
+    },
+    {
+      "from": 642.12,
+      "to": 645.38,
+      "sid": 222,
+      "location": 2,
+      "content": "我们在设计的时候可以用它来进行",
+      "music": 0.0
+    },
+    {
+      "from": 645.38,
+      "to": 648.78,
+      "sid": 223,
+      "location": 2,
+      "content": "那个是进行计算",
+      "music": 0.0
+    },
+    {
+      "from": 648.78,
+      "to": 650.28,
+      "sid": 224,
+      "location": 2,
+      "content": "你随便要改哪个值",
+      "music": 0.0
+    },
+    {
+      "from": 650.28,
+      "to": 653.04,
+      "sid": 225,
+      "location": 2,
+      "content": "然后里边就会按照公式自动的啊",
+      "music": 0.0
+    },
+    {
+      "from": 653.04,
+      "to": 655.37,
+      "sid": 226,
+      "location": 2,
+      "content": "出现你改动这个值的啊",
+      "music": 0.0
+    },
+    {
+      "from": 655.37,
+      "to": 658.579,
+      "sid": 227,
+      "location": 2,
+      "content": "相应的变化不用你一个值一个值得再去计算",
+      "music": 0.0
+    },
+    {
+      "from": 661.92,
+      "to": 666.98,
+      "sid": 228,
+      "location": 2,
+      "content": "首先呢我们在设计这个反激变压器的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 666.98,
+      "to": 674.08,
+      "sid": 229,
+      "location": 2,
+      "content": "呃有几个首先要了解几几个需要知道的知识点",
+      "music": 0.0
+    },
+    {
+      "from": 674.08,
+      "to": 677.68,
+      "sid": 230,
+      "location": 2,
+      "content": "首先我们在绕至这个反击变压器的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 677.68,
+      "to": 681.129,
+      "sid": 231,
+      "location": 2,
+      "content": "首先你要知道他会选择磁吸对吧",
+      "music": 0.0
+    },
+    {
+      "from": 681.129,
+      "to": 686.38,
+      "sid": 232,
+      "location": 2,
+      "content": "所以说你要在你的那个给大家看一下",
+      "music": 0.0
+    },
+    {
+      "from": 686.38,
+      "to": 689.76,
+      "sid": 233,
+      "location": 2,
+      "content": "大家可以回头在网上搜一下这些资料",
+      "music": 0.0
+    },
+    {
+      "from": 691.62,
+      "to": 692.7,
+      "sid": 234,
+      "location": 2,
+      "content": "稍等啊",
+      "music": 0.0
+    },
+    {
+      "from": 692.7,
+      "to": 696.42,
+      "sid": 235,
+      "location": 2,
+      "content": "就是你首先要知道就是你要用什么样的词性",
+      "music": 0.0
+    },
+    {
+      "from": 696.42,
+      "to": 699.91,
+      "sid": 236,
+      "location": 2,
+      "content": "你首先要对自己设计的这个变压器有一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 699.91,
+      "to": 700.81,
+      "sid": 237,
+      "location": 2,
+      "content": "充分的了解",
+      "music": 0.0
+    },
+    {
+      "from": 700.81,
+      "to": 703.09,
+      "sid": 238,
+      "location": 2,
+      "content": "你要设计一个什么样的变压器",
+      "music": 0.0
+    },
+    {
+      "from": 703.09,
+      "to": 705.52,
+      "sid": 239,
+      "location": 2,
+      "content": "它所能承载的功率是多少",
+      "music": 0.0
+    },
+    {
+      "from": 705.52,
+      "to": 707.89,
+      "sid": 240,
+      "location": 2,
+      "content": "这个变压器的输入电压是多少",
+      "music": 0.0
+    },
+    {
+      "from": 707.89,
+      "to": 709.73,
+      "sid": 241,
+      "location": 2,
+      "content": "是什么样的范围啊",
+      "music": 0.0
+    },
+    {
+      "from": 709.73,
+      "to": 711.53,
+      "sid": 242,
+      "location": 2,
+      "content": "它能承载的功率是多少",
+      "music": 0.0
+    },
+    {
+      "from": 711.53,
+      "to": 714.5,
+      "sid": 243,
+      "location": 2,
+      "content": "它输出几路输出电流是多大",
+      "music": 0.0
+    },
+    {
+      "from": 714.5,
+      "to": 716.219,
+      "sid": 244,
+      "location": 2,
+      "content": "输出电压是多大",
+      "music": 0.0
+    },
+    {
+      "from": 717.38,
+      "to": 721.42,
+      "sid": 245,
+      "location": 2,
+      "content": "这就是我们那个变压器设计之前",
+      "music": 0.0
+    },
+    {
+      "from": 721.42,
+      "to": 723.939,
+      "sid": 246,
+      "location": 2,
+      "content": "你心中所要做的一个规划",
+      "music": 0.0
+    },
+    {
+      "from": 724.0,
+      "to": 727.54,
+      "sid": 247,
+      "location": 2,
+      "content": "然后呢就是变压器在设计的过程当中",
+      "music": 0.0
+    },
+    {
+      "from": 727.54,
+      "to": 729.82,
+      "sid": 248,
+      "location": 2,
+      "content": "你要对几个部件进行选择",
+      "music": 0.0
+    },
+    {
+      "from": 729.82,
+      "to": 734.94,
+      "sid": 249,
+      "location": 2,
+      "content": "比如说你要对它的一个词心词心做选择",
+      "music": 0.0
+    },
+    {
+      "from": 734.94,
+      "to": 736.08,
+      "sid": 250,
+      "location": 2,
+      "content": "你是用e e的",
+      "music": 0.0
+    },
+    {
+      "from": 736.08,
+      "to": 737.29,
+      "sid": 251,
+      "location": 2,
+      "content": "e f d的",
+      "music": 0.0
+    },
+    {
+      "from": 737.29,
+      "to": 739.39,
+      "sid": 252,
+      "location": 2,
+      "content": "还是什么样的磁性啊",
+      "music": 0.0
+    },
+    {
+      "from": 739.39,
+      "to": 740.77,
+      "sid": 253,
+      "location": 2,
+      "content": "要对这个做一下选择",
+      "music": 0.0
+    },
+    {
+      "from": 740.77,
+      "to": 743.47,
+      "sid": 254,
+      "location": 2,
+      "content": "当然这个选择是跟你的功率有关系的",
+      "music": 0.0
+    },
+    {
+      "from": 743.47,
+      "to": 746.279,
+      "sid": 255,
+      "location": 2,
+      "content": "也跟你在变压器的啊",
+      "music": 0.0
+    },
+    {
+      "from": 746.279,
+      "to": 749.13,
+      "sid": 256,
+      "location": 2,
+      "content": "绕至计算当中的参数是有关系的",
+      "music": 0.0
+    },
+    {
+      "from": 749.13,
+      "to": 751.77,
+      "sid": 257,
+      "location": 2,
+      "content": "其次你还要选择它的骨架对吧",
+      "music": 0.0
+    },
+    {
+      "from": 751.77,
+      "to": 754.11,
+      "sid": 258,
+      "location": 2,
+      "content": "然后再者还有他的那个气包线",
+      "music": 0.0
+    },
+    {
+      "from": 754.11,
+      "to": 758.72,
+      "sid": 259,
+      "location": 2,
+      "content": "绕制的七包线线径是多大的啊",
+      "music": 0.0
+    },
+    {
+      "from": 758.72,
+      "to": 760.91,
+      "sid": 260,
+      "location": 2,
+      "content": "最终是用什么样的绕制方法",
+      "music": 0.0
+    },
+    {
+      "from": 760.91,
+      "to": 762.68,
+      "sid": 261,
+      "location": 2,
+      "content": "这个都是非常有讲究的",
+      "music": 0.0
+    },
+    {
+      "from": 762.68,
+      "to": 765.68,
+      "sid": 262,
+      "location": 2,
+      "content": "对于这个变压器的它的这个技呃",
+      "music": 0.0
+    },
+    {
+      "from": 765.68,
+      "to": 769.12,
+      "sid": 263,
+      "location": 2,
+      "content": "如果说你要呃在这儿展开讲",
+      "music": 0.0
+    },
+    {
+      "from": 769.12,
+      "to": 770.77,
+      "sid": 264,
+      "location": 2,
+      "content": "这个变压器的设计啊",
+      "music": 0.0
+    },
+    {
+      "from": 770.77,
+      "to": 773.56,
+      "sid": 265,
+      "location": 2,
+      "content": "实际上它就是一个独立的学科了",
+      "music": 0.0
+    },
+    {
+      "from": 773.56,
+      "to": 776.41,
+      "sid": 266,
+      "location": 2,
+      "content": "对于我们在变压器设计当中呃",
+      "music": 0.0
+    },
+    {
+      "from": 776.41,
+      "to": 779.03,
+      "sid": 267,
+      "location": 2,
+      "content": "变压器就是设计厂家呀",
+      "music": 0.0
+    },
+    {
+      "from": 779.03,
+      "to": 780.65,
+      "sid": 268,
+      "location": 2,
+      "content": "对于一些变压器的设计",
+      "music": 0.0
+    },
+    {
+      "from": 780.65,
+      "to": 784.55,
+      "sid": 269,
+      "location": 2,
+      "content": "人家是有一个专门的这种设计人员来做的",
+      "music": 0.0
+    },
+    {
+      "from": 784.55,
+      "to": 788.07,
+      "sid": 270,
+      "location": 2,
+      "content": "我们在在我们的那个电路设计当中",
+      "music": 0.0
+    },
+    {
+      "from": 788.07,
+      "to": 791.88,
+      "sid": 271,
+      "location": 2,
+      "content": "我们如果说呃用少批量的变压器",
+      "music": 0.0
+    },
+    {
+      "from": 791.88,
+      "to": 793.02,
+      "sid": 272,
+      "location": 2,
+      "content": "在一开始的时候",
+      "music": 0.0
+    },
+    {
+      "from": 793.02,
+      "to": 796.579,
+      "sid": 273,
+      "location": 2,
+      "content": "我们是需要自己来绕着变压器先来调试电路的",
+      "music": 0.0
+    },
+    {
+      "from": 797.58,
+      "to": 801.44,
+      "sid": 274,
+      "location": 2,
+      "content": "呃本来是想给大家找一下",
+      "music": 0.0
+    },
+    {
+      "from": 801.44,
+      "to": 802.479,
+      "sid": 275,
+      "location": 2,
+      "content": "我看看啊",
+      "music": 0.0
+    },
+    {
+      "from": 809.58,
+      "to": 812.42,
+      "sid": 276,
+      "location": 2,
+      "content": "对于这些词心",
+      "music": 0.0
+    },
+    {
+      "from": 812.7,
+      "to": 816.56,
+      "sid": 277,
+      "location": 2,
+      "content": "大家可以攒那个网上找一下",
+      "music": 0.0
+    },
+    {
+      "from": 816.56,
+      "to": 818.48,
+      "sid": 278,
+      "location": 2,
+      "content": "这个词心的这个资料",
+      "music": 0.0
+    },
+    {
+      "from": 818.48,
+      "to": 822.099,
+      "sid": 279,
+      "location": 2,
+      "content": "有一个专门的表格来供大家来",
+      "music": 0.0
+    },
+    {
+      "from": 823.88,
+      "to": 826.39,
+      "sid": 280,
+      "location": 2,
+      "content": "找看这种这种资料",
+      "music": 0.0
+    },
+    {
+      "from": 826.39,
+      "to": 830.63,
+      "sid": 281,
+      "location": 2,
+      "content": "上面会给你提示各种磁芯的一个规格参数",
+      "music": 0.0
+    },
+    {
+      "from": 830.63,
+      "to": 832.49,
+      "sid": 282,
+      "location": 2,
+      "content": "像这种词性哈",
+      "music": 0.0
+    },
+    {
+      "from": 832.49,
+      "to": 834.77,
+      "sid": 283,
+      "location": 2,
+      "content": "就是它都是定死的",
+      "music": 0.0
+    },
+    {
+      "from": 834.77,
+      "to": 838.86,
+      "sid": 284,
+      "location": 2,
+      "content": "比如说你要用1120或者是1125的词性",
+      "music": 0.0
+    },
+    {
+      "from": 838.86,
+      "to": 842.25,
+      "sid": 285,
+      "location": 2,
+      "content": "你就会在这种表格当中查到它的尺寸",
+      "music": 0.0
+    },
+    {
+      "from": 842.25,
+      "to": 845.12,
+      "sid": 286,
+      "location": 2,
+      "content": "从而计算它的窗口面积之类的",
+      "music": 0.0
+    },
+    {
+      "from": 845.12,
+      "to": 847.16,
+      "sid": 287,
+      "location": 2,
+      "content": "然后还有一种表格",
+      "music": 0.0
+    },
+    {
+      "from": 847.16,
+      "to": 849.75,
+      "sid": 288,
+      "location": 2,
+      "content": "大家也可以磁性参数对照表",
+      "music": 0.0
+    },
+    {
+      "from": 849.75,
+      "to": 850.53,
+      "sid": 289,
+      "location": 2,
+      "content": "这种呢",
+      "music": 0.0
+    },
+    {
+      "from": 850.53,
+      "to": 854.37,
+      "sid": 290,
+      "location": 2,
+      "content": "就是给了大家一个大略计算的一个窗口面积",
+      "music": 0.0
+    },
+    {
+      "from": 854.37,
+      "to": 856.53,
+      "sid": 291,
+      "location": 2,
+      "content": "可以在大家在粗略进行",
+      "music": 0.0
+    },
+    {
+      "from": 856.53,
+      "to": 859.779,
+      "sid": 292,
+      "location": 2,
+      "content": "你看给了大家一个大略的一个窗口面积",
+      "music": 0.0
+    },
+    {
+      "from": 859.779,
+      "to": 864.079,
+      "sid": 293,
+      "location": 2,
+      "content": "可以在大家粗略进行选择磁性的时候",
+      "music": 0.0
+    },
+    {
+      "from": 864.34,
+      "to": 865.78,
+      "sid": 294,
+      "location": 2,
+      "content": "可以根据你啊",
+      "music": 0.0
+    },
+    {
+      "from": 865.78,
+      "to": 867.1,
+      "sid": 295,
+      "location": 2,
+      "content": "我计算出来了",
+      "music": 0.0
+    },
+    {
+      "from": 867.1,
+      "to": 869.199,
+      "sid": 296,
+      "location": 2,
+      "content": "我要等一个窗口面积",
+      "music": 0.0
+    },
+    {
+      "from": 869.46,
+      "to": 871.08,
+      "sid": 297,
+      "location": 2,
+      "content": "先选定某一个",
+      "music": 0.0
+    },
+    {
+      "from": 871.08,
+      "to": 873.12,
+      "sid": 298,
+      "location": 2,
+      "content": "比如说我计算窗口面积是某一个值",
+      "music": 0.0
+    },
+    {
+      "from": 873.12,
+      "to": 874.75,
+      "sid": 299,
+      "location": 2,
+      "content": "然后先选定某一个值",
+      "music": 0.0
+    },
+    {
+      "from": 874.75,
+      "to": 878.23,
+      "sid": 300,
+      "location": 2,
+      "content": "然后再详细的去核实他是不是这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 878.23,
+      "to": 879.73,
+      "sid": 301,
+      "location": 2,
+      "content": "当然在这个表格当中",
+      "music": 0.0
+    },
+    {
+      "from": 879.73,
+      "to": 883.27,
+      "sid": 302,
+      "location": 2,
+      "content": "有些把这个配合的股价也都讲出来了",
+      "music": 0.0
+    },
+    {
+      "from": 883.27,
+      "to": 887.42,
+      "sid": 303,
+      "location": 2,
+      "content": "因为它下面会有不同的不同形式的词性的一个",
+      "music": 0.0
+    },
+    {
+      "from": 887.42,
+      "to": 889.28,
+      "sid": 304,
+      "location": 2,
+      "content": "对照对照方式",
+      "music": 0.0
+    },
+    {
+      "from": 889.28,
+      "to": 891.68,
+      "sid": 305,
+      "location": 2,
+      "content": "还有的呢就会网上还会有一些",
+      "music": 0.0
+    },
+    {
+      "from": 891.68,
+      "to": 895.88,
+      "sid": 306,
+      "location": 2,
+      "content": "专门的功率和磁芯型号的一些对照的表格",
+      "music": 0.0
+    },
+    {
+      "from": 895.88,
+      "to": 898.42,
+      "sid": 307,
+      "location": 2,
+      "content": "大家也可以去查一下",
+      "music": 0.0
+    },
+    {
+      "from": 898.42,
+      "to": 903.02,
+      "sid": 308,
+      "location": 2,
+      "content": "另外呢可以大家下载一些漆包线的规格",
+      "music": 0.0
+    },
+    {
+      "from": 903.02,
+      "to": 904.52,
+      "sid": 309,
+      "location": 2,
+      "content": "当你计算出来的时候",
+      "music": 0.0
+    },
+    {
+      "from": 904.52,
+      "to": 908.87,
+      "sid": 310,
+      "location": 2,
+      "content": "你要绕制的这个气泡线的规格有多粗",
+      "music": 0.0
+    },
+    {
+      "from": 908.87,
+      "to": 910.37,
+      "sid": 311,
+      "location": 2,
+      "content": "线径的这个呢",
+      "music": 0.0
+    },
+    {
+      "from": 910.37,
+      "to": 913.19,
+      "sid": 312,
+      "location": 2,
+      "content": "大家也要下载一些这个气包线的规格",
+      "music": 0.0
+    },
+    {
+      "from": 913.19,
+      "to": 915.32,
+      "sid": 313,
+      "location": 2,
+      "content": "一共自己在绕制的时候",
+      "music": 0.0
+    },
+    {
+      "from": 915.32,
+      "to": 917.64,
+      "sid": 314,
+      "location": 2,
+      "content": "进行气包线的选择和参考",
+      "music": 0.0
+    },
+    {
+      "from": 918.74,
+      "to": 922.24,
+      "sid": 315,
+      "location": 2,
+      "content": "在接下来呢我们就是要进行这个啊",
+      "music": 0.0
+    },
+    {
+      "from": 922.24,
+      "to": 924.52,
+      "sid": 316,
+      "location": 2,
+      "content": "变压器的设计的计算",
+      "music": 0.0
+    },
+    {
+      "from": 924.52,
+      "to": 929.11,
+      "sid": 317,
+      "location": 2,
+      "content": "首先呢我们要根据在变压器的这个计算的时候",
+      "music": 0.0
+    },
+    {
+      "from": 929.11,
+      "to": 930.31,
+      "sid": 318,
+      "location": 2,
+      "content": "有几个重要的事项",
+      "music": 0.0
+    },
+    {
+      "from": 930.31,
+      "to": 931.57,
+      "sid": 319,
+      "location": 2,
+      "content": "首先要确定啊",
+      "music": 0.0
+    },
+    {
+      "from": 931.57,
+      "to": 932.71,
+      "sid": 320,
+      "location": 2,
+      "content": "这个刚才已经说了",
+      "music": 0.0
+    },
+    {
+      "from": 932.71,
+      "to": 934.54,
+      "sid": 321,
+      "location": 2,
+      "content": "确定输入的电压范围",
+      "music": 0.0
+    },
+    {
+      "from": 934.54,
+      "to": 938.98,
+      "sid": 322,
+      "location": 2,
+      "content": "我们在这个在这个计算当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 938.98,
+      "to": 942.34,
+      "sid": 323,
+      "location": 2,
+      "content": "要要根据最小的输入电压进行计算",
+      "music": 0.0
+    },
+    {
+      "from": 942.34,
+      "to": 946.66,
+      "sid": 324,
+      "location": 2,
+      "content": "因为我们知道在这个反击电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 946.66,
+      "to": 950.08,
+      "sid": 325,
+      "location": 2,
+      "content": "是当我的电压最小的时候的占空比是最大的",
+      "music": 0.0
+    },
+    {
+      "from": 950.08,
+      "to": 953.78,
+      "sid": 326,
+      "location": 2,
+      "content": "因此我们的最糟糕的情况应该是最小电压",
+      "music": 0.0
+    },
+    {
+      "from": 953.78,
+      "to": 954.9,
+      "sid": 327,
+      "location": 2,
+      "content": "输入的情况",
+      "music": 0.0
+    },
+    {
+      "from": 954.9,
+      "to": 957.9,
+      "sid": 328,
+      "location": 2,
+      "content": "所以说呢要按照最小输入电压来计算",
+      "music": 0.0
+    },
+    {
+      "from": 957.9,
+      "to": 961.59,
+      "sid": 329,
+      "location": 2,
+      "content": "整个的这个嗯整个的这个流程",
+      "music": 0.0
+    },
+    {
+      "from": 961.59,
+      "to": 964.23,
+      "sid": 330,
+      "location": 2,
+      "content": "第二个呢要确定输出的功率",
+      "music": 0.0
+    },
+    {
+      "from": 964.23,
+      "to": 966.56,
+      "sid": 331,
+      "location": 2,
+      "content": "电路的效效率",
+      "music": 0.0
+    },
+    {
+      "from": 966.56,
+      "to": 967.22,
+      "sid": 332,
+      "location": 2,
+      "content": "占空比",
+      "music": 0.0
+    },
+    {
+      "from": 967.22,
+      "to": 968.24,
+      "sid": 333,
+      "location": 2,
+      "content": "开关频率",
+      "music": 0.0
+    },
+    {
+      "from": 968.24,
+      "to": 971.0,
+      "sid": 334,
+      "location": 2,
+      "content": "开关频率呢跟我们选择的开关管",
+      "music": 0.0
+    },
+    {
+      "from": 971.0,
+      "to": 973.5,
+      "sid": 335,
+      "location": 2,
+      "content": "以及我们整体电路的设计有关系",
+      "music": 0.0
+    },
+    {
+      "from": 973.5,
+      "to": 975.96,
+      "sid": 336,
+      "location": 2,
+      "content": "第三个呢就是磁芯以及词啊",
+      "music": 0.0
+    },
+    {
+      "from": 975.96,
+      "to": 977.46,
+      "sid": 337,
+      "location": 2,
+      "content": "气包线的一个选型手册",
+      "music": 0.0
+    },
+    {
+      "from": 977.46,
+      "to": 980.0,
+      "sid": 338,
+      "location": 2,
+      "content": "刚才给大家已经说到了嗯",
+      "music": 0.0
+    },
+    {
+      "from": 980.0,
+      "to": 982.9,
+      "sid": 339,
+      "location": 2,
+      "content": "再者呢就是主要的一个计算公式",
+      "music": 0.0
+    },
+    {
+      "from": 983.8,
+      "to": 987.12,
+      "sid": 340,
+      "location": 2,
+      "content": "主要的计算公式呢有几个啊",
+      "music": 0.0
+    },
+    {
+      "from": 987.12,
+      "to": 990.78,
+      "sid": 341,
+      "location": 2,
+      "content": "比如说这个计算窗口面积选磁芯",
+      "music": 0.0
+    },
+    {
+      "from": 990.78,
+      "to": 992.84,
+      "sid": 342,
+      "location": 2,
+      "content": "这是窗口面积的一个计算公式",
+      "music": 0.0
+    },
+    {
+      "from": 992.84,
+      "to": 996.02,
+      "sid": 343,
+      "location": 2,
+      "content": "还有计算原边副边匝数",
+      "music": 0.0
+    },
+    {
+      "from": 996.02,
+      "to": 996.92,
+      "sid": 344,
+      "location": 2,
+      "content": "原边匝数",
+      "music": 0.0
+    },
+    {
+      "from": 996.92,
+      "to": 997.73,
+      "sid": 345,
+      "location": 2,
+      "content": "电感量",
+      "music": 0.0
+    },
+    {
+      "from": 997.73,
+      "to": 999.719,
+      "sid": 346,
+      "location": 2,
+      "content": "计算气息计算",
+      "music": 0.0
+    },
+    {
+      "from": 1000.68,
+      "to": 1002.98,
+      "sid": 347,
+      "location": 2,
+      "content": "最后呢还有计算电流密度",
+      "music": 0.0
+    },
+    {
+      "from": 1002.98,
+      "to": 1004.36,
+      "sid": 348,
+      "location": 2,
+      "content": "通过电流密度呢",
+      "music": 0.0
+    },
+    {
+      "from": 1004.36,
+      "to": 1006.52,
+      "sid": 349,
+      "location": 2,
+      "content": "明确副边的输出电流是多少",
+      "music": 0.0
+    },
+    {
+      "from": 1006.52,
+      "to": 1009.79,
+      "sid": 350,
+      "location": 2,
+      "content": "然后根据占空比计算出负面的最大电流呀",
+      "music": 0.0
+    },
+    {
+      "from": 1009.79,
+      "to": 1011.08,
+      "sid": 351,
+      "location": 2,
+      "content": "电流密度呀",
+      "music": 0.0
+    },
+    {
+      "from": 1011.08,
+      "to": 1013.99,
+      "sid": 352,
+      "location": 2,
+      "content": "算出算出气包线的截面积",
+      "music": 0.0
+    },
+    {
+      "from": 1013.99,
+      "to": 1017.16,
+      "sid": 353,
+      "location": 2,
+      "content": "需要脊骨并绕绕几圈啊",
+      "music": 0.0
+    },
+    {
+      "from": 1018.38,
+      "to": 1020.56,
+      "sid": 354,
+      "location": 2,
+      "content": "我们还要考虑集肤效应",
+      "music": 0.0
+    },
+    {
+      "from": 1020.56,
+      "to": 1024.52,
+      "sid": 355,
+      "location": 2,
+      "content": "然后看一下最终的设计是否符合集肤效应",
+      "music": 0.0
+    },
+    {
+      "from": 1025.64,
+      "to": 1028.72,
+      "sid": 356,
+      "location": 2,
+      "content": "这个吧其实没有办法给大家讲",
+      "music": 0.0
+    },
+    {
+      "from": 1028.72,
+      "to": 1031.33,
+      "sid": 357,
+      "location": 2,
+      "content": "因为他是一个纯计算的东西",
+      "music": 0.0
+    },
+    {
+      "from": 1031.33,
+      "to": 1034.72,
+      "sid": 358,
+      "location": 2,
+      "content": "大家可以就是在我们之前讲解的",
+      "music": 0.0
+    },
+    {
+      "from": 1034.72,
+      "to": 1039.72,
+      "sid": 359,
+      "location": 2,
+      "content": "这些变压器的主要原理及应用当中了解了之后",
+      "music": 0.0
+    },
+    {
+      "from": 1039.72,
+      "to": 1044.71,
+      "sid": 360,
+      "location": 2,
+      "content": "然后呢根据我所讲的这个步骤",
+      "music": 0.0
+    },
+    {
+      "from": 1044.71,
+      "to": 1049.44,
+      "sid": 361,
+      "location": 2,
+      "content": "然后大家先就是在在设计当中",
+      "music": 0.0
+    },
+    {
+      "from": 1049.44,
+      "to": 1051.6,
+      "sid": 362,
+      "location": 2,
+      "content": "先把该明确的明确了之后",
+      "music": 0.0
+    },
+    {
+      "from": 1051.6,
+      "to": 1054.51,
+      "sid": 363,
+      "location": 2,
+      "content": "根据这些公式来一步一步的计算",
+      "music": 0.0
+    },
+    {
+      "from": 1054.51,
+      "to": 1056.09,
+      "sid": 364,
+      "location": 2,
+      "content": "到最后算出来",
+      "music": 0.0
+    },
+    {
+      "from": 1056.09,
+      "to": 1056.96,
+      "sid": 365,
+      "location": 2,
+      "content": "算出来",
+      "music": 0.0
+    },
+    {
+      "from": 1056.96,
+      "to": 1061.28,
+      "sid": 366,
+      "location": 2,
+      "content": "算出来之后呢啊查一下一般是用三明治绕法啊",
+      "music": 0.0
+    },
+    {
+      "from": 1061.28,
+      "to": 1062.09,
+      "sid": 367,
+      "location": 2,
+      "content": "绕几层",
+      "music": 0.0
+    },
+    {
+      "from": 1062.09,
+      "to": 1064.31,
+      "sid": 368,
+      "location": 2,
+      "content": "每一层是怎么绕制的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1064.31,
+      "to": 1066.2,
+      "sid": 369,
+      "location": 2,
+      "content": "这样给出给出厂家",
+      "music": 0.0
+    },
+    {
+      "from": 1066.2,
+      "to": 1070.98,
+      "sid": 370,
+      "location": 2,
+      "content": "或者是自己通过那个那个绕线机",
+      "music": 0.0
+    },
+    {
+      "from": 1070.98,
+      "to": 1072.84,
+      "sid": 371,
+      "location": 2,
+      "content": "绕线机去绕制啊",
+      "music": 0.0
+    },
+    {
+      "from": 1072.84,
+      "to": 1074.97,
+      "sid": 372,
+      "location": 2,
+      "content": "做出一个变压器来",
+      "music": 0.0
+    },
+    {
+      "from": 1074.97,
+      "to": 1078.02,
+      "sid": 373,
+      "location": 2,
+      "content": "那么给大家还是留一个",
+      "music": 0.0
+    },
+    {
+      "from": 1078.02,
+      "to": 1080.24,
+      "sid": 374,
+      "location": 2,
+      "content": "稍微简单一点的思考题嘛",
+      "music": 0.0
+    },
+    {
+      "from": 1080.24,
+      "to": 1083.25,
+      "sid": 375,
+      "location": 2,
+      "content": "就是嗯找一个变压器其实是不难的",
+      "music": 0.0
+    },
+    {
+      "from": 1083.25,
+      "to": 1085.71,
+      "sid": 376,
+      "location": 2,
+      "content": "对于反击变压器应该是不难找的",
+      "music": 0.0
+    },
+    {
+      "from": 1085.71,
+      "to": 1089.16,
+      "sid": 377,
+      "location": 2,
+      "content": "但是有一些变压器变压器在制作当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 1089.16,
+      "to": 1091.56,
+      "sid": 378,
+      "location": 2,
+      "content": "像我们刚才看到的这种变压器",
+      "music": 0.0
+    },
+    {
+      "from": 1092.82,
+      "to": 1096.47,
+      "sid": 379,
+      "location": 2,
+      "content": "这种变压器它会在同名端有一个白色的点",
+      "music": 0.0
+    },
+    {
+      "from": 1096.47,
+      "to": 1098.12,
+      "sid": 380,
+      "location": 2,
+      "content": "或者是有一个标志啊",
+      "music": 0.0
+    },
+    {
+      "from": 1098.12,
+      "to": 1100.1,
+      "sid": 381,
+      "location": 2,
+      "content": "告诉你这是不是同名端",
+      "music": 0.0
+    },
+    {
+      "from": 1100.1,
+      "to": 1100.46,
+      "sid": 382,
+      "location": 2,
+      "content": "在",
+      "music": 0.0
+    },
+    {
+      "from": 1100.46,
+      "to": 1105.51,
+      "sid": 383,
+      "location": 2,
+      "content": "它会在一个在那个一第一个引角有一个标志啊",
+      "music": 0.0
+    },
+    {
+      "from": 1105.51,
+      "to": 1107.49,
+      "sid": 384,
+      "location": 2,
+      "content": "就告诉你这是第一演讲",
+      "music": 0.0
+    },
+    {
+      "from": 1107.49,
+      "to": 1109.37,
+      "sid": 385,
+      "location": 2,
+      "content": "然后但有的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 1109.37,
+      "to": 1112.67,
+      "sid": 386,
+      "location": 2,
+      "content": "嗯如果说你没有拿到这个变压器的data",
+      "music": 0.0
+    },
+    {
+      "from": 1112.67,
+      "to": 1115.52,
+      "sid": 387,
+      "location": 2,
+      "content": "或者是说你不知道没用过这个变压器",
+      "music": 0.0
+    },
+    {
+      "from": 1115.52,
+      "to": 1116.9,
+      "sid": 388,
+      "location": 2,
+      "content": "变别人绕着的变压器",
+      "music": 0.0
+    },
+    {
+      "from": 1116.9,
+      "to": 1119.199,
+      "sid": 389,
+      "location": 2,
+      "content": "需要你去确认一下同名端",
+      "music": 0.0
+    },
+    {
+      "from": 1119.199,
+      "to": 1122.019,
+      "sid": 390,
+      "location": 2,
+      "content": "这个时候的反击变压器是不能接入到电路当中",
+      "music": 0.0
+    },
+    {
+      "from": 1122.019,
+      "to": 1122.679,
+      "sid": 391,
+      "location": 2,
+      "content": "直接用的",
+      "music": 0.0
+    },
+    {
+      "from": 1122.679,
+      "to": 1123.579,
+      "sid": 392,
+      "location": 2,
+      "content": "需要你确认",
+      "music": 0.0
+    },
+    {
+      "from": 1123.579,
+      "to": 1125.68,
+      "sid": 393,
+      "location": 2,
+      "content": "这个时候你怎么确认呢",
+      "music": 0.0
+    },
+    {
+      "from": 1126.82,
+      "to": 1129.24,
+      "sid": 394,
+      "location": 2,
+      "content": "给大家出一个这样的思考题",
+      "music": 0.0
+    },
+    {
+      "from": 1129.24,
+      "to": 1130.85,
+      "sid": 395,
+      "location": 2,
+      "content": "大家思考一下",
+      "music": 0.0
+    },
+    {
+      "from": 1130.85,
+      "to": 1132.65,
+      "sid": 396,
+      "location": 2,
+      "content": "实际上呢变压器说到底",
+      "music": 0.0
+    },
+    {
+      "from": 1132.65,
+      "to": 1135.53,
+      "sid": 397,
+      "location": 2,
+      "content": "我们归类归类到电感提高篇",
+      "music": 0.0
+    },
+    {
+      "from": 1135.53,
+      "to": 1137.21,
+      "sid": 398,
+      "location": 2,
+      "content": "它的本质还是一个电感",
+      "music": 0.0
+    },
+    {
+      "from": 1137.21,
+      "to": 1140.82,
+      "sid": 399,
+      "location": 2,
+      "content": "包括我们刚才在讲这个反接电路的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1140.82,
+      "to": 1144.61,
+      "sid": 400,
+      "location": 2,
+      "content": "他在啊开通或者是关断的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1144.61,
+      "to": 1148.09,
+      "sid": 401,
+      "location": 2,
+      "content": "就原边或者是就负边单个电路来讲",
+      "music": 0.0
+    },
+    {
+      "from": 1148.09,
+      "to": 1150.26,
+      "sid": 402,
+      "location": 2,
+      "content": "它的本质还是一个电感对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1150.5,
+      "to": 1154.04,
+      "sid": 403,
+      "location": 2,
+      "content": "所以说你在确认变压器同名端的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1154.04,
+      "to": 1157.28,
+      "sid": 404,
+      "location": 2,
+      "content": "你还是要从电感的角度去考虑它",
+      "music": 0.0
+    },
+    {
+      "from": 1157.28,
+      "to": 1162.129,
+      "sid": 405,
+      "location": 2,
+      "content": "比如说啊它原边输入端的两个眼角",
+      "music": 0.0
+    },
+    {
+      "from": 1162.129,
+      "to": 1163.989,
+      "sid": 406,
+      "location": 2,
+      "content": "这个电感是非常容易确认的",
+      "music": 0.0
+    },
+    {
+      "from": 1163.989,
+      "to": 1165.79,
+      "sid": 407,
+      "location": 2,
+      "content": "但是你到副边啊",
+      "music": 0.0
+    },
+    {
+      "from": 1165.79,
+      "to": 1168.79,
+      "sid": 408,
+      "location": 2,
+      "content": "怎么确定腹边的某一个引脚跟圆边是同名端的",
+      "music": 0.0
+    },
+    {
+      "from": 1168.79,
+      "to": 1172.86,
+      "sid": 409,
+      "location": 2,
+      "content": "你可以把圆边和腹边的电杆进行串并联",
+      "music": 0.0
+    },
+    {
+      "from": 1172.86,
+      "to": 1176.52,
+      "sid": 410,
+      "location": 2,
+      "content": "然后看一下它的电感知识变大了变小了",
+      "music": 0.0
+    },
+    {
+      "from": 1176.52,
+      "to": 1180.48,
+      "sid": 411,
+      "location": 2,
+      "content": "从而确认它的同名端是哪两个啊",
+      "music": 0.0
+    },
+    {
+      "from": 1180.48,
+      "to": 1183.27,
+      "sid": 412,
+      "location": 2,
+      "content": "给大家这个小提示应该够可以了",
+      "music": 0.0
+    },
+    {
+      "from": 1183.27,
+      "to": 1187.44,
+      "sid": 413,
+      "location": 2,
+      "content": "然后大家下去自己去用那个电感表",
+      "music": 0.0
+    },
+    {
+      "from": 1187.44,
+      "to": 1189.139,
+      "sid": 414,
+      "location": 2,
+      "content": "或者是用电桥",
+      "music": 0.0
+    },
+    {
+      "from": 1189.139,
+      "to": 1190.669,
+      "sid": 415,
+      "location": 2,
+      "content": "然后实际测一下",
+      "music": 0.0
+    },
+    {
+      "from": 1190.669,
+      "to": 1194.57,
+      "sid": 416,
+      "location": 2,
+      "content": "或者是你找一个已经标记好同名端的变压器",
+      "music": 0.0
+    },
+    {
+      "from": 1194.57,
+      "to": 1197.76,
+      "sid": 417,
+      "location": 2,
+      "content": "来实际的验证一下",
+      "music": 0.0
+    },
+    {
+      "from": 1198.78,
+      "to": 1202.5,
+      "sid": 418,
+      "location": 2,
+      "content": "这就是我们这节课讲的变压器的一些知识",
+      "music": 0.0
+    }
+  ]
+}
